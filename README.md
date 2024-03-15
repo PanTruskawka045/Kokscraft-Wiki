@@ -1,6 +1,6 @@
 # Zasady ogólne
 
-1. Pamiętaj o ortigrafii
+1. Pamiętaj o ortografii
 2. Używaj polskich znaków
 3. Pamiętaj o interpunkcji
 4. Nie edytuj plików w folderze `Administracyjne`
