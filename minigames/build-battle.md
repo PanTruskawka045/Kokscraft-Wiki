@@ -68,3 +68,5 @@ KOOKS! (Żółta Glina)
 ## Koniec Gry
 
 Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły pierwsze, drugie i trzecie miejsce w grze, zarazem pokazując budowle, która wygrała.
+
+![Wygrana](/assets/buildbattle/build-battle-wygrana.png)
