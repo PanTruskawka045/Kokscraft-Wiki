@@ -6,7 +6,7 @@ Tryb dla najbardziej doświadczonych graczy minecraft. Zdobywaj itemy, a potem w
 
 Jest to czas na twoje uzbrojenie, wykorzystaj go jak najlepiej. Tym lepsze itemy zdobędziesz tym większa szansa na wygraną!
 
-![Zmniejszenie bariery Włączenie Pvp](/assets/uhc/zmniejszenie-granicy-czas-do-pvp)
+![Zmniejszenie granicy i czasu do pvp](/assets/uhc/zmniejszenie-granicy-i-czasu-do-pvp.png)
 
 ## Zamknięcie Netheru
 
@@ -35,7 +35,7 @@ Jeśli tutaj trafiłeś, możesz być z siebie dumny. To ostatni etap rozgrywki.
 
 ## Monety
 
-Monety to waluta specjalna dla trybu UHC. Otrzymujesz monety za poszczególne elementy rozgrywki -
+Monety to waluta specjalna dla trybu UHC. Otrzymujesz monety za poszczególne elementy rozgrywki:
 
 | Wydarzenie | Ilość monet | 
 |------------|-------------|
@@ -56,8 +56,4 @@ To miejsce, w którym wybierasz dwa rodzaje rozgrywki:
 - Drop z rud
 - Drop ze stone
 
-
-
 ![Głosowanie na tryb rozgrywki](/assets/uhc/głosowanie-na-tryb-rozgrywki.png)
-
-
