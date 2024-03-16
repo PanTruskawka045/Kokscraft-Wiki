@@ -25,7 +25,7 @@ Od teraz każdy gracz znajduję się na mapie a nether został zamknięty, walcz
 
 Do tego etapu trafiają tylko najlepsi. Pamiętaj, zwycięzca jest tylko jeden!
 
-![Deathmatch](/assets/uhc/Deathmatch.png)
+![Deathmatch](/assets/uhc/deathmatch.png)
 
 ## Koniec Gry
 
@@ -56,4 +56,4 @@ To miejsce, w którym wybierasz dwa rodzaje rozgrywki:
 - Drop z rud
 - Drop ze stone
 
-![Głosowanie na tryb rozgrywki](/assets/uhc/głosowanie-na-tryb-rozgrywki.png)
+![Głosowanie na tryb rozgrywki](/assets/uhc/glosowanie-na-tryb-rozgrywki.png)
