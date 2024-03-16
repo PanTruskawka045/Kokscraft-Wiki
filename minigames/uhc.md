@@ -6,7 +6,7 @@ Tryb dla najbardziej doświadczonych graczy minecraft. Zdobywaj itemy, a potem w
 
 Jest to czas na twoje uzbrojenie, wykorzystaj go jak najlepiej. Tym lepsze itemy zdobędziesz tym większa szansa na wygraną!
 
-![Zmniejszenie bariery,Włączenie Pvp](/assets/uhc/zmniejszenie-granicy-czas-do-pvp)
+![Zmniejszenie bariery Włączenie Pvp](/assets/uhc/zmniejszenie-granicy-czas-do-pvp)
 
 ## Zamknięcie Netheru
 
