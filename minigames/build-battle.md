@@ -26,9 +26,7 @@ Temat z największą liczbą głosów zostaje wybrany do wybudowania.
 Faza Budowania, główny moment rozgrywki w którym trzeba wybudować wybrany temat przez graczy na działce, w ograniczonym czasie.
 
 ## Temat i Czas Budowania
-Temat i czas są zawsze wyświetlane na scoreboard.
-
-![Czas i Temat]
+Temat i czas są wyświetlane na scoreboardzie.
 
 ## Wymiary Działki
 Gra solo - 27x27x25
