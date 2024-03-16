@@ -28,15 +28,17 @@ Faza Budowania, główny moment rozgrywki w którym trzeba wybudować wybrany te
 ## Temat i Czas Budowania
 Temat i czas są wyświetlane na scoreboardzie.
 
+![Scoreboard](/assets/buildbattle/build-battle-temat-i-czas.png)
+
+Czas na Budowle Gra Solo - 4:40
+
+Czas na Budowle Gra Duo - 7:40
+
 ## Wymiary Działki
 Gra solo - 27x27x25
 
 Gra duo - 40x40x35
 
-## Czas Budowania
-Czas na Budowle Gra Solo - 4:40
-
-Czas na Budowle Gra Duo - 7:40
 
 ## Opcje działki
 W opcjach działki możesz postawić nowych NPC, zamienić podłogę na Twojej działce lub nawet wziąć sobie przedmioty dekoracyjne!
@@ -65,6 +67,4 @@ KOOKS! (Żółta Glina)
 
 ## Koniec Gry
 
-Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły pierwsze, drugie i trzecie miejsce w grze.
-
-![Wynik Koncowy](/assets/buildbattle/build-battle-koniec-gry.png)
+Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły pierwsze, drugie i trzecie miejsce w grze, zarazem pokazując budowle, która wygrała.
