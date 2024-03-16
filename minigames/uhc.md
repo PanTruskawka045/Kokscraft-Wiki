@@ -1,6 +1,16 @@
 # UHC - UltraHardcore
 
+
 Tryb dla najbardziej doświadczonych graczy minecraft. Zdobywaj itemy, a potem walcz z innymi graczami na mapie. Uwaga na przygotowania masz tylko 10 minut!
+
+## Harmonogram Gry
+
+|          Etap gry          | Czas trwania |
+|----------------------------|--------------|
+|    Czas do włączenia PvP   |   10 minut   |
+| Czas do zamknięcia netheru |    5 minut   |
+|     Czas do deathmatchu    |   15 minut   |
+|      Czas do końca gry     |    7 minut   |
 
 ## Zmniejszenie bariery, Włączenie PvP
 
