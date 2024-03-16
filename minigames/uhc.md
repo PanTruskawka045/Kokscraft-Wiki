@@ -37,10 +37,11 @@ Jeśli tutaj trafiłeś, możesz być z siebie dumny. To ostatni etap rozgrywki.
 
 Monety to waluta specjalna dla trybu UHC. Otrzymujesz monety za poszczególne elementy rozgrywki -
 
-| **1**   | **2**   | **3**   | 
-|---------|---------|---------|
-| CZAS GRY      | ZABÓJSTWO    | WYGRANA       | 
-|    x  | 75      | 750       | 
+| Wydarzenie | Ilość monet | 
+|------------|-------------|
+|  Czas gry  |      ?      |   
+|  Zabójstwo |      75     |   
+|   Wygrana  |     750     |   
 
 ## Ulepszenia
 
@@ -50,11 +51,12 @@ Ulepszenia, to miejsce, w którym możesz wykorzystać monety. Po otwarciu menu 
 
 ## Głosowanie na tryb rozgrywki.
 
-To miejsce, w którym wybierasz dwa rodzaje rozgrywki
+To miejsce, w którym wybierasz dwa rodzaje rozgrywki:
 
-| **1**   | **2**   | 
-|---------|---------|
-| Drop z rud       | Drop z kamienia      |
+- Drop z rud
+- Drop ze stone
+
+
 
 ![Głosowanie na tryb rozgrywki](/assets/uhc/głosowanie-na-tryb-rozgrywki.png)
 
