@@ -1,4 +1,4 @@
-**# UHC - UltraHardcore**
+# UHC - UltraHardcore
 
 Tryb dla najbardziej doświadczonych graczy minecraft. Zdobywaj itemy a potem walcz z innymi graczami na mapie. Uwaga na przygotowania masz tylko 10 minut!
 
