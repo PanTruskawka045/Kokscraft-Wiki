@@ -39,7 +39,8 @@ Monety to waluta specjalna dla trybu UHC. Otrzymujesz monety za poszczególne el
 
 | **1**   | **2**   | **3**   | 
 |---------|---------|---------|
-| czas gry       | zabójstwo       | wygrana       | 
+| CZAS GRY      | ZABÓJSTWO    | WYGRANA       | 
+|    x  | 75      | 750       | 
 
 ## Ulepszenia
 
