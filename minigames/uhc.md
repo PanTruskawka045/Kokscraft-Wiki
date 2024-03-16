@@ -47,7 +47,7 @@ Monety to waluta specjalna dla trybu UHC. Otrzymujesz monety za poszczególne el
 
 Ulepszenia, to miejsce, w którym możesz wykorzystać monety. Po otwarciu menu ulepszeń wybierz, które przepisy są dla ciebie najważniejsze.
 
-![Ulepszenia](/assets/uhc/sklep.png)
+![Ulepszenia](/assets/uhc/ulepszenia-poprawne.png)
 
 ## Głosowanie na tryb rozgrywki.
 
