@@ -19,11 +19,13 @@ Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /isla
 
 Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą **/generatorshop**. Istnieje 11 poziomów generatorów oraz 3 poziomy tieru, czym lepszy - tym generuje więcej pieniędzy. Generatory na wyspie kładziesz według własnego uznania, lecz maksymalna ich ilość na jednej wyspie to **25**! Ilość jaką możesz postawić również trzeba kupić pod komendą /menu **->** Ulepszenia wyspy.
 
+![generatory](/assets/genblock/sklep.generatory.png)
+
 Istnieje możliwość wylosowania specjalnego przedmiotu dodającego +1/2/3 slota/y na generatory, możliwość taka jest w skrzynkach: Rzadkiej, Epickiej oraz Legendarnej.
 
 Dużym ułatwieniem dla osób korzystających z generatorów jest **Samo - sprzedająca skrzynka**. Zakupić ją można pod komendą **/sklep** w zakładce "Przedmioty specjalne". **Jak to działa?** Itemy które zostaną wsadzone do skrzynki (ręcznie bądź hopperem) zostaną automatycznie sprzedane! Jedyne co trzeb zrobić, to wchodząc w skrzynke, wypłacić jej zarobki!
 
-![generatory](/assets/genblock/sklep.generatory.png)
+![skrzynka-samo-sprzedajaca](/assets/genblock/skrzynka-samo.png)
 
 
 **Warto wiedzieć!** Generatory można ulepszać! Co to oznacza? Jeśli kupisz np. **Generator Poziom 6 Tier 2**, klikając na niego ppm masz możliwość dopłacenia różnicy wartości pomiędzy **Generator Poziom 6 Tier 2** a **Generator Poziom 6 Tier 3** bez wydawania większej ilości pieniędzy na nowy generator!
@@ -107,6 +109,20 @@ Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za 
 
 Im lepsze plony zbierasz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Farmer**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu motyki który pokazuje się w jej nazwie!
 
+## **SKRZYNKI**
+
+Na trybie istnieje **5** skrzynek: **Startowa, Rzadka, Epicka, Legendarna oraz Skrzynia AFK**. Jak je otworzyć?
+
+**Rzadka** = Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca**, można go kupić na stronie **https://kokscraft.pl/sklep/klucze/genblock** oraz wydropić w reszcie dostępnych skrzynek.
+
+**Epicka** =  Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca** TYLKO DLA OSÓB Z RANGĄ SVIP+! można go kupić na stronie **https://kokscraft.pl/sklep/klucze/genblock** oraz wydropić w skrzynce reszcie dostępnych skrzynek.
+
+**Legendarna** = Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca** TYLKO DLA OSÓB Z RANGĄ MVIP! można go kupić na stronie **https://kokscraft.pl/sklep/klucze/genblock** oraz wydropić w skrzynce **Epickiej.**
+
+**Skrzynia AFK** = Klucz do niej jest do zdobycia tylko w **strefie AFK!**
+
+![punkty](/assets/genblock/skrzynki.png)
+
 ## **STREFA AFK**
 Co to takiego? To miejsce do odpoczynku, czyli tzw. afczenia gdzie przebywając zgarniasz **Klucze do skrzyni AFK!** Którą następnie możesz otworzyć, zdobywając nagrody.
 
@@ -131,6 +147,8 @@ W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrz
 ## **PUNKTY WYSPY**
 Oblicz punkty swojej wyspy używając komendy **/oblicz-punkty**. Ile punktów daje dany blok sprawdzisz pod komendą **/punkty**!
 Topka wysp znajduję się na /warp hub.
+
+![punkty](/assets/genblock/punkty.png)
 
 ## **RYNEK**
 Drogocenne przedmioty możesz wystawiać na rynek, a inni gracze mogą je kupić! Jak to zrobić?
