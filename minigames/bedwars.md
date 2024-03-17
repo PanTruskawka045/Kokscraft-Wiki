@@ -61,16 +61,16 @@ Generator Szmaragdów - Posiada 3 poziomy które ulepszają się wraz z biegiem 
 # Sklep
 Podczas rozgrywki gracz ma do dyspozycji sklep w którym może zakupić niezbędne rzeczy potrzebne do wygrania areny. 
 
-## bloki 
-Pomogą w ochronie twojego łóżka. Będziesz mógł użyć ich do przedostania się na sąsiedznie wyspy. Niektóre posiadają specjalne własciwości: 
+## Bloki 
+Pomogą w ochronie twojego łóżka. Będziesz mógł użyć ich do przedostania się na sąsiednie wyspy. Niektóre posiadają specjalne własciwości: 
 - szkło: jest odporne na wybuchy tnt oraz fireballi
 - endstone: jest odporny na wybuchy fireballi
  
-|**welna**|**glina**|**szklo**|**kamien kresu**|**drabina**|**deski**| **obsydian**|
+|**wełna**|**glina**|**szkło**|**kamien kresu**|**drabina**|**deski**| **obsydian**|
 |---------|---------|---------|---------|---------|---------|---------|
 | 4 żelaza| 12 żelaza| 12 żelaza| 24 żelaza| 4 żelaza| 4 złota | 4 szmaragdy | 
 
-## bronie
+## Bronie
 Niezbędne w walce z przeciwnikami.
 |**kamienny miecz**|**zelazny miecz**|**diamentowy miecz**|**patyk (odrzut I)**|
 |---------|---------|---------|---------|
@@ -147,7 +147,7 @@ Pułapki:
 3. Alarm - 1 diament -  Powiadomi twoją drużynę gdy wróg wkroczy na twoją wyspę oraz usunie mu efekt niewidzialności
 4. Powolne kopanie - 1 diament - Nada efekt powolnego kopania przeciwnikowi gdy wkroczy na twoją wyspę
 
-W jednym momencie maksymalnie mogą być użyte 3 różne rodzaje pułapek. Pierwsza pułapka kosztuje 1 diament, następna 2 diamenty, trzecia kostuje 4 diamenty.
+W jednym momencie maksymalnie mogą być użyte 3 różne rodzaje pułapek. Pierwsza pułapka kosztuje 1 diament, następna 2 diamenty, trzecia kosztuje 4 diamenty.
 
 ![ulepszenia](/assets/bedwars/ulepszenia.png)
 ## Ranking 
@@ -155,7 +155,7 @@ Graj na BedWars i zdobywaj rangę, która odpowiada twoim umiejętnością. Rang
 ![ranking](/assets/bedwars/ranking.png)
 ## StatTrack
 
-StarTrack pozwala na liczenie statystyk takich jak Zniszczone Łóżka i Finall Kille. Statystyki beda wyswietlać się na czacie! Koszt zakupu wynosi 1000kc. StatTrack można włączyć lub wyłączyć. Posiada dwa różne tryby wyświetlania - statystyki ogólnie i sezonowe.
+StarTrack pozwala na liczenie statystyk takich jak Zniszczone Łóżka i Finall Kille. Statystyki będą wyswietlać się na czacie! Koszt zakupu wynosi 1000kc. StatTrack można włączyć lub wyłączyć. Posiada dwa różne tryby wyświetlania - statystyki ogólnie i sezonowe.
 ![stattrack](/assets/bedwars/StatTrack.png)
 ## Statystyki
 
@@ -163,7 +163,7 @@ Możesz sprwadzić swoje statystyki trybowe.
 - Wygrane: Łączne wygrane na trybie BedWars
 - Przegrane: Łączne przegrane na trybie BedWars
 - Zabicia: Łączne zabicia na trybie BedWars
-- Zniszczone łóżka: Łączne zniszczone łóżna na trybie BedWars
+- Zniszczone łóżka: Łączne zniszczone łóżka na trybie BedWars
 - Win ratio: procent wygranych gier liczony po rozegraniu 250 gier.
 - K/D ratio: Kill Death Ratio - zabójstwa / finalne śmierci
 - Winstreak: Ilość wygranych aren z rzędu.
@@ -179,7 +179,7 @@ Na trybie posiadamy trzy rodzaje topek: **BedWars, BedWars Duels, Klanowe**. Top
 ![topki klanowe](/assets/bedwars/topki2.png)
 ## Karnety
 
-Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**. Pozwola on zdobyć **unikalne addony, vouchery na rangi, rubiny oraz kokscoiny**. Za każdy poziom karnetu jest inna wyjątkowa nagroda. W karnecie dostpęnych jest aż **30 poziomów**. Osoby z aktywnym karnetem mają mnożnik **125%** do niego. 
+Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**. Pozwola on zdobyć **unikalne addony, vouchery na rangi, rubiny oraz kokscoiny**. Za każdy poziom karnetu jest inna wyjątkowa nagroda. W karnecie dostępnych jest aż **30 poziomów**. Osoby z aktywnym karnetem mają mnożnik **125%** do niego. 
 Karnet BedWars można kupić za **kokscoiny**. Aby kupić karnet musisz kliknąć na niego **lewym przyciskiem myszy**. Aby odpalić podgląd karnetu kliknij na niego ** prawym przyciskiem myszy**.
 ![karnet](/assets/bedwars/karnet-cena.png)
 ## Kosmetyki  
