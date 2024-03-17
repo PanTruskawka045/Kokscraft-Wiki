@@ -6,7 +6,7 @@ Kalambury jest to tryb, w którym rozwiniesz swoją wyobraźnię oraz pokażesz 
 
 Na arenę może dołączyć maksymalnie 9 osób. Gra rozpoczyna się w momencie, gdy zostaniesz przeniesiony na arenę. Jeden z graczy wybiera jeden z trzech tematów. Gdy Ty albo inny gracz odgadnie hasło, czas się skraca.  
 
-![Zgadnięcie hasła](/assets/guess-the-build/Zgadnięcie-hasła.png) 
+![Zgadnięcie hasła]() 
 
 Gdy zostałeś wybrany do budowania (kolejność jest losowa) pojawi ci się gui z trzema karteczkami. Kierując na nie kursor myszki, pojawiają ci się tematy do wyboru. Na wybór tematu masz 10 sekund. 
 
@@ -25,7 +25,7 @@ Jednak kiedy zgadujesz temat, obserwuj uważnie budowle, jak i podane litery nad
 
 Gracz z największą ilością punktów wygrywa.
 
-![wygrana](/assets/guess-the-build/wygrana.png)
+![wygrana]()
 
 Bloki jakie można użyć podczas rozgrywki, są przystosowane do maksymalnej wersji Minecraft 1.8.
 
