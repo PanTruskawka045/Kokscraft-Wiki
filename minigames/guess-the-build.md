@@ -19,9 +19,11 @@ Jednak kiedy zgadujesz temat, obserwuj uważnie budowle, jak i podane litery nad
 
 Gracz z największą ilością punktów wygrywa. 
 
+Bloki jakie można użyć podczas rozgrywki, są przystosowane do maksymalnej wersji Minecraft 1.8.
+
 
 ## Porady w rozgrywce:
 
-Staraj się szybko i sprawnie `wybudować temat/odgadnąć hasło` 
+Staraj się szybko i sprawnie wybudować temat/odgadnąć hasło
 
 Zwracaj dużą uwagę na budowle oraz niżej podane litery.
