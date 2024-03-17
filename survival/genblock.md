@@ -69,6 +69,8 @@ Aby ulepszyć daną rzecz należy udać się do odpowiedniego **NPC**, czyli aby
 
 Na **każde** ulepszenie trzeba spełniać dane wymagania, czym wyższy poziom, tym wyższe wymagania!
 
+![ulepszenia](/assets/genblock/ulepsz.png)
+
 ## **ENCHANTY**
 
 Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w farmieniu, szczęście w wydobywaniu, szczęście w kopaniu** posiadają trzy poziomy. Aby zenchantować na wyższy poziom trzeba posiadać więcej biblioteczek i większy lvl.
