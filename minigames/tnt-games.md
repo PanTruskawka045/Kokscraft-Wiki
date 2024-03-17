@@ -48,4 +48,10 @@ Berek do łatwiejszego złapania również otrzymuje efekt speedu 2, którego uc
 
 ## Co Robi Uciekający
 
-Uciekający musi starać się nie zostać złapanym, ale w momencie gdy osoba zostanie złapana musi od razu starać się oddać TNT innej osobie. 
+Uciekający musi starać się nie zostać złapanym, poprzez ciągłe uciekanie lub schowanie się przed berkiem, ale w momencie gdy osoba zostanie złapana musi od razu starać się oddać TNT innej osobie, żeby nie odpaść z rundy.
+
+![Berek 2](/assets/tntgames/tnt-tag-Untitled_video_-_Made_with_Clipchamp_3.gif)
+
+## Dodatki Dla Uciekającego
+
+Uciekającemu nad paskiem życia pokazują się odległości jak blisko jest berek.
