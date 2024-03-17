@@ -8,24 +8,24 @@
 
 |   Zestaw    |   Cena   |
 |:-----------:|:--------:|
-| Sprinter    |  25 000  |
-| Medyk       |  15 000  |
-| Zwiadowca   |  15 000  |
-| Skoczek     |  15 000  |
-| Rybak       |  15 000  |
-| Truciciel   |  15 000  |
-| Wiedźma     |  15 000  |
+|  Sprinter   |  25 000  |
+|    Medyk    |  15 000  |
+|  Zwiadowca  |  15 000  |
+|   Skoczek   |  15 000  |
+|    Rybak    |  15 000  |
+|  Truciciel  |  15 000  |
+|   Wiedźma   |  15 000  |
 | Spowalniacz |  15 000  |
-| Osłabiacz   |  15 000  |
-| Wojownik    |  15 000  |
-| Ślepiec     |  15 000  |
-| Rzeźnik     |   7 500  |
-| Kadet       |   7 500  |
+|  Osłabiacz  |  15 000  |
+|  Wojownik   |  15 000  |
+|   Ślepiec   |  15 000  |
+|   Rzeźnik   |  7 500   |
+|    Kadet    |  7 500   |
 | Zbrojmistrz |  15 000  |
-| Szermierz   |  15 000  |
-| Szop        |   7 500  |
-| Leśnik      |   7 500  |
-| Piroman     |  15 000  |
+|  Szermierz  |  15 000  |
+|    Szop     |  7 500   |
+|   Leśnik    |  7 500   |
+|   Piroman   |  15 000  |
 | Pirotechnik |  15 000  |
 | Astronauta  |  15 000  |
 
@@ -41,7 +41,7 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 |        Czas        |      Wydarzenie      |
 |:------------------:|:--------------------:|
-| 1 minuta 30 sekund |  Odnowienie skrzynek |
+| 1 minuta 30 sekund | Odnowienie skrzynek  |
 | 2 minuta 30 sekund | Zmniejszanie borderu |
-|      4 minuta      |  Odnowienie skrzynek |
-| 6 minuta 30 sekund |        Zagłada       |
+|      4 minuta      | Odnowienie skrzynek  |
+| 6 minuta 30 sekund |       Zagłada        |
