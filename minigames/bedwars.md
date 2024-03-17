@@ -77,7 +77,7 @@ Niezbędne w walce z przeciwnikami.
 | 10 żelaza | 7 złota | 4 szmaragdy | 5 złota |
 
 ## zbroje
-Ochorni ciebie przed wrogami. 
+Ochorni cię przed wrogami. 
 |**Stała Kolczuga**|**Stała Żelazna Zbroja**|**Stała Diamentowa Zbroja**|
 |---------|---------|---------|
 | 40 żelaza | 12 złota | 6 szmaragdów | 
@@ -107,7 +107,7 @@ Zaatakuj przeciwnika z zaskoczenia.
 |1 szmaragd|1 szmaragd|2 szmaragdy|
 
 ## Inne
-Różne inne przydatne przedmioty do walki. Oprócz klasycznych przedmiotów występują również te tylko dla bedwarsów
+Różne inne przydatne przedmioty do walki. Oprócz klasycznych przedmiotów, występują inne, dostępne tylko na BedWarsch
 - Rybik cukrowy: żyje 15 sekund, po rzuceniu w gracza zadaje mu obrażenia.
 - kula ognia: inaczej fireball, lecący pocisk prosto w gracza. Niszczy mosty i obudowę łóżka.
 - automatyczny most: może osiągnąć długość nawet prawie 25 bloków! Most o szerokości 3 bloków pojawia się po rzuceniu jajka. 
@@ -120,7 +120,7 @@ Różne inne przydatne przedmioty do walki. Oprócz klasycznych przedmiotów wys
 
 ![sklep](/assets/bedwars/sklep.png)
 # Modyfikator sklepu:
-Po zakupie modyfikatora sklepu będziesz miał możliwość ustawienia ekwipunku według własnych potrzeb. Pozwoli ci to przyśpieszyć kupowanie przedmiotów. Koszt modyfikatora sklepu wynosi 1099 KoksCoinów lub 23999 Rubinów.  Aby przpisać przedmiot do głównej trony trzeba należy kliknąć w przedmiot za pomocą SHIFT + PPM, następnej kliknąć w pusty slot.
+Po zakupie modyfikatora sklepu będziesz miał możliwość ustawienia ekwipunku według własnych potrzeb. Pozwoli ci to przyśpieszyć kupowanie przedmiotów. Koszt modyfikatora sklepu wynosi 1099 KoksCoinów lub 23999 Rubinów. Aby przpisać przedmiot do głównej strony należy kliknąć w przedmiot za pomocą SHIFT + PPM, następnej kliknąć w pusty slot.
 
 ![modyfikator](/assets/bedwars/modyfikator1.png)
 ## Ulepszenia
@@ -132,7 +132,7 @@ Podczas rozgrywki możesz zakupić różne ulepszenia, które pomogą wygrać ar
 - ochrona II - 4 diamenty
 - ochrona III - 8 diamentów 
 - ochrona IV - 16 diamentów 
-3. szybkie kopanie - Daje efekt szybkiego kopania na stałe dla twojej drużyny
+3. Szybkie kopanie - Daje efekt szybkiego kopania na stałe dla twojej drużyny
 - Szybkie Kopanie I - 2 diamenty 
 - Szybkie Kopanie II - 4 diamenty 
 4. Generatory - Ulepsza generatory na twojej wyspie. 
@@ -155,17 +155,17 @@ Graj na BedWars i zdobywaj rangę, która odpowiada twoim umiejętnością. Rang
 ![ranking](/assets/bedwars/ranking.png)
 ## StatTrack
 
-StarTrack pozwala na liczenie statystyk takich jak Zniszczone Łóżka i Finall Kille. Statystyki będą wyswietlać się na czacie! Koszt zakupu wynosi 1000kc. StatTrack można włączyć lub wyłączyć. Posiada dwa różne tryby wyświetlania - statystyki ogólnie i sezonowe.
+StarTrack pozwala na liczenie statystyk takich jak Zniszczone Łóżka i Finall Kille. Statystyki będą wyswietlać się na czacie! Koszt zakupu wynosi 1000kc. Stattrack można aktywować oraz dezaktywować w zaleznosci od potrzeb. Posiada dwa różne tryby wyświetlania - statystyki ogólnie i sezonowe.
 ![stattrack](/assets/bedwars/StatTrack.png)
 ## Statystyki
 
 Możesz sprwadzić swoje statystyki trybowe.
-- Wygrane: Łączne wygrane na trybie BedWars
-- Przegrane: Łączne przegrane na trybie BedWars
-- Zabicia: Łączne zabicia na trybie BedWars
-- Zniszczone łóżka: Łączne zniszczone łóżka na trybie BedWars
+- Wygrane: Łączne wygrane na trybie BedWars.
+- Przegrane: Łączne przegrane na trybie BedWars.
+- Zabicia: Łączne zabicia na trybie BedWars.
+- Zniszczone łóżka: Łączne zniszczone łóżka na trybie BedWars.
 - Win ratio: procent wygranych gier liczony po rozegraniu 250 gier.
-- K/D ratio: Kill Death Ratio - zabójstwa / finalne śmierci
+- K/D ratio: Kill Death Ratio - zabójstwa / finalne śmierci.
 - Winstreak: Ilość wygranych aren z rzędu.
 ![statystyki](/assets/bedwars/statystyki.png)
 ## Topki 
@@ -180,7 +180,7 @@ Na trybie posiadamy trzy rodzaje topek: **BedWars, BedWars Duels, Klanowe**. Top
 ## Karnety
 
 Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**. Pozwola on zdobyć **unikalne addony, vouchery na rangi, rubiny oraz kokscoiny**. Za każdy poziom karnetu jest inna wyjątkowa nagroda. W karnecie dostępnych jest aż **30 poziomów**. Osoby z aktywnym karnetem mają mnożnik **125%** do niego. 
-Karnet BedWars można kupić za **kokscoiny**. Aby kupić karnet musisz kliknąć na niego **lewym przyciskiem myszy**. Aby odpalić podgląd karnetu kliknij na niego ** prawym przyciskiem myszy**.
+Karnet BedWars można kupić za **kokscoiny**. Aby kupić karnet musisz kliknąć na niego **lewym przyciskiem myszy**. Aby odpalić podgląd karnetu kliknij na niego **prawym przyciskiem myszy**.
 ![karnet](/assets/bedwars/karnet-cena.png)
 ## Kosmetyki  
 
