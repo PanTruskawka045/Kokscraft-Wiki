@@ -52,6 +52,11 @@ Uciekający musi starać się nie zostać złapanym, poprzez ciągłe uciekanie 
 
 ![Berek 2](/assets/tntgames/tnt-tag-Untitled_video_-_Made_with_Clipchamp_3.gif)
 
-## Dodatki Dla Uciekającego
+## Komunikatu pomagające
 
 Uciekającemu nad paskiem życia pokazują się odległości jak blisko jest berek.
+
+![Odleglosc](/assets/tntgames/tnt-tag-odleglosc.png)
+
+W momencie kiedy zostaniesz złapany pokazuję się komunikat "Zostales otagowany"
+
