@@ -16,12 +16,19 @@ Wszystkim graczom zostanie wyświetlona ta sama struktura na wyspie o wymiarach 
 
 ## W Czasie Budowania
 
- Po rozpoczęciu rozgrywki gracze otrzymają dokładną liczbę potrzebnych bloków na jej odtworzenie w ekwipunku. Po upłynięciu czas, wszyscy gracze zostaną przełączeni do trybu widza. 
+ Po rozpoczęciu rozgrywki gracze otrzymają dokładną liczbę potrzebnych bloków na jej odtworzenie w ekwipunku. Po upłynięciu czasu, wszyscy gracze zostaną przełączeni do trybu widza. 
 
- ## Po Skończeniu Się Czasu Na Budowanie
+ ## Dodatki Do Łatwiejszego Budowania
+ Gracze mają do wykorzystania "Podwójny skok". Sprawi to że wyskoczysz w powietrze, co umożliwi dostanie się na górę budowli.
+
+ ## Po Skończeniu Się Czasu Na Wybudowanie
 
  Wtedy na środku pojawia się poprawnie zrobiona struktura. Wither skanuje każdą wyspę i wyświetla na ekranie gracza wynik w procentach. Po chwili Wither wybierze najmniej celną konstrukcję, powodując jej zniszczenie.
 
  ![Destrukcja Wyspy](/assets/speedbuilders/speedbuilders-zniszczenie.gif)
 
- W przypadku, gdy wszyscy gracze zbudują idealnie budowę, pojawia się zdanie: “Wszyscy zbudowali poprawnie” wtedy runda zakończy się bez eliminacji.
+ W przypadku, gdy wszyscy gracze zbudują idealnie budowle, pojawia się zdanie: “Wszyscy zbudowali poprawnie” wtedy runda zakończy się bez eliminacji.
+
+ ![Perfect](/assets/speedbuilders/speedbuilders-nikt-nie-odpada.png)
+
+ Wygra Osoba, która jako ostatnia zostanie na mapie. 
