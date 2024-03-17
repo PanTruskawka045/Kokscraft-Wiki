@@ -4,7 +4,12 @@ Stwórz własną wyspę i zainwestuj w farmę generatorów, które będą dla Ci
 
 ## **JAK ZACZĄĆ?**
 
-Od razu po wejściu na tryb na ekranie wyświetli się samouczek odnośnie trybu. Po przeteleportowaniu na huba trybu udaj się do **[NPC] Farmera** który zaopatrzy Cię w Twój pierwszy item - drewnianą motykę. Po tym udaj się na farmę i zacznij od zbierania pszenicy, a następnie sprzedaj ją aby Twój stan konta się zwiększył. Możesz użyć komendy **/autosell** aby zaoszczędzić czas.
+Od razu po wejściu na tryb na ekranie wyświetli się samouczek odnośnie trybu. Po przeteleportowaniu na huba trybu udaj się do **[NPC] Farmera** który zaopatrzy Cię w Twój pierwszy item - drewnianą motykę. Po tym udaj się na farmę i zacznij od zbierania pszenicy, a następnie sprzedaj ją aby Twój stan konta się zwiększył. Możesz użyć komendy **/autosell** aby zaoszczędzić czas. 
+
+Inne metody sprzedaży to: 
+
+Masowa sprzedaż którą znajdziemy pod komendą **/menu** ukrytą pod "diamentem",
+Skup, który znajdziemy pod komendą **/menu** ukryty pod "kartką papieru". Gdy włączysz sprzedawanie, kliknij w item w ekwipunku aby go sprzedać. Sprzedać możesz tylko wybrane przedmioty, które mają w opisie informacje na temat ceny.
 
 ![farmer](/assets/genblock/farmerr.png)
 
@@ -25,11 +30,13 @@ Jest możliwość **tworzenia nowych profili** (bez usuwania starych) w celu gry
 
 **Zarządzanie aktualnym profilem:** /profil -> prawy przycisk myszy na aktualny profil -> Zmień kolor profilu/Dodaj graczy do wyspy/Usuń profil.
 
+**UWAGA! Usunięcie profilu jest czynnością nieodwracalną!**
+
 ![generatory](/assets/genblock/profill.png)
 
 ## **GENERATORY**
 
-Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą **/generatorshop**. Istnieje 11 poziomów generatorów oraz 3 poziomy tieru, czym lepszy - tym generuje więcej pieniędzy. Generatory na wyspie kładziesz według własnego uznania, lecz maksymalna ich ilość na jednej wyspie to **25**! Ilość jaką możesz postawić również trzeba kupić pod komendą /menu **->** Ulepszenia wyspy.
+Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą **/generatorshop**. Istnieje 11 poziomów generatorów oraz 3 poziomy tieru, czym lepszy - tym generuje więcej pieniędzy. Generatory na wyspie kładziesz według własnego uznania, lecz maksymalna ich ilość na jednej wyspie to **25**! Ilość jaką możesz postawić również trzeba kupić pod komendą /menu **->** Ulepszenia wyspy. **UWAGA!** Aby generator wytwarzał monety, ktoś musi znajdować się w ich pobliżu.
 
 ![generatory](/assets/genblock/sklep.generatory.png)
 
@@ -48,6 +55,56 @@ Aby móc zbierać itemy za pomocą wszystkich narządzi, czyli: **motyki, kilofa
 
 ![podstawowe-itemy](/assets/genblock/eq.png)
 
+## **JAK ULEPSZYĆ DANE NARZĘDZIE?**
+
+Aby ulepszyć daną rzecz należy udać się do odpowiedniego **NPC**, czyli aby ulepszyć:
+
+**Motykę**, trzeba iść do Farmera -> **/warp Farma**
+
+**Siekierę,** trzeba iść do Drwala, -> **/warp Tartak**
+
+**Łopatę**, trzeba iść do Wydobywacza, -> **/warp Cementownia**
+
+**Kilof,** trzeba iść do Górnika, -> **/warp Kopalnia**
+
+Na **każde** ulepszenie trzeba spełniać dane wymagania, czym wyższy poziom, tym wyższe wymagania!
+
+## **ENCHANTY**
+
+Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w farmieniu, szczęście w wydobywaniu, szczęście w kopaniu** posiadają trzy poziomy. Aby zenchantować na wyższy poziom trzeba posiadać więcej biblioteczek i większy lvl.
+**Enchanty dla narzędzi:**
+
+| PRZEDMIOT         | SIEKIERA                                  | 
+|-----------------------|---------------------------------------------|
+| **Nazwa enchantu**    | **Co powoduje**                             |
+| Szczęście             | Zwiększa ilość wydobywanych itemków         |
+| Wydajność             | Zwiększa wydajność kopania                  |
+| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki      |
+| Szczęście w ścinaniu  | Zwiększa ilość wydobywanych itemków w lesie |
+
+|PRZEDMIOT           | KILOF                                     |
+|-----------------------|-----------------------------------------------|
+| **Nazwa enchantu**    | **Co powoduje**                               |
+| Szczęście             | Zwiększa ilość wydobywanych itemków           |
+| Wydajność             | Zwiększa wydajność kopania                    |
+| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki        |
+| Szczęście w kopaniu   | Zwiększa ilość wydobywanych itemków w kopalni |
+
+| PRZEDMIOT              |ŁOPATA                                       |
+|-------------------------|--------------------------------------------------|
+| **Nazwa enchantu**      | **Co powoduje**                                  |
+| Szczęście               | Zwiększa ilość wydobywanych itemków              |
+| Wydajność               | Zwiększa wydajność kopania                       |
+| Automatyczna sprzedaż   | Automatycznie sprzedaje wykopane bloki           |
+| Szczęście w wydobywaniu | Zwiększa ilość wydobywanych itemków w Cementowni |
+
+| PRZEDMIOT           | MOTYKA                                   |
+|-----------------------|----------------------------------------------|
+| **Nazwa enchantu**    | **Co powoduje**                              |
+| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki       |
+| Szczęście w farmieniu | Zwiększa ilość wydobywanych itemów na farmie |
+
+Oprócz klasycznych enchantów jakie mamy w minecraft na zbroje, na trybie GenBlock dodaliśmy dodatkowe ulepszenie jakim jest życie. Enchant ten można założyć na każdą część zbroji. Daje on dodatkowe życie dla gracza.
 
 ## **CO DAJE ZBROJA?**
 
@@ -175,6 +232,8 @@ W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrz
 **Warp: Market**, w t ym miejscu możesz handlować z NPC!
 
 Jak dostać się na dany warp? -> **/warp [nazwa]**
+
+![farmer](/assets/genblock/WARPY.png)
 
 ## **BOOSTERY**
 
