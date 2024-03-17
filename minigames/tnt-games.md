@@ -4,7 +4,7 @@ Jeżeli lubisz wybuchowe gierki, to te dwa tryby są dla ciebie idealne. Pierwsz
 
 ## Jak Wygląda Gra TNT RUN
 
-TNT RUN gra polegająca na szybkim podejmowaniu decyzji, ponieważ każdy blok na jakim staniesz znika pod tobą, musisz przygotować się no sporą liczbę trudnych skoków, ponieważ tym dłuższy czas rozgrywki tym mniej bloków na mapie. Wygra ten, który zostanie na mapie jako ostatni.
+TNT RUN gra polegająca na szybkim podejmowaniu decyzji, ponieważ każdy blok, na którym staniesz znika pod tobą, musisz przygotować się no sporą liczbę trudnych skoków, ponieważ tym dłuższy czas rozgrywki tym mniej bloków na mapie. Wygra ten, który zostanie na mapie jako ostatni.
 
 ![npc](/assets/tntgames/tnt-games-npc.png)
 
