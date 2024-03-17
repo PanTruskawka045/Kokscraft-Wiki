@@ -21,7 +21,7 @@ Punkty są liczone w zależności, jak szybko odgadnie je gracz oraz jak trudny 
  
 Jednak kiedy zgadujesz temat, obserwuj uważnie budowle, jak i podane litery nad paskiem życia. `_` oznacza ukryte litery w temacie. Co chwilę będą pojawiać się litery, przy tym ujawniając hasło. Hasło musisz napisać na chacie. 
 
- ![podloga2](/assets/guess-the-build/podloga2.png)
+ ![podloga2](/assets/guess-the-build/podloga2.png) ![podloga](/assets/guess-the-build/podloga.png)
 
 Gracz z największą ilością punktów wygrywa.
 
