@@ -25,7 +25,7 @@ Jednak kiedy zgadujesz temat, obserwuj uważnie budowle, jak i podane litery nad
 
 Gracz z największą ilością punktów wygrywa.
 
-
+![wygrana](/assets/guess-the-build/wygrana123.png)
 
 Bloki jakie można użyć podczas rozgrywki, są przystosowane do maksymalnej wersji Minecraft 1.8.
 
