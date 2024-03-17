@@ -147,7 +147,7 @@ Pułapki:
 3. Alarm - 1 diament -  Powiadomi twoją drużynę gdy wróg wkroczy na twoją wyspę oraz usunie mu efekt niewidzialności
 4. Powolne kopanie - 1 diament - Nada efekt powolnego kopania przeciwnikowi gdy wkroczy na twoją wyspę
 
-W jednym momencie maksymalnie mogą być użyte 3 różne rodzaje pułapek. Pierwsza pułapka kosztuje 1 diament, następna 2 diamenty, trzecia kosztuje 4 diamenty.
+W jednym momencie maksymalnie mogą być użyte 3 różne rodzaje pułapek. W trybie solo pierwsza pułapka kosztuje 1 diament, następna 2 diamenty, trzecia kosztuje 4 diamenty. W trybach duo, trio i czwórkach pierwsza pułapka kosztuje 2 diamenty, druga 4 diamenty i trzecia 8 diamentów
 
 ![ulepszenia](/assets/bedwars/ulepszenia.png)
 ## Ranking 
@@ -171,7 +171,7 @@ Możesz sprwadzić swoje statystyki trybowe.
 ## Topki 
 
 Na trybie posiadamy trzy rodzaje topek: **BedWars, BedWars Duels, Klanowe**. Topki dzielą się na dzienne, tygodniowe i sezonowe. 
-- **Topki dzienne** liczą się od godziny **10:00 do 24:00**. Za pierwsze miejsce gracz dostaje **booster doświadczenia 200%**, za drugie miejsce **booster doświadczenia 100%**, a za trzecie miejsce **booster doświadczenia 50%**. 
+- **Topki dzienne** liczą się od godziny **9:00 do 24:00**.
 - **Topki tygodniowe** resetują się o północy w poniedziałek. 
 - Nagrody za **topki sezonowe** ogłaszane są na głównym serwerze discord koskcrafta i nadawane są po zakończeniu sezonu 
 - Nagrody za **topki klanowe** ogłaszane są na głównym serwerze discord koskcrafta i nadawane są po zakończeniu sezonu dla własciciela klanu
