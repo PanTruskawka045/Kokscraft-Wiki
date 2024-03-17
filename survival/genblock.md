@@ -10,9 +10,14 @@ Od razu po wejściu na tryb na ekranie wyświetli się samouczek odnośnie trybu
 
 ## **WYSPA**
 
-Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /island) lub będąc na spawnie wskoczyć do portalu który znajduje się na środku! Itemy które mogą pomóc w rozbudowie wyspy znajdziesz pod komendą **/sklep** za małą opłatą. Swoją wyspę możesz ulepszać pod względem wielości, jak to zrobić? Wpisz komendę /menu -> Ulepszenia wyspy. Maksymalna wielkość wynosi 301x301. Jeśli chcesz tworzyć wyspę wraz z znajomym, użyj komendy **/coopdodaj [nick]**! Dodatkowo istnieje **/chatwyspy** gdzie możecie ze sobą pisać.
+Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /island) lub będąc na spawnie wskoczyć do portalu który znajduje się na środku! Itemy które mogą pomóc w rozbudowie wyspy znajdziesz pod komendą **/sklep** za małą opłatą. 
+Swoją wyspę możesz ulepszać pod względem wielości, jak to zrobić? Wpisz komendę /menu -> Ulepszenia wyspy. Maksymalna wielkość wynosi 301x301. 
 
 ![portal](/assets/genblock/portall.png)
+
+Jeśli chcesz tworzyć wyspę wraz z znajomym, użyj komendy **/coopdodaj [nick]**! Dodatkowo istnieje **/chatwyspy** gdzie możecie ze sobą pisać. 
+
+Aby odwiedzać wyspy innych graczy użyj komendy **/visit [nick]**
 
 
 ## **GENERATORY**
@@ -144,6 +149,28 @@ W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrz
 
 **I TO WSZYSTKO ZA STANIE W MIEJSCU!**
 
+## **BOOSTERY**
+
+**Booster XP na 30 minut (Ogólny)** = Do zakupy na stronie -> https://kokscraft.pl/sklep/klucze/genblock
+
+**Booster Bloków na 30 minut (Ogólny)** = Do zakupy na stronie -> https://kokscraft.pl/sklep/klucze/genblock
+
+**Booster Bloków (Farmer)** Możliwość wydropienia w skrzynkach.
+
+**Booster Bloków (Drwal)** Możliwość wydropienia w skrzynkach.
+
+**Booster Bloków (Wydobywacz)** Możliwość wydropienia w skrzynkach.
+
+**Booster Bloków (Górnik)** Możliwość wydropienia w skrzynkach.
+
+**Booster XP (Drwal)** Możliwość wydropienia w skrzynkach.
+
+**Booster XP (Górnik)** Możliwość wydropienia w skrzynkach.
+
+**Booster XP (Wydobywacz)** Możliwość wydropienia w skrzynkach.
+
+**Booster XP (Farmer)** Możliwość wydropienia w skrzynkach.
+
 ## **PUNKTY WYSPY**
 Oblicz punkty swojej wyspy używając komendy **/oblicz-punkty**. Ile punktów daje dany blok sprawdzisz pod komendą **/punkty**!
 Topka wysp znajduję się na /warp hub.
@@ -154,3 +181,5 @@ Topka wysp znajduję się na /warp hub.
 Drogocenne przedmioty możesz wystawiać na rynek, a inni gracze mogą je kupić! Jak to zrobić?
 Aby wystawić przedmiot na rynek należy wpisać komendę: **/market wystaw [ilość] [cena]**, item który chcesz wystawić, musisz trzymać w łapce.
 **Pamiętaj!** Niektóre itemy możesz sprzedawać również pod komendą **/sklep** za stałą cene!
+
+![farmer](/assets/genblock/rynek.png)
