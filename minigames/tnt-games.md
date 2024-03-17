@@ -60,3 +60,9 @@ Uciekającemu nad paskiem życia pokazują się odległości jak blisko jest ber
 
 W momencie kiedy zostaniesz złapany pokazuję się komunikat "Zostales otagowany"
 
+![Otagowany](/assets/tntgames/tnt-tag-otagowany.png)
+
+## Koniec rundy
+
+Po upłynięciu 50 sekund, każda osoba która miała na sobie TNT zostaje wyeliminowana, w tym momencie wyskakuje komunikat o końcu rundy.
+
