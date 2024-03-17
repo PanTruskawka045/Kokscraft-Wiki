@@ -19,6 +19,13 @@ Jeśli chcesz tworzyć wyspę wraz z znajomym, użyj komendy **/coopdodaj [nick]
 
 Aby odwiedzać wyspy innych graczy użyj komendy **/visit [nick]**
 
+## **PROFILE**
+
+Jest możliwość **tworzenia nowych profili** (bez usuwania starych) w celu gry na różnych wyspach wspólnie ze znajomymi. Nowy profil zakłada się pod komendą **/profil**, następnie należy wybrać kolor profilu - to wszystko! 
+
+**Zarządzanie aktualnym profilem:** /profil -> prawy przycisk myszy na aktualny profil -> Zmień kolor profilu/Dodaj graczy do wyspy/Usuń profil.
+
+![generatory](/assets/genblock/profill.png)
 
 ## **GENERATORY**
 
@@ -148,6 +155,26 @@ W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrz
 |       30 dni     |         5.000.000 monet      | 
 
 **I TO WSZYSTKO ZA STANIE W MIEJSCU!**
+
+## **WARPY**
+
+**Warp: Głowne miasto**, czyli główne lobby trybu! 
+
+**Warp: Kopalnia**, w której możesz zdobyć surowce,
+
+**Warp: Farma**, w której możesz zbierać plony,
+
+**Warp: Tartak**, w którym możesz zbierać drewno,
+
+**Warp: Skrzynie**, w tym miejscu możesz otwierać skrzynki, 
+
+**Warp: Cementownia**, miejsce w którym możesz wydobywać cement, 
+
+**Warp: AFK**, miejsce do odpoczynku i zdobycia kluczy do skrzyni AFK, 
+
+**Warp: Market**, w t ym miejscu możesz handlować z NPC!
+
+Jak dostać się na dany warp? -> **/warp [nazwa]**
 
 ## **BOOSTERY**
 
