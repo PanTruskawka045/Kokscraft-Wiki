@@ -41,10 +41,10 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 |        Czas        |      Wydarzenie      |
 |:------------------:|:--------------------:|
-| 1 minuta 30 sekund |  Odnowienie skrzynek |
+| 1 minuta 30 sekund | Odnowienie skrzynek  |
 | 2 minuta 30 sekund | Zmniejszanie borderu |
-|      4 minuta      |  Odnowienie skrzynek |
-| 6 minuta 30 sekund |        Zagłada       |
+|      4 minuta      | Odnowienie skrzynek  |
+| 6 minuta 30 sekund |       Zagłada        |
 
 ## Karnety
 
