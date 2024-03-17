@@ -58,42 +58,6 @@ Wskaźnik **K/D**, czyli **zabójstw przez śmierci**, jest miernikiem wydajnoś
 
 Topki dzienne i tygodniowe są częścią systemu rankingowego w SkyWars, który motywuje graczy do rywalizacji i poprawy swoich umiejętności. **Topki dzienne** trwają od **10:00 do 24:00** każdego dnia, pozwalając graczom na zdobycie pozycji w rankingu dziennym na podstawie ich wyników w tym okresie. Z kolei **topki tygodniowe** resetują się o **północy w poniedziałek**, dając graczom możliwość konkurowania na dłuższym dystansie i osiągnięcia wyższej pozycji w rankingu tygodniowym. Oba rodzaje rankingów oferują unikalne nagrody i wyróżnienia dla najlepszych graczy, zachęcając do aktywnego uczestnictwa w grze i ciągłego doskonalenia swoich umiejętności.
 
-## Doświadczenie
-
-Doświadczenie w grze jest podzielone na **31 poziomów**, zaczynając od poziomu **Noob (0)**, a kończąc na **Imperator (30)**. Oto pełna lista poziomów doświadczenia:
-
-**Noob (0)
-Świeżak (1)
-Adept (2)
-Nowicjusz (3)
-Początkujący (4)
-Amator (5)
-Dobry Gracz (6)
-Miłośnik gier (7)
-Wojownik (8)
-Komandos (9)
-Maniak (10)
-Fachowiec (11)
-Zawodowiec (12)
-Specjalista (13)
-Zapaleniec (14)
-Profesjonalista (15)
-Wyjadacz (16)
-Szef (17)
-Weteran (18)
-Uzależniony (19)
-Spoceniec (20)
-Profesor (21)
-Dowódca (22)
-Mistrz (23)
-Arcymistrz (24)
-Włodarz (25)
-Władca (26)
-Legenda (27)
-Car (28)
-Cesarz (29)
-Imperator (30)**
-
 ## Dusze
 
 **Dusze** w kontekście SkyWars są swego rodzaju symbolicznym przedstawieniem **"duszy"** przeciwnika, którego pokonaliśmy. Zdobywa się je **poprzez zabójstwa** w trakcie gry, co oznacza, że każda eliminacja przeciwnika przekłada się na zdobycie duszy. Zebrane dusze służą następnie jako **waluta do zakupu skrzyń dusz**, z których gracze mogą losować **unikalne perki**, które pomagają w dalszej rozgrywce. To mechanizm nagradzający **umiejętności i strategię**, motywujący graczy do dalszej rywalizacji i doskonalenia swoich umiejętności w SkyWars.
