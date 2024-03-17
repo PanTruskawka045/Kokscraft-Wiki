@@ -21,3 +21,7 @@ Wszystkim graczom zostanie wyświetlona ta sama struktura na wyspie o wymiarach 
  ## Po Skończeniu Się Czasu Na Budowanie
 
  Wtedy na środku pojawia się poprawnie zrobiona struktura. Wither skanuje każdą wyspę i wyświetla na ekranie gracza wynik w procentach. Po chwili Wither wybierze najmniej celną konstrukcję, powodując jej zniszczenie.
+
+ ![Destrukcja Wyspy](/assets/speedbuilders/speedbuilders-zniszczenie.gif)
+
+ W przypadku, gdy wszyscy gracze zbudują idealnie budowę, pojawia się zdanie: “Wszyscy zbudowali poprawnie” wtedy runda zakończy się bez eliminacji.
