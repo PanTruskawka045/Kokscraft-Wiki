@@ -38,7 +38,7 @@ TNT TAG gra polegająca na szybkiej orientacji. Każda sekunda ma znaczenie! Kil
 
 Gracz który został goniącym musi oddać ładunek wybuchowy innej osobie, żeby przeżyć rudne. 
 
-![Berek](/assets/tntgames/TNT-Tag-Untitled_video_-_Made_with_Clipchamp_4.gif)
+![Berek](/assets/tntgames/tnt-tag-2.gif)
 
 ## Co Otrzymuje Berek
 
@@ -50,7 +50,7 @@ Berek do łatwiejszego złapania również otrzymuje efekt speedu 2, którego uc
 
 Uciekający musi starać się nie zostać złapanym, poprzez ciągłe uciekanie lub schowanie się przed berkiem, ale w momencie gdy osoba zostanie złapana musi od razu starać się oddać TNT innej osobie, żeby nie odpaść z rundy.
 
-![Berek 2](/assets/tntgames/tnt-tag-Untitled_video_-_Made_with_Clipchamp_3.gif)
+![Berek 2](/assets/tntgames/tnt-tag.gif)
 
 ## Komunikatu pomagające
 
