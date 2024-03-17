@@ -31,10 +31,10 @@
 
 ## Perki SkyWars
 
-**Perki w SkyWars** to ulepszenia, które gracze mogą zdobyć, losując je z tzw. skrzyń dusz, przy czym dusze zdobywa się za **zabójstwa i wygrane gry**. Istnieją trzy rodzaje skrzyń dusz: 
-za **25 dusz**, gdzie można trafić na perki wszystkich rodzajów; 
-za **75 dusz**, z szansą na zdobycie perków rzadkich i legendarnych; 
-oraz za **150 dusz**, oferujących wyłącznie perki legendarnie. 
+**Perki w SkyWars** to ulepszenia, które gracze mogą zdobyć, losując je z tzw. skrzyń dusz, przy czym dusze zdobywa się za **zabójstwa i wygrane gry**. Istnieją trzy rodzaje skrzyń dusz:
+za **25 dusz**, gdzie można trafić na perki wszystkich rodzajów;
+za **75 dusz**, z szansą na zdobycie perków rzadkich i legendarnych;
+oraz za **150 dusz**, oferujących wyłącznie perki legendarnie.
 W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot monet**.
 
 ## Harmonogram gry
@@ -45,3 +45,19 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 | 2 minuta 30 sekund | Zmniejszanie borderu |
 |      4 minuta      | Odnowienie skrzynek  |
 | 6 minuta 30 sekund |       Zagłada        |
+
+## Karnety
+
+W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, który oferuje graczom dostęp do ekskluzywnych kosmetyków, rubinów i kokscoinów. Karnet ten można nabyć za pomocą kokscoinów, klikając na niego lewym przyciskiem myszy, natomiast prawym przyciskiem można podejrzeć zawarte w nim nagrody. Każdy poziom karnetu odblokowuje inną, unikatową nagrodę, dodając elementy kolekcjonerskie i motywujące graczy do częstszego uczestnictwa w grze.
+
+## K/D
+
+Wskaźnik **K/D**, czyli **zabójstw przez śmierci**, jest miernikiem wydajności gracza w SkyWars, który oblicza się przez podzielenie liczby **zabójstw (K)** dokonanych przez gracza przez liczbę jego **śmierci (D)** w grze. Wskaźnik ten służy do oceny **umiejętności i efektywności** gracza na polu bitwy, pokazując, jak często udaje mu się eliminować przeciwników w stosunku do liczby własnych śmierci.
+
+## Topki
+
+Topki dzienne i tygodniowe są częścią systemu rankingowego w SkyWars, który motywuje graczy do rywalizacji i poprawy swoich umiejętności. **Topki dzienne** trwają od **10:00 do 24:00** każdego dnia, pozwalając graczom na zdobycie pozycji w rankingu dziennym na podstawie ich wyników w tym okresie. Z kolei **topki tygodniowe** resetują się o **północy w poniedziałek**, dając graczom możliwość konkurowania na dłuższym dystansie i osiągnięcia wyższej pozycji w rankingu tygodniowym. Oba rodzaje rankingów oferują unikalne nagrody i wyróżnienia dla najlepszych graczy, zachęcając do aktywnego uczestnictwa w grze i ciągłego doskonalenia swoich umiejętności.
+
+## Dusze
+
+**Dusze** w kontekście SkyWars są swego rodzaju symbolicznym przedstawieniem **"duszy"** przeciwnika, którego pokonaliśmy. Zdobywa się je **poprzez zabójstwa** w trakcie gry, co oznacza, że każda eliminacja przeciwnika przekłada się na zdobycie duszy. Zebrane dusze służą następnie jako **waluta do zakupu skrzyń dusz**, z których gracze mogą losować **unikalne perki**, które pomagają w dalszej rozgrywce. To mechanizm nagradzający **umiejętności i strategię**, motywujący graczy do dalszej rywalizacji i doskonalenia swoich umiejętności w SkyWars.
