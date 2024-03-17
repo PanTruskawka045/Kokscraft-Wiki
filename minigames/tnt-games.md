@@ -36,21 +36,17 @@ TNT TAG gra polegająca na szybkiej orientacji. Każda sekunda ma znaczenie! Kil
 
 ## Co Musi Wykonać Osoba Goniąca
 
-Gracz który został goniącym musi oddać ładunek wybuchowy innej osobie, żeby przeżyć rudne. 
-
-![Berek](/assets/tntgames/tnt-tag-2.gif)
+Gracz który został goniącym musi oddać ładunek wybuchowy innej osobie, żeby przeżyć runde. 
 
 ## Co Otrzymuje Berek
 
 Berek otrzymuje do ręki TNT które klikająć lewym przyciskim myszy na innego gracza przekazuje je, razem z tym żeby się wyróżnić otrzymuje on TNT na głowe.
 
-Berek do łatwiejszego złapania również otrzymuje efekt speedu 2, którego uciekający gracze nie mają.
+![Goniacy](/assets/tntgames/tnt-tag-goniacy.png)
 
 ## Co Robi Uciekający
 
 Uciekający musi starać się nie zostać złapanym, poprzez ciągłe uciekanie lub schowanie się przed berkiem, ale w momencie gdy osoba zostanie złapana musi od razu starać się oddać TNT innej osobie, żeby nie odpaść z rundy.
-
-![Berek 2](/assets/tntgames/tnt-tag.gif)
 
 ## Komunikatu pomagające
 

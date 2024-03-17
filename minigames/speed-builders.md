@@ -6,7 +6,7 @@ SpeedBuilders to idealny tryb dla graczy, którzy kochają rywalizacje oraz szyb
 
 Celem gry jest jak najdokładniejsze odtworzenie podanych kompilacji, zanim skończy się czas, a co kolejną runde jest mniej czasu na odwzorowanie.
 
-![Gra](/assets/speedbuilders/speed-budowla.gif)
+![Gra](/assets/speedbuilders/speed-mapa.png)
 
 ## Budowla Do Odwzorowania
 
