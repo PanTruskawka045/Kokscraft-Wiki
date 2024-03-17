@@ -6,7 +6,7 @@ Kalambury jest to tryb, w którym rozwiniesz swoją wyobraźnię oraz pokażesz 
 
 Na arenę może dołączyć maksymalnie 9 osób. Gra rozpoczyna się w momencie, gdy zostaniesz przeniesiony na arenę. Jeden z graczy wybiera jeden z trzech tematów. Gdy Ty albo inny gracz odgadnie hasło, czas się skraca.  
 
-![Zgadnięcie hasła](
+![Zgadnięcie hasła](/assets/guess-the-build/Zgadnięcie hasła.png) 
 
 Gdy zostałeś wybrany do budowania (kolejność jest losowa) pojawi ci się gui z trzema karteczkami. Kierując na nie kursor myszki, pojawiają ci się tematy do wyboru. Na wybór tematu masz 10 sekund. 
 
