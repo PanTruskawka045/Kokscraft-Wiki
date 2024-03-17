@@ -3,16 +3,17 @@
 BedWars to popularny tryb gry typu PvP na wersji 1.8, w którym gracze walczą ze sobą, aby **zniszczyć łóżko przeciwnika**, jednocześnie **broniąc swoje**. Każda drużyna zaczyna na swojej wyspie z łóżkiem, które jest ich punktem odrodzenia. Gracze zbierają zasoby, takie jak **żelazo, złoto, diamenty i emeraldy**, aby ulepszać swoją drużynę, kupować ekwipunek i bronie oraz **budować obronę wokół swojego łóżka**. Głównym celem jest zniszczenie łóżka przeciwników, a następnie wyeliminowanie ich z gry. **Ostatnia drużyna lub gracz, który pozostanie na mapie, wygrywa rundę.**
 Na serwerze do wyboru mamy BedWars **solo, duo, trio i czwórki**. Każdy z tych rodzajów wymaga różnych umiejętności - walki, współpracy.  Do wyboru w solo i duo mamy 21 różnych map, a w trio i czwórkach jest ich aż 20.
 Limit budowania wynosi około 15 kratek. Po przekroczeniu jego gracz dostaje powolne obrażenia do momentu aż zginie.
+
 | **Tryb rozgrywki** | **Ilość wysp** | **Ilość graczy** |
-|--------------------|----------------|------------------|
-|        solo        |        8       |         8        |
-|         duo        |        8       |        16        |
-|        trio        |        4       |        12        |
-|       czwórki      |        4       |        16        |
+|:------------------:|:--------------:|:----------------:|
+|        solo        |       8        |        8         |
+|        duo         |       8        |        16        |
+|        trio        |       4        |        12        |
+|      czwórki       |       4        |        16        |
 
 Zmierz się ze swoimi znajomymi w grze BedWars.
 
-**UWAGA:  Po skończonej rozgrywce otrzymujesz dodatnie lub ujemne punkty, które dodają się do twojego rankingu.**
+**UWAGA: Po skończonej rozgrywce otrzymujesz dodatnie lub ujemne punkty, które dodają się do twojego rankingu.**
 
 ## BedWars Duels
 
@@ -30,16 +31,16 @@ Rozgrywka dzieli się na 8 etapów, każdy z nich trwa od 3 do 4 minut:
 - Finał - border zmniejsza się do losowego miejsca na mapie na szerokość 2x2 kratek.
 - Koniec gry - gracze dostają obrażenia do momentu aż zostanie jeden gracz.
 
-|**Czas gry od poprzedniego wydarzenia**|**Wydarzenie**|
-|-------|-------|
-|3 minuty|Diamenty II|
-|3 minuty|Szmaragdy II|
-|3 minuty|Diamenty III|
-|3 minuty|Szmaragdy III|
-|4 minuty|Autodestrukcja|
-|4 minuty|DeathMatch|
-|3 minuty|Finał|
-|3 minuty|Koniec Gry|
+| **Wydarzenie** | **Czas gry od poprzedniego wydarzenia** |
+|:--------------:|:---------------------------------------:|
+|  Diamenty II   |                3 minuty                 |
+|  Szmaragdy II  |                3 minuty                 |
+|  Diamenty III  |                3 minuty                 |
+| Szmaragdy III  |                3 minuty                 |
+| Autodestrukcja |                4 minuty                 |
+|   DeathMatch   |                4 minuty                 |
+|     Finał      |                3 minuty                 |
+|   Koniec Gry   |                3 minuty                 |
 
 ## Generatory
 
@@ -58,55 +59,80 @@ Generator Szmaragdów - Posiada 3 poziomy które ulepszają się wraz z biegiem 
 - **III poziom szmaragdów** - diamenty pojawiają się co 30 sekund
 ![generator diamentów](/assets/bedwars/generator-diamenty.png)
 ![generator szmaragdów](/assets/bedwars/generator-szmaragdy.png)
-# Sklep
+
+## Sklep
 Podczas rozgrywki gracz ma do dyspozycji sklep w którym może zakupić niezbędne rzeczy potrzebne do wygrania areny. 
 
-## Bloki 
+### Bloki 
 Pomogą w ochronie twojego łóżka. Będziesz mógł użyć ich do przedostania się na sąsiednie wyspy. Niektóre posiadają specjalne własciwości: 
 - szkło: jest odporne na wybuchy tnt oraz fireballi
 - endstone: jest odporny na wybuchy fireballi
- 
-|**wełna**|**glina**|**szkło**|**kamien kresu**|**drabina**|**deski**| **obsydian**|
-|---------|---------|---------|---------|---------|---------|---------|
-| 4 żelaza| 12 żelaza| 12 żelaza| 24 żelaza| 4 żelaza| 4 złota | 4 szmaragdy | 
 
-## Bronie
+| **Przedmiot** |  **Cena**   |
+|:-------------:|:-----------:|
+|     wełna     |  4 żelaza   |
+|     glina     |  12 żelaza  |
+|     szkło     |  12 żelaza  |
+| kamień kresu  |  24 żelaza  |
+|    drabina    |  4 żelaza   |
+|     deski     |   4 złota   |
+|   obsydian    | 4 szmaragdy |
+
+
+### Bronie
 Niezbędne w walce z przeciwnikami.
-|**kamienny miecz**|**zelazny miecz**|**diamentowy miecz**|**patyk (odrzut I)**|
-|---------|---------|---------|---------|
-| 10 żelaza | 7 złota | 4 szmaragdy | 5 złota |
 
-## zbroje
+|  **Przedmiot**   |  **Cena**   |
+|:----------------:|:-----------:|
+|  kamienny miecz  |  10 żelaza  |
+|  zelazny miecz   |   7 złota   |
+| diamentowy miecz | 4 szmaragdy |
+| patyk (odrzut I) |   5 złota   |
+
+### Zbroje
 Ochorni cię przed wrogami. 
-|**Stała Kolczuga**|**Stała Żelazna Zbroja**|**Stała Diamentowa Zbroja**|
-|---------|---------|---------|
-| 40 żelaza | 12 złota | 6 szmaragdów | 
 
-## narzędzia 
+|      **Przedmiot**      |  **Cena**   |
+|:-----------------------:|:-----------:|
+|     Stała Kolczuga      |  40 żelaza  |
+|  Stała Żelazna Zbroja   |  12 złota   |
+| Stała Diamentowa Zbroja | 6 szmaragdy |
+
+### Narzędzia 
 Potrafią być przydatne w rozwaleniu łóżka przeciwnika.
-|**nożyce**|
-|---------|
-| 20 żelaza |
 
-|**drewniany kilof**|**żelazny kilof**|**złoty kilof**|**diamentowy kilof**|
-|---------|---------|---------|---------|
-| 10 żelaza | 10 żelaza | 3 złota | 6 złota |
-|**drewniana siekiera**|**kamienna siekiera**|**żelazna siekiera**|**diamentowa siekiera**|
-| 10 żelaza | 10 żelaza | 3 złota | 6 złota |
+|    **Przedmiot**     | **Cena**  | **Enchanty**  |
+|:--------------------:|:---------:|:-------------:|
+|   Drewniany kilof    | 10 żelaza |  Wydajność I  |
+|    Żelazny Kilof     | 10 żelaza | Wydajność II  |
+|     Złoty Kilof      |  3 złota  | Wydajność III |
+|   Diamentowy Kilof   |  6 złota  | Wydajność III |
+|  Drewniana Siekiera  | 10 żelaza |  Wydajność I  |
+|  Kamienna Siekiera   | 10 żelaza |  Wydajność I  |
+|   Żelazna Siekiera   |  3 złota  | Wydajność II  |
+| Diamentowa Siekiera  |  6 złota  | Wydajność III |
+|        Nożyce        | 20 żelaza |     Brak      |
 
-## łuki 
+### Łuki i strzały 
 Możesz zestrzelić przeciwnika nawet z innej wyspy. 
-|**8 strzał**|**Łuk**|**Łuk (Moc I)**|**Łuk (Moc II)**|
-|---------|---------|---------|---------|
-| 2 złota | 12 złota | 24 złota | 6 szmaragdów |
 
-## Mikstury 
+| **Przedmiot** |   **Cena**   |
+|:-------------:|:------------:|
+|   8 strzał    |   2 złota    |
+|      Łuk      |   12 złota   |
+|  Łuk (Moc I)  |   24 złota   |
+| Łuk (Moc II)  | 6 szmaragdów |
+
+### Mikstury 
 Zaatakuj przeciwnika z zaskoczenia. 
-|**Mikstura Szybkosci II (45s)**|**Mikstura Wysokiego Skoku (30s)**|**Mikstura Niewidzialnosci (30s)**|
-|---------|---------|---------|
-|1 szmaragd|1 szmaragd|2 szmaragdy|
 
-## Inne
+|         **Przedmiot**          |  **Cena**   |
+|:------------------------------:|:-----------:|
+|  Mikstura Szybkości II (45s)   | 1 szmaragd  |
+| Mikstura Wysokiego Skoku (30s) | 1 szmaragd  |
+| Mikstura Niewidzialności (30s) | 2 szmaragdy |
+
+### Inne
 Różne inne przydatne przedmioty do walki. Oprócz klasycznych przedmiotów, występują inne, dostępne tylko na BedWarsch
 - Rybik cukrowy: żyje 15 sekund, po rzuceniu w gracza zadaje mu obrażenia.
 - kula ognia: inaczej fireball, lecący pocisk prosto w gracza. Niszczy mosty i obudowę łóżka.
@@ -114,12 +140,22 @@ Różne inne przydatne przedmioty do walki. Oprócz klasycznych przedmiotów, wy
 - żelazny golem: żyje 4 minuty. Możesz postawić go tylko w swojej bazie. Limit golemów to 3
 - navigator: prowadzi ciebie do najbliższego gracza z obcego teamu
 
-|**Zlote jablko**|**Rybik cukrowy**|**kula ognia**|**TNT**|**perla kresu**|**wiadro wody**|**automatyczny most**|**mleko**|**gabka**|**zalazny golem**|**navigator**|
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|3 złota|40 żelaza|40 żelaza|4 złota|4 szmaragdy|4 złota|2 szmaragdy|4 złota|3 złota|120 żelaza|2 szmaragdy|
+|   **Przedmiot**   |  **Cena**   |
+|:-----------------:|:-----------:|
+|   Złote jabłko    |   3 złota   | 
+|   Rybik cukrowy   |  40 żelaza  |
+|    kula ognia     |  40 żelaza  |
+|        TNT        |   4 złota   |
+|    perla kresu    | 4 szmaragdy |
+|    wiadro wody    |   4 złota   |
+| automatyczny most | 2 szmaragdy |
+|       mleko       |   4 złota   |
+|       gąbka       |   3 złota   |
+|   żelazny golem   | 120 żelaza  |
+|     navigator     | 2 szmaragdy |
 
 ![sklep](/assets/bedwars/sklep.png)
-# Modyfikator sklepu:
+## Modyfikator sklepu:
 Po zakupie modyfikatora sklepu będziesz miał możliwość ustawienia ekwipunku według własnych potrzeb. Pozwoli ci to przyśpieszyć kupowanie przedmiotów. Koszt modyfikatora sklepu wynosi 1099 KoksCoinów lub 23999 Rubinów. Aby przpisać przedmiot do głównej strony należy kliknąć w przedmiot za pomocą SHIFT + PPM, następnej kliknąć w pusty slot.
 
 ![modyfikator](/assets/bedwars/modyfikator1.png)
@@ -150,6 +186,7 @@ Pułapki:
 W jednym momencie maksymalnie mogą być użyte 3 różne rodzaje pułapek. W trybie solo pierwsza pułapka kosztuje 1 diament, następna 2 diamenty, trzecia kosztuje 4 diamenty. W trybach duo, trio i czwórkach pierwsza pułapka kosztuje 2 diamenty, druga 4 diamenty i trzecia 8 diamentów
 
 ![ulepszenia](/assets/bedwars/ulepszenia.png)
+
 ## Ranking 
 Graj na BedWars i zdobywaj rangę, która odpowiada twoim umiejętnością. Ranga obowiązuje cały sezon i zostaje resetowania wraz z nowym sezonem. Pod koniec sezonu każdy gracz otrzyma odpowiednie nagrody, które są przypisane do rangi gracza. Im wyższa ranga tym lepsze nagrody. Ranking resetuje się po 2 tygodniach nieaktywności na trybie lub w momencie kiedy gracz otrzyma karę za nieodpowiednie oprogramowanie.
 ![ranking](/assets/bedwars/ranking.png)
