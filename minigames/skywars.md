@@ -2,7 +2,7 @@
 
 **SkyWars** to **dynamiczny tryb gry**, w którym gracze walczą na **unoszących się w powietrzu wyspach**, starając się przetrwać i pokonać przeciwników, korzystając z dostępnych zasobów i sprzętu. Celem jest bycie **ostatnim żyjącym graczem lub drużyną** poprzez strategiczne planowanie, budowanie i szybką walkę w **zmieniającym się środowisku pełnym niebezpieczeństw i niespodzianek.**
 
-## Zestawy SkywWars
+## Zestawy SkyWars
 
 **Zestawy SkyWars** to specjalne pakiety wyposażenia, które gracze mogą kupić za monety zdobyte za **zabicie przeciwników i wygrane mecze**, wybierając je podczas **ładowania gry** i otrzymując **natychmiast po jej rozpoczęciu**.
 
@@ -29,7 +29,7 @@
 | Pirotechnik |  15 000  |
 | Astronauta  |  15 000  |
 
-## Perki SkywWars
+## Perki SkyWars
 
 **Perki w SkyWars** to ulepszenia, które gracze mogą zdobyć, losując je z tzw. skrzyń dusz, przy czym dusze zdobywa się za **zabójstwa i wygrane gry**. Istnieją trzy rodzaje skrzyń dusz: 
 za **25 dusz**, gdzie można trafić na perki wszystkich rodzajów; 
