@@ -66,3 +66,8 @@ W momencie kiedy zostaniesz złapany pokazuję się komunikat "Zostales otagowan
 
 Po upłynięciu 50 sekund, każda osoba która miała na sobie TNT zostaje wyeliminowana, w tym momencie wyskakuje komunikat o końcu rundy.
 
+![Koniec rundy](/assets/tntgames/tnt-tag-koniec-rundy.png)
+
+## Ostatni wygrywa
+
+W ostatniej fazie gry zostają dwie osoby, które utrzymały się najdłużej wygra ten, który nie będzie miał TNT na sobie. 
