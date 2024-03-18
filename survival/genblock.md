@@ -214,9 +214,26 @@ W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrz
 
 ## **SKLEP NA WYSPIE**
 
-Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu". ** Skrzynkę odpowiedzialną za sklep zakupimy pod komendą /sklep w zakładce "Przedmioty Specjalne" za 50000$. 
+Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu".** Skrzynkę odpowiedzialną za sklep zakupimy pod komendą /sklep w zakładce "Przedmioty Specjalne" za 50000$. 
 
 **Jak to działa?** Skrzynkę kładziemy w wybranym przez siebie miejscu na wyspie. Następnie postępuj zgodnie z instrukcją poniżej!
+
+**KROK 1** Kliknij w; szary barwnik ->
+
+![krok](/assets/genblock/krok1.png)
+
+**KROK 2** Kliknij w wybrany item; w tym przypadku złote jabłko ->
+
+![krok](/assets/genblock/krok2.png)
+
+**KROK 3** Ustalenie ceny skupu. To kwota, jaką musisz zapłacić za odkupienie tego przedmiotu od graczy ->
+
+![krok](/assets/genblock/krok3.2.png)
+
+![krok](/assets/genblock/krok3.1.png)
+
+**KROK 4** Ustalenie ceny sprzedaży. To kwota, jaką zarobisz za sprzedanie przedmiotu ->
+
 
 ## **WARPY**
 
@@ -238,7 +255,7 @@ Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu". ** Skrzy
 
 Jak dostać się na dany warp? -> **/warp [nazwa]**
 
-![farmer](/assets/genblock/WARPY.png)
+![warpy](/assets/genblock/WARPY.png)
 
 ## **BOOSTERY**
 
