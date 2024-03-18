@@ -5,6 +5,7 @@ BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdo
 ## JAK WYGLĄDA GRA NA BOXPVP
 
 ## Mapa
+![MAPA](/assets/boxpvp/boxpvp-glowna-mapa.png)
 
 ## NPC Z Zbrojami
 
