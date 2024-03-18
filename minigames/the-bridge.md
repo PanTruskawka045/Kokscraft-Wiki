@@ -7,6 +7,18 @@ zabudowanie wejścia do dziury (hippo), pójście ukośnym mostem do jego bazy (
 
 ![the-bridge](/assets/thebridge/lobbynpc2.png)
 
+## Rozkład gry
+Na początku gry znajdujesz się w klatce, po odliczaniu które trwa 5 sekund zaczyna się 15 minutowa gra żeby wygrać musisz strzelić 5 razy do bramki przeciwnika
+
+![the-bridge](/assets/thebridge/wygrana.png)
+
+![the-bridge](/assets/thebridge/ss-mostu.png)
+
+![the-bridge](/assets/thebridge/ss-mapy.png)
+
+![the-bridge](/assets/thebridge/odliczanie.png)
+
+
 ## Bypass
 
 Bypass na trybie The Bridge w grze Minecraft oznacza zazwyczaj technikę lub metodę, 
