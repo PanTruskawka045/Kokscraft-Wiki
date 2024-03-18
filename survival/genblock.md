@@ -8,7 +8,7 @@ Od razu po wejściu na tryb na ekranie wyświetli się samouczek odnośnie trybu
 
 **Inne metody sprzedaży to:** 
 
-Masowa sprzedaż którą znajdziemy pod komendą **/menu** ukrytą pod "diamentem",
+Masowa sprzedaż którą znajdziemy pod komendą **/menu** ukrytą pod "diamentem".
 Skup, który znajdziemy pod komendą **/menu** ukryty pod "kartką papieru". Gdy włączysz sprzedawanie, kliknij w item w ekwipunku aby go sprzedać. Sprzedać możesz tylko wybrane przedmioty, które mają w opisie informacje na temat ceny.
 
 ![farmer](/assets/genblock/farmerr.png)
@@ -21,13 +21,13 @@ Swoją wyspę możesz ulepszać pod względem wielości, jak to zrobić? Wpisz k
 
 ![portal](/assets/genblock/portall.png)
 
-Jeśli chcesz tworzyć wyspę wraz z znajomym, użyj komendy **/coopdodaj [nick]**! Dodatkowo istnieje **/chatwyspy** gdzie możecie ze sobą pisać. 
+Jeśli chcesz tworzyć wyspę wraz ze znajomym, użyj komendy **/coopdodaj [nick]**! Dodatkowo istnieje **/chatwyspy** gdzie możecie ze sobą pisać. 
 
 Aby odwiedzać wyspy innych graczy użyj komendy **/visit [nick]**
 
 ## **PROFILE**
 
-Jest możliwość **tworzenia nowych profili** (bez usuwania starych) w celu gry na różnych wyspach wspólnie ze znajomymi. Nowy profil zakłada się pod komendą **/profil**, następnie należy wybrać kolor profilu - to wszystko! 
+Jest możliwość **tworzenia nowych profili** (bez konieczności usuwania starych) w celu gry na różnych wyspach wspólnie ze znajomymi. Nowy profil zakłada się pod komendą **/profil**, następnie należy wybrać kolor profilu - to wszystko! 
 
 **Zarządzanie aktualnym profilem:** /profil -> prawy przycisk myszy na aktualny profil -> Zmień kolor profilu/Dodaj graczy do wyspy/Usuń profil.
 
@@ -43,7 +43,7 @@ Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą 
 
 **Uwaga!** Istnieje możliwość wylosowania specjalnego przedmiotu dodającego +1/2/3 slota/y na generatory, możliwość taka jest w skrzynkach: Rzadkiej, Epickiej oraz Legendarnej.
 
-Dużym ułatwieniem dla osób korzystających z generatorów jest **Samo - sprzedająca skrzynka**. Zakupić ją można pod komendą **/sklep** w zakładce "Przedmioty specjalne", za 1.000.000$. **Jak to działa?** Itemy które zostaną wsadzone do skrzynki (ręcznie bądź hopperem) zostaną automatycznie sprzedane! Jedyne co trzeb zrobić, to wchodząc w skrzynke, wypłacić jej zarobki!
+Dużym ułatwieniem dla osób korzystających z generatorów jest **Samo - sprzedająca skrzynka**. Zakupić ją można pod komendą **/sklep** w zakładce "Przedmioty specjalne", za 1.000.000$. **Jak to działa?** Itemy które zostaną wsadzone do skrzynki (ręcznie bądź hopperem) zostaną automatycznie sprzedane! Jedyne co trzeba zrobić, to wchodząc w skrzynke, wypłacić jej zarobki!
 
 ![skrzynka-samo-sprzedajaca](/assets/genblock/skrzynka-samo.png)
 
@@ -88,7 +88,7 @@ Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w f
 
 ## **CO DAJE ZBROJA?**
 
-Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. Aby ulepszyć zbroje należy udać się do głównego NPC na losowym warpie, oraz daną częścią zbroi w niego kliknąć, następnie wyświetlą się wymagania co do danego ulepszenia oraz potwierdzenie zakupu.
+Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. 
 
 | POZIOM | HEŁM [BONUS EXP] | NAPIERŚNIK [BONUS EXP] | NOGI [BONUS EXP]| BUTY [BONUS EXP]|
 |:------:|:---:|:---------:|:---:|:---:|
@@ -160,7 +160,7 @@ Twoim zadaniem jest kopanie drewna! Kopanie zwiększa poziom **Drwalstwa**, za k
 
 Im lepsze bloki wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Drwal**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu siekiery który pokazuje się w jej nazwie!
 
-**MOTYKA**, aby ją zdobyć udaj się na **/warp Hub** i następnie podejdź do **[NPC] Farmer.**
+**MOTYKA**, aby ją zdobyć udaj się na **/warp Farma** i następnie podejdź do **[NPC] Farmer.**
 Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za każdy zebrany plon otrzymujemy określoną liczbę EXP. Farma składa się z 5 etapów, kolejno wypisanych:
 
 | RODZAJ PLONU |  WYMAGANY POZIOM |
@@ -177,7 +177,13 @@ Im lepsze plony zbierasz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważn
 
 ## **ZADANIA**
 
-Na tablicy wyników widocznie są "Zadania". Za wykonanie zadania nie dostaje się nagrody, można je wykonywać dla urozmaicenia rozgrywki. Gdy wykonamy dane zadanie, wyświetli się kolejne. 
+Na tablicy wyników widoczne są "Zadania". Za wykonanie zadania nie dostaje się nagrody, można je wykonywać dla urozmaicenia rozgrywki.  
+
+![tablica](/assets/genblock/tablica.png)
+
+Gdy wykonamy dane zadanie, wyświetli się kolejne.
+
+![zadania](/assets/genblock/zadania.png)
 
 ## **SKRZYNKI**
 
@@ -196,9 +202,9 @@ Na trybie istnieje **5** skrzynek: **Startowa, Rzadka, Epicka, Legendarna oraz S
 ## **STREFA AFK**
 Co to takiego? To miejsce do odpoczynku, czyli tzw. afczenia gdzie przebywając zgarniasz **Klucze do skrzyni AFK!** Którą następnie możesz otworzyć, zdobywając nagrody.
 
-Aby otrzymac nagrode trzeba afczyc: 10 minut
+Aby otrzymac nagrode trzeba afczyć: 10 minut
 
-Aby otrzymac nagrode dodatkową trzeba afczyc: 30 minut
+Aby otrzymac nagrode dodatkową trzeba afczyć: 30 minut
 
 W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrzymujemy daną ilość monet, które są bardzo przydatne! Do wbicia jest VII celów:
 
@@ -252,7 +258,7 @@ Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu".** Skrzyn
 
 **Warp: AFK**, miejsce do odpoczynku i zdobycia kluczy do skrzyni AFK, 
 
-**Warp: Market**, w t ym miejscu możesz handlować z NPC!
+**Warp: Market**, w tym miejscu możesz handlować z NPC!
 
 Jak dostać się na dany warp? -> **/warp [nazwa]**
 
@@ -289,6 +295,7 @@ Topka wysp znajduję się na /warp hub.
 ## **RYNEK**
 Drogocenne przedmioty możesz wystawiać na rynek, a inni gracze mogą je kupić! Jak to zrobić?
 Aby wystawić przedmiot na rynek należy wpisać komendę: **/market wystaw [ilość] [cena]**, item który chcesz wystawić, musisz trzymać w łapce.
+
 **Pamiętaj!** Niektóre itemy możesz sprzedawać również pod komendą **/sklep** za stałą cene!
 
 ![farmer](/assets/genblock/rynek.png)
