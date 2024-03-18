@@ -1,14 +1,14 @@
 # Lifesteal 
 
-Tryb Anarchia charakteryzuje się brakiem zasad, administracji oraz ograniczeń. Gracze mogą działać całkowicie swobodnie, bez obaw o karanie za ich działania. To prowadzi do dynamicznego i często chaotycznego środowiska, gdzie wszystko może się zdarzyć – od budowania współpracy i tworzenia społeczności po walki, kradzieże i zniszczenia. Tryb Anarchii przyciąga graczy, którzy poszukują wyzwania oraz wolności tworzenia własnych reguł i historii w grze.
+Tryb lifesteal praktycznie nie różni się od anarchii. W przeciwieństwie do anarchii gracze na lifesteal muszą przestrzegać zasad panujących na serwerze. Regulamin jest tam taki jak na pozostałych trybach survival. Lifesteal jest to tryb PvP, w którym zdobywasz serca od innych graczy, lub tracisz je przez śmierć. 
 
 ## Jak trafić na lifesteal?
 
 Aby wejść na tryb Anarchia musisz użyć wersji 1.17+
 
-Na anarchię możesz trafić wybierając ją tak jak każdy tryb. Inną opcją pojawienia się tam jest otrzymanie bana na serwerze kokscraft. Osoby które otrzymały bana od administracji lub AntyCheata moga bez ogarniczeń w dalszym ciągu grać na tym trybie.
+Na lifesteal możesz trafić wybierając go tak jak każdy tryb. W momencie dostania bana nie możesz na nim grać. 
 
-![Anarchia](/assets/anarchia-lifesteal/lifesteal.png)
+![lifesteal](/assets/anarchia-lifesteal/lifesteal.png)
 ## Serca:
 
 Jeśli ktoś Cie zabije to tracisz jedno serce a osoba która Cię zabiła zyskuje **1 serce**. Jeśli skończą ci się wszystkie serca - **dostajesz bana**. Z tym, że gracz przy pierwszym wejściu na tryb posiada **godzinną ochronę serc**, oznacza to, że przez godzinę nawet jeśli zostanie zabity, **nie straci serca** a osoba która go zabiła, **nie zyska serca**.
