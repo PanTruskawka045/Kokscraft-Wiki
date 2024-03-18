@@ -26,8 +26,15 @@ BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdo
 - /villager - Dostęp do npc poza spawnem
 - /osiagniecia - Nagrody za gre na serwerze
 
+## Bezpieczna Strefa Kopania
+Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją do żeby przeteleportować się na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
 
 ## Strefa AFK
 
+Odpoczywaj w tym miejscu, przy okazji zgarniając **Klucze do Skrzyni AFK!**
+
+Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!**
+
+![strefa afk](/assets/boxpvp/boxpvp-strefa-afk.png)
 
 
