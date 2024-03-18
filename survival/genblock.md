@@ -131,8 +131,6 @@ Im lepsze rudy wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Waż
 **ŁOPATA**, aby ją zdobyć udaj się na **/warp Cementownia** i następnie podejdź do **[NPC] Wydobywacz.**
 Twoim zadaniem jest zbieranie kolorowego cementu! Zbieranie zwiększa poziom **Wydobywania**, za każdy zebrany blok otrzymujemy określoną liczbę EXP. Cementownia składa się z 8 etapów, kolejno wypisanych:
 
-
-
 | RODZAJ CEMENTU |  WYMAGANY POZIOM |
 |:----------:|:-----------------:|
 |        Czerwony       |       0        | 
@@ -176,6 +174,10 @@ Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za 
 
 
 Im lepsze plony zbierasz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Farmer**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu motyki który pokazuje się w jej nazwie!
+
+## **ZADANIA**
+
+Na tablicy wyników widocznie są "Zadania". Za wykonanie zadania nie dostaje się nagrody, można je wykonywać dla urozmaicenia rozgrywki. Gdy wykonamy dane zadanie, wyświetli się kolejne. 
 
 ## **SKRZYNKI**
 
@@ -228,12 +230,11 @@ Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu".** Skrzyn
 
 **KROK 3** Ustalenie ceny skupu. To kwota, jaką musisz zapłacić za odkupienie tego przedmiotu od graczy ->
 
-![krok](/assets/genblock/krok3.2.png)
-
-![krok](/assets/genblock/krok3.1.png)
+![krok](/assets/genblock/skup.png)
 
 **KROK 4** Ustalenie ceny sprzedaży. To kwota, jaką zarobisz za sprzedanie przedmiotu ->
 
+![krok](/assets/genblock/sprzedaz.png)
 
 ## **WARPY**
 
