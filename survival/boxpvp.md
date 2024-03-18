@@ -15,6 +15,8 @@ Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **C
 
 Do **Villagerów Ze Zbrojami** można przeteleportować się za pomocą **/warp** i wybierając **Jajko Villagera**.
 
+![sety](/assets/boxpvp/boxpvp-sety.png)
+
 ## Skille I Specjalne Przedmioty
 
 ## Generatory
