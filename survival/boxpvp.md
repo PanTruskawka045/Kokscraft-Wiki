@@ -41,6 +41,10 @@ i rudami **diamentów i emeraldów**.
 
 ![Bez Elytr](/assets/boxpvp/boxpvp-strefa-bez-elytr.png)
 
+## Bossy
+
+
+
 ## Strefa AFK
 
 Odpoczywaj w tym miejscu, przy okazji zgarniając **Klucze do Skrzyni AFK!**
@@ -81,4 +85,7 @@ W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po
 
 ## Aktualizacje Trybu BOXPVP
 
+**Wszystkie aktualizacje** jakie wchodzą na tryb **BOXPVP** są opisane na **dc.kokscraft.pl** albo można zobaczyć po krótce opisane przy skrzyni **AFK i MAGICZNEJ**, do których można się przeteleportować wpisując **/warp** i wybierając **Pomarańczowego Shulker Boxa**.
+
+![Aktualizacje](/assets/boxpvp/boxpvp-aktualizacje.png)
 
