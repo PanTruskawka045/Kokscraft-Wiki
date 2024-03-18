@@ -107,7 +107,9 @@ Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość 
 
 Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w postać villagera -> wybieramy część zbroi którą mamy zamiar ulepszyć. Następnie wyświetlą się wymagania, które muszą zostać spełnione aby doszło do ulepszenia poziomu części!
 
-![podstawowe-itemy](/assets/genblock/info.zbroja.png)
+![ulepszenie](/assets/genblock/przedmiotulepsz.png)
+
+![ulepszenie](/assets/genblock/wymagania.png)
 
 ## **SKĄD WZIĄĆ NARZĘDZIA? NA KTÓRE WARPY CHODZIĆ?**
 
@@ -209,6 +211,12 @@ W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrz
 |       30 dni     |         5.000.000 monet      | 
 
 **I TO WSZYSTKO ZA STANIE W MIEJSCU!**
+
+## **SKLEP NA WYSPIE**
+
+Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu". ** Skrzynkę odpowiedzialną za sklep zakupimy pod komendą /sklep w zakładce "Przedmioty Specjalne" za 50000$. 
+
+**Jak to działa?** Skrzynkę kładziemy w wybranym przez siebie miejscu na wyspie. Następnie postępuj zgodnie z instrukcją poniżej!
 
 ## **WARPY**
 
