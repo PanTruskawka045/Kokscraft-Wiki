@@ -1,17 +1,19 @@
 # Śluby
-Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepszać maksymalnie do 10 poziomu. Im wyższy level tym większy boost XP i rubinów otrzymujecie wraz ze swoją drugą połówką. 
+Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepszać maksymalnie do 10 poziomu. Im wyższy level tym większy boost XP i rubinów otrzymujecie wraz ze swoją drugą połówką.
 
 ![GUI ślubu](../assets/marriages/gui.png)
+
 ## Panel
 - Związek można ulepszyć za kokscoiny **lub** rubiny:
   - Aby ulepszyć związek za **kokscoiny** kliknij **lewym** przyciskiem myszy na główkę w GUI.
   - Aby ulepszyć związek za **rubiny** kliknij **prawym** przyciskiem myszy na główkę w GUI.
-  ZDJECIE
+![Ulepszenie związku](../assets/marriages/upgrade.png)
 - Aby wziąć rozwód kliknij **lewym** przyciskiem myszy na tabliczkę w GUI. Przed podjęciem ostatecznej decyzji zostaniesz poproszony o potwierdzenie.
-ZDJECIE  
+![Rozwód](../assets/marriages/divorce.png)
 - Aktualny status związku znajdziesz najeżdżając na główkę służącą do ulepszania ślubu.
-- Czas od ostatniego logowania się twojej miłości sprawdzisz najeżdżając na jej główkę w GUI. ZDJECIE
-  
+- Czas od ostatniego logowania się twojej miłości sprawdzisz najeżdżając na jej główkę w GUI.
+![Czas ostatniego logowania](../assets/marriages/last_seen.png)
+
 ## Komendy
 - Aby wziąć ślub użyj komendy **/slub zapros [nick]**.
 - Aby zaakceptować oświadczyny użyj komendy **/slub accept [nick]**.
@@ -19,7 +21,6 @@ ZDJECIE
 - Aby otworzyć panel ślubu będąc w związku użyj komendy **/slub**.
 
 ## Informacje o poziomach. 
-
 |**Poziom**|      **Nazwa**      |**Cena (kokscoiny)**|**Cena (rubiny)**|**Booster XP i rubinów**|
 |:--------:|:-------------------:|:------------------:|:---------------:|:----------------------:|
 |     1    |         Para        |        1 000       |        -        |           10%          |
@@ -34,5 +35,16 @@ ZDJECIE
 |    10    | Nieskończona miłość |        7 500       |     225 000     |           75%          |
 
 ## Kolory każdego poziomu ślubu. 
-Przed nickiem na liście graczy, na chacie i nad graczem pokazuje się serce w odpowiednim kolorze dla każdego poziomu ślubu. 
-ZDJECIE 
+Przed nickiem na liście graczy, na chacie i nad graczem pokazuje się serce w odpowiednim kolorze dla każdego poziomu ślubu.
+
+![Kolory poziomów](../assets/marriages/levels.png)
+
+## Kommunikaty na chacie
+Informacja o ślubie.
+![Komunikat chatu](../assets/marriages/chat_message1.png)
+
+Informacja o rozwodzie.
+![Komunikat chatu](../assets/marriages/chat_message2.png)
+
+Informacja o ulepszeniu związku.
+![Komunikat chatu](../assets/marriages/chat_message3.png)
