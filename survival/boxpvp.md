@@ -4,6 +4,33 @@ BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdo
 
 ## JAK WYGLĄDA GRA NA BOXPVP
 
+
+## Generatory
+
+Na serwerze znajdziesz generatory takie jak:
+1. Generator węgla & bloków węgla
+2. Generator żelaza & bloków żelaza
+3. Generator złota & bloków złota 
+4. Generator szmaragdów & bloków szmaragdu
+5. Generator diamentów & bloków  diamentu
+
+## Bezpieczna Strefa Kopania
+Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją do żeby przeteleportować się na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
+
+![NPC Bezpieczna Strefa](/assets/boxpvp/boxpvp-bezpieczna-strefa.png)
+
+Na **Bezpiecznej Strefie Kopania** pvp jest zawsze wyłączone, a na samej strefie są różne generatory bloków. Każdy z generatorów ma własny czas Regenarcji **tym droższe bloki tym więcej czasu regeneracji**, ale trzeba pamiętać o tym, że każdy generator ma również do jakiego poziomu maksymalnie można używać kilof. 
+
+## Strefa AFK
+
+Odpoczywaj w tym miejscu, przy okazji zgarniając **Klucze do Skrzyni AFK!**
+
+Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!**
+
+![strefa afk](/assets/boxpvp/boxpvp-strefa-afk.png)
+
+## Skrzynki
+
 ## Komendy
 
 - /klan - Lista komend klanowych
@@ -25,16 +52,5 @@ BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdo
 - /rynek - Rynek na którym możesz kupować lub sprzedawać przedmioty
 - /villager - Dostęp do npc poza spawnem
 - /osiagniecia - Nagrody za gre na serwerze
-
-## Bezpieczna Strefa Kopania
-Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją do żeby przeteleportować się na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
-
-## Strefa AFK
-
-Odpoczywaj w tym miejscu, przy okazji zgarniając **Klucze do Skrzyni AFK!**
-
-Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!**
-
-![strefa afk](/assets/boxpvp/boxpvp-strefa-afk.png)
 
 
