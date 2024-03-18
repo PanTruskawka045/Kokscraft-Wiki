@@ -10,23 +10,44 @@ W aktualnym sezonie **BOXPVP** tematem przewodnim są **Pokemony**, na samej map
 
 ## Wymiana Bloków Na Coinsy
 
-## NPC Z Zbrojami
-Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **Coinów**, które zdobywasz poprzez wymiane wykopanych bloków. Pamiętaj, twoja zbroja musi być **Naprawione** aby dało się ją ulepszyć!
 
-Do **Villagerów Ze Zbrojami** można przeteleportować się za pomocą **/warp** i wybierając **Jajko Villagera**.
+
+Do **Villagerów** z wymianą **bloków i coinów**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+
+![wymiana blokow](/assets/boxpvp/boxpvp-wymiana-blokow.png)
+
+## NPC Ze Zbrojami
+Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **Coinów**, które zdobywasz poprzez wymiane wykopanych bloków. Pamiętaj twoja zbroja musi być **Naprawione** aby dało się ją ulepszyć!
+
+Do **Villagerów Ze Zbrojami** można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
 
 ![sety](/assets/boxpvp/boxpvp-sety.png)
 
-## Skille I Specjalne Przedmioty
+## Skille 
+
+Do **Villagerów Ze Skillami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+
+![Skille](/assets/boxpvp/boxpvp-skille.png)
+
+## Specjalne i Przydatne Przedmioty
+
+
+Do **Villagerów Ze Specjalnymi I Przydatnymi Przedmiotami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+
+![Przydatne itemy](/assets/boxpvp/boxpvp-przydatne-itemy.png)
 
 ## Generatory
 
-Na serwerze znajdziesz generatory takie jak:
-1. Generator węgla & bloków węgla
-2. Generator żelaza & bloków żelaza
-3. Generator złota & bloków złota 
-4. Generator szmaragdów & bloków szmaragdu
-5. Generator diamentów & bloków  diamentu
+Na serwerze znajdziesz **Generatory** takie jak:
+1. Generator Węgla & Bloków Węgla
+2. Generator Żelaza & Bloków Żelaza
+3. Generator Złota & Bloków Złota 
+4. Generator Szmaragdów & Bloków Szmaragdu
+5. Generator Diamentów & Bloków  Diamentu
+6. Generator Bloków Purpuru,Szmaragdów & Bloków Szmaragdu
+7. Generator Pradawnych Zgliszcz, Szmaragdów, Bloków Szmaragdu, Diamentów & Bloków  Diamentu
+
+**Każdy** z generatorów ma własny czas **Regenarcji**, tym droższe bloki tym więcej czasu regeneracj.
 
 ## Arena PVP
 
@@ -44,9 +65,9 @@ W tej strefie korzystanie z elytr jest **zablokowane**, ale trzeba **pamiętać*
 
 Do **Strefy Bez Elytr** można się przeteleportować, używając komendy **/warp** i wybierając **Elytre**. 
 
-### Bloki Ancient Debris
+### Bloki Pradawnych Zgliszcz
 
-W **Strefie Bez Elytr** można też wydobyć bloki **Ancient Debris**, są one pomieszane z blokami 
+W **Strefie Bez Elytr** można też wydobyć bloki **Pradawnych zgliszcz**, są one pomieszane z blokami 
 i rudami **diamentów i emeraldów**.
 
 ![Bez Elytr](/assets/boxpvp/boxpvp-strefa-bez-elytr.png)
