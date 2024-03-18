@@ -1,6 +1,6 @@
 # BOXPVP
 
-BOXPVP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt topek i zostać najlepszym na serwerze, zarazem trzeba pamietać o wzbogocaniu się i ciągłym ulepszaniu swojego ekwipunku, żeby nie zostać w tyle.
+**BOXPVP** to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt topek i zostać **najlepszym** na serwerze, zarazem trzeba **pamietać** o wzbogocaniu się i ciągłym **ulepszaniu** swojego ekwipunku, żeby nie zostać w tyle!
 
 ## Wygląd Sezonu
 
@@ -8,33 +8,44 @@ W aktualnym sezonie **BOXPVP** tematem przewodnim są **Pokemony**, na samej map
 
 ![MAPA](/assets/boxpvp/boxpvp-glowna-mapa.png)
 
-## Wymiana Bloków Na Coinsy
+## NPC Do Wymiany Bloków Na Coinsy
 
+**Najważniejszą** rzeczą jaką trzeba pamiętać na BOXPVP, jest to że główną walutą do **Ulepszania** rzeczy są **Coinsy**. Same coinsy zdobywasz poprzez wymianę bloków u villagerów, pod nazwą **Wymiana Bloków**, trzeba też pamiętać, że jest duża ilość poziomów coinsów, i żeby zdobyć wyższy poziom trzeba je wymienić u villagera, pod nazwą **Wymiana Coinsy**.
 
-
-Do **Villagerów** z wymianą **bloków i coinów**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+Do **Villagerów** z wymianą **bloków i coinsów**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
 
 ![wymiana blokow](/assets/boxpvp/boxpvp-wymiana-blokow.png)
 
 ## NPC Ze Zbrojami
-Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **Coinów**, które zdobywasz poprzez wymiane wykopanych bloków. Pamiętaj twoja zbroja musi być **Naprawione** aby dało się ją ulepszyć!
+Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **Coinsów**, które zdobywasz poprzez wymiane wykopanych bloków. Pamiętaj twoja zbroja musi być **Naprawiona** aby dało się ją ulepszyć!
 
 Do **Villagerów Ze Zbrojami** można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
 
 ![sety](/assets/boxpvp/boxpvp-sety.png)
 
-## Skille 
+## NPC Z Przydatnymi i Specjalnymi Przedmiotami
 
-Do **Villagerów Ze Skillami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+Tych **Dwoje Villagerów** można uznać jako jedni z **Najważniejszych**. 
 
-![Skille](/assets/boxpvp/boxpvp-skille.png)
+Villager z **Przydatnymi Przedmiotami** oferuje nam takie rzeczy jak np: złote jabłuszka, fajerwerki, sieci czy kamień i drewno. 
 
-## Specjalne i Przydatne Przedmioty
-
+Villager z **Specjalnymi Przedmiotami** za to oferuje nam takie przedmioty jak np: Skill Podpalenia, Skill Usuwania Ognia, Siekierke, czy nawet kij z odrzutem. 
 
 Do **Villagerów Ze Specjalnymi I Przydatnymi Przedmiotami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
 
 ![Przydatne itemy](/assets/boxpvp/boxpvp-przydatne-itemy.png)
+
+## NPC Ze Skillami 
+
+**Villagerzy ze skillami** dają również **bardzo ważne rzeczy**, które mogą przydać się w samej walce. Żeby kupić u nich rzeczy trzeba posiadać **Serce BOSSA**.
+
+Villager pod nazwą **Skille** daje tańsze i gorsze skille, którymi są np: **Skill: Zabójczy Strzał**, który po uderzeniu typa strzela go piorunem, zabierając mu 25% jego życia. 
+
+Villager pod nazwą **Ulepszone Skille** daje możliwość kupna mocniejszego skilla np: **Ulepszony Skill: Zabójczy Strzał**, który przez to, że jest ulepszony w momencie uderzenia gracza strzela go piorunem i zabierając mu 45% jego życia. 
+
+Do **Villagerów Ze Skillami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+
+![Skille](/assets/boxpvp/boxpvp-skille.png)
 
 ## Generatory
 
@@ -102,34 +113,36 @@ Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!
 ## Skrzynki
 Na **BOXPVP** masz dużą ilość skrzynek do otwierania, kluczę do nich można zdobyć np: ze strefy afk, ale też można je zakupić na stronie **kokscraft.pl** jak się wejdzie na strone trzeba się skierować do **sklepu**, gdy cię przełączy wybrać tryb **BOXPVP** i na koniec **specjalne przedmioty**.
 
-Do skrzynek można się przeteleportować wpisując **/warp** i wybierając **Pomarańczowego Shulker Boxa**.
+Do **Skrzynek** można się przeteleportować wpisując **/warp** i wybierając **Pomarańczowego Shulker Boxa**.
 
 ![Skrzynki](/assets/boxpvp/boxpvp-skrzynki-1.png)
 
 ### Co znajduje się w skrzynkach
-W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po klucze i sety. Wszystko też jest zależne od skrzynki bo tym lepsza skrzynka to też lepszy drop.
+W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po klucze i sety. **Wszystko** też jest zależne od skrzynki bo tym **Lepsza** skrzynka to też **Lepszy** drop.
 
-## Komendy
+## Najważniejsze Komendy
 
-- /klan - Lista komend klanowych
-- /ch - Zmiana kanału trybu
-- /cc - Ustawienia czatu
-- /kit - Zestawy
-- /ulepsz - Ulepszanie uzbrojenia
-- /konto - Ulepszanie konta
-- /nick - Zmiana koloru nicku
-- /warp - Lista warpow
-- /bloki - Zmiana minerałów na Bloki
-- /topki - Topki serwerowe
-- /gamma- Wlaczenie/wylaczenie swiatla
-- /gracz [nick] - Informacje o graczu
-- /profil [nick] - Profil gracza
-- /rangi - Informacje o rangach
-- /resetujranking - Reset rankingu za 10000$
-- /wymiana [nick] - Wymiana z graczem
-- /rynek - Rynek na którym możesz kupować lub sprzedawać przedmioty
-- /villager - Dostęp do npc poza spawnem
-- /osiagniecia - Nagrody za gre na serwerze
+1. /klan - Lista komend klanowych.
+2. /ch - Zmiana kanału trybu.
+3. /cc - Ustawienia czatu.
+4. /kit - Zestawy.
+5. /konto - Ulepszanie konta.
+6. /nick - Zmiana koloru nicku.
+7. /warp - Lista warpow.
+8. /bloki - Zmiana minerałów na Bloki.
+9. /topki - Topki serwerowe.
+10. /gamma- Wlaczenie/wylaczenie swiatla.
+11. /gracz [nick] - Informacje o graczu.
+12. /profil [nick] - Profil gracza.
+13. /rangi - Informacje o rangach.
+14. /resetujranking - Reset rankingu za 10000$.
+15. /wymiana [nick] - Wymiana z graczem.
+16. /rynek - Rynek na którym możesz kupować lub sprzedawać przedmioty.
+17. /villager - Dostęp do npc poza spawnem.
+18. /ustawienia - Możliwość włączenia np: żeby minerały zmieniały się na bloki. 
+19. /profil - możliwość sprawdzenia kogoś ekwipunku.
+20. /perk - Ulepszanie perków.
+21. /ec - Dostęp do enderchestów poza spawnem.
 
 ## Aktualizacje Trybu BOXPVP
 
