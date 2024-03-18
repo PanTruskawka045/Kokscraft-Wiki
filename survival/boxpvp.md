@@ -1,14 +1,14 @@
 # BOXPVP
 
-BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt topek żeby stać się najlepszym na serwerze, zarazem trzeba pamietać o wzbogocaniu się i ciągłym ulepszaniu swojego ekwipunku, żeby nie zostać w tyle.
-
-## JAK WYGLĄDA GRA NA BOXPVP
+BOXPVP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt topek i zostać najlepszym na serwerze, zarazem trzeba pamietać o wzbogocaniu się i ciągłym ulepszaniu swojego ekwipunku, żeby nie zostać w tyle.
 
 ## Wygląd Sezonu
 
 W aktualnym sezonie **BOXPVP** tematem przewodnim są **Pokemony**, na samej mapie można zobaczyć dużej ilości wybudowanych pokemonów, a zarazem same **Sety** są nazwane, rodzajami **Pokemonów**.
 
 ![MAPA](/assets/boxpvp/boxpvp-glowna-mapa.png)
+
+## Wymiana Bloków Na Coinsy
 
 ## NPC Z Zbrojami
 
@@ -33,6 +33,9 @@ Na **Arenie PVP** możesz walczyć z innymi graczami, dodatkowo również zbiera
 
 Na mapie możesz stawiać bloki: **cobblestone oraz drewno**, które znikają po **określonym czasie**.
 
+## Strefa Leczenia
+
+W momencie, kiedy skończyłeś już walkę a chciałbyś się **Szybko uleczyć** masz taką możliwość na spawnie stając w **Strefie Leczenia** znajduję się ona przed wyjściem na Arene PVP.
 
 ## Strefa Bez Elytr
 
@@ -88,7 +91,7 @@ W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po
 - /konto - Ulepszanie konta
 - /nick - Zmiana koloru nicku
 - /warp - Lista warpow
-- /bloki - Ulepszanie blokow
+- /bloki - Zmiana minerałów na Bloki
 - /topki - Topki serwerowe
 - /gamma- Wlaczenie/wylaczenie swiatla
 - /gracz [nick] - Informacje o graczu
