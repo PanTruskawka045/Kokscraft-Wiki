@@ -6,7 +6,7 @@ Stwórz własną wyspę i zainwestuj w farmę generatorów, które będą dla Ci
 
 Od razu po wejściu na tryb na ekranie wyświetli się samouczek odnośnie trybu. Po przeteleportowaniu na huba trybu udaj się do **[NPC] Farmera** który zaopatrzy Cię w Twój pierwszy item - drewnianą motykę. Po tym udaj się na farmę i zacznij od zbierania pszenicy, a następnie sprzedaj ją aby Twój stan konta się zwiększył. Możesz użyć komendy **/autosell** aby zaoszczędzić czas. 
 
-Inne metody sprzedaży to: 
+**Inne metody sprzedaży to:** 
 
 Masowa sprzedaż którą znajdziemy pod komendą **/menu** ukrytą pod "diamentem",
 Skup, który znajdziemy pod komendą **/menu** ukryty pod "kartką papieru". Gdy włączysz sprzedawanie, kliknij w item w ekwipunku aby go sprzedać. Sprzedać możesz tylko wybrane przedmioty, które mają w opisie informacje na temat ceny.
@@ -16,6 +16,7 @@ Skup, który znajdziemy pod komendą **/menu** ukryty pod "kartką papieru". Gdy
 ## **WYSPA**
 
 Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /island) lub będąc na spawnie wskoczyć do portalu który znajduje się na środku! Itemy które mogą pomóc w rozbudowie wyspy znajdziesz pod komendą **/sklep** za małą opłatą. 
+
 Swoją wyspę możesz ulepszać pod względem wielości, jak to zrobić? Wpisz komendę /menu -> Ulepszenia wyspy. Maksymalna wielkość wynosi 301x301. 
 
 ![portal](/assets/genblock/portall.png)
@@ -40,9 +41,9 @@ Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą 
 
 ![generatory](/assets/genblock/sklep.generatory.png)
 
-Istnieje możliwość wylosowania specjalnego przedmiotu dodającego +1/2/3 slota/y na generatory, możliwość taka jest w skrzynkach: Rzadkiej, Epickiej oraz Legendarnej.
+**Uwaga!** Istnieje możliwość wylosowania specjalnego przedmiotu dodającego +1/2/3 slota/y na generatory, możliwość taka jest w skrzynkach: Rzadkiej, Epickiej oraz Legendarnej.
 
-Dużym ułatwieniem dla osób korzystających z generatorów jest **Samo - sprzedająca skrzynka**. Zakupić ją można pod komendą **/sklep** w zakładce "Przedmioty specjalne". **Jak to działa?** Itemy które zostaną wsadzone do skrzynki (ręcznie bądź hopperem) zostaną automatycznie sprzedane! Jedyne co trzeb zrobić, to wchodząc w skrzynke, wypłacić jej zarobki!
+Dużym ułatwieniem dla osób korzystających z generatorów jest **Samo - sprzedająca skrzynka**. Zakupić ją można pod komendą **/sklep** w zakładce "Przedmioty specjalne", za 1.000.000$. **Jak to działa?** Itemy które zostaną wsadzone do skrzynki (ręcznie bądź hopperem) zostaną automatycznie sprzedane! Jedyne co trzeb zrobić, to wchodząc w skrzynke, wypłacić jej zarobki!
 
 ![skrzynka-samo-sprzedajaca](/assets/genblock/skrzynka-samo.png)
 
@@ -74,96 +75,37 @@ Na **każde** ulepszenie trzeba spełniać dane wymagania, czym wyższy poziom, 
 ## **ENCHANTY**
 
 Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w farmieniu, szczęście w wydobywaniu, szczęście w kopaniu** posiadają trzy poziomy. Aby zenchantować na wyższy poziom trzeba posiadać więcej biblioteczek i większy lvl.
+
 **Enchanty dla narzędzi:**
 
-| PRZEDMIOT         | SIEKIERA                                  | 
-|:----------:|:-----------------:|
-| **Nazwa enchantu**    | **Co powoduje?**                             |
-| Szczęście             | Zwiększa ilość wydobywanych itemków         |
-| Wydajność             | Zwiększa wydajność kopania                  |
-| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki      |
-| Szczęście w ścinaniu  | Zwiększa ilość wydobywanych itemków w lesie |
-
-|PRZEDMIOT           | KILOF                                     |
-|:----------:|:-----------------:|
-| **Nazwa enchantu**    | **Co powoduje?**                               |
-| Szczęście             | Zwiększa ilość wydobywanych itemków           |
-| Wydajność             | Zwiększa wydajność kopania                    |
-| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki        |
-| Szczęście w kopaniu   | Zwiększa ilość wydobywanych itemków w kopalni |
-
-| PRZEDMIOT              |ŁOPATA                                       |
-|:----------:|:-----------------:|
-| **Nazwa enchantu**      | **Co powoduje?**                                  |
-| Szczęście               | Zwiększa ilość wydobywanych itemków              |
-| Wydajność               | Zwiększa wydajność kopania                       |
-| Automatyczna sprzedaż   | Automatycznie sprzedaje wykopane bloki           |
-| Szczęście w wydobywaniu | Zwiększa ilość wydobywanych itemków w Cementowni |
-
-| PRZEDMIOT           | MOTYKA                                   |
-|:----------:|:-----------------:|
-| **Nazwa enchantu**    | **Co powoduje?**                              |
-| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki       |
-| Szczęście w farmieniu | Zwiększa ilość wydobywanych itemów na farmie |
-
-Oprócz klasycznych enchantów jakie mamy w minecraft na zbroje, na trybie GenBlock dodaliśmy dodatkowe ulepszenie jakim jest życie. Enchant ten można założyć na każdą część zbroji. Daje on dodatkowe życie dla gracza.
+| PRZEDMIOT                        | SIEKIERA                                                                       |                 KILOF                                 |   MOTYKA |          ŁOPATA              |   
+|:-------------------------:|:------------------------------------------------:|:--------------------------------:|:----------:|:----------------------:|                                         
+| Nazwa enchantu                | Co powoduje?                                                               |                      Co powoduje?          | Co powoduje?   |     Co powoduje?           |   
+| Szczęście                             |Zwiększa ilość wydobywanych itemków                |   Zwiększa ilość wydobywanych itemków   |Zwiększa ilość wydobywanych itemków   |   Zwiększa ilość wydobywanych itemków 
+| Wydajność                           | Zwiększa wydajność kopania                                   |    Zwiększa wydajność kopania     |  Zwiększa wydajność kopania |    Zwiększa wydajność kopania         |   
+| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki          |  Automatycznie sprzedaje wykopane bloki    |  Automatycznie sprzedaje wykopane bloki   |   Automatycznie sprzedaje wykopane bloki    |   
+| Szczęście w ścinianiu/kopaniu/farmieniu  | Zwiększa ilość wydobywanych itemków w lesie |  Zwiększa ilość wydobywanych itemków w kopalni   | Zwiększa ilość wydobywanych itemków NA fARMIE  | Zwiększa ilość wydobywanych itemków w Cementowni  |   
 
 ## **CO DAJE ZBROJA?**
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. Aby ulepszyć zbroje należy udać się do głównego NPC na losowym warpie, oraz daną częścią zbroi w niego kliknąć, następnie wyświetlą się wymagania co do danego ulepszenia oraz potwierdzenie zakupu.
 
+| POZIOM | HEŁM [BONUS EXP] | NAPIERŚNIK [BONUS EXP] | NOGI [BONUS EXP]| BUTY [BONUS EXP]|
+|:------:|:---:|:---------:|:---:|:---:|
+|   1    |  2%  |     4%    |  3%  |  1%  |
+|   2    |  4%  |     7%    |  6%  |  3%  |
+|   3    |  8%  |    11%   |  9%  |  7%  |
+|   4    | 12% |    14%   | 13% | 11% |
+|   5    | 17% |    20%   | 18% | 15% |
+|   6    | 22% |    25%   | 23% | 20% |
+|   7    | 27% |    30%   | 28% | 25% |
+|   8    | 32% |    34%   | 33% | 30% |
+|   9    | 37% |    40%   | 40% | 38% |
+|  10    | 45% |    45%   | 55% | 45% |
 
-| POZIOM HEŁMU | BONUS EXP |
-|:----------:|:-----------------:|
-|  1    | 2%  | 
-|   2   | 4%  | 
-|     3 |  8%  |
-|    4  | 12%   | 
-|    5  | 17%   | 
-|   6   |  22%  | 
-|   7   |   27% |
-|    8  | 32%   | 
-|    9  | 37%   | 
-|  10    |  45%  | 
+## **JAK ULEPSZYĆ ZBROJE?**
 
-| POZIOM NAPIERŚNIKA | BONUS EXP |
-|:----------:|:-----------------:|
-|  1    | 4% | 
-|   2   | 7%  | 
-|     3 | 11%  |
-|    4  | 14%   | 
-|    5  | 20%   | 
-|   6   |  25%  | 
-|   7   |   30% |
-|    8  | 34%   | 
-|    9  | 40%   | 
-|  10    |  45%  | 
-
-| POZIOM NOGAWIC | BONUS EXP |
-|:----------:|:-----------------:|
-|  1    | 3% | 
-|   2   | 6%  | 
-|     3 | 9%  |
-|    4  | 13%   | 
-|    5  | 18%   | 
-|   6   |  23%  | 
-|   7   |   28% |
-|    8  | 33%   | 
-|    9  | 40%   | 
-|  10    |  55%  | 
-
-| POZIOM BUTÓW | BONUS EXP |
-|:----------:|:-----------------:|
-|  1    | 1% | 
-|   2   | 3%  | 
-|     3 | 7%  |
-|    4  | 11%   | 
-|    5  | 15%   | 
-|   6   |  20%  | 
-|   7   |   25% |
-|    8  | 30%   | 
-|    9  | 38%   | 
-|  10    |  45%  | 
+Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w postać villagera -> wybieramy część zbroi którą mamy zamiar ulepszyć. Następnie wyświetlą się wymagania, które muszą zostać spełnione aby doszło do ulepszenia poziomu części!
 
 ![podstawowe-itemy](/assets/genblock/info.zbroja.png)
 
