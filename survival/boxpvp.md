@@ -11,6 +11,9 @@ W aktualnym sezonie **BOXPVP** tematem przewodnim są **Pokemony**, na samej map
 ## Wymiana Bloków Na Coinsy
 
 ## NPC Z Zbrojami
+Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **Coinów**, które zdobywasz poprzez wymiane wykopanych bloków. Pamiętaj, twoja zbroja musi być **Naprawione** aby dało się ją ulepszyć!
+
+Do **Villagerów Ze Zbrojami** można przeteleportować się za pomocą **/warp** i wybierając **Jajko Villagera**.
 
 ## Skille I Specjalne Przedmioty
 
@@ -33,10 +36,6 @@ Na **Arenie PVP** możesz walczyć z innymi graczami, dodatkowo również zbiera
 
 Na mapie możesz stawiać bloki: **cobblestone oraz drewno**, które znikają po **określonym czasie**.
 
-## Strefa Leczenia
-
-W momencie, kiedy skończyłeś już walkę a chciałbyś się **Szybko uleczyć** masz taką możliwość na spawnie stając w **Strefie Leczenia** znajduję się ona przed wyjściem na Arene PVP.
-
 ## Strefa Bez Elytr
 
 W tej strefie korzystanie z elytr jest **zablokowane**, ale trzeba **pamiętać**, że jeżeli masz pełny ekwipunek to elytra wypadnie na ziemie! W strefie **Strefie Bez Elytr**, każda osoba otrzymuje efekt **Strength 1**.
@@ -55,6 +54,12 @@ i rudami **diamentów i emeraldów**.
 **BOSSY** respią się zawsze w godzinach **15:00-20:00**, występują ona w **Strefie Bez Elytr**, po zabójstwie **BOSSA** otrzymuje się jego serce.
 
 ![Boss](/assets/boxpvp/boxpvp-boss-strefa.png)
+
+## Strefa Leczenia
+
+W momencie, kiedy skończyłeś już walkę a chciałbyś się **Szybko uleczyć** masz taką możliwość na spawnie stając w **Strefie Leczenia** znajduję się ona przed wyjściem na **Arene PVP**.
+
+![Lecznie](/assets/boxpvp/boxpvp-leczenie.png)
 
 ## Bezpieczna Strefa Kopania
 Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją żeby się przeteleportować na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
