@@ -4,7 +4,7 @@ Tryb lifesteal praktycznie nie różni się od anarchii. W przeciwieństwie do a
 
 ## Jak trafić na lifesteal?
 
-Aby wejść na tryb Anarchia musisz użyć wersji 1.17+
+Aby wejść na tryb Anarchia musisz użyć wersji **1.17+**
 
 Na lifesteal możesz trafić wybierając go tak jak każdy tryb. W momencie dostania bana nie możesz na nim grać. 
 
