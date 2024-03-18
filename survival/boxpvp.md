@@ -4,6 +4,11 @@ BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdo
 
 ## JAK WYGLĄDA GRA NA BOXPVP
 
+## Mapa
+
+## NPC Z Zbrojami
+
+## Skille I Specjalne Przedmioty
 
 ## Generatory
 
@@ -15,11 +20,13 @@ Na serwerze znajdziesz generatory takie jak:
 5. Generator diamentów & bloków  diamentu
 
 ## Bezpieczna Strefa Kopania
-Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją do żeby przeteleportować się na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
+Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją żeby się przeteleportować na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
 
 ![NPC Bezpieczna Strefa](/assets/boxpvp/boxpvp-bezpieczna-strefa.png)
 
 Na **Bezpiecznej Strefie Kopania** pvp jest zawsze wyłączone, a na samej strefie są różne generatory bloków. Każdy z generatorów ma własny czas Regenarcji **tym droższe bloki tym więcej czasu regeneracji**, ale trzeba pamiętać o tym, że każdy generator ma również do jakiego poziomu maksymalnie można używać kilof. 
+
+## Strefa Bez Elytr
 
 ## Strefa AFK
 
@@ -30,6 +37,9 @@ Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!
 ![strefa afk](/assets/boxpvp/boxpvp-strefa-afk.png)
 
 ## Skrzynki
+Na BOXPVP masz dużą ilość skrzynek do otwierania, kluczę do nich można zdobyć np: ze strefy afk, ale też można je zakupić na stronie kokscraft.pl jak się wejdzie w sklep, wybierze tryb BOXPVP i specjalne przedmioty.
+
+![Skrzynki](/assets/boxpvp/boxpvp-skrzynki-1.png)
 
 ## Komendy
 
@@ -52,5 +62,7 @@ Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!
 - /rynek - Rynek na którym możesz kupować lub sprzedawać przedmioty
 - /villager - Dostęp do npc poza spawnem
 - /osiagniecia - Nagrody za gre na serwerze
+
+## Aktualizacje Trybu BOXPVP
 
 
