@@ -77,32 +77,32 @@ Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w f
 **Enchanty dla narzędzi:**
 
 | PRZEDMIOT         | SIEKIERA                                  | 
-|-----------------------|---------------------------------------------|
-| **Nazwa enchantu**    | **Co powoduje**                             |
+|:----------:|:-----------------:|
+| **Nazwa enchantu**    | **Co powoduje?**                             |
 | Szczęście             | Zwiększa ilość wydobywanych itemków         |
 | Wydajność             | Zwiększa wydajność kopania                  |
 | Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki      |
 | Szczęście w ścinaniu  | Zwiększa ilość wydobywanych itemków w lesie |
 
 |PRZEDMIOT           | KILOF                                     |
-|-----------------------|-----------------------------------------------|
-| **Nazwa enchantu**    | **Co powoduje**                               |
+|:----------:|:-----------------:|
+| **Nazwa enchantu**    | **Co powoduje?**                               |
 | Szczęście             | Zwiększa ilość wydobywanych itemków           |
 | Wydajność             | Zwiększa wydajność kopania                    |
 | Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki        |
 | Szczęście w kopaniu   | Zwiększa ilość wydobywanych itemków w kopalni |
 
 | PRZEDMIOT              |ŁOPATA                                       |
-|-------------------------|--------------------------------------------------|
-| **Nazwa enchantu**      | **Co powoduje**                                  |
+|:----------:|:-----------------:|
+| **Nazwa enchantu**      | **Co powoduje?**                                  |
 | Szczęście               | Zwiększa ilość wydobywanych itemków              |
 | Wydajność               | Zwiększa wydajność kopania                       |
 | Automatyczna sprzedaż   | Automatycznie sprzedaje wykopane bloki           |
 | Szczęście w wydobywaniu | Zwiększa ilość wydobywanych itemków w Cementowni |
 
 | PRZEDMIOT           | MOTYKA                                   |
-|-----------------------|----------------------------------------------|
-| **Nazwa enchantu**    | **Co powoduje**                              |
+|:----------:|:-----------------:|
+| **Nazwa enchantu**    | **Co powoduje?**                              |
 | Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki       |
 | Szczęście w farmieniu | Zwiększa ilość wydobywanych itemów na farmie |
 
@@ -112,6 +112,59 @@ Oprócz klasycznych enchantów jakie mamy w minecraft na zbroje, na trybie GenBl
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. Aby ulepszyć zbroje należy udać się do głównego NPC na losowym warpie, oraz daną częścią zbroi w niego kliknąć, następnie wyświetlą się wymagania co do danego ulepszenia oraz potwierdzenie zakupu.
 
+
+| POZIOM HEŁMU | BONUS EXP |
+|:----------:|:-----------------:|
+|  1    | 2%  | 
+|   2   | 4%  | 
+|     3 |  8%  |
+|    4  | 12%   | 
+|    5  | 17%   | 
+|   6   |  22%  | 
+|   7   |   27% |
+|    8  | 32%   | 
+|    9  | 37%   | 
+|  10    |  45%  | 
+
+| POZIOM NAPIERŚNIKA | BONUS EXP |
+|:----------:|:-----------------:|
+|  1    | 4% | 
+|   2   | 7%  | 
+|     3 | 11%  |
+|    4  | 14%   | 
+|    5  | 20%   | 
+|   6   |  25%  | 
+|   7   |   30% |
+|    8  | 34%   | 
+|    9  | 40%   | 
+|  10    |  45%  | 
+
+| POZIOM NOGAWIC | BONUS EXP |
+|:----------:|:-----------------:|
+|  1    | 3% | 
+|   2   | 6%  | 
+|     3 | 9%  |
+|    4  | 13%   | 
+|    5  | 18%   | 
+|   6   |  23%  | 
+|   7   |   28% |
+|    8  | 33%   | 
+|    9  | 40%   | 
+|  10    |  55%  | 
+
+| POZIOM BUTÓW | BONUS EXP |
+|:----------:|:-----------------:|
+|  1    | 1% | 
+|   2   | 3%  | 
+|     3 | 7%  |
+|    4  | 11%   | 
+|    5  | 15%   | 
+|   6   |  20%  | 
+|   7   |   25% |
+|    8  | 30%   | 
+|    9  | 38%   | 
+|  10    |  45%  | 
+
 ![podstawowe-itemy](/assets/genblock/info.zbroja.png)
 
 ## **SKĄD WZIĄĆ NARZĘDZIA? NA KTÓRE WARPY CHODZIĆ?**
@@ -119,7 +172,7 @@ Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość 
 **KILOF,** aby go zdobyć udaj się na **/warp Kopalnia** i następnie podejdź do **[NPC] Górnik**. Twoim zadaniem jest kopać rudy! Kopanie zwiększa poziom **Kopania**, za każdą wykopaną rudę otrzymujemy określoną liczbę EXP. Kopalnia składa się z 8 etapów (8 różnych złóż rud), kolejno wypisanych:
 
 | RODZAJ RUD |  WYMAGANY POZIOM |
-|--------------------|----------------|
+|:----------:|:-----------------:|
 |        Węgiel       |       0        | 
 |         Żelazo        |       10        | 
 |        Miedź       |        20       |                      
@@ -137,7 +190,7 @@ Twoim zadaniem jest zbieranie kolorowego cementu! Zbieranie zwiększa poziom **W
 
 
 | RODZAJ CEMENTU |  WYMAGANY POZIOM |
-|--------------------|----------------|
+|:----------:|:-----------------:|
 |        Czerwony       |       0        | 
 |         Pomarańczowy        |       10        | 
 |        Żółty        |        20       | 
@@ -153,7 +206,7 @@ Im lepszy cement wykopujesz, tym więcej zarabiasz za niego EXP. **Pamiętaj!** 
 Twoim zadaniem jest kopanie drewna! Kopanie zwiększa poziom **Drwalstwa**, za każdy zebrany blok drewna otrzymujemy określoną liczbę EXP. Tartak składa się z 8 etapów, kolejno wypisanych:
 
 | RODZAJ DREWNA |  WYMAGANY POZIOM |
-|--------------------|----------------|
+|:----------:|:-----------------:|
 |         Dębowe        |    0     | 
 |         świerkowe        |   10   | 
 |        Brzozowe        |    20    | 
@@ -169,7 +222,7 @@ Im lepsze bloki wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Wa�
 Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za każdy zebrany plon otrzymujemy określoną liczbę EXP. Farma składa się z 5 etapów, kolejno wypisanych:
 
 | RODZAJ PLONU |  WYMAGANY POZIOM |
-|--------------------|----------------|
+|:----------:|:-----------------:|
 |        Pszenica        |       0        | 
 |         Ziemniaki        |       20        | 
 |        Marchewki        |        40       | 
@@ -184,11 +237,11 @@ Im lepsze plony zbierasz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważn
 
 Na trybie istnieje **5** skrzynek: **Startowa, Rzadka, Epicka, Legendarna oraz Skrzynia AFK**. Jak je otworzyć?
 
-**Rzadka** = Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca**, można go kupić na stronie **https://kokscraft.pl/sklep/klucze/genblock** oraz wydropić w reszcie dostępnych skrzynek.
+**Rzadka** = Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca**, można go kupić na stronie -> [Kup klucz!](https://kokscraft.pl/sklep/klucze/genblock) oraz wydropić w reszcie dostępnych skrzynek.
 
-**Epicka** =  Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca** TYLKO DLA OSÓB Z RANGĄ SVIP+! można go kupić na stronie **https://kokscraft.pl/sklep/klucze/genblock** oraz wydropić w skrzynce reszcie dostępnych skrzynek.
+**Epicka** =  Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca** TYLKO DLA OSÓB Z RANGĄ SVIP+! można go kupić na stronie -> [Kup klucz!](https://kokscraft.pl/sklep/klucze/genblock) oraz wydropić w skrzynce reszcie dostępnych skrzynek.
 
-**Legendarna** = Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca** TYLKO DLA OSÓB Z RANGĄ MVIP! można go kupić na stronie **https://kokscraft.pl/sklep/klucze/genblock** oraz wydropić w skrzynce **Epickiej.**
+**Legendarna** = Klucz do niej jest w codziennej dostawie u **[NPC] Dostawca** TYLKO DLA OSÓB Z RANGĄ MVIP! można go kupić na stronie -> [Kup klucz!](https://kokscraft.pl/sklep/klucze/genblock) oraz wydropić w skrzynce **Epickiej.**
 
 **Skrzynia AFK** = Klucz do niej jest do zdobycia tylko w **strefie AFK!**
 
@@ -204,7 +257,7 @@ Aby otrzymac nagrode dodatkową trzeba afczyc: 30 minut
 W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrzymujemy daną ilość monet, które są bardzo przydatne! Do wbicia jest VII celów:
 
 | CZAS |  NAGRODA |
-|--------------------|----------------|
+|:----------:|:-----------------:|
 |        1 godzina      |       2.500 monet       | 
 |         6 godzin        |       15.000 monet        | 
 |       1 dzień       |        75.000 monet        | 
@@ -239,9 +292,9 @@ Jak dostać się na dany warp? -> **/warp [nazwa]**
 
 ## **BOOSTERY**
 
-**Booster XP na 30 minut (Ogólny)** = Do zakupy na stronie -> https://kokscraft.pl/sklep/klucze/genblock
+**Booster XP na 30 minut (Ogólny)** = Do zakupy na stronie -> [Kup boostery!](https://kokscraft.pl/sklep/klucze/genblock)
 
-**Booster Bloków na 30 minut (Ogólny)** = Do zakupy na stronie -> https://kokscraft.pl/sklep/klucze/genblock
+**Booster Bloków na 30 minut (Ogólny)** = Do zakupy na stronie -> [Kup boostery!](https://kokscraft.pl/sklep/klucze/genblock)
 
 **Booster Bloków (Farmer)** Możliwość wydropienia w skrzynkach.
 
