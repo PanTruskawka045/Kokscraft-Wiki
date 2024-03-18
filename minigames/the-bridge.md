@@ -3,11 +3,17 @@
 Wbiegnij przeciwnikowi do dziury i nie daj mu wskoczyć do swojej. Możesz to zrobić poprzez zabijanie go, omijanie go (bypass), 
 zabudowanie wejścia do dziury (hippo), pójście ukośnym mostem do jego bazy (wing) i próbowanie go wykiwać żeby móc go ominąć (juke)
 
+![the-bridge](/assets/thebridge/lobbynpc1.png)
+
+![the-bridge](/assets/thebridge/lobbynpc2.png)
 
 ## Bypass
 
 Bypass na trybie The Bridge w grze Minecraft oznacza zazwyczaj technikę lub metodę, 
 która pozwala graczom ominąć graczy lub przeszkody które by ich spowolniły
+
+![the-bridge](/assets/thebridge/bypass.png)
+![the-bridge](/assets/thebridge/bypass_2.png)
 
 ## Hippo 
 
