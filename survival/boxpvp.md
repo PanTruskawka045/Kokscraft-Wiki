@@ -23,16 +23,22 @@ Na serwerze znajdziesz generatory takie jak:
 4. Generator szmaragdów & bloków szmaragdu
 5. Generator diamentów & bloków  diamentu
 
-## Bezpieczna Strefa Kopania
-Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją żeby się przeteleportować na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
+## Arena PVP
 
-![NPC Bezpieczna Strefa](/assets/boxpvp/boxpvp-bezpieczna-strefa.png)
+Na **Arenie PVP** możesz walczyć z innymi graczami, dodatkowo również zbierać **bloki z boxów**.
 
-Na **Bezpiecznej Strefie Kopania** pvp jest zawsze wyłączone, a na samej strefie są różne generatory bloków. Każdy z generatorów ma własny czas Regenarcji **tym droższe bloki tym więcej czasu regeneracji**, ale trzeba pamiętać o tym, że każdy generator ma również do jakiego poziomu maksymalnie można używać kilof. 
+**Uwaga!** Po śmierci tracisz większość przedmiotów!
+
+**Uwaga!** Obrażenia od upadku za linią PVP są **włączone!**
+
+Na mapie możesz stawiać bloki: **cobblestone oraz drewno**, które znikają po **określonym czasie**.
+
 
 ## Strefa Bez Elytr
 
 W tej strefie korzystanie z elytr jest **zablokowane**, ale trzeba **pamiętać**, że jeżeli masz pełny ekwipunek to elytra wypadnie na ziemie! W strefie **Strefie Bez Elytr**, każda osoba otrzymuje efekt **Strength 1**.
+
+Do **Strefy Bez Elytr** można się przeteleportować, używając komendy **/warp** i wybierając **Elytre**. 
 
 ### Bloki Ancient Debris
 
@@ -43,7 +49,16 @@ i rudami **diamentów i emeraldów**.
 
 ## Bossy
 
+**BOSSY** respią się zawsze w godzinach **15:00-20:00**, występują ona w **Strefie Bez Elytr**, po zabójstwie **BOSSA** otrzymuje się jego serce.
 
+![Boss](/assets/boxpvp/boxpvp-boss-strefa.png)
+
+## Bezpieczna Strefa Kopania
+Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją żeby się przeteleportować na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
+
+![NPC Bezpieczna Strefa](/assets/boxpvp/boxpvp-bezpieczna-strefa.png)
+
+Na **Bezpiecznej Strefie Kopania** pvp jest zawsze wyłączone, a na samej strefie są różne generatory bloków. Każdy z generatorów ma własny czas Regenarcji **tym droższe bloki tym więcej czasu regeneracji**, ale trzeba pamiętać o tym, że każdy generator ma również do jakiego poziomu maksymalnie można używać kilof. 
 
 ## Strefa AFK
 
@@ -54,7 +69,9 @@ Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!
 ![strefa afk](/assets/boxpvp/boxpvp-strefa-afk.png)
 
 ## Skrzynki
-Na BOXPVP masz dużą ilość skrzynek do otwierania, kluczę do nich można zdobyć np: ze strefy afk, ale też można je zakupić na stronie kokscraft.pl jak się wejdzie w sklep, wybierze tryb BOXPVP i specjalne przedmioty.
+Na **BOXPVP** masz dużą ilość skrzynek do otwierania, kluczę do nich można zdobyć np: ze strefy afk, ale też można je zakupić na stronie **kokscraft.pl** jak się wejdzie na strone trzeba się skierować do **sklepu**, gdy cię przełączy wybrać tryb **BOXPVP** i na koniec **specjalne przedmioty**.
+
+Do skrzynek można się przeteleportować wpisując **/warp** i wybierając **Pomarańczowego Shulker Boxa**.
 
 ![Skrzynki](/assets/boxpvp/boxpvp-skrzynki-1.png)
 
@@ -85,7 +102,7 @@ W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po
 
 ## Aktualizacje Trybu BOXPVP
 
-**Wszystkie aktualizacje** jakie wchodzą na tryb **BOXPVP** są opisane na **dc.kokscraft.pl** albo można zobaczyć po krótce opisane przy skrzyni **AFK i MAGICZNEJ**, do których można się przeteleportować wpisując **/warp** i wybierając **Pomarańczowego Shulker Boxa**.
+**Wszystkie aktualizacje** jakie wchodzą na tryb **BOXPVP** są opisane na **dc.kokscraft.pl** albo można zobaczyć po krótce opisane przy skrzyni **AFK i MAGICZNEJ**.
 
 ![Aktualizacje](/assets/boxpvp/boxpvp-aktualizacje.png)
 
