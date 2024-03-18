@@ -2,10 +2,9 @@
 
 Tryb Anarchia charakteryzuje się brakiem zasad, administracji oraz ograniczeń. Gracze mogą działać całkowicie swobodnie, bez obaw o karanie za ich działania. To prowadzi do dynamicznego i często chaotycznego środowiska, gdzie wszystko może się zdarzyć – od budowania współpracy i tworzenia społeczności po walki, kradzieże i zniszczenia. Tryb Anarchii przyciąga graczy, którzy poszukują wyzwania oraz wolności tworzenia własnych reguł i historii w grze.
 
-Aby wejśc na tryb Anarchia musisz użyć wersji **1.17+**.
-
-
 ## Jak trafić na anarchie?
+
+Aby wejśc na tryb Anarchia musisz użyć wersji **1.17+**.
 
 Na anarchię możesz trafić wybierając ją tak jak każdy tryb. Inną opcją pojawienia się tam jest otrzymanie bana na serwerze kokscraft. Osoby które otrzymały bana od administracji lub AntyCheata moga bez ogarniczeń w dalszym ciągu grać na tym trybie.
 
