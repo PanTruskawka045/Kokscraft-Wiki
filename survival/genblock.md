@@ -276,7 +276,7 @@ Mając swoją wyspę mamy możliwość **"otworzenia własnego sklepu".** Skrzyn
 
 Jak dostać się na dany warp? -> **/warp [nazwa]**
 
-![warpy](/assets/genblock/WARPY.png)
+![warpy](/assets/genblock/warpy.png)
 
 ## **BOOSTERY**
 
