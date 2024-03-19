@@ -12,4 +12,12 @@ Na naszym serwerze występuje **lista znajomych**, służy ona przedewszystkim d
 ## Komunikaty
 
 Komunikat jaki występuje podczas **Zaproszenia** kogoś do znajomcyh.
-![Wyslanie]
+![Wyslanie](/assets/friends/f-zaproszenia-1.png)
+
+Komunikat, który dostaje wtedy **druga osoba**. Do szybszej akceptacji można kliknąć w **Komunikat**.
+![Dostaje](/assets/friends/f-zaproszenia-2.png)
+
+W momencie gdy osoba **zaakceptuje** zaproszenie, obydwie osoby dostaną komunikat. 
+![akceptacja](/assets/friends/f-zaproszenia-3.png)
+![akceptacja2]()
+
