@@ -208,8 +208,8 @@ Możesz sprwadzić swoje statystyki trybowe.
 ## Topki 
 
 Na trybie posiadamy trzy rodzaje topek: **BedWars, BedWars Duels, Klanowe**. Topki dzielą się na dzienne, tygodniowe i sezonowe. 
-- **Topki dzienne** liczą się od godziny **9:00 do 24:00**.
-- **Topki tygodniowe** resetują się o północy w poniedziałek. 
+- **Topka dzienne** liczy się od godziny **9:00 do 24:00**.
+- **Topka tygodniowe** jest to suma z siedmiu ostatnich dni. 
 - Nagrody za **topki sezonowe** ogłaszane są na głównym serwerze discord koskcrafta i nadawane są po zakończeniu sezonu 
 - Nagrody za **topki klanowe** ogłaszane są na głównym serwerze discord koskcrafta i nadawane są po zakończeniu sezonu dla własciciela klanu
 ![topki graczy](/assets/bedwars/topki1.png)
