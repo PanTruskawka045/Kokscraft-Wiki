@@ -112,7 +112,7 @@ Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w p
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. 
 
-| POZIOM | HEŁM [BONUS EXP] | NAPIERŚNIK [BONUS EXP] | NOGI [BONUS EXP]| BUTY [BONUS EXP]|
+| POZIOM | HEŁM [BONUS EXP] | NAPIERŚNIK [BONUS EXP] | NOGAWICE [BONUS EXP]| BUTY [BONUS EXP]|
 |:------:|:---:|:---------:|:---:|:---:|
 |   1    |  2%  |     4%    |  3%  |  1%  |
 |   2    |  4%  |     7%    |  6%  |  3%  |
