@@ -3,11 +3,12 @@ Na naszym serwerze występuje **lista znajomych**, służy ona przedewszystkim d
 
 ## Komendy 
 
-- **/f zapros [nick]** - Dodaje gracza do znajomych
-- **/f przyjmij [nick]** - Akceptuje zaproszenie do znajomych
-- **/f usun [nick]** - Usuwa gracza z listy znajomych
-- **/f list** - Wyświetla liste znajomych
-- **/f toggle** - Przełącza możliwość zapraszania do znajomych
+- **/f zapros [nick]** - Dodaje gracza do znajomych.
+- **/f przyjmij [nick]** - Akceptuje zaproszenie do znajomych.
+- **/f usun [nick]** - Usuwa gracza z listy znajomych.
+- **/f list** - Wyświetla liste znajomych.
+- **/f toggle** - Przełącza możliwość zapraszania do znajomych.
+- **/msg [nick]** - wysyłanie prywatnej wiadomości do znajomych.
 
 ## Komunikaty
 
@@ -40,5 +41,9 @@ Podczas użycia komendy **/f list**, wyskoczy ci lista twoich znajomych, na samy
 
 ### Możliwość Zapraszania
 
+Komunikaty, które występują podczas użycia **/f toggle**. 
+![toggle1](/assets/friends/f-toggle-2.png)
+![toggle2](/assets/friends/f-toggle-1.png)
 
+### Wysyłanie Wiadomości
 
