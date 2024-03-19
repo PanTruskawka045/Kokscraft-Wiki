@@ -19,7 +19,7 @@ Komunikat jaki występuje podczas **Zaproszenia** kogoś do znajomcyh.
 
 Komunikat, który dostaje wtedy **druga osoba**. Do szybszej akceptacji można kliknąć w **Komunikat**.
 
-![Dostaje](/assets/friends/f-zaproszenia-2.png)
+![Dostaje](/)
 
 W momencie gdy osoba **zaakceptuje** zaproszenie, obydwie osoby dostaną komunikat. 
 
@@ -33,3 +33,10 @@ Komunikat jaki występuje, kiedy **usuniesz** osobę ze znajomych.
 ![Usuniecie](/assets/friends/f-usuniecie.png)
 
 ### Lista znajomych
+
+Podczas użycia komendy **/f list**, wyskoczy ci lista twoich znajomych, na samym początku pokazuje ci ile masz znajomych i ile możesz mieć maksymalnie.Osoby które będą aktwyne podświetlają się na kolor **zielony**, a nieaktwyne na **szaro**. 
+
+![Lista](/assets/friends/f-lista-znajomych-1.png)
+
+### Możliwość Zapraszania
+
