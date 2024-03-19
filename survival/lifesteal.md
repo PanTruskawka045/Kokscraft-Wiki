@@ -1,6 +1,7 @@
 # Lifesteal 
 
 Tryb lifesteal praktycznie nie różni się od anarchii. W przeciwieństwie do anarchii gracze na lifesteal muszą przestrzegać zasad panujących na serwerze. Regulamin jest tam taki jak na pozostałych trybach survival. Lifesteal jest to tryb PvP, w którym zdobywasz serca od innych graczy, lub tracisz je przez śmierć. 
+
 Aby wejść na tryb Anarchia musisz użyć wersji **1.17+**
 
 ![lifesteal](/assets/anarchia-lifesteal/lifesteal.png)
