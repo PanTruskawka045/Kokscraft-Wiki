@@ -28,3 +28,8 @@ W momencie gdy osoba **zaakceptuje** zaproszenie, obydwie osoby dostaną komunik
 
 ### Usunięcie 
 
+Komunikat jaki występuje, kiedy **usuniesz** osobę ze znajomych.
+
+![Usuniecie](/assets/friends/f-usuniecie.png)
+
+### Lista znajomych
