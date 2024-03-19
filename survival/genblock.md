@@ -35,6 +35,20 @@ Jest możliwość **tworzenia nowych profili** (bez konieczności usuwania stary
 
 ![generatory](/assets/genblock/profill.png)
 
+## **PROFIL GRACZA**
+
+Klikając na danego gracza prawym przyciskiem myszy uruchomi się GUI. O graczu wyświetlą się informacje takie jak:
+
+- Poziom: Farmienia, Górnictwa, Drwalstwa oraz Wydobywania,
+
+- Stan konta,
+
+- Posiadana zbroja,
+
+- Możliwość wymiany, 
+
+- Możliwość odwiedzenia wyspy.
+
 ## **GENERATORY**
 
 Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą **/generatorshop**. Istnieje 11 poziomów generatorów oraz 3 poziomy tieru, czym lepszy - tym generuje więcej pieniędzy. Generatory na wyspie kładziesz według własnego uznania, lecz maksymalna ich ilość na jednej wyspie to **25**! Ilość jaką możesz postawić również trzeba kupić pod komendą /menu **->** Ulepszenia wyspy. **UWAGA!** Aby generator wytwarzał monety, ktoś musi znajdować się w ich pobliżu.
@@ -60,13 +74,13 @@ Aby móc zbierać itemy za pomocą wszystkich narządzi, czyli: **motyki, kilofa
 
 Aby ulepszyć daną rzecz należy udać się do odpowiedniego **NPC**, czyli aby ulepszyć:
 
-**Motykę**, trzeba iść do Farmera -> **/warp Farma**
+- **Motykę**, trzeba iść do Farmera -> **/warp Farma**
 
-**Siekierę,** trzeba iść do Drwala, -> **/warp Tartak**
+- **Siekierę,** trzeba iść do Drwala, -> **/warp Tartak**
 
-**Łopatę**, trzeba iść do Wydobywacza, -> **/warp Cementownia**
-
-**Kilof,** trzeba iść do Górnika, -> **/warp Kopalnia**
+- **Łopatę**, trzeba iść do Wydobywacza, -> **/warp Cementownia**
+  
+- **Kilof,** trzeba iść do Górnika, -> **/warp Kopalnia**
 
 Na **każde** ulepszenie trzeba spełniać dane wymagania, czym wyższy poziom, tym wyższe wymagania!
 
@@ -86,6 +100,14 @@ Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w f
 | Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki          |  Automatycznie sprzedaje wykopane bloki    |  Automatycznie sprzedaje wykopane bloki   |   Automatycznie sprzedaje wykopane bloki    |   
 | Szczęście w ścinianiu/kopaniu/farmieniu  | Zwiększa ilość wydobywanych itemków w lesie |  Zwiększa ilość wydobywanych itemków w kopalni   | Zwiększa ilość wydobywanych itemków NA fARMIE  | Zwiększa ilość wydobywanych itemków w Cementowni  |   
 
+## **JAK ULEPSZYĆ ZBROJE?**
+
+Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w postać villagera -> wybieramy część zbroi którą mamy zamiar ulepszyć. Następnie wyświetlą się wymagania, które muszą zostać spełnione aby doszło do ulepszenia poziomu części!
+
+![ulepszenie](/assets/genblock/przedmiotulepsz.png)
+
+![ulepszenie](/assets/genblock/wymagania.png)
+
 ## **CO DAJE ZBROJA?**
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. 
@@ -103,14 +125,6 @@ Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość 
 |   9    | 37% |    40%   | 40% | 38% |
 |  10    | 45% |    45%   | 55% | 45% |
 
-## **JAK ULEPSZYĆ ZBROJE?**
-
-Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w postać villagera -> wybieramy część zbroi którą mamy zamiar ulepszyć. Następnie wyświetlą się wymagania, które muszą zostać spełnione aby doszło do ulepszenia poziomu części!
-
-![ulepszenie](/assets/genblock/przedmiotulepsz.png)
-
-![ulepszenie](/assets/genblock/wymagania.png)
-
 ## **SKĄD WZIĄĆ NARZĘDZIA? NA KTÓRE WARPY CHODZIĆ?**
 
 **KILOF,** aby go zdobyć udaj się na **/warp Kopalnia** i następnie podejdź do **[NPC] Górnik**. Twoim zadaniem jest kopać rudy! Kopanie zwiększa poziom **Kopania**, za każdą wykopaną rudę otrzymujemy określoną liczbę EXP. Kopalnia składa się z 8 etapów (8 różnych złóż rud), kolejno wypisanych:
@@ -126,7 +140,7 @@ Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w p
 |       Emeraldy     |         60      | 
 |       Diamenty      |         70      | 
 
-Im lepsze rudy wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Górnik**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu kilofa który pokazuje się w jego nazwie!
+- Im lepsze rudy wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Górnik**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu kilofa który pokazuje się w jego nazwie!
 
 **ŁOPATA**, aby ją zdobyć udaj się na **/warp Cementownia** i następnie podejdź do **[NPC] Wydobywacz.**
 Twoim zadaniem jest zbieranie kolorowego cementu! Zbieranie zwiększa poziom **Wydobywania**, za każdy zebrany blok otrzymujemy określoną liczbę EXP. Cementownia składa się z 8 etapów, kolejno wypisanych:
@@ -142,7 +156,7 @@ Twoim zadaniem jest zbieranie kolorowego cementu! Zbieranie zwiększa poziom **W
 |       Różowy      |         60      | 
 |       Fioletowy      |         70      | 
 
-Im lepszy cement wykopujesz, tym więcej zarabiasz za niego EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie łopaty u **[NPC] Wydobywacz**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu łopaty który pokazuje się w jego nazwie!
+- Im lepszy cement wykopujesz, tym więcej zarabiasz za niego EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie łopaty u **[NPC] Wydobywacz**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu łopaty który pokazuje się w jego nazwie!
 
 **SIEKIERA**, aby ją zdobyć udaj się na **/warp Tartak** i następnie podejdź do **[NPC] Drwal.**
 Twoim zadaniem jest kopanie drewna! Kopanie zwiększa poziom **Drwalstwa**, za każdy zebrany blok drewna otrzymujemy określoną liczbę EXP. Tartak składa się z 8 etapów, kolejno wypisanych:
@@ -158,7 +172,7 @@ Twoim zadaniem jest kopanie drewna! Kopanie zwiększa poziom **Drwalstwa**, za k
 |       Trzon      |    60    | 
 |       Trzon      |    70    | 
 
-Im lepsze bloki wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Drwal**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu siekiery który pokazuje się w jej nazwie!
+- Im lepsze bloki wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Drwal**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu siekiery który pokazuje się w jej nazwie!
 
 **MOTYKA**, aby ją zdobyć udaj się na **/warp Farma** i następnie podejdź do **[NPC] Farmer.**
 Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za każdy zebrany plon otrzymujemy określoną liczbę EXP. Farma składa się z 5 etapów, kolejno wypisanych:
@@ -173,7 +187,7 @@ Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za 
 
 
 
-Im lepsze plony zbierasz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Farmer**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu motyki który pokazuje się w jej nazwie!
+- Im lepsze plony zbierasz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Farmer**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu motyki który pokazuje się w jej nazwie!
 
 ## **ZADANIA**
 
