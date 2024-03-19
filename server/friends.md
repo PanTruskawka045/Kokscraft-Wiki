@@ -9,6 +9,7 @@ Na naszym serwerze występuje **lista znajomych**, służy ona przedewszystkim d
 - **/f list** - Wyświetla liste znajomych.
 - **/f toggle** - Przełącza możliwość zapraszania do znajomych.
 - **/msg [nick]** - wysyłanie prywatnej wiadomości do znajomych.
+- **/r**  - szybsza możliwość wysłania prywatnej wiadomości do ostatniej osoby, z którą się pisało
 
 ## Komunikaty
 
@@ -48,10 +49,20 @@ Komunikaty, które występują podczas użycia **/f toggle**.
 
 ### Wysyłanie Wiadomości
 
-Komunikaty, które występują podczas pisania prywatnej wiadomości za pomocą **/msg**.
+Komunikaty, które występują podczas pisania prywatnej wiadomości za pomocą **/msg** i **/r** jest też możlwiość kliknięcia na wiadomość, którą się dostało żeby na nią odpowiedzieć.
 
 ![msg](/assets/friends/f-msg.png)
 
 Wygląd jak **Ty** wyślesz wiadomość.
 
-![ty](/)
+![ty](/assets/friends/f-msg-pop.png)
+
+Wygląd, kiedy **Ty** dostaniesz wiadomość.
+
+![ona](/assets/friends/f-msg-1.png)
+
+## Maksymalna Liczba Znajomych
+
+Podstawowo **Gracz**, może posiadać maksymalnie **10 osób** w liście znajomych, tą liczbę można zwiekszyć za pomocą **Kupna** rangi na stronie **kokscraft.pl**, każda ranga ma swoją określoną liczbę znajomych. 
+
+### Limit Znajomych Posiadająć Range
