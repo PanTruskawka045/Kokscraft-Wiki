@@ -36,7 +36,7 @@ Komunikat jaki występuje, kiedy **usuniesz** osobę ze znajomych.
 
 ### Lista znajomych
 
-Podczas użycia komendy **/f list**, wyskoczy ci lista twoich znajomych, na samym początku pokazuje ci ile masz znajomych i ile możesz mieć maksymalnie.Osoby które będą aktwyne podświetlają się na kolor **zielony**, a nieaktwyne na **szaro**. 
+Podczas użycia komendy **/f list**, wyskoczy ci lista twoich znajomych, na samym początku pokazuje ci ile masz znajomych i ile możesz mieć maksymalnie. Osoby które będą aktwyne podświetlają się na kolor **zielony**, a nieaktwyne na **szaro**. 
 
 ![Lista](/assets/friends/f-lista-znajomych-1.png)
 
