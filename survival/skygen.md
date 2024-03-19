@@ -280,61 +280,75 @@ d) Poziom 4 = +20%
 e) Poziom 5 = +25%
 
 ## Skille
-Skill: Usuwanie Ognia
+
+- Skill: Usuwanie Ognia
 Po uderzeniu gracza usuwa ci efekt podpalenia
 Cooldown: 15 sekund
+Skill ma 20 użyć!
 
-Skill: Podpalenie
+- Skill: Podpalenie
 Po uderzeniu podpala przeciwnika na kilka sekund
 Cooldown: 10 sekund 
+Skill ma 20 użyć!
 
-Skill: Trujący Jad
+- Skill: Trujący Jad 
 Po uderzeniu zatruwa przeciwnika na 5 sekund
 Cooldown: 60 sekund
+Skill ma 12 użyć!
 
-Skill: Ciemność Nastała
+- Skill: Ciemność Nastała
 Po uderzeniu spowalnia i oślepia przeciwnika na 3 sekundy
 Cooldown: 35 sekund
+Skill ma 12 użyć!
 
-Skill: Pajęcza Sieć
+- Skill: Pajęcza Sieć
 Po uderzeniu stawia pajęczyny pod nogami przeciwnika na 3 sekundy
 Cooldown: 15 sekund
+Skill ma 15 użyć!
 
-Skill: Potężny Odlot
+- Skill: Potężny Odlot
 Po uderzeniu podrzuca przeciwnika w górę i odrzuca kilka kratek w losową stronę
 Cooldown: 25 sekund
+Skill ma 12 użyć!
 
-Skill: Zabójczy Strzał
+- Skill: Zabójczy Strzał
 Po uderzeniu strzela piorunem w przeciwnika zabierając mu 25% jego życia
 Cooldown: 30 sekund
+Skill ma 12 użyć!
 
-Skill: Zew Krwi
+- Skill: Zew Krwi
 Po uderzeniu zabiera 15% HP przeciwnikowi i przywraca tobie dwukrotność zabranego HP
 Cooldown:25 sekund
+Skill ma 12 użyć!
 
 ![skygen](/assets/skygen/skile1.png)
 
 ![skygen](/assets/skygen/skile3.png)
 
 ## Ulepszone Skille
-Skill: Potężny Odlot
+- Skill: Potężny Odlot
 Po uderzeniu podrzuca przeciwnika w górę i odrzuca kilka kratek w stronę ataku
 Cooldown: 40 sekund
+Skill ma 14 użyć!
 
-Skill: Zabójczy Strzał
+- Skill: Zabójczy Strzał
 Po uderzeniu strzela piorunek w przeciwnika zabierając mu 45% jego życia
 Cooldown: 60 sekund
+Skill ma 14 użyć!
 
-Skill: Zew Krwi
+- Skill: Zew Krwi
 Po uderzeniu zabiera 30% HP przeciwnikowi i przywraca tobie dwukrotność zabranego HP
 Cooldown: 40 sekund
+Skill ma 14 użyć!
 
-Skill: Paraliż
+- Skill: Paraliż
 Po uderzeniu paralizuje przeciwnika na 4 sekundy oślepiając go i spowolniając 
 Cooldown: 60 sekund
+Skill ma 15 użyć!
 
-Skill: Elytra-Blocker
+- Skill: Elytra-Blocker
 Po uderzeniu blokuje możliwość korzystania z elytry na 5 sekund
-Cooldown: 60 sekund
+Cooldown: 60 sekund 
+Skill ma 12 użyć!
 
 ![skygen](/assets/skygen/skile2.png)
