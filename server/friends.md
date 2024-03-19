@@ -42,8 +42,16 @@ Podczas użycia komendy **/f list**, wyskoczy ci lista twoich znajomych, na samy
 ### Możliwość Zapraszania
 
 Komunikaty, które występują podczas użycia **/f toggle**. 
+
 ![toggle1](/assets/friends/f-toggle-2.png)
 ![toggle2](/assets/friends/f-toggle-1.png)
 
 ### Wysyłanie Wiadomości
 
+Komunikaty, które występują podczas pisania prywatnej wiadomości za pomocą **/msg**.
+
+![msg](/assets/friends/f-msg.png)
+
+Wygląd jak **Ty** wyślesz wiadomość.
+
+![ty](/)
