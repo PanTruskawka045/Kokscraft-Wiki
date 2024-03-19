@@ -49,9 +49,11 @@ Komunikaty, które występują podczas użycia **/f toggle**.
 
 ### Wysyłanie Wiadomości
 
-Komunikaty, które występują podczas pisania prywatnej wiadomości za pomocą **/msg** i **/r** jest też możlwiość kliknięcia na wiadomość, którą się dostało żeby na nią odpowiedzieć.
+Komunikaty, które występują podczas pisania prywatnej wiadomości za pomocą **/msg** i **/r** jest też możlwiość **kliknięcia** na wiadomość, którą się dostało żeby na nią **szybciej** odpowiedzieć.
 
 ![msg](/assets/friends/f-msg.png)
+
+![r](/assets/friends/f-r.png)
 
 Wygląd jak **Ty** wyślesz wiadomość.
 
@@ -66,3 +68,9 @@ Wygląd, kiedy **Ty** dostaniesz wiadomość.
 Podstawowo **Gracz**, może posiadać maksymalnie **10 osób** w liście znajomych, tą liczbę można zwiekszyć za pomocą **Kupna** rangi na stronie **kokscraft.pl**, każda ranga ma swoją określoną liczbę znajomych. 
 
 ### Limit Znajomych Posiadająć Range
+
+- **VIP** - Limit 20 osób.
+- **SVIP** - Limit 40 osób.
+- **MVIP** - Limit 50 osób.
+- **UVIP** - Limit 100 osób.
+- **KOKS** - Limit 300 osób. 
