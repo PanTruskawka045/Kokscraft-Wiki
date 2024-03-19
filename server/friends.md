@@ -19,7 +19,7 @@ Komunikat jaki występuje podczas **Zaproszenia** kogoś do znajomcyh.
 
 Komunikat, który dostaje wtedy **druga osoba**. Do szybszej akceptacji można kliknąć w **Komunikat**.
 
-![Dostaje](/)
+![Dostaje](/assets/friends/f-zaproszenia-2.png)
 
 W momencie gdy osoba **zaakceptuje** zaproszenie, obydwie osoby dostaną komunikat. 
 
@@ -39,4 +39,6 @@ Podczas użycia komendy **/f list**, wyskoczy ci lista twoich znajomych, na samy
 ![Lista](/assets/friends/f-lista-znajomych-1.png)
 
 ### Możliwość Zapraszania
+
+
 
