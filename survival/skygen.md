@@ -29,6 +29,8 @@ komendy na skygenie:
 - /villager - Dostęp do npc poza spawnem
 - /osiagniecia - Nagrody za grę na serwerze
 - /sklep - Sklep trybowy
+- /ec - Przenośny enderchest dla rang mvip+
+
 ## Bossy 
 Na trybie występują bossy, z których dropią serca, za które możesz kupić skile, pojawiają się one w odstępie jednej godziny od 13:00 - 22:00.
 
@@ -132,7 +134,7 @@ Topki gildyjne
 
 5 najlepszych klanów z topek zostaną nagrodzonę na nową edycję w postaci rangi dla lidera!
 
-##Sklep
+## Sklep
 
 ![skygen](/assets/skygen/sklepskygen.png)
 
@@ -276,3 +278,63 @@ c) Poziom 3 = +15%
 d) Poziom 4 = +20%
 
 e) Poziom 5 = +25%
+
+## Skille
+Skill: Usuwanie Ognia
+Po uderzeniu gracza usuwa ci efekt podpalenia
+Cooldown: 15 sekund
+
+Skill: Podpalenie
+Po uderzeniu podpala przeciwnika na kilka sekund
+Cooldown: 10 sekund 
+
+Skill: Trujący Jad
+Po uderzeniu zatruwa przeciwnika na 5 sekund
+Cooldown: 60 sekund
+
+Skill: Ciemność Nastała
+Po uderzeniu spowalnia i oślepia przeciwnika na 3 sekundy
+Cooldown: 35 sekund
+
+Skill: Pajęcza Sieć
+Po uderzeniu stawia pajęczyny pod nogami przeciwnika na 3 sekundy
+Cooldown: 15 sekund
+
+Skill: Potężny Odlot
+Po uderzeniu podrzuca przeciwnika w górę i odrzuca kilka kratek w losową stronę
+Cooldown: 25 sekund
+
+Skill: Zabójczy Strzał
+Po uderzeniu strzela piorunem w przeciwnika zabierając mu 25% jego życia
+Cooldown: 30 sekund
+
+Skill: Zew Krwi
+Po uderzeniu zabiera 15% HP przeciwnikowi i przywraca tobie dwukrotność zabranego HP
+Cooldown:25 sekund
+
+![skygen](/assets/skygen/skile1.png)
+
+![skygen](/assets/skygen/skile3.png)
+
+## Ulepszone Skille
+Skill: Potężny Odlot
+Po uderzeniu podrzuca przeciwnika w górę i odrzuca kilka kratek w stronę ataku
+Cooldown: 40 sekund
+
+Skill: Zabójczy Strzał
+Po uderzeniu strzela piorunek w przeciwnika zabierając mu 45% jego życia
+Cooldown: 60 sekund
+
+Skill: Zew Krwi
+Po uderzeniu zabiera 30% HP przeciwnikowi i przywraca tobie dwukrotność zabranego HP
+Cooldown: 40 sekund
+
+Skill: Paraliż
+Po uderzeniu paralizuje przeciwnika na 4 sekundy oślepiając go i spowolniając 
+Cooldown: 60 sekund
+
+Skill: Elytra-Blocker
+Po uderzeniu blokuje możliwość korzystania z elytry na 5 sekund
+Cooldown: 60 sekund
+
+![skygen](/assets/skygen/skile2.png)
