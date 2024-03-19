@@ -11,3 +11,5 @@ Na naszym serwerze występuje **lista znajomych**, służy ona przedewszystkim d
 
 ## Komunikaty
 
+Komunikat jaki występuje podczas **Zaproszenia** kogoś do znajomcyh.
+![Wyslanie]
