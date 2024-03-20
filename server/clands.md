@@ -32,11 +32,31 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 
 - **Podatek klanowy** -
 
-- **Kolory klanów** - 
+- **Kolory klanów** 
+
+| kolor  |      Cena      |                     Wymagania                      |
+|:---------------:|:---------------:|:---------------:|
+| | 20000 kokscoinow | brak |
+| | 20000 kokscoinow | brak |
+| | 30000 kokscoinow | brak |
+| | brak | brak | 
+| | brak | brak |
+| | 20000 kokscoinow | brak |
+| | 5000 kokscoinow  | brak |
+| | 10000 kokscoinow | brak |
+| | 50000 kokscoinow | brak |
+| | brak | brak |
+| | brak | min. 20 osób i połowa musi mieć rangę. |
+| | brak | min. 75 level klanu |
+| | brak | maksymalny level klanu | 
 
 
 
 ### Skarbiec Klanu
+
+**Skarbiec Klanowy** służy do **wpłacania** walut serwerowych jak **Rubiny i Kokscoiny**, żeby ulepszać boostery klanowe lub zmieniać kolor klanu. Aby użyć skarbca klanowego należy **Kliknąć** na tabliczkę. 
+
+![Skarbiec](/assets/klany/klan-skarbiec1.png)
 
 ## Topki Klanowe
 
