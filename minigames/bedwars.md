@@ -223,3 +223,19 @@ Karnet BedWars można kupić za **kokscoiny**. Aby kupić karnet musisz klikną�
 
 Aby urozmaicić grę dla graczy postanowiliśmy wprowadzić kosmetyki. W skład ich wchodzą **skórki sklepu, skórki ulepszeń, wiadomość zniszczenia łóżka, hologram po zniszczeniu łóżka i efekt po zniszczeniu łóżka**.  Kosmetyki możesz zdobywać za pomocą karnetów BedWars, lub po prostu po zakupieniu w sklepie dziennym lub tygodniowy. Możesz również wylosować kosmetyki ze skrzynki unikatowej lub rzadkiej.
 ![kosmetyki](/assets/bedwars/kosmetyki.png)
+
+## Koniec gry
+
+Po zakończonej grze gracz otrzymuje:
+
+- Punkty rankingowe,
+- XP,
+- Rubiny,
+
+Obok ilości XP i rubinów widoczny jest mnożnik w procentach. Podstawowa wartość wynosi 100%. Mnożnik można zwiększyć za pomocą boosterów, zwierzaków, klanu lub ślubu. Jeżeli gracz jest w klanie, dodatkowo wyświetla się podatek klanowy. (Ustalany przez lidera klanu, max. 10%)
+
+Pod koniec areny gracz możne ocenić mapę - od bardzo słaba do bardzo dobra.
+
+Jako dodatkowe nagrody za rozegraną gierkę możliwe jest zdobycie skrzynek serwerowych i kluczy.
+
+![koniec gry](/assets/bedwars/wygrana.png)
