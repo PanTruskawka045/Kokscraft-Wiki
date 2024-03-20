@@ -69,8 +69,10 @@ Podstawowo **Gracz**, może posiadać maksymalnie **10 osób** w liście znajomy
 
 ### Limit Znajomych Posiadająć Range
 
-- **VIP** - Limit 20 osób.
-- **SVIP** - Limit 40 osób.
-- **MVIP** - Limit 50 osób.
-- **UVIP** - Limit 100 osób.
-- **KOKS** - Limit 300 osób. 
+|  Ranga   | Limit |
+|:--------:|:-----:|
+| **VIP**  |  20   |
+| **SVIP** |  40   |
+| **MVIP** |  50   |
+| **UVIP** |  100  |
+| **KOKS** |  300  |
