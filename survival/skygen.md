@@ -62,9 +62,11 @@ Poprzez osiągnięcia, sprzedaż przedmiotów na rynku, a także poprzez zabijan
 ## Eventy
 Podczas rozgrywki na trybie występują eventy za które otrzemuje się klucze do skrzynek.
 
-| **1 miejsce**   | **2 miejsce**   | **3 miejsce**   |
-|-----------------|-----------------|-----------------|
-| 3 koks klucze              | 1 koks klucz               | 3 magiczne klucze              |
+| Miejsce |     Nagroda      |
+|:-------:|:----------------:|
+|    1    |  3 koks klucze   |
+|    2    |   1 koks klucz   |
+|    3    | 1 magiczny klucz |
 
 ![skygen](/assets/skygen/event1.png)
 ![skygen](/assets/skygen/event4.png)
@@ -80,21 +82,21 @@ Na serwerze występują dwa rodzaje genboostów globalne i indywidualne. Genboos
 
 
 
-| **x2**   | **x3**   | **x5**   | **x10**   |
-|---------|---------|---------|---------|
-| 5min       | 5min       | 5min       | 5min       |
-| 15min      | 10min       | 10min       |   -    |
+| **x2** | **x3** | **x5** | **x10** |
+|--------|--------|--------|---------|
+| 5min   | 5min   | 5min   | 5min    |
+| 15min  | 10min  | 10min  | -       |
 
 ## Xpboosty
 Xpboosty występują tylko w postaci indywidualnej, można zdobyć je poprzez otwieranie skrzynek lub przez /osiągnięcia. Xpoosty jak nazwa wskazuje, mnożą zdobyty exp.
 
 ![skygen](/assets/skygen/xpboost.png)
 
-| **x2** | **z3** |
+| **x2** | **x3** |
 |--------|--------|
-| 5min | 15min |
-| 15min | - |
-| 30min | - |
+| 5min   | 15min  |
+| 15min  | -      |
+| 30min  | -      |
 
 ## Strefa Leczenia
 W momencie, kiedy skończyłeś już walkę, a chciałbyś się Szybko uleczyć, masz taką możliwość na spawnie stając w Strefie Leczenia znajduję się ona przed wyjściem na Arene PVP.
@@ -179,63 +181,53 @@ Ulepszenia za duszę:
 
 Więcej XP-a przy zabójstwie
 
-a) Poziom 1 = +4%
-
-b) Poziom 2 = +6%
-
-c) Poziom 3 = +10%
-
-d) Poziom 4 = +12%
-
-e) Poziom 5 = +15%
+|  Poziom  | Wartość |
+|:--------:|:-------:|
+| Poziom 1 |   +4%   |
+| Poziom 2 |   +6%   |
+| Poziom 3 |  +10%   |
+| Poziom 4 |  +12%   |
+| Poziom 5 |  +15%   |
 
 Zwiększone obrażenia
 
-a) Poziom 1 = +2 siły
-
-b) Poziom 2 = +4 siły
-
-c) Poziom 3 = +6 siły
-
-d) Poziom 4 = +8 siły 
-
-e) Poziom 5 = +10 siły
+| **Poziom** | **Wartość** |
+|------------|-------------|
+| Poziom 1   | +2 siły     |
+| Poziom 2   | +4 siły     |
+| Poziom 3   | +6 siły     |
+| Poziom 4   | +8 siły     |
+| Poziom 5   | +10 siły    |
 
 Bonusowe coinsy za zabójstwa graczy
 
-a) Poziom 1 = +1$
-
-b) Poziom 2 = +2$
-
-c) Poziom 3 = +3$
-
-d) Poziom 4 = +4$
-
-e) Poziom 5 = +5$
+| **Poziom** | **Wartość** |
+|:----------:|:-----------:|
+|  Poziom 1  |     +1$     |
+|  Poziom 2  |     +2$     |
+|  Poziom 3  |     +3$     |
+|  Poziom 4  |     +4$     |
+|  Poziom 5  |     +5$     |
 
 Silniejsza Ochrona
 
-a) Poziom 1 = +3 ochrony
-
-b) Poziom 2 = +6 ochrony
-
-c) Poziom 3 = +9 ochrony
-
-d) Poziom 4 = +12 ochrony 
-
-e) Poziom 5 = +15 ochrony
+| **Poziom** | **Wartość** |
+|:----------:|:-----------:|
+|  Poziom 1  | +3 ochrony  |
+|  Poziom 2  | +6 ochrony  |
+|  Poziom 3  | +9 ochrony  |
+|  Poziom 4  | +12 ochrony |
+|  Poziom 5  | +15 ochrony |
 
 Więcej rankingu za zabójstwa
 
-a) Poziom 1 = +2% rankingu
-
-b) Poziom 2 = +4% rankingu
-
-c) Poziom 3 = +8% rankingu
-
-d) Poziom 4 = +10% rankingu
-
-e) Poziom 5 = +12% rankingu
+| **Poziom** |  **Wartość**  |
+|:----------:|:-------------:|
+|  Poziom 1  | +2% rankingu  |
+|  Poziom 2  | +4% rankingu  |
+|  Poziom 3  | +8% rankingu  |
+|  Poziom 4  | +10% rankingu |
+|  Poziom 5  | +12% rankingu |
 
 ## Perki
 
@@ -245,39 +237,33 @@ Perki pozwalają na ulepszenie rozgrywki.
 
 Szansa na dodatkowy drop z generatów
 
-a) Poziom 1 = +5%
-
-b) Poziom 2 = +10%
-
-c) Poziom 3 = 15%
-
-d) Poziom 4 = +20%
-
-e) Poziom 5 = +25%
+| **Poziom** | **Wartość** |
+|:----------:|:-----------:|
+|  Poziom 1  |     +5%     |
+|  Poziom 2  |    +10%     |
+|  Poziom 3  |    +15%     |
+|  Poziom 4  |    +20%     |
+|  Poziom 5  |    +25%     |
 
 Więcej serduszek
 
-a) Poziom 1 = +1 serce
-
-b) Poziom 2 = +2 serca
-
-c) Poziom 3 = +3 serca
-
-d) Poziom 4 = +4 serca
-
-e) Poziom 5 = +5 serca
+| **Poziom** | **Wartość** |
+|:----------:|:-----------:|
+|  Poziom 1  |  +1 serce   |
+|  Poziom 2  |  +2 serca   |
+|  Poziom 3  |  +3 serca   |
+|  Poziom 4  |  +4 serca   |
+|  Poziom 5  |  +5 serca   |
 
 Większe szanse na drop dusz
 
-a) Poziom 1 = +5%
-
-b) Poziom 2 = +10%
-
-c) Poziom 3 = +15%
-
-d) Poziom 4 = +20%
-
-e) Poziom 5 = +25%
+| **Poziom** | **Wartość** |
+|:----------:|:-----------:|
+|  Poziom 1  |     +5%     |
+|  Poziom 2  |    +10%     |
+|  Poziom 3  |    +15%     |
+|  Poziom 4  |    +20%     |
+|  Poziom 5  |    +25%     |
 
 ## Skille
 
