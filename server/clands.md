@@ -24,16 +24,16 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 
 ### Informacje O Klanie
 
-Informacje o klanie sprawdzisz **Najeżdżając** myszką na główkę **Jasnozieloną Główkę** w GUI. Znajdziesz tam: 
+Informacje o klanie sprawdzisz **Najeżdżając** myszką na **Jasnozieloną Główkę** w GUI. Znajdziesz tam: 
 
 ![Informacje](/assets/klany/klan-informacje.png)
 
 ### Członkowie Klanu
-Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow lub Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu.  Aby sprawdzić musisz najechać myszką na główkę **brązową** w GUI.
+Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow lub Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu.  Aby sprawdzić musisz najechać myszką na **Brązową Główkę** w GUI.
 
 ### Poziomy Ulepszeń Klanów 
 
-W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić wystarczy kliknąć  w zieloną główkę lvl w GUI. Tą czynność może wykonać **Właściciel lub Zastępca** klanu.
+W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić wystarczy kliknąć w **Zieloną Główkę** lvl w GUI. Tą czynność może wykonać **Właściciel lub Zastępca** klanu.
 
 ### Ustawienia Klanu
 
