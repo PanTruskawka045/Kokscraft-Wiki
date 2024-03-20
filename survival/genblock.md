@@ -92,13 +92,13 @@ Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w f
 
 **Enchanty dla narzędzi:**
 
-| PRZEDMIOT                        | SIEKIERA                                                                       |                 KILOF                                 |   MOTYKA |          ŁOPATA              |   
-|:-------------------------:|:------------------------------------------------:|:--------------------------------:|:----------:|:----------------------:|                                         
-| Nazwa enchantu                | Co powoduje?                                                               |                      Co powoduje?          | Co powoduje?   |     Co powoduje?           |   
-| Szczęście                             |Zwiększa ilość wydobywanych itemków                |   Zwiększa ilość wydobywanych itemków   |Zwiększa ilość wydobywanych itemków   |   Zwiększa ilość wydobywanych itemków 
-| Wydajność                           | Zwiększa wydajność kopania                                   |    Zwiększa wydajność kopania     |  Zwiększa wydajność kopania |    Zwiększa wydajność kopania         |   
-| Automatyczna sprzedaż | Automatycznie sprzedaje wykopane bloki          |  Automatycznie sprzedaje wykopane bloki    |  Automatycznie sprzedaje wykopane bloki   |   Automatycznie sprzedaje wykopane bloki    |   
-| Szczęście w ścinianiu/kopaniu/farmieniu  | Zwiększa ilość wydobywanych itemków w lesie |  Zwiększa ilość wydobywanych itemków w kopalni   | Zwiększa ilość wydobywanych itemków NA fARMIE  | Zwiększa ilość wydobywanych itemków w Cementowni  |   
+|                PRZEDMIOT                |                  SIEKIERA                   |                     KILOF                     |                    MOTYKA                     |                      ŁOPATA                      |   
+|:---------------------------------------:|:-------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:------------------------------------------------:|                                         
+|             Nazwa enchantu              |                Co powoduje?                 |                 Co powoduje?                  |                 Co powoduje?                  |                   Co powoduje?                   |   
+|                Szczęście                |     Zwiększa ilość wydobywanych itemków     |      Zwiększa ilość wydobywanych itemków      |      Zwiększa ilość wydobywanych itemków      |       Zwiększa ilość wydobywanych itemków        |
+|                Wydajność                |         Zwiększa wydajność kopania          |          Zwiększa wydajność kopania           |          Zwiększa wydajność kopania           |            Zwiększa wydajność kopania            |   
+|          Automatyczna sprzedaż          |   Automatycznie sprzedaje wykopane bloki    |    Automatycznie sprzedaje wykopane bloki     |    Automatycznie sprzedaje wykopane bloki     |      Automatycznie sprzedaje wykopane bloki      |   
+| Szczęście w ścinianiu/kopaniu/farmieniu | Zwiększa ilość wydobywanych itemków w lesie | Zwiększa ilość wydobywanych itemków w kopalni | Zwiększa ilość wydobywanych itemków NA Farmie | Zwiększa ilość wydobywanych itemków w Cementowni |   
 
 ## **JAK ULEPSZYĆ ZBROJE?**
 
@@ -112,78 +112,78 @@ Należy udać się do losowego **[NPC]**. Mając założoną zbroję klikamy w p
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. 
 
-| POZIOM | HEŁM [BONUS EXP] | NAPIERŚNIK [BONUS EXP] | NOGI [BONUS EXP]| BUTY [BONUS EXP]|
-|:------:|:---:|:---------:|:---:|:---:|
-|   1    |  2%  |     4%    |  3%  |  1%  |
-|   2    |  4%  |     7%    |  6%  |  3%  |
-|   3    |  8%  |    11%   |  9%  |  7%  |
-|   4    | 12% |    14%   | 13% | 11% |
-|   5    | 17% |    20%   | 18% | 15% |
-|   6    | 22% |    25%   | 23% | 20% |
-|   7    | 27% |    30%   | 28% | 25% |
-|   8    | 32% |    34%   | 33% | 30% |
-|   9    | 37% |    40%   | 40% | 38% |
-|  10    | 45% |    45%   | 55% | 45% |
+| POZIOM | HEŁM [BONUS EXP] | NAPIERŚNIK [BONUS EXP] | NOGAWICE [BONUS EXP] | BUTY [BONUS EXP] |
+|:------:|:----------------:|:----------------------:|:--------------------:|:----------------:|
+|   1    |        2%        |           4%           |          3%          |        1%        |
+|   2    |        4%        |           7%           |          6%          |        3%        |
+|   3    |        8%        |          11%           |          9%          |        7%        |
+|   4    |       12%        |          14%           |         13%          |       11%        |
+|   5    |       17%        |          20%           |         18%          |       15%        |
+|   6    |       22%        |          25%           |         23%          |       20%        |
+|   7    |       27%        |          30%           |         28%          |       25%        |
+|   8    |       32%        |          34%           |         33%          |       30%        |
+|   9    |       37%        |          40%           |         40%          |       38%        |
+|   10   |       45%        |          45%           |         55%          |       45%        |
 
 ## **SKĄD WZIĄĆ NARZĘDZIA? NA KTÓRE WARPY CHODZIĆ?**
 
 **KILOF,** aby go zdobyć udaj się na **/warp Kopalnia** i następnie podejdź do **[NPC] Górnik**. Twoim zadaniem jest kopać rudy! Kopanie zwiększa poziom **Kopania**, za każdą wykopaną rudę otrzymujemy określoną liczbę EXP. Kopalnia składa się z 8 etapów (8 różnych złóż rud), kolejno wypisanych:
 
-| RODZAJ RUD |  WYMAGANY POZIOM |
-|:----------:|:-----------------:|
-|        Węgiel       |       0        | 
-|         Żelazo        |       10        | 
-|        Miedź       |        20       |                      
-|        Złoto      |        30       |   
-|       Redstone      |         40      | 
-|       Lapis     |         50      | 
-|       Emeraldy     |         60      | 
-|       Diamenty      |         70      | 
+| RODZAJ RUD | WYMAGANY POZIOM |
+|:----------:|:---------------:|
+|   Węgiel   |        0        | 
+|   Żelazo   |       10        | 
+|   Miedź    |       20        |                      
+|   Złoto    |       30        |   
+|  Redstone  |       40        | 
+|   Lapis    |       50        | 
+|  Emeraldy  |       60        | 
+|  Diamenty  |       70        | 
 
 - Im lepsze rudy wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Górnik**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu kilofa który pokazuje się w jego nazwie!
 
 **ŁOPATA**, aby ją zdobyć udaj się na **/warp Cementownia** i następnie podejdź do **[NPC] Wydobywacz.**
 Twoim zadaniem jest zbieranie kolorowego cementu! Zbieranie zwiększa poziom **Wydobywania**, za każdy zebrany blok otrzymujemy określoną liczbę EXP. Cementownia składa się z 8 etapów, kolejno wypisanych:
 
-| RODZAJ CEMENTU |  WYMAGANY POZIOM |
-|:----------:|:-----------------:|
-|        Czerwony       |       0        | 
-|         Pomarańczowy        |       10        | 
-|        Żółty        |        20       | 
-|        Zielony      |        30       | 
-|       Jasnoniebieski      |         40      | 
-|       Niebieski      |         50      | 
-|       Różowy      |         60      | 
-|       Fioletowy      |         70      | 
+| RODZAJ CEMENTU | WYMAGANY POZIOM |
+|:--------------:|:---------------:|
+|    Czerwony    |        0        | 
+|  Pomarańczowy  |       10        | 
+|     Żółty      |       20        | 
+|    Zielony     |       30        | 
+| Jasnoniebieski |       40        | 
+|   Niebieski    |       50        | 
+|     Różowy     |       60        | 
+|   Fioletowy    |       70        | 
 
 - Im lepszy cement wykopujesz, tym więcej zarabiasz za niego EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie łopaty u **[NPC] Wydobywacz**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu łopaty który pokazuje się w jego nazwie!
 
 **SIEKIERA**, aby ją zdobyć udaj się na **/warp Tartak** i następnie podejdź do **[NPC] Drwal.**
 Twoim zadaniem jest kopanie drewna! Kopanie zwiększa poziom **Drwalstwa**, za każdy zebrany blok drewna otrzymujemy określoną liczbę EXP. Tartak składa się z 8 etapów, kolejno wypisanych:
 
-| RODZAJ DREWNA |  WYMAGANY POZIOM |
-|:----------:|:-----------------:|
-|         Dębowe        |    0     | 
-|         świerkowe        |   10   | 
-|        Brzozowe        |    20    | 
-|       Ciemnodębowe      |    30    | 
-|       Akacjowe      |      40    | 
-|       Tropikalne      |      50    | 
-|       Trzon      |    60    | 
-|       Trzon      |    70    | 
+| RODZAJ DREWNA | WYMAGANY POZIOM |
+|:-------------:|:---------------:|
+|    Dębowe     |        0        | 
+|   świerkowe   |       10        | 
+|   Brzozowe    |       20        | 
+| Ciemnodębowe  |       30        | 
+|   Akacjowe    |       40        | 
+|  Tropikalne   |       50        | 
+|     Trzon     |       60        | 
+|     Trzon     |       70        | 
 
 - Im lepsze bloki wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Ważną rzeczą jest ulepszanie kilofa u **[NPC] Drwal**, ponieważ dostarcza to wiele przydatnych dodatków takich jak: **Szybkość, Prędkość kopania, Szczęście oraz Bonus XP** - Wszystko zależy od poziomu siekiery który pokazuje się w jej nazwie!
 
 **MOTYKA**, aby ją zdobyć udaj się na **/warp Farma** i następnie podejdź do **[NPC] Farmer.**
 Twoim zadaniem jest zbieranie plonów! Zbieranie zwiększa poziom Farmienia, za każdy zebrany plon otrzymujemy określoną liczbę EXP. Farma składa się z 5 etapów, kolejno wypisanych:
 
-| RODZAJ PLONU |  WYMAGANY POZIOM |
-|:----------:|:-----------------:|
-|        Pszenica        |       0        | 
-|         Ziemniaki        |       20        | 
-|        Marchewki        |        40       | 
-|       Buraki      |        60       | 
-|       Brodawka      |    80      | 
+| RODZAJ PLONU | WYMAGANY POZIOM |
+|:------------:|:---------------:|
+|   Pszenica   |        0        | 
+|  Ziemniaki   |       20        | 
+|  Marchewki   |       40        | 
+|    Buraki    |       60        | 
+|   Brodawka   |       80        | 
 
 
 
@@ -222,15 +222,15 @@ Aby otrzymac nagrode dodatkową trzeba afczyć: 30 minut
 
 W strefie znajdują się również **osiągnięcia**, za dany czas afczenia otrzymujemy daną ilość monet, które są bardzo przydatne! Do wbicia jest VII celów:
 
-| CZAS |  NAGRODA |
-|:----------:|:-----------------:|
-|        1 godzina      |       2.500 monet       | 
-|         6 godzin        |       15.000 monet        | 
-|       1 dzień       |        75.000 monet        | 
-|       3 dni      |        250.500 monet        | 
-|       7 dni       |         1.000.000 monet     | 
-|     14 dni    |         2.500.000 monet      | 
-|       30 dni     |         5.000.000 monet      | 
+|   CZAS    |     NAGRODA     |
+|:---------:|:---------------:|
+| 1 godzina |   2.500 monet   | 
+| 6 godzin  |  15.000 monet   | 
+|  1 dzień  |  75.000 monet   | 
+|   3 dni   |  250.500 monet  | 
+|   7 dni   | 1.000.000 monet | 
+|  14 dni   | 2.500.000 monet | 
+|  30 dni   | 5.000.000 monet | 
 
 **I TO WSZYSTKO ZA STANIE W MIEJSCU!**
 
