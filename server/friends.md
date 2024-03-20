@@ -67,7 +67,7 @@ Wygląd, kiedy **Ty** dostaniesz wiadomość.
 
 Podstawowo **Gracz**, może posiadać maksymalnie **10 osób** w liście znajomych, tą liczbę można zwiekszyć za pomocą **Kupna** rangi na stronie **kokscraft.pl**, każda ranga ma swoją określoną liczbę znajomych. 
 
-### Limit Znajomych Posiadająć Range
+### Limit Znajomych Posiadając Range
 
 |  Ranga   | Limit |
 |:--------:|:-----:|
