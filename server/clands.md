@@ -43,7 +43,7 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
 - **Kolory klanów** 
 
-| kolor  |      Cena      |                     Wymagania                      |
+| Kolor  |      Cena      |                     Wymagania                      |
 |:---------------:|:---------------:|:---------------:|
 | ![kolor1](/assets/klany/color1.png) | 20000 kokscoinow | brak |
 | ![kolor2](/assets/klany/color2.png) | 20000 kokscoinow | brak |
