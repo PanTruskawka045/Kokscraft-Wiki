@@ -43,22 +43,22 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
 - **Kolory klanów** 
 
-| Kolor  |      Cena      |                     Wymagania                      |
-|:---------------:|:---------------:|:---------------:|
-| ![kolor1](/assets/klany/color1.png) | 20000 kokscoinow | brak |
-| ![kolor2](/assets/klany/color2.png) | 20000 kokscoinow | brak |
-| ![kolor3](/assets/klany/color3.png) | 30000 kokscoinow | brak |
-| ![kolor4](/assets/klany/color4.png) | brak | brak | 
-| ![kolor5](/assets/klany/color5.png) | brak | brak |
-| ![kolor6](/assets/klany/color6.png) | 20000 kokscoinow | brak |
-| ![kolor7](/assets/klany/color7.png) | 5000 kokscoinow  | brak |
-| ![kolor8](/assets/klany/color8.png) | 10000 kokscoinow | brak |
-| ![kolor9](/assets/klany/color9.png) | 50000 kokscoinow | brak |
-| ![kolor10](/assets/klany/color10.png) | brak | brak |
-| ![kolor11](/assets/klany/color11.png) | brak | conajmniej 5 graczy musi mieć rangę KOKS. |
-| ![kolor12](/assets/klany/color12.png) | brak | min. 20 osób i połowa musi mieć rangę.  |
-| ![kolor13](/assets/klany/color13.png) | brak | min. 75 level klanu  |
-| ![kolor14](/assets/klany/color14.png) | brak | maksymalny level klanu |
+|                 Kolor                 |       Cena       |                 Wymagania                 |
+|:-------------------------------------:|:----------------:|:-----------------------------------------:|
+|  ![kolor1](/assets/klany/color1.png)  | 20000 kokscoinow |                   brak                    |
+|  ![kolor2](/assets/klany/color2.png)  | 20000 kokscoinow |                   brak                    |
+|  ![kolor3](/assets/klany/color3.png)  | 30000 kokscoinow |                   brak                    |
+|  ![kolor4](/assets/klany/color4.png)  |       brak       |                   brak                    | 
+|  ![kolor5](/assets/klany/color5.png)  |       brak       |                   brak                    |
+|  ![kolor6](/assets/klany/color6.png)  | 20000 kokscoinow |                   brak                    |
+|  ![kolor7](/assets/klany/color7.png)  | 5000 kokscoinow  |                   brak                    |
+|  ![kolor8](/assets/klany/color8.png)  | 10000 kokscoinow |                   brak                    |
+|  ![kolor9](/assets/klany/color9.png)  | 50000 kokscoinow |                   brak                    |
+| ![kolor10](/assets/klany/color10.png) |       brak       |                   brak                    |
+| ![kolor11](/assets/klany/color11.png) |       brak       | conajmniej 5 graczy musi mieć rangę KOKS. |
+| ![kolor12](/assets/klany/color12.png) |       brak       |  min. 20 osób i połowa musi mieć rangę.   |
+| ![kolor13](/assets/klany/color13.png) |       brak       |            min. 75 level klanu            |
+| ![kolor14](/assets/klany/color14.png) |       brak       |          maksymalny level klanu           |
 
 
 ### Skarbiec Klanu
