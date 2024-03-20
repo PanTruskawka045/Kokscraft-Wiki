@@ -24,17 +24,22 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 
 ### Informacje O Klanie
 
-![Informacje]()
+Informacje o klanie sprawdzisz **Najeżdżając** myszką na główkę **Jasnozieloną Główkę** w GUI. Znajdziesz tam: 
+
+![Informacje](/assets/klany/klan-informacje.png)
 
 ### Członkowie Klanu
+Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow lub Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu.  Aby sprawdzić musisz najechać myszką na główkę **brązową** w GUI.
 
 ### Poziomy Ulepszeń Klanów 
+
+W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić wystarczy kliknąć  w zieloną główkę lvl w GUI. Tą czynność może wykonać **Właściciel lub Zastępca** klanu.
 
 ### Ustawienia Klanu
 
 Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
-- **Podatek klanowy** -
+- **Podatek klanowy** - W klanie można ustawić podatek, który będzie zabierał z gier procent z otrzymanego xp'a z gry. Podatek można ustawić od 1% do 10%. 
 
 - **Kolory klanów** 
 
@@ -54,7 +59,6 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 | ![kolor12](/assets/klany/color12.png) | brak | min. 20 osób i połowa musi mieć rangę.  |
 | ![kolor13](/assets/klany/color13.png) | brak | min. 75 level klanu  |
 | ![kolor14](/assets/klany/color14.png) | brak | maksymalny level klanu |
-
 
 
 ### Skarbiec Klanu
