@@ -98,7 +98,7 @@ Enchanty takie jak **szczęście, szczęście w ścinaniu drzew, szczęście w f
 |                Szczęście                |     Zwiększa ilość wydobywanych itemków     |      Zwiększa ilość wydobywanych itemków      |      Zwiększa ilość wydobywanych itemków      |       Zwiększa ilość wydobywanych itemków        |
 |                Wydajność                |         Zwiększa wydajność kopania          |          Zwiększa wydajność kopania           |          Zwiększa wydajność kopania           |            Zwiększa wydajność kopania            |   
 |          Automatyczna sprzedaż          |   Automatycznie sprzedaje wykopane bloki    |    Automatycznie sprzedaje wykopane bloki     |    Automatycznie sprzedaje wykopane bloki     |      Automatycznie sprzedaje wykopane bloki      |   
-| Szczęście w ścinianiu/kopaniu/farmieniu | Zwiększa ilość wydobywanych itemków w lesie | Zwiększa ilość wydobywanych itemków w kopalni | Zwiększa ilość wydobywanych itemków NA fARMIE | Zwiększa ilość wydobywanych itemków w Cementowni |   
+| Szczęście w ścinianiu/kopaniu/farmieniu | Zwiększa ilość wydobywanych itemków w lesie | Zwiększa ilość wydobywanych itemków w kopalni | Zwiększa ilość wydobywanych itemków NA Farmie | Zwiększa ilość wydobywanych itemków w Cementowni |   
 
 ## **JAK ULEPSZYĆ ZBROJE?**
 
