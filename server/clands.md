@@ -55,7 +55,7 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 | ![kolor8](/assets/klany/color8.png) | 10000 kokscoinow | brak |
 | ![kolor9](/assets/klany/color9.png) | 50000 kokscoinow | brak |
 | ![kolor10](/assets/klany/color10.png) | brak | brak |
-| ![kolor11](/assets/klany/color11.png) | brak | wymagania: conajmniej 5 graczy musi mieć rangę KOKS. |
+| ![kolor11](/assets/klany/color11.png) | brak | conajmniej 5 graczy musi mieć rangę KOKS. |
 | ![kolor12](/assets/klany/color12.png) | brak | min. 20 osób i połowa musi mieć rangę.  |
 | ![kolor13](/assets/klany/color13.png) | brak | min. 75 level klanu  |
 | ![kolor14](/assets/klany/color14.png) | brak | maksymalny level klanu |
