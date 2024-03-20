@@ -1,23 +1,23 @@
 # Śluby
 Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepszać maksymalnie do 10 poziomu. Im wyższy level, tym większy boost XP i rubinów otrzymujecie wraz ze swoją drugą połówką.
 
-![GUI ślubu](../assets/marriages/gui.png)
+![GUI ślubu](/assets/marriages/gui.png)
 
 ## Panel
 - Związek można ulepszyć za kokscoiny **lub** rubiny:
 - Aby ulepszyć związek za **kokscoiny** kliknij **lewym** przyciskiem myszy na główkę w GUI.
 - Aby ulepszyć związek za **rubiny** kliknij **prawym** przyciskiem myszy na główkę w GUI.
 
-![Ulepszenie związku](../assets/marriages/upgrade.png)
+![Ulepszenie związku](/assets/marriages/upgrade.png)
 
 - Aby wziąć rozwód kliknij **lewym** przyciskiem myszy na tabliczkę w GUI. Przed podjęciem ostatecznej decyzji zostaniesz poproszony o potwierdzenie.
 
-![Rozwód](../assets/marriages/divorce.png)
+![Rozwód](/assets/marriages/divorce.png)
 
 - Aktualny status związku znajdziesz najeżdżając na główkę służącą do ulepszania ślubu.
 - Czas od ostatniego logowania się twojej miłości sprawdzisz najeżdżając na jej główkę w GUI.
 
-![Czas ostatniego logowania](../assets/marriages/last_seen.png)
+![Czas ostatniego logowania](/assets/marriages/last_seen.png)
 
 ## Komendy
 - Aby wziąć ślub, użyj komendy **/slub zapros [nick]**.
@@ -42,17 +42,17 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 ## Kolory każdego poziomu ślubu. 
 Przed nickiem na liście graczy, na chacie i nad graczem pokazuje się serce w odpowiednim kolorze dla każdego poziomu ślubu.
 
-![Kolory poziomów](../assets/marriages/levels.png)
+![Kolory poziomów](/assets/marriages/levels.png)
 
 ## Kommunikaty na chacie
 Informacja o ślubie.
 
-![Komunikat chatu](../assets/marriages/chat_message1.png)
+![Komunikat chatu](/assets/marriages/chat_message1.png)
 
 Informacja o rozwodzie.
 
-![Komunikat chatu](../assets/marriages/chat_message2.png)
+![Komunikat chatu](/assets/marriages/chat_message2.png)
 
 Informacja o ulepszeniu związku.
 
-![Komunikat chatu](../assets/marriages/chat_message3.png)
+![Komunikat chatu](/assets/marriages/chat_message3.png)
