@@ -45,3 +45,5 @@ Na serwerze występują **Topki** klanowe, głowna topka jest na **hubie**, topk
 ![Topki klanu](/assets/klany/klan-ss.png)
 
 Występują również **Topki** klanowe, na trybach jak bedwars czy skywars. Klan który będzie **znajdował** się w topce na koniec sezonu otrzymuje nagrody jak np: boostery dla klanów, kokscoiny.
+
+![Topki klanu2](/assets/klany/klan-topki2.png)
