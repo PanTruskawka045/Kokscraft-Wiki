@@ -17,7 +17,7 @@ Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 |    Kapibara    |           0,3%            |             30%             |             0,25%              |               25%                |
 |    Bałwanek    |           0,45%           |             45%             |             0,35%              |               35%                |
 | Świąteczny Elf |           0,35%           |             35%             |              0,3%              |               30%                |
-|    Pingwin     |           0,45%           |             45%             |              0,3%              |               30%                |
+|    Pingwin     |           0,45%           |             45%             |             0,35%              |               35%                |
 |      Szop      |           0,45%           |             45%             |             0,35%              |               35%                |
 
 ### Kapibara
