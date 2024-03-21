@@ -1,4 +1,4 @@
-## **GENBLOCK**
+# GENBLOCK
 
 Stwórz własną wyspę i zainwestuj w farmę generatorów, które będą dla Ciebie zarabiać, aby stać się najbogatszym graczem!
 
