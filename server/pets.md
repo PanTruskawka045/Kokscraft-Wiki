@@ -4,8 +4,8 @@ Zwierzaki to istoty chodzące za graczem w lobby, a w grach dające dodatkowe do
 
 
 ## Zdobywanie
-Aktualnie jedynym sposobem, aby zdobyć zwierzaka, jest zakupienie battle passa i zdobycie odpowiedniego poziomu.
-Nie jest to pewne, ale najczęściej pupil będzie na ostatnim poziomie battle passa.
+Aktualnie jedynym sposobem, aby zdobyć zwierzaka, jest zakupienie karnetu i zdobycie odpowiedniego poziomu.
+Nie jest to pewne, ale najczęściej pupil będzie na ostatnim poziomie karnetu.
 ![Zdobywanie pupila](/assets/pets/obtaining-pet.png)
 
 ## Poziomy

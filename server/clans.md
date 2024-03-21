@@ -5,9 +5,9 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 
 - **/klan zaloz [Tag] [Nazwa]** - Stworzenie klanu.
 - **/klan usun** - Usunięcie klanu.
-- **/klan panel/gui** - Panel klanu.
+- **/klan panel** - Panel klanu.
 - **/klan chat [Wiadomość]** - Usuwanie klanu.
-- **/klan właściciel [Nick]** - Zmiana właściciela klanu.
+- **/klan wlasciciel [Nick]** - Zmiana właściciela klanu.
 - **/klan zapros [Nick]** - Zaproszenie gracza do klanu.
 - **/klan wyrzuc [Nick]** - Usunięcie gracza z klanu.
 - **/klan dolacz [Tag]** - Dołączenie do klanu.
