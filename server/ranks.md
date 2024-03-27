@@ -14,9 +14,7 @@ Na trybach Minigames można zdobyć wiele rang, które po zakupie twają 30 dni.
 ![ranks](/assets/ranks/rangi.png)
 
 ## Rangi Okresowe
-
- Ranga Cringus jest to specjalna ranga do zdobycia za punkty kanałowe na oficjalnym kanale Twitch serwera Kokscraft:
-https://www.twitch.tv/szymeq/about
+Na naszym serwerze znajdują się rangi okresowe które pojawiają się w sklepie gdy występuje dany okres czasu.
 
 |Rangi Okresowe|
 |--------------|
@@ -28,7 +26,7 @@ https://www.twitch.tv/szymeq/about
 |20XX|
 |PINGWIN|
 |CUDNA|
-
+|CRINGUS|
 
 
 
@@ -37,18 +35,16 @@ https://www.twitch.tv/szymeq/about
 Jeżeli posiadasz rangę **TESTER**, **MEDIA** lub jakąkolwiek rangę **Administracyjną** i zakupisz, bądź użyjesz vouchera na rangę ze sklepu to na tabie (klawisz **TAB**) będzie wyświetlał się prefix.
  
  ![ranks](/assets/ranks/prefixprzedranga.png)
-
+![ranks](/assets/ranks/prefix.png)
 
 ## Powiadomienia o wejściu na serwer
-Jeżeli posiadasz rangę koks, media, tester lub rangę na administracyjną to po wejściu na lobby na pokażę się informacja, że takowy gracz wszedł na serwer.
+Jeżeli posiadasz rangę koks, media  to po wejściu na lobby na pokażę się informacja, że takowy gracz wszedł na serwer.
 
  ![ranks](/assets/ranks/wejscienalobby.png)
- 
- ![ranks](/assets/ranks/prefix.png)
 
 ## Rangi survival
 Na naszym serwerze są oddzielne rangi za tryby minigames i survival, 
-na trybach survival są dostępne 3 rangi lub gdy występuje dany okres 
+na trybach survival są dostępne 3 rangi (**MVIP, SVIP, VIP**) lub gdy występuje dany okres 
 czasu mogą pojawić się rangi okresowe. Rangi na tryby survival można zakupić 
 tylko na całą edycje, rangę kupujesz tylko na wybrany tryb w sklepie
 
