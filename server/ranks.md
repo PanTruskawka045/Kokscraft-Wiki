@@ -1,9 +1,8 @@
 # Rangi
-Na serwerze znajdują się rangi administracyjne które można zdobyć poprzez napisanie podania na głównym serwerze discord,
-oraz przeróżne rangi które można zbobyć w karnecie lub zakupić na stronie kokscraft.pl
+Na serwerze znajdują się rangi administracyjne, które można zdobyć poprzez napisanie podania na głównym serwerze discord oraz przeróżne rangi, które można zdobyć w karnecie lub zakupić na stronie kokscraft.pl
 
 ## Rangi Minigames
-Na trybach Minigames można zdobyć wiele rang które po zakupie twają 30 dni.
+Na trybach Minigames można zdobyć wiele rang, które po zakupie twają 30 dni.
 
 |Boosty rang| **KOKS**   | **UVIP**   | **MVIP**   | **SVIP**   | **VIP**   |
 |----------------|------------|------------|------------|------------|-----------|
@@ -16,34 +15,36 @@ Na trybach Minigames można zdobyć wiele rang które po zakupie twają 30 dni.
 
 ## Rangi Okresowe
 
-• Ranga Cringus jest to specjalna ranga do zdobycia za punkty kanałowe na oficjalnym kanale Twitch serwera Kokscraft:
+ Ranga Cringus jest to specjalna ranga do zdobycia za punkty kanałowe na oficjalnym kanale Twitch serwera Kokscraft:
 https://www.twitch.tv/szymeq/about
 
-• LOVE 
-• SIMP 
-• KIDOSEK 
+|Rangi Okresowe|
+|--------------|
+|LOVE|
+|SIMP|
+|KIDOSEK|
+|BAŁWAN|
+|RENIFER|
+|20XX|
+|PINGWIN|
+|CUDNA|
 
-• BAŁWAN 
-• RENIFER 
 
-• 20XX 
-
-• PINGWIN
-
-• CUDNA
 
 
 
 ## Prefixy przed rangą
-Jeżeli posiadasz rangę **TESTER**, **MEDIA** lub jakąkolwiek rangę **Administracyjną** i zakupisz bądż użyjesz vouchera na rangę ze sklepu to na tabie (klawisz **TAB**) będzie wyświetlał się prefix
+Jeżeli posiadasz rangę **TESTER**, **MEDIA** lub jakąkolwiek rangę **Administracyjną** i zakupisz, bądź użyjesz vouchera na rangę ze sklepu to na tabie (klawisz **TAB**) będzie wyświetlał się prefix.
  
  ![ranks](/assets/ranks/prefixprzedranga.png)
 
 
 ## Powiadomienia o wejściu na serwer
-Jeżeli posiadasz rangę koks, media, tester lub rangę na administracyjną to po wejściu na lobby pokażę się informacja że takowy gracz wszedł na serwer
+Jeżeli posiadasz rangę koks, media, tester lub rangę na administracyjną to po wejściu na lobby na pokażę się informacja, że takowy gracz wszedł na serwer.
 
  ![ranks](/assets/ranks/wejscienalobby.png)
+ 
+ ![ranks](/assets/ranks/prefix.png)
 
 ## Rangi survival
 Na naszym serwerze są oddzielne rangi za tryby minigames i survival, 
