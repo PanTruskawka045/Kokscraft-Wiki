@@ -19,28 +19,20 @@ Na trybach Minigames można zdobyć wiele rang które po zakupie twają 30 dni.
 • Ranga Cringus jest to specjalna ranga do zdobycia za punkty kanałowe na oficjalnym kanale Twitch serwera Kokscraft:
 https://www.twitch.tv/szymeq/about
 
-• LOVE jest to ranga co roku występująca w sklepie serwerowym, w okresie walentynek czyli od 14 lutego przez okres około tygodnia.
+• LOVE 
+• SIMP 
+• KIDOSEK 
 
-• SIMP jest to ranga co roku występująca w sklepie serwerowym, w okresie dnia kobiet czyli od 8 marca przez okres około tygodnia.
+• BAŁWAN 
+• RENIFER 
 
-• KIDOSEK to ranga co roku występująca w sklepie serwerowym, w okresie dnia dziecka czyli od 1 czerwca przez okres około tygodnia.
-
-• BAŁWAN jest to ranga co roku występująca w sklepie serwerowym, w okresie zimowym
-
-• RENIFER jest to ranga co roku występująca w sklepie serwerowym, w okresie zimowym
-
-• 20XX jest to ranga co roku występująca tylko dla graczy grających podczas SYLEWSTRA
+• 20XX 
 
 • PINGWIN
 
 • CUDNA
 
-• ...
 
-|Boosty rang| **CRINGUS**   | **LOVE**   | **SIMP**   | **KIDOSEK**   | **BAŁWAN**   | **RENIFER** | **20XX** | **PINGWIN** | **CUDNA** |
-|----------------|------------|------------|------------|------------|-----------|--------|--------|---------|-----------|
-|Boost expa |...|...|...|...|...|...|...|...|...|...|
-|Boost rubinów|...|...|...|...|...|...|...|...|...|...|
 
 ## Prefixy przed rangą
 Jeżeli posiadasz rangę **TESTER**, **MEDIA** lub jakąkolwiek rangę **Administracyjną** i zakupisz bądż użyjesz vouchera na rangę ze sklepu to na tabie (klawisz **TAB**) będzie wyświetlał się prefix
@@ -59,4 +51,4 @@ na trybach survival są dostępne 3 rangi lub gdy występuje dany okres
 czasu mogą pojawić się rangi okresowe. Rangi na tryby survival można zakupić 
 tylko na całą edycje, rangę kupujesz tylko na wybrany tryb w sklepie
 
-![ranks](/assets/ranks/rangisurvival)
+![ranks](/assets/ranks/rangisurvival.png)
