@@ -38,7 +38,7 @@ Jeżeli posiadasz rangę **TESTER**, **MEDIA** lub jakąkolwiek rangę **Adminis
 ![ranks](/assets/ranks/prefix.png)
 
 ## Powiadomienia o wejściu na serwer
-Jeżeli posiadasz rangę koks, media  to po wejściu na lobby na pokażę się informacja, że takowy gracz wszedł na serwer.
+Jeżeli posiadasz rangę koks, media lub rangę okresową to po wejściu na lobby na pokażę się informacja, że takowy gracz wszedł na serwer.
 
  ![ranks](/assets/ranks/wejscienalobby.png)
 
