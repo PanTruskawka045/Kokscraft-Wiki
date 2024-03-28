@@ -19,18 +19,27 @@ Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 | Świąteczny Elf |           0,35%           |             35%             |              0,3%              |               30%                |
 |    Pingwin     |           0,45%           |             45%             |             0,35%              |               35%                |
 |      Szop      |           0,45%           |             45%             |             0,35%              |               35%                |
+|    Zajączek    |           0,45%           |             45%             |             0,35%              |               35%                |
 
 ### Kapibara
+Dostępny w karnecie **[Bedwars](/article/minigames/bedwars) Sezon VIII**.
 ![Kapibara](/assets/pets/pet-0.png)
 
 ### Bałwanek
 ![Bałwanek](/assets/pets/pet-1.png)
 
 ### Świąteczny Elf
+Dodany w karnecie **[Sky Games](/article/minigames/skywars) Sezon VI**.
 ![Świąteczny Elf](/assets/pets/pet-2.png)
 
 ### Pingwin
+Dostępny w karnecie **[Bedwars](/article/minigames/bedwars) Sezon IX**.
 ![Pingwin](/assets/pets/pet-3.png)
 
 ### Szop
+Dostępny w karnecie **[UHC](/article/minigames/uhc) Sezon V**.
 ![Szop](/assets/pets/pet-4.png)
+
+### Zajączek
+Do zdobycia ze **Skrzynki Wielkanocnej**
+![Zajączek](/assets/pets/pet-5.png)
