@@ -4,29 +4,29 @@ Na serwerze znajdują się rangi administracyjne, które można zdobyć poprzez 
 ## Rangi Minigames
 Na trybach Minigames można zdobyć wiele rang, które po zakupie twają 30 dni.
 
-|Boosty rang| **KOKS**   | **UVIP**   | **MVIP**   | **SVIP**   | **VIP**   |
-|----------------|------------|------------|------------|------------|-----------|
-|Boost expa |x5|x2.75|x2.1|x1.6|x1.35|
-|Boost rubinów|x4.75|x2.6|x1.9|x1.5|x1.2|
-|Możliwość latania|✔|✔|✔|✔|❌|
-|Darmowe kluczyki przy zakupie rangi|10|5|3|2|1|
+|             Boosty rang             | **KOKS** | **UVIP** | **MVIP** | **SVIP** | **VIP** |
+|:-----------------------------------:|:--------:|:--------:|:--------:|:--------:|:-------:|
+|             Boost expa              |    x5    |  x2.75   |   x2.1   |   x1.6   |  x1.35  |
+|            Boost rubinów            |  x4.75   |   x2.6   |   x1.9   |   x1.5   |  x1.2   |
+|          Możliwość latania          |    ✔     |    ✔     |    ✔     |    ✔     |    ❌    |
+| Darmowe kluczyki przy zakupie rangi |    10    |    5     |    3     |    2     |    1    |
 
 ![ranks](/assets/ranks/rangi.png)
 
 ## Rangi Okresowe
 Na naszym serwerze znajdują się rangi okresowe które pojawiają się w sklepie gdy występuje dany okres czasu.
 
-|Rangi Okresowe|
-|--------------|
-|LOVE|
-|SIMP|
-|KIDOSEK|
-|BAŁWAN|
-|RENIFER|
-|20XX|
-|PINGWIN|
-|CUDNA|
-|CRINGUS|
+| Rangi Okresowe |
+|:--------------:|
+|      LOVE      |
+|      SIMP      |
+|    KIDOSEK     |
+|     BAŁWAN     |
+|    RENIFER     |
+|      20XX      |
+|    PINGWIN     |
+|     CUDNA      |
+|    CRINGUS     |
 
 
 
