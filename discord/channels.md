@@ -7,7 +7,7 @@
 ## Informacje o serwerze
 [#ogloszenia-mc](https://discord.com/channels/773691439598141502/921111120977211412) -> Kanał zawierający ogłoszenia dotyczące serwera Minecraft, takie jak nowe sezony, tryby.
 [#ogloszenia-dc](https://discord.com/channels/773691439598141502/773927408717398076) -> Kanał, gdzie są ogłaszane informacje dotyczące serwera Discord.
-[#mam-sprawe](https://discord.com/channels/773691439598141502/842872392064958464) ->  Kanał zawierający link do Discorda supportu Kokscraft, gdzie można zgłaszać problemy i zadawać pytania.
+[#mam-sprawe](https://discord.com/channels/773691439598141502/842872392064958464) -> Kanał zawierający link do Discorda supportu Kokscraft, gdzie można zgłaszać problemy i zadawać pytania.
 [#changelog](https://discord.com/channels/773691439598141502/948415278474199090) -> Tutaj znajdziesz informacje na temat mniejszych aktualizacji na serwerze.
 [#ankiety](https://discord.com/channels/773691439598141502/820388511168725022) -> Kanał, gdzie są prowadzone ankiety dotyczące serwera.
 [#role](https://discord.com/channels/773691439598141502/1171285236982743090) -> Kanał, gdzie możesz wybrać role, dla których chcesz otrzymywać powiadomienia, np. o konkursach czy aktualizacjach.
@@ -26,7 +26,7 @@
 [#czat-ogolny](https://discord.com/channels/773691439598141502/782442164067500052) -> Ogólny kanał, gdzie można rozmawiać z innymi użytkownikami.
 [#komendy](https://discord.com/channels/773691439598141502/784164968681439272) -> Kanał służący do używania komend. 
 [#pochwal-sie](https://discord.com/channels/773691439598141502/794991589046091776) -> Kanał gdzie możesz się pochwalić jakimś osiągnięciem lub wysłać zdjęcie.
-[#szukam-osob-do-gry](https://discord.com/channels/773691439598141502/806482480990781490) ->  Kanał, gdzie można znaleźć osoby do gier.
+[#szukam-osob-do-gry](https://discord.com/channels/773691439598141502/806482480990781490) -> Kanał, gdzie można znaleźć osoby do gier.
 [#szukam-gildii](https://discord.com/channels/773691439598141502/855727414272851998) -> Tutaj można znaleźć gildie lub poszukać osób do gildii.
 [#wnioski-media](https://discord.com/channels/773691439598141502/786348453785501707) -> Kanał, gdzie można się dowiedzieć, informacje dot. rangi media.
 
@@ -35,7 +35,7 @@
 [#Propozycje](https://discord.com/channels/773691439598141502/773955411472547920) -> Kanał, gdzie można napisać propozycje dotyczące serwera ogólne.
 [#Propozycje-UHC](https://discord.com/channels/773691439598141502/935208155376418896) -> Tutaj można napisać propozycje dotyczące trybu UHC.
 [#Propozycje-survival](https://discord.com/channels/773691439598141502/1155481604928569455) -> Kanał, gdzie można napisać propozycje dotyczące różnych trybów survival, np. chestpvp, skygen. 
-[#Propozycje-discord](https://discord.com/channels/773691439598141502/994207590689030294) ->  Kanał, gdzie można napisać propozycje dotyczące Discorda.
+[#Propozycje-discord](https://discord.com/channels/773691439598141502/994207590689030294) -> Kanał, gdzie można napisać propozycje dotyczące Discorda.
 [#Propozycje-skywars](https://discord.com/channels/773691439598141502/935207956558008340) -> Tutaj można napisać propozycje dotyczące trybu Skywars.
 [#Propozycje-bedwars](https://discord.com/channels/773691439598141502/935207808385814568) -> Kanał, gdzie można napisać propozycje dotyczące trybu Bedwars.
 
