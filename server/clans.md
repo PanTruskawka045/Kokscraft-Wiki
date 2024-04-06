@@ -4,6 +4,7 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 ## Komendy
 
 - **/klan zaloz [Tag] [Nazwa]** - Stworzenie klanu.
+- **/klan info [Tag]** - Pokazuje informacje na temat danego klanu.
 - **/klan usun** - Usunięcie klanu.
 - **/klan panel** - Panel klanu.
 - **/klan chat [Wiadomość]** - Wysyła wiadomość na chat klanu.
@@ -12,6 +13,7 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 - **/klan wyrzuc [Nick]** - Usunięcie gracza z klanu.
 - **/klan dolacz [Tag]** - Dołączenie do klanu.
 - **/klan opusc** - Opuszczenie klanu.
+- **/klan list** - Pokazuje listę członkow klanu.
 - **@[Wiadomość]** - Łatwiejszy czat klanu. 
 
 ## Dodatkowe Informacje
@@ -24,7 +26,7 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 
 ### Informacje O Klanie
 
-Informacje o klanie, sprawdzisz **Najeżdżając** myszką na **Jasnozieloną Główkę** w GUI. Znajdziesz tam: 
+Informacje o klanie, sprawdzisz **najeżdżając** myszką na **jasnozieloną główkę** w GUI. Znajdziesz tam: 
 
 ![Informacje](/assets/klany/klan-informacje.png)
 
