@@ -31,11 +31,11 @@ Informacje o klanie, sprawdzisz **najeżdżając** myszką na **jasnozieloną g�
 ![Informacje](/assets/klany/klan-informacje.png)
 
 ### Członkowie Klanu
-Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow lub Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu. Aby sprawdzić statystyki graczy musisz, kliknąć myszką na **Brązową Główkę** w GUI.
+Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow** lub **Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu. Aby sprawdzić statystyki graczy musisz, kliknąć myszką na **Brązową Główkę** w GUI.
 
 ### Poziomy Ulepszeń Klanów 
 
-W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić, wystarczy kliknąć w **Zieloną Główkę** lvl w GUI. Tą czynność może wykonać **Właściciel lub Zastępca** klanu.
+W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić, wystarczy kliknąć w **Zieloną Główkę** lvl w GUI. Tą czynność może wykonać **Właściciel** lub **Zastępca** klanu.
 
 **Boost Xp'a i Boost Rubinów**, mają takie same **ceny, wymagania i wartość mnożnika.**
 
@@ -81,7 +81,7 @@ W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubi
 
 Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
-- **Podatek klanowy** - W klanie można ustawić podatek, który będzie zabierał z gier procent z otrzymanego xp'a z gry. Podatek można ustawić od 1% do 10%. 
+- **Podatek klanowy** - W klanie można ustawić podatek, który będzie zabierał z gier procent z otrzymanego xp'a z gry. Podatek można ustawić od 0% do 10%. 
 
 - **Kolory klanów** 
 
