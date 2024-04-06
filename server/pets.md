@@ -4,12 +4,11 @@ Zwierzaki to istoty chodzące za graczem w lobby, a w grach dające dodatkowe do
 
 
 ## Zdobywanie
-Aktualnie jedynym sposobem, aby zdobyć zwierzaka, jest zakupienie karnetu i zdobycie odpowiedniego poziomu.
-Nie jest to pewne, ale najczęściej pupil będzie na ostatnim poziomie karnetu.
+Aktualnie jedynym sposobem, aby zdobyć zwierzaka, jest zakupienie karnetu i zdobycie odpowiedniego poziomu, lub wydropienie go z odpowiedniej skrzynki.
 ![Zdobywanie pupila](/assets/pets/obtaining-pet.png)
 
 ## Poziomy
-Każdy pupil zaczyna od poziomu 0 i może być wylevelowany do poziomu 100. Aby zwiększyć poziom, wystarczy wybrać danego pupila i grać w minigry.
+Każdy pupil zaczyna od poziomu 1 i może być wylevelowany do poziomu 100. Aby zwiększyć poziom, wystarczy wybrać danego pupila i grać w minigry.
 Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 
 |  **Zwierzak**  | **Mnożnik XP** (Poziom 1) | **Mnożnik XP** (Poziom 100) | **Mnożnik Rubinów** (Poziom 1) | **Mnożnik Rubinów** (Poziom 100) |
