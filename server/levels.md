@@ -7,18 +7,18 @@ Jego kolor jest zależyny od aktualnego poziomu.
 
 ![Poziom globalny](/assets/levels/level-format.png)
 
-|  Poziom   |        Kolor         |
-|:---------:|:--------------------:|
-|  0 - 29   |        szary         |
-|  30 - 49  |    jasny zielony     |
-|  50 - 89  |    ciemny zielony    |
-|  90 - 99  |        złoty         |
-| 100 - 149 | zloty / pomarańczowy |
-| 150 - 199 |        różowy        |
-| 200 - 249 |      fioletowy       |
-| 250 - 299 |    jasny czerwony    |
-| 300 - 499 |       czerwony       |
-|   500+    |        czarny        |
+|  Poziom   |     Kolor      |
+|:---------:|:--------------:|
+|  0 - 29   |     szary      |
+|  30 - 49  | jasny zielony  |
+|  50 - 89  | ciemny zielony |
+|  90 - 99  |     żółty      |
+| 100 - 149 |     złoty      |
+| 150 - 199 |     różowy     |
+| 200 - 249 |   fioletowy    |
+| 250 - 299 | jasny czerwony |
+| 300 - 499 |    czerwony    |
+|   500+    |     czarny     |
 
  ## Kolory oraz nazwy odznak (poziomy trybowe)
 
