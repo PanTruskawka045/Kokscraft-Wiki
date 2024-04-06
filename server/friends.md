@@ -8,8 +8,8 @@ Na naszym serwerze występuje **lista znajomych**, służy ona przedewszystkim d
 - **/f usun [nick]** - Usuwa gracza z listy znajomych.
 - **/f list** - Wyświetla liste znajomych.
 - **/f toggle** - Przełącza możliwość zapraszania do znajomych.
-- **/msg [nick]** - wysyłanie prywatnej wiadomości do znajomych.
-- **/r**  - szybsza możliwość wysłania prywatnej wiadomości do ostatniej osoby, z którą się pisało
+- **/msg [nick] [wiadomość]** - wysyłanie prywatnej wiadomości do znajomych.
+- **/r [wiadomość]**  - szybsza możliwość wysłania prywatnej wiadomości do ostatniej osoby, z którą się pisało
 
 ## Komunikaty
 
