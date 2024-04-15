@@ -12,5 +12,6 @@ Komendy na Discordzie służą do interakcji z botami.
 
 ### /profil [użytkownik]
 **[użytkownik]** - użytkownik, którego profil chcemy zobaczyć.
+
 Wyświetla profil użytkownika.
 Jeżeli argument nie zostanie podany, komenda wyświetli profil osoby ją wpisującej.
