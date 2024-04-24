@@ -15,7 +15,7 @@ Klasyczne MiniGry z naszym małym dodatkiem. Po 10 sekundach bezruchu giniesz. P
 7. **Spadające meteoryty** - zwykły parkour, proste przecież, tylko nie spadnij jak meteoryt!
 8. **Wielkie plotno** - Maluj jak artysta, bloki pod tobą znikają na przypisany do ciebie kolor.
 9. **Assassin** - Zestrzel niezauważony innych przeciwników, pamiętaj strzałę masz co 5 sekund!
-10 **Król wzgórza** - Zdobądź szczyt góry i pokaż swoją potęgę. Możesz zrzucać innych graczy z niej.
+10. **Król wzgórza** - Zdobądź szczyt góry i pokaż swoją potęgę. Możesz zrzucać innych graczy z niej.
 11. **Bieg śmierci** - Biegnij do mety, ale uważaj na czerwone bloki - zabijają!
 12. **Owczy wyscig** - Złap owce i ucziekaj! Pamiętaj że mogą ci ją zabrać lewym przyciskiem myszy.
 13. **Polowanie** - Prawie jak assasin tylko ciebie widać, pokaż umiejętności. Tak samo strzałę masz tylko co 5 sekund!
