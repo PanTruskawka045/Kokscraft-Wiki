@@ -25,7 +25,7 @@ Na BedWars Duels do wyboru mamy 16 różnych map.
 ![bedwars lobby](/assets/bedwars/npc.png)
 ## Czas gry
 
-Rozgrywka dzieli się na 8 etapów, każdy z nich trwa od 3 do 4 minut:
+Rozgrywka dzieli się na 8 etapów:
 - Autodestrukcja - Gracze tracą swoje łóżko.
 - DeathMatch - Border zmniejsza się do środka na szerokość 75x75 kratek. 
 - Finał - border zmniejsza się do losowego miejsca na mapie na szerokość 2x2 kratek.

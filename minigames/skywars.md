@@ -9,28 +9,28 @@
 
 **Zestawy SkyWars** to specjalne pakiety wyposażenia, które gracze mogą kupić za monety zdobyte za **zabicie przeciwników i wygrane mecze**, wybierając je podczas **ładowania gry** i otrzymując **natychmiast po jej rozpoczęciu**.
 
-|   Zestaw    |   Cena   |
-|:-----------:|:--------:|
-|  Sprinter   |  25 000  |
-|    Medyk    |  15 000  |
-|  Zwiadowca  |  15 000  |
-|   Skoczek   |  15 000  |
-|    Rybak    |  15 000  |
-|  Truciciel  |  15 000  |
-|   Wiedźma   |  15 000  |
-| Spowalniacz |  15 000  |
-|  Osłabiacz  |  15 000  |
-|  Wojownik   |  15 000  |
-|   Ślepiec   |  15 000  |
-|   Rzeźnik   |  7 500   |
-|    Kadet    |  7 500   |
-| Zbrojmistrz |  15 000  |
-|  Szermierz  |  15 000  |
-|    Szop     |  7 500   |
-|   Leśnik    |  7 500   |
-|   Piroman   |  15 000  |
-| Pirotechnik |  15 000  |
-| Astronauta  |  15 000  |
+|   Zestaw    |  Cena  |
+|:-----------:|:------:|
+|  Sprinter   | 25.000 |
+|    Medyk    | 15.000 |
+|  Zwiadowca  | 15.000 |
+|   Skoczek   | 15.000 |
+|    Rybak    | 15.000 |
+|  Truciciel  | 15.000 |
+|   Wiedźma   | 15.000 |
+| Spowalniacz | 15.000 |
+|  Osłabiacz  | 15.000 |
+|  Wojownik   | 15.000 |
+|   Ślepiec   | 15.000 |
+|   Rzeźnik   | 7.500  |
+|    Kadet    | 7.500  |
+| Zbrojmistrz | 15.000 |
+|  Szermierz  | 15.000 |
+|    Szop     | 7.500  |
+|   Leśnik    | 7.500  |
+|   Piroman   | 15.000 |
+| Pirotechnik | 15.000 |
+| Astronauta  | 15.000 |
 
 ## Perki SkywWars
 
