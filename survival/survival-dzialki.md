@@ -1,5 +1,5 @@
 # Survival + Działki <!-- DECODE / SUNSHINE -->
-Połączenie klasycznego trybu survival z licznymi ułatwieniami. 
+### Połączenie klasycznego trybu survival z licznymi ułatwieniami. 
 ![Spawn](/assets/survival-dzialki/survival-spawn.png)
 
 ## Jak zacząć? <!-- DECODE -->
@@ -8,13 +8,16 @@ Losowy teleport pomoże Ci znaleźć *idealny* teren.
 Pamiętaj o ustawieniu /home, inaczej do działki dotrzesz tylko na pieszo.
 Ważna jest frekwencja - Twoja działka ma ważność TYLKO 14 dni! Po każdym logowaniu czas się odnawia.
 
-|     **BORDERY ŚWIATÓW**      |
-|------------------------------|
+### BORDERY ŚWIATÓW
+
+
+|  ŚWIAT      |  BORDER        |
+|:-------------:|:----------------:|
 | OVERWORLD   | 20000 x 20000  |
 | NETHER      | 10000 x 10000  |
 | END         | 15000 x 15000  |   
 
-Przydatne dodatkowe komendy:
+### Przydatne dodatkowe komendy:
 • **/spawn** - teleportuje gracza na bezpieczny spawn
 • **/pomoc** - zbiór przydatnych informacji o trybie
 • **/dom** - otwiera menu domów, możesz tam ustawić, usunąć oraz zmienić nazwę domu
@@ -48,7 +51,7 @@ Nie ważne jaką masz rangę, wymiar Twojej działki do 50x50 kratek!
 • **/dzialka opusc <nazwa_działki>** - opuszcza działkę
 • **/dzialka wlasciciel <nick> <nazwa_działki>** - zmienia właściciela działki
 
-Uprawnienia w panelu działki pozwalają na kontrolowanie:
+### Uprawnienia w panelu działki pozwalają na kontrolowanie:
 • Niszczenia bloków
 • Stawiania bloków
 • Wyrzucania członków
@@ -84,7 +87,7 @@ Tak samo z ich zestawami - /kit, prawym przyciskiem myszy podejrzysz zawartość
 |![kit-mvip](/assets/survival-dzialki/kit-mvip.png)       |
 
 
-Na stronie można również kupić **klucze do skrzyń!** Co to za skrzynie?
+### Na stronie można również kupić **klucze do skrzyń!** Co to za skrzynie?
 ![chests](/assets/survival-dzialki/chests.png)
 
 |                        **CO DROPIĄ?**                     |
@@ -96,6 +99,7 @@ Na stronie można również kupić **klucze do skrzyń!** Co to za skrzynie?
 ## Topki <!-- SUNSHINE -->
 Na serwerze obowiązuje zacięta rywalizacja, najlepsze osoby otrzymują nagrody na nową edycję!
 Podczas gry możecie rywalizować między sobą w aż 6 kategoriach!
+
 ![Topki](/assets/survival-dzialki/top-list.png)
 
 TOP:
@@ -106,24 +110,30 @@ TOP:
 • Spędzonego czasu na trybie
 • Ilości coinsów
 
-**To co? Umówieni na wspólne wbijanie topek?**
+#### **To co? Umówieni na wspólne wbijanie topek?**
 
 
 ## Eventy <!-- DECODE / SUNSHINE -->
 Aby zapewnić graczom dodatkową rozrywkę oraz wprowadzić troszkę więcej rywalizacji na serwerze **co 2 godziny** uruchamiają się automatyczne eventy.
-Event rozpocznie się jeśli na serwerze będzie łącznie **30** graczy.
+Event rozpocznie się jeśli na serwerze będzie łącznie **30 graczy**.
 W wydarzeniach opłaca się brać regularny udział, ponieważ pierwsze trzy osoby na koniec zostaną nagrodzone!
 
-**Jakie mamy eventy?**
+### **Jakie mamy eventy?**
 
-| **KOP BLOKI**   | **STAWIAJ BLOKI**   | **ZABIJAJ MOBY**   | **PRZEBIEGNIJ DYSTANS**   |
-|-----------------|---------------------|--------------------|---------------------------|
-|                            1 miejsce - 2 koks klucze
-                            2 miejsce - 3 magiczne klucze
-                            3 miejsce - 1 magiczny klucze                                |
+- KOP BLOKI
+- STAWIAJ BLOKI
+- ZABIJAJ MOBY
+- PRZEBIEGNIJ DYSTANS
+
+### A jakie są nagrody?
+1 miejsce - 2 koks klucze
+2 miejsce - 3 magiczne klucze
+3 miejsce - 1 magiczny klucz 
+
 
 ## Spawn
-Wszystko pięknie opisane a co ze spawnem? Zaczynasz tu swoją przygodę a nawet wzmianki o nim nie ma...
+### Wszystko pięknie opisane a co ze spawnem? Zaczynasz tu swoją przygodę a nawet wzmianki o nim nie ma...
+
 ![spawn-opis](/assets/survival-dzialki/spawn-desc.png)
 
 Znajdziesz tu **WSZYSTKIE** potrzebne Ci rzeczy! 
