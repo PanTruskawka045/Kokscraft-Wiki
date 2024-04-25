@@ -3,8 +3,8 @@ Połączenie klasycznego trybu survival z licznymi ułatwieniami.
 ![Spawn](/assets/survival-dzialki/survival-spawn.png)
 
 ## Jak zacząć? <!-- DECODE -->
-Jak na klasycznym survivalu! Zbieraj surowce, zarób pierwsze 500$ i stwórz swoją działkę! 
-/rtp pomoże Ci znaleźć *idealny* teren.
+Jak na klasycznym survivalu 1.20+! Zbieraj surowce, zarób pierwsze 500$ i stwórz swoją działkę! 
+Losowy teleport pomoże Ci znaleźć *idealny* teren.
 Pamiętaj o ustawieniu /home, inaczej do działki dotrzesz tylko na pieszo.
 Ważna jest frekwencja - Twoja działka ma ważność TYLKO 14 dni! Po każdym logowaniu czas się odnawia.
 
@@ -18,7 +18,6 @@ Przydatne dodatkowe komendy:
 • **/spawn** - teleportuje gracza na bezpieczny spawn
 • **/pomoc** - zbiór przydatnych informacji o trybie
 • **/dom** - otwiera menu domów, możesz tam ustawić, usunąć oraz zmienić nazwę domu
-• **/rtp** - teleportuje gracza na losowe koordynaty
 • **/kosz** - przenośny śmietnik
 • **/tpa <nick>** - wysłanie prośby o teleportacje do innego gracza
 • **/gamma** - włączenie widzenia w ciemności
@@ -68,6 +67,8 @@ Serwer umożliwia handel na kilka sposobów: wewnętrzny sklep, market, wymiany 
 • **/wymiana <nick>** - jeśli chcesz wykonać wymianę "coś za coś" użyj tej komendy aby uniknąć oszustwa
 A i jeszcze jedno! Jeśli masz znajomego w potrzebie przelej mu trochę pieniędzy używając komendy **/przelej <nick> <ilosc>** bądź **/pay <nick> <ilosc>**
 
+![market](/assets/survival-dzialki/market.png)
+
 ## Rangi i Skrzynie <!-- DECODE -->
 Dwie działki to za mało? A może potrzebujesz lepszych itemów na start? Rangi premium posiadają więcej ułatwień niż serwer sam w sobie!
 Rangę zakupić możesz na naszej stronie - [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/rangi/sv-1-20_1)
@@ -86,19 +87,10 @@ Tak samo z ich zestawami - /kit, prawym przyciskiem myszy podejrzysz zawartość
 Na stronie można również kupić **klucze do skrzyń!** Co to za skrzynie?
 ![chests](/assets/survival-dzialki/chests.png)
 
-
 |                        **CO DROPIĄ?**                     |
 |---------------------------------------------------------  |
 |![magic-chest](/assets/survival-dzialki/magic-chest.png)   |
 |![kox-chest](/assets/survival-dzialki/kox-chest.png)       |
-
-
-
-
-
-
-
-
 
 
 ## Topki <!-- SUNSHINE -->
@@ -118,4 +110,28 @@ TOP:
 
 
 ## Eventy <!-- DECODE / SUNSHINE -->
- blablablabla
+Aby zapewnić graczom dodatkową rozrywkę oraz wprowadzić troszkę więcej rywalizacji na serwerze **co 2 godziny** uruchamiają się automatyczne eventy.
+Event rozpocznie się jeśli na serwerze będzie łącznie **30** graczy.
+W wydarzeniach opłaca się brać regularny udział, ponieważ pierwsze trzy osoby na koniec zostaną nagrodzone!
+
+**Jakie mamy eventy?**
+
+| **KOP BLOKI**   | **STAWIAJ BLOKI**   | **ZABIJAJ MOBY**   | **PRZEBIEGNIJ DYSTANS**   |
+|-----------------|---------------------|--------------------|---------------------------|
+|                            1 miejsce - 2 koks klucze
+                            2 miejsce - 3 magiczne klucze
+                            3 miejsce - 1 magiczny klucze                                |
+
+## Spawn
+Wszystko pięknie opisane a co ze spawnem? Zaczynasz tu swoją przygodę a nawet wzmianki o nim nie ma...
+![spawn-opis](/assets/survival-dzialki/spawn-desc.png)
+
+Znajdziesz tu **WSZYSTKIE** potrzebne Ci rzeczy! 
+• Losowy teleport
+• Bordery map
+• Portal do ...Endu!
+
+Mimo, że spawn oferuje bezpieczne do odetchnięcia miejsce - to poza nim gracze walczą między sobą. 
+LINIA PVP!
+![pvp](/assets/survival-dzialki/pvp.png)
+
