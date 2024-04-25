@@ -11,11 +11,11 @@ Ważna jest frekwencja - Twoja działka ma ważność TYLKO 14 dni! Po każdym l
 ### BORDERY ŚWIATÓW
 
 
-|  ŚWIAT      |  BORDER        |
-|:-------------:|:----------------:|
-| OVERWORLD   | 20000 x 20000  |
-| NETHER      | 10000 x 10000  |
-| END         | 15000 x 15000  |   
+|   ŚWIAT   |    BORDER     |
+|:---------:|:-------------:|
+| OVERWORLD | 20000 x 20000 |
+|  NETHER   | 10000 x 10000 |
+|    END    | 15000 x 15000 |   
 
 ### Przydatne dodatkowe komendy:
 • **/spawn** - teleportuje gracza na bezpieczny spawn
@@ -79,21 +79,21 @@ Rangę zakupić możesz na naszej stronie - [SKLEP KOKSCRAFT](https://kokscraft.
 Każda ranga posiada inne dodatkowe przywileje, sprawdzisz je komendą /rangi.
 Tak samo z ich zestawami - /kit, prawym przyciskiem myszy podejrzysz zawartość *każdego* zestawu!
 
-|                        **ZESTAWY**                      |
-|---------------------------------------------------------|
-|![kit-player](/assets/survival-dzialki/kit-player.png)   |
-|![kit-vip](/assets/survival-dzialki/kit-vip.png)         |
-|![kit-svip](/assets/survival-dzialki/kit-svip.png)       |
-|![kit-mvip](/assets/survival-dzialki/kit-mvip.png)       |
+|                        ZESTAWY                         |
+|:------------------------------------------------------:|
+| ![kit-player](/assets/survival-dzialki/kit-player.png) |
+|    ![kit-vip](/assets/survival-dzialki/kit-vip.png)    |
+|   ![kit-svip](/assets/survival-dzialki/kit-svip.png)   |
+|   ![kit-mvip](/assets/survival-dzialki/kit-mvip.png)   |
 
 
 ### Na stronie można również kupić **klucze do skrzyń!** Co to za skrzynie?
 ![chests](/assets/survival-dzialki/chests.png)
 
-|                        **CO DROPIĄ?**                     |
-|---------------------------------------------------------  |
-|![magic-chest](/assets/survival-dzialki/magic-chest.png)   |
-|![kox-chest](/assets/survival-dzialki/kox-chest.png)       |
+|                        CO DROPIĄ?                        |
+|:--------------------------------------------------------:|
+| ![magic-chest](/assets/survival-dzialki/magic-chest.png) |
+|   ![kox-chest](/assets/survival-dzialki/kox-chest.png)   |
 
 
 ## Topki <!-- SUNSHINE -->
