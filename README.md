@@ -86,14 +86,6 @@ Jeśli chcesz dodać link do strony, użyj poniższego kodu:
 [tekst linku](adres linku)
 ```
 
-# Komentarze
-
-Jeśli chcesz dodać komentarz, użyj poniższego kodu:
-
-```md
-<!-- komentarz -->
-```
-
 (Używaj komentarzy tylko wtedy, gdy jest to konieczne, np. gdy chcesz coś wyjaśnić, ale nie chcesz, żeby to było
 widoczne na stronie)
 

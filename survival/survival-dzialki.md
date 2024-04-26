@@ -1,8 +1,8 @@
-# Survival + Działki <!-- DECODE / SUNSHINE -->
+# Survival + Działki
 ### Połączenie klasycznego trybu survival z licznymi ułatwieniami. 
 ![Spawn](/assets/survival-dzialki/survival-spawn.png)
 
-## Jak zacząć? <!-- DECODE -->
+## Jak zacząć?
 Jak na klasycznym survivalu 1.20+! Zbieraj surowce, zarób pierwsze 500$ i stwórz swoją działkę! 
 Losowy teleport pomoże Ci znaleźć *idealny* teren.
 Pamiętaj o ustawieniu /home, inaczej do działki dotrzesz tylko na pieszo.
@@ -30,7 +30,7 @@ Ważna jest frekwencja - Twoja działka ma ważność TYLKO 14 dni! Po każdym l
 
 ![RTP](/assets/survival-dzialki/rtp.png)
 
-## Działka i jej zarządzanie <!-- SUNSHINE -->
+## Działka i jej zarządzanie
 Zacznijmy od tego, że działkę może założyć każdy kto ma 500$ na swoim koncie pamiętając o tym że gracz ma do dyspozycji kilka działek w zależności od posiadanej rangi.
 
 **GRACZ** posiada 2 działki, oraz możliwość ustawienia maksymalnie 3 domów
@@ -60,7 +60,7 @@ Nie ważne jaką masz rangę, wymiar Twojej działki do 50x50 kratek!
 
 ![Panel](/assets/survival-dzialki/panel.png)
 
-## Handel i Ekonomia <!-- SUNSHINE -->
+## Handel i Ekonomia
 Rynek na serwerze rządzi się swoimi prawami -  to gracze ustalają ceny przedmiotów i to od nich w dużej mierze zależy jak wygląda rynek!
 Serwer umożliwia handel na kilka sposobów: wewnętrzny sklep, market, wymiany bezpośrednie między graczami i przelewanie sobie pieniędzy.
 
@@ -72,7 +72,7 @@ A i jeszcze jedno! Jeśli masz znajomego w potrzebie przelej mu trochę pienięd
 
 ![market](/assets/survival-dzialki/market.png)
 
-## Rangi i Skrzynie <!-- DECODE -->
+## Rangi i Skrzynie
 Dwie działki to za mało? A może potrzebujesz lepszych itemów na start? Rangi premium posiadają więcej ułatwień niż serwer sam w sobie!
 Rangę zakupić możesz na naszej stronie - [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/rangi/sv-1-20_1)
 
@@ -113,7 +113,7 @@ TOP:
 #### **To co? Umówieni na wspólne wbijanie topek?**
 
 
-## Eventy <!-- DECODE / SUNSHINE -->
+## Eventy
 Aby zapewnić graczom dodatkową rozrywkę oraz wprowadzić troszkę więcej rywalizacji na serwerze **co 2 godziny** uruchamiają się automatyczne eventy.
 Event rozpocznie się jeśli na serwerze będzie łącznie **30 graczy**.
 W wydarzeniach opłaca się brać regularny udział, ponieważ pierwsze trzy osoby na koniec zostaną nagrodzone!
