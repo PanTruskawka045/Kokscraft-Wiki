@@ -5,7 +5,7 @@ Komendy na Discordzie służą do interakcji z botami.
 - **/komenda** - komenda, którą wpisujemy na chacie. 
 - **<argument>** - argument wymagany do poprawnego działania komendy.
 - **[argument]** - argument opcjonalny, który nie jest wymagany do poprawnego działania komendy.
-- **[argument1/argument2]** - argument wymagający wyboru jednej z dwóch (kilku) opcji.
+- **[argument1/argument2]** - argument wymagający wyboru jednej z dwóch (lub kilku) opcji.
 - **[argument...]** - argument, który można powtórzyć wielokrotnie.
 
 ## Profile
@@ -16,8 +16,8 @@ Komendy na Discordzie służą do interakcji z botami.
 Wyświetla profil użytkownika.
 Jeżeli argument nie zostanie podany, komenda wyświetli profil osoby ją wpisującej.
 
-### /bal [użytkownik]
-Alisy:/balance  /money, /poftfel, /wallet
+### /portfel [użytkownik]
+Alisy: /balance  /money, /bal, /wallet
 **[użytkownik]** - użytkownik, którego stan konta chcemy zobaczyć.
 
 Wyświetla stan konta użytkownika.
@@ -29,20 +29,20 @@ Alisy:/boostery, /mnozniki
 Wyświetla aktualne boostery użytkownika. (Nie pokazuje sie boost z server boosta!)
 
 ### /rep [użytkownik]
-Alisy:/reputacja, /reputation
+Alisy: /reputacja, /reputation
 **[użytkownik]** - użytkownik, któremu chcemy nadać punkt reputacji.
 
 Nadaje punkt reputacji.
 
 ### /level [użytkownik]
-Alisy:/lvl, /poziom, /rank
+Alisy: /lvl, /poziom, /rank
 **[użytkownik]** - użytkownik, którego profil chcemy zobaczyć.
 
 Wyświetla lvl użytkownika.
 Jeżeli argument nie zostanie podany, komenda wyświetli profil osoby ją wpisującej.
 
 ### /ekwipunek [użytkownik] [strona]
-Alisy:/eq, /inv, /inventory
+Alisy: /eq, /inv, /inventory
 **[użytkownik]** - użytkownik, którego profil chcemy zobaczyć.
 **[strona]** - strona z ekwipunku, którą chcemy zobaczyć.
 
@@ -52,40 +52,40 @@ Jeżeli argument nie zostanie podany, komenda wyświetli profil osoby ją wpisuj
 ## Sklep
 
 ### /sklep [strona]
-Alisy:/shop
+Alisy: /shop
 **[strona]** - strona z sklepu, którą chcemy zobaczyć.
 
 ### /gift [przedmiot] [użytkownik]
-Alisy:/kup-prezent, /prezent
+Alisy: /kup-prezent, /prezent
 
 **[przedmiot]** - przedmiot ze sklepu, który chcemu podarować.
 **[użytkownik]** - użytkownik, któremu chcemy kupić prezent.
 
 ### /use 
-Alisy:/uzyj
+Alisy: /uzyj
 
 Pozwala wybrać przedmiot z ekwipunku, który chcemy użyc.
 
 ### /darmowa-zmiana-nicku 
-Alisy:/odbierz-zmiane-nicku
+Alisy: /odbierz-zmiane-nicku
 
 Pozwala odebrać JEDNORAZOWĄ zmianę nicku.
 
 ## Topki
 
-### /coins-leaderboard [strona]
-Alisy:/lb-coins, /leaderboard-coins, /topka-coinsow, /topka-monet
+### /topka-coinsow [strona]
+Alisy: /lb-coins, /leaderboard-coins, /coins-leaderboard, /topka-monet
 **[strona]** - strona z topki monet, którą chcemy zobaczyć.
 
-### /lb-xp 
-Alisy:/leaderboard-xp, /topka-expa, /topka-xp, /xp-leaderboard 
+### /topka-expa 
+Alisy: /leaderboard-xp, /lb-xp, /topka-xp, /xp-leaderboard 
 
 Pokazuje link do strony na której są najlepsi użytkownicy według doświadczenia.
 
 ## Inne
 
 ### /odswiez-range
-Alisy:/refresh-rank 
+Alisy: /refresh-rank 
 
 Odświeża range na discord, jeśli masz połaczone konto discord z minecraft'em i posiadasz rangę (bez rang limitowanych)
 
@@ -94,5 +94,4 @@ Odświeża range na discord, jeśli masz połaczone konto discord z minecraft'em
 **<gracz>** - nick użytkownika, którego chcemy sprawdzić statystki.
 **[tryb]** - tryb z którego chcemy sprawdzić statystki (TntGames, SkyWars, HeadWars, TheBridge, UHC, BedWars)
 
-
-Pokazuje statystki gracz'a z serwer'a.
+Pokazuje statystki serwerowe gracza
