@@ -20,7 +20,7 @@
 | **Niedopełnienie obowiązków i/lub Przekroczenie uprawnień związanych z rangą testera lub inną rangą administracyjną** |             [red/]ban 14 dni - ban permanentny[/red]             |                                                                |                                                                 |
 |                                    **Ustawianie nieodpowiednich tytułów na lobby**                                    |                   [yellow/]ban 3 dni[/yellow]                    |                     [red/]ban 14 dni[/red]                     |                     [red/]ban 60 dni[/red]                      |
 
-## Czat tesktowy
+## Czat tekstowy
 
 |                                  Powód                                   |                              Pierwsza Kara                               |                        Druga Kara*                         |                                Trzecia Kara*                                |
 |:------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:----------------------------------------------------------:|:---------------------------------------------------------------------------:|
