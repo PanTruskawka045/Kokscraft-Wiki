@@ -1,5 +1,7 @@
 # Regulamin Minecraft
 
+Ostatnia aktualizacja: 08.08.2024
+
 ## 1. Postanowienia Ogólne
 
 **1.1 -** Administracja nie ponosi prawnych konsekwencji za działania użytkowników, które grożą odpowiedzialnością
@@ -58,7 +60,7 @@ dyskryminacji.
 **3.12 -** Na całym serwerze dozwolone jest tylko używanie języka polskiego i Angielskiego.
 **3.13.1 -** Zabrania się reklamowania innych serwerów minecraft i discord oraz jakichkolwiek serwerów ts.
 **3.13.2 -** Zabrania się reklamowania jakichkolwiek profili z mediów społecznościowych. (wyjątki: zasada
-5.1.1/5.1.2/6.1.1)
+5.1.1/5.1.2/6.1)
 **3.14 -** Cytowanie wiadomości łamiących regulamin (nawet w formie pytania) podlega karze.
 
 ## 4. Zasady ogólne rozgrywki
@@ -81,14 +83,25 @@ użytkownicy posiadający rangę CEO, PARTNER, MEDIA i KOKS.
 programów zewnętrznych.
 **5.7 -** Nabijanie statystyk na afk skutkuje całkowitym resetem konta.
 
-## Zasady czatu tekstowego i rozgrywki - tryby survival
+## 6. Zasady czatu tekstowego i rozgrywki - tryby survival
 
 **6.1 -** Reklamować własną twórczość z serwera poprzez nazwy profili z mediów społecznościowych mogą tylko użytkownicy
 posiadający rangę CEO, PARTNER, MEDIA, KOKS, MVIP oraz wszystkie rangi specjalne.
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
 
-### **SV+DZIAŁKI**
+### SV+DZIAŁKI
 
 **6.3 -** Zabrania się ustawiania nazw działek których nazwa w jakimkolwiek sposób łamie regulamin. Złamanie tej zasady
 może skutkować usunięciem działki!
-**6.4 -** Zabrania się griefowania terenu. 
+**6.4 -** Zabrania się griefowania terenu.
+
+## Terminologia
+**Wulgaryzmy oraz przekleństwa:**
+Lista: http://marcinmazurek.com.pl/polskie-wulgaryzmy
+Definicja: https://pl.wikipedia.org/wiki/wulgaryzmy_i_przekleństwa_w_języku_polskim
+
+**Mowa nienawiści:**
+Definicja: https://uprzedzuprzedzenia.org/czym-mowa-nienawisci/
+
+_Niniejszy regulamin jest własnością intelektualną administracji serwera KoksCraft._
+_Jakiekolwiek przejawy plagiatu będą surowo karane._
