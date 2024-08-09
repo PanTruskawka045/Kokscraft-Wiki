@@ -35,7 +35,7 @@ Topki ogólne obejmują różne kategorie, takie jak:
 - **Kokscoiny**
 - **Przegrane**
 
-![sshubogolne](#)
+![Hub Topki](/assets/leaderboard/sshubogolne.png)
 
 ## Topki Sezonowe
 Topki sezonowe obowiązują przez cały sezon i resetują się wraz z rozpoczęciem nowego sezonu danego trybu.
@@ -64,7 +64,7 @@ Nagrodami za topki dzienne są boostery, które są automatycznie rozdawane o 8:
 
 **Uwaga**: Nagrody są przyznawane tylko wtedy, gdy znajduje się o tym informacja w hologramie!
 
-![sshologram](#)
+![Screen hologram](/assets/leaderboard/sshologram.png)
 
 # Topki Klanowe
 Na serwerze występują również topki klanowe: ogólne, sezonowe, tygodniowe i dzienne.
@@ -76,7 +76,7 @@ Topki ogólne klanowe znajdują się na głównym hubie i obejmują:
 - **Topka kokscoinów w klanie**
 - **Ilość wbitego XP do klanu**
 
-![topkaklanhub](#)
+![Topki klanowe](/assets/leaderboard/topkaklanhub.png)
 
 ## Topki Klanowe Minigier
 Topki klanowe istnieją na trybach takich jak Bedwars i Skywars. Klan, który znajdzie się w topce na koniec sezonu, otrzymuje nagrody, np. boostery dla klanów, kokscoiny.
