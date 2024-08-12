@@ -207,13 +207,7 @@ Możesz sprwadzić swoje statystyki trybowe.
 ![statystyki](/assets/bedwars/statystyki.png)
 ## Topki 
 
-Na trybie posiadamy trzy rodzaje topek: **BedWars, BedWars Duels, Klanowe**. Topki dzielą się na dzienne, tygodniowe i sezonowe. 
-- **Topka dzienna** liczy się od godziny **9:00 do 24:00**.
-- **Topka tygodniowa** jest to suma z siedmiu ostatnich dni. 
-- Nagrody za **topki sezonowe** ogłaszane są na głównym serwerze discord koskcrafta i nadawane są po zakończeniu sezonu 
-- Nagrody za **topki klanowe** ogłaszane są na głównym serwerze discord koskcrafta i nadawane są po zakończeniu sezonu dla własciciela klanu
-![topki graczy](/assets/bedwars/topki1.png)
-![topki klanowe](/assets/bedwars/topki2.png)
+Informacje o topkach są dostępne tutaj -> **[Klinij Tu!](/article/server/leaderboards)**
 ## Karnety
 
 Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**. Pozwola on zdobyć **unikalne addony, vouchery na rangi, rubiny oraz kokscoiny**. Za każdy poziom karnetu jest inna wyjątkowa nagroda. W karnecie dostępnych jest aż **30 poziomów**. Osoby z aktywnym karnetem mają mnożnik **125%** do niego. 

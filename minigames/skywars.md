@@ -61,9 +61,7 @@ Wskaźnik **K/D**, czyli **zabójstw przez śmierci**, jest miernikiem wydajnoś
 
 ## Topki
 
-Topki dzienne i tygodniowe są częścią systemu rankingowego w SkyWars, który motywuje graczy do rywalizacji i poprawy swoich umiejętności. **Topki dzienne** trwają od **9:00 do 24:00** każdego dnia, pozwalając graczom na zdobycie pozycji w rankingu dziennym na podstawie ich wyników w tym okresie. Z kolei **topki tygodniowe** resetują się o **północy w poniedziałek**, dając graczom możliwość konkurowania na dłuższym dystansie i osiągnięcia wyższej pozycji w rankingu tygodniowym. Oba rodzaje rankingów oferują unikalne nagrody i wyróżnienia dla najlepszych graczy, zachęcając do aktywnego uczestnictwa w grze i ciągłego doskonalenia swoich umiejętności.
-
-![Topki](/assets/skywars/topka.png)
+Informacje o topkach są dostępne tutaj -> **[Klinij Tu!](/article/server/leaderboards)**
 ## Dusze
 
 **Dusze** w kontekście SkyWars są swego rodzaju symbolicznym przedstawieniem **"duszy"** przeciwnika, którego pokonaliśmy. Zdobywa się je **poprzez zabójstwa** w trakcie gry, co oznacza, że każda eliminacja przeciwnika przekłada się na zdobycie duszy. Zebrane dusze służą następnie jako **waluta do zakupu skrzyń dusz**, z których gracze mogą losować **unikalne perki**, które pomagają w dalszej rozgrywce. To mechanizm nagradzający **umiejętności i strategię**, motywujący graczy do dalszej rywalizacji i doskonalenia swoich umiejętności w SkyWars.
