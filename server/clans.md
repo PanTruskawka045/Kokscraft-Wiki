@@ -111,4 +111,4 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
 ## Topki Klanowe
 
-Informacje o topkach są dostępne tutaj -> **[Klinij Tu!](/article/server/leaderboards)**
+Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/server/leaderboards)**

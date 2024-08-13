@@ -207,7 +207,8 @@ Możesz sprwadzić swoje statystyki trybowe.
 ![statystyki](/assets/bedwars/statystyki.png)
 ## Topki 
 
-Informacje o topkach są dostępne tutaj -> **[Klinij Tu!](/article/server/leaderboards)**
+Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/server/leaderboards)**
+
 ## Karnety
 
 Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**. Pozwola on zdobyć **unikalne addony, vouchery na rangi, rubiny oraz kokscoiny**. Za każdy poziom karnetu jest inna wyjątkowa nagroda. W karnecie dostępnych jest aż **30 poziomów**. Osoby z aktywnym karnetem mają mnożnik **125%** do niego. 
