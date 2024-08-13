@@ -54,13 +54,13 @@ Nagrodami za topki sezonowe są różne addony, klucze itp. Nagrody są rozdawan
 ### **Dzienne**
 Nagrodami za topki dzienne są boostery, które są automatycznie rozdawane o 8:00.
 
-| Miejsce |             Nagroda             |
-|:-------:|:-------------------------------:|
-|    1    |  Booster XP 200% na 1 godzinę   |
-|    2    |  Booster XP 150% na 1 godzinę   |
-|    3    |  Booster XP 100% na 1 godzinę   |
-|    4    |   Booster XP 50% na 1 godzinę   |
-|    5    |   Booster XP 50% na 30 minut    |
+| **Miejsce** |         **Nagroda**          |
+|:-----------:|:----------------------------:|
+|      1      | Booster XP 200% na 1 godzinę |
+|      2      | Booster XP 150% na 1 godzinę |
+|      3      | Booster XP 100% na 1 godzinę |
+|      4      | Booster XP 50% na 1 godzinę  |
+|      5      |  Booster XP 50% na 30 minut  |
 
 **Uwaga**: Nagrody są przyznawane tylko wtedy, gdy znajduje się o tym informacja w hologramie!
 
