@@ -1,6 +1,6 @@
 # Boostery - Ogólne Informacje
 
-Boostery to mnożniki XP lub rubinów, które mogą znacząco przyspieszyć postępy na serwerze. Można je zdobyć na kilka sposobów, w tym poprzez karnety, skrzynki boosterów oraz nagrody z rankingów.
+Boostery to mnożniki rubinów lub XP, które mogą znacząco przyspieszyć postępy na serwerze. Można je zdobyć na kilka sposobów, w tym poprzez karnety, skrzynki boosterów oraz nagrody z rankingów.
 
 ## Rodzaje Boosterów
 
