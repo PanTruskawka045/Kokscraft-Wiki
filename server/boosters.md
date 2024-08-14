@@ -20,7 +20,8 @@ Boostery dostępne są w różnych kategoriach:
 Booster serwerowy jest czasami aktywowany przez administracje i działa na wszystkie minigry dla wszystkich graczy.
 
 ### Booster Trybowy
-Booster trybowy można zakupić na stronie lub wylosować ze skrzynki boosterów. Działa on dla wszystkich graczy na danym trybie, a osoba, która go aktywowała, otrzymuje dodatkowy XP z "tipów" co jakiś czas.
+Booster trybowy można zakupić na stronie lub wylosować ze skrzynki boosterów. Działa on dla wszystkich graczy na danym trybie, a osoba, która go aktywowała, otrzymuje dodatkowe XP lub Rubiny z "tipów" co jakiś czas.
+Booster ten można zakupić w [Sklepie Kokscraft.](https://kokscraft.pl/sklep/klucze/minigames)
 
 ![Boost_Tipy](/assets/boosters/tipy.png)
 
