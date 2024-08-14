@@ -1,6 +1,11 @@
 # Boostery - Ogólne Informacje
 
-Boostery to mnożniki rubinów lub XP, które mogą znacząco przyspieszyć postępy na serwerze. Można je zdobyć na kilka sposobów, w tym poprzez karnety, skrzynki boosterów oraz nagrody z rankingów.
+- Boostery to mnożniki rubinów lub XP, które mogą znacząco przyspieszyć postępy na serwerze. Można je zdobyć na kilka sposobów, w tym poprzez karnety, skrzynki boosterów oraz nagrody za topki, ranking.
+- Boostery o identycznym ID nie mogą być aktywowane jednocześnie.
+- Boostery o takim samym procencie, ale różnym czasie działania, sumują czas ich trwania.
+- Boostery o różnych procentach dodają się.
+
+
 
 ## Rodzaje Boosterów
 
@@ -17,7 +22,6 @@ Booster serwerowy jest czasami aktywowany przez administracje i działa na wszys
 ### Booster Trybowy
 Booster trybowy można zakupić na stronie lub wylosować ze skrzynki boosterów. Działa on dla wszystkich graczy na danym trybie, a osoba, która go aktywowała, otrzymuje dodatkowy XP z "tipów" co jakiś czas.
 
-![Boost_Trybowy](/assets/boosters/trybowy.png)
 ![Boost_Tipy](/assets/boosters/tipy.png)
 
 ### Booster Klanowy
@@ -26,12 +30,12 @@ Booster klanowy jest przeznaczony dla całego klanu. Można go zdobyć z nagród
 ![Boost_Klanowy](/assets/boosters/klanowy.png)
 
 ### Booster Party
-Booster Party można zdobyć ze skrzynek boosterów oraz z karnetów. Działa on dla wszystkich członków party, zwiększając zyski XP lub rubinów.
+Booster Party można zdobyć ze skrzynek boosterów oraz z karnetów. Działa on dla wszystkich członków party, zwiększając XP lub rubiny.
 
 ![Boost_Party](/assets/boosters/party.png)
 
 ### Booster dla Gracza
-Booster dla gracza działa wyłącznie na jednego gracza i może być zdobyty z karnetów, skrzynek boosterów oraz nagród za osiągnięcia w topkach.
+Booster dla gracza działa wyłącznie na jednego gracza i może być zdobyty z karnetów, skrzynek boosterów oraz nagród za topki, ranking.
 
 ![Boost_Gracz](/assets/boosters/gracz.png)
 
@@ -48,9 +52,7 @@ Aby aktywować booster, kliknij na swoją postać (główkę), następnie przejd
 
 - **Aktywne boostery klanowe można sprawdzić, wpisując komendę `/g info (nazwa swojego klanu)` i przechodząc do sekcji "Boostery".**
 
-![AktywneBoostyKlan](/assets/boosters/AktywneKlan.png)
-
 - **Aktywne boostery trybowe są widoczne po najechaniu na dany tryb w kompasie lub informacja o nich pojawia się nad paskiem ekwipunku.**
 
-![AktywneSerwer](/assets/boosters/Serwer1.png)
-![AktywneSerwer1](/assets/boosters/Serwer2.png)
+![Boost_All](/assets/boosters/trybowy.png)
+
