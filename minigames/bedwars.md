@@ -192,7 +192,7 @@ Graj na BedWars i zdobywaj rangę, która odpowiada twoim umiejętnością. Rang
 ![ranking](/assets/bedwars/ranking.png)
 ## StatTrack
 
-StarTrack pozwala na liczenie statystyk takich jak Zniszczone Łóżka i Finall Kille. Statystyki będą wyswietlać się na czacie! Koszt zakupu wynosi 1000kc. Stattrack można aktywować oraz dezaktywować w zaleznosci od potrzeb. Posiada dwa różne tryby wyświetlania - statystyki ogólnie i sezonowe.
+Stattrack pozwala na liczenie statystyk takich jak Zniszczone Łóżka i Finall Kille. Statystyki będą wyswietlać się na czacie! Koszt zakupu wynosi 1.000 KoksCoinów. Stattrack można aktywować oraz dezaktywować w zaleznosci od potrzeb. Posiada dwa różne tryby wyświetlania - statystyki ogólnie i sezonowe.
 ![stattrack](/assets/bedwars/StatTrack.png)
 ## Statystyki
 
