@@ -14,15 +14,16 @@ Każdy pupil zaczyna od poziomu 1 i może być wylevelowany do poziomu 100. Aby 
 pupila i grać w minigry.
 Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 
-|  **Zwierzak**  | **Mnożnik XP** (Poziom 1) | **Mnożnik XP** (Poziom 100) | **Mnożnik Rubinów** (Poziom 1) | **Mnożnik Rubinów** (Poziom 100) |
-|:--------------:|:-------------------------:|:---------------------------:|:------------------------------:|:--------------------------------:|
-|    Kapibara    |           0,3%            |             30%             |             0,25%              |               25%                |
-|    Bałwanek    |           0,45%           |             45%             |             0,35%              |               35%                |
-| Świąteczny Elf |           0,35%           |             35%             |              0,3%              |               30%                |
-|    Pingwin     |           0,45%           |             45%             |             0,35%              |               35%                |
-|      Szop      |           0,45%           |             45%             |             0,35%              |               35%                |
-|    Zajączek    |           0,45%           |             45%             |             0,35%              |               35%                |
-|     Slime      |           0,5%            |             50%             |              0,4%              |               40%                |
+|  **Zwierzak**   | **Mnożnik XP** (Poziom 1) | **Mnożnik XP** (Poziom 100) | **Mnożnik Rubinów** (Poziom 1) | **Mnożnik Rubinów** (Poziom 100) |
+|:---------------:|:-------------------------:|:---------------------------:|:------------------------------:|:--------------------------------:|
+|    Kapibara     |           0,3%            |             30%             |             0,25%              |               25%                |
+|    Bałwanek     |           0,45%           |             45%             |             0,35%              |               35%                |
+| Świąteczny Elf  |           0,35%           |             35%             |              0,3%              |               30%                |
+|     Pingwin     |           0,45%           |             45%             |             0,35%              |               35%                |
+|      Szop       |           0,45%           |             45%             |             0,35%              |               35%                |
+|    Zajączek     |           0,45%           |             45%             |             0,35%              |               35%                |
+|      Slime      |           0,5%            |             50%             |              0,4%              |               40%                |
+| Wakacyjny Goryl |           0,75%           |             75%             |             0,65%              |               65%                |
 
 ### Kapibara
 
@@ -57,3 +58,8 @@ Do zdobycia ze **Skrzynki Wielkanocnej**
 
 Dostępny w karnecie **[Bedwars](/article/minigames/bedwars) Sezon X**.
 ![Slime](/assets/pets/pet-6.png)
+
+### Wakacyjny Goryl
+
+Możliwy do zakupu w **[Sklepie Eventowym](/article/ogolne/event-wakacyjny)**, lub przez wydropienie z **Skrzynki Wakacyjnej**.
+![Wakacyjny Goryl](/assets/pets/pet-7.png)
