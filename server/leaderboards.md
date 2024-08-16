@@ -44,7 +44,7 @@ Topki sezonowe obowiązują przez cały sezon i resetują się wraz z rozpoczęc
 Topki te resetują się w cyklu siedmiodniowym, który przesuwa się codziennie o jeden dzień. Oznacza to, że każda nowa topka obejmuje dokładnie tydzień, ale zaczyna się i kończy zawsze tego samego dnia tygodnia, np. od środy do środy lub od piątku do piątku.
 
 ## Topki Dzienne
-Topki dzienne naliczane są w godzinach 11:00 - 02:00.
+Topki dzienne naliczane są w godzinach 09:00 - 24:00.
 
 ## Nagrody za Topki
 
@@ -52,7 +52,7 @@ Topki dzienne naliczane są w godzinach 11:00 - 02:00.
 Nagrodami za topki sezonowe są różne addony, klucze itp. Nagrody są rozdawane po zakończonych sezonach.
 
 ### **Dzienne**
-Nagrodami za topki dzienne są boostery, które są automatycznie rozdawane o 8:00.
+Nagrodami za topki dzienne są boostery, które są automatycznie rozdawane o pólnocy.
 
 | **Miejsce** |                       **Nagroda**                        |
 |:-----------:|:--------------------------------------------------------:|
