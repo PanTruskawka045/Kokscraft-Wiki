@@ -4,7 +4,15 @@
 Na serwerze znajdują się rangi do kupienia, które można zakupić na stronie [kokscraft.pl/sklep/rangi](https://kokscraft.pl/sklep/rangi/).
 
 ### Jakie benefity mają rangi na serwerze?
-Wszystkie informacje o benefitach dla rang można znaleźć w sklepie Kokscraft, wpisując swój nick i wybierając odpowiedni tryb -> [Sklep Kokscraft](https://kokscraft.pl/login).
+
+|            **Ranga**            | **Boost expa** | **Boost rubinów** | **Możliwość latania** | **Darmowe kluczyki przy zakupie rangi** |
+|:-------------------------------:|:--------------:|:-----------------:|:---------------------:|:---------------------------------------:|
+| ![koks](/assets/ranks/koks.png) |       x5       |       x4.75       |           ✔           |                   10                    |
+| ![uvip](/assets/ranks/uvip.png) |      x2.75     |       x2.6        |           ✔           |                    5                    |
+| ![mvip](/assets/ranks/mvip.png) |      x2.1      |       x1.9        |           ✔           |                    3                    |
+| ![svip](/assets/ranks/svip.png) |      x1.6      |       x1.5        |           ✔           |                    2                    |
+| ![vip](/assets/ranks/vip.png)   |      x1.35     |       x1.2        |           ❌           |                    1                    |
+Pozostałe informacje o benefitach dla rang można znaleźć w sklepie Kokscraft, wpisując swój nick i wybierając odpowiedni tryb w [Sklepie Kokscraft](https://kokscraft.pl/login).
 
 ### Chcę kupić rangę na BedWars? Gdzie mogę to zrobić?
 Tryby takie jak SkyWars, BedWars, BuildBattle itp. to tryby minigames - więc aby zakupić rangę, wybierz tryb Minigames.
@@ -16,9 +24,9 @@ Na trybach minigames można zakupić rangi, które po zakupie trwają 30 dni. Ra
 Na naszym serwerze znajdują się rangi okresowe, które pojawiają się w sklepie na różne okazje, np. Walentynki lub Święta
 
 ### Prefixy przed rangą
-Jeżeli posiadasz rangę **TESTER**, **SR.TESTER**, **MEDIA**, **PARTNER** lub rangę **Administracyjną** i zakupisz bądź użyjesz vouchera na rangę ze sklepu, będzie wyświetlał się prefix danej rangi. Na przykład:  
-K = KOKS - RANGA PREMIUM  
-TESTER - Ranga Główna  
+Jeżeli posiadasz rangę **TESTER**, **SR.TESTER**, **MEDIA**, **PARTNER** lub inną rangę **Administracyjną** i zakupisz bądź użyjesz vouchera na rangę ze sklepu, będzie wyświetlał się prefix danej rangi. Na przykład:  
+K = KOKS - Ranga Premium (Ze sklepu)  
+TESTER - Ranga Funkcyjna  
 ![ranga](/assets/ranks/ranga.png)
 
 ### Czy da się zdobyć rangi za darmo?
@@ -31,8 +39,15 @@ Na trybach survival jest kilka rang płatnych, a od czasu do czasu pojawiają si
     
 ## Rangi Administracyjne
 
-
-| **HELPER** | **JMOD** | **MOD** | **SMOD** | **JADMIN** | **ADMIN** | **H@** | **DEV** | **DEV+** | **CEO** |
-|------------|----------|---------|----------|------------|-----------|--------|---------|----------|---------|
-|            |          |         |          |            |           |        |         |          |         |
-|            |          |         |          |            |           |        |         |          |         |
+|              **Ranga**              | **Opis** |
+|:-----------------------------------:|:--------:|
+| ![helper](/assets/ranks/helper.png) |          | 
+|   ![jmod](/assets/ranks/jmod.png)   |          |
+|    ![mod](/assets/ranks/mod.png)    |          |
+|   ![smod](/assets/ranks/smod.png)   |          |
+| ![jadmin](/assets/ranks/jadmin.png) |          |
+|  ![admin](/assets/ranks/admin.png)  |          |
+| ![h@](/assets/ranks/headadmin.png)  |          |
+|    ![dev](/assets/ranks/dev.png)    |          |
+| ![dev+](/assets/ranks/devplus.png)  |          |
+|    ![ceo](/assets/ranks/ceo.png)    |          |
