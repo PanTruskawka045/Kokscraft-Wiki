@@ -13,7 +13,7 @@ Na serwerze znajdują się rangi do kupienia, które można zakupić na stronie 
 | ![svip](/assets/ranks/svip.png) |      x1.6      |       x1.5        |           ✔           |                    2                    |
 |  ![vip](/assets/ranks/vip.png)  |     x1.35      |       x1.2        |           ❌           |                    1                    |
 
-Pozostałe informacje o benefitach dla rang można znaleźć w sklepie Kokscraft, wpisując swój nick i wybierając odpowiedni tryb w [Sklepie Kokscraft](https://kokscraft.pl/login).
+Pozostałe informacje o benefitach dla rang można znaleźć w sklepie Kokscraft, wpisując swój nick i wybierając odpowiedni tryb w [Sklepie Kokscraft](https://kokscraft.pl/sklep/rangi/minigames).
 
 ### Chcę kupić rangę na BedWars? Gdzie mogę to zrobić?
 Tryby takie jak SkyWars, BedWars, BuildBattle itp. to tryby minigames - więc aby zakupić rangę, wybierz tryb Minigames.
