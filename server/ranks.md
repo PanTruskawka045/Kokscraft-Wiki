@@ -8,10 +8,10 @@ Na serwerze znajdują się rangi do kupienia, które można zakupić na stronie 
 |            **Ranga**            | **Boost expa** | **Boost rubinów** | **Możliwość latania** | **Darmowe kluczyki przy zakupie rangi** |
 |:-------------------------------:|:--------------:|:-----------------:|:---------------------:|:---------------------------------------:|
 | ![koks](/assets/ranks/koks.png) |       x5       |       x4.75       |           ✔           |                   10                    |
-| ![uvip](/assets/ranks/uvip.png) |      x2.75     |       x2.6        |           ✔           |                    5                    |
+| ![uvip](/assets/ranks/uvip.png) |     x2.75      |       x2.6        |           ✔           |                    5                    |
 | ![mvip](/assets/ranks/mvip.png) |      x2.1      |       x1.9        |           ✔           |                    3                    |
 | ![svip](/assets/ranks/svip.png) |      x1.6      |       x1.5        |           ✔           |                    2                    |
-| ![vip](/assets/ranks/vip.png)   |      x1.35     |       x1.2        |           ❌           |                    1                    |
+|  ![vip](/assets/ranks/vip.png)  |     x1.35      |       x1.2        |           ❌           |                    1                    |
 
 Pozostałe informacje o benefitach dla rang można znaleźć w sklepie Kokscraft, wpisując swój nick i wybierając odpowiedni tryb w [Sklepie Kokscraft](https://kokscraft.pl/login).
 
