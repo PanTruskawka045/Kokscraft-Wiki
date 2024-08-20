@@ -2,16 +2,16 @@
 
 ## Subskrypcje to dodatki, które możesz odblokować na określony czas.
 
-## Na serwerze można zakupić subskrypcje w sklepie Kokscraft. Wejdź na stronę [sklepu](https://kokscraft.pl/sklep/), wybierz zakładkę "Minigry", przejdź do zakładki "Przedmioty Premium" i wybierz interesującą Cię subskrypcję.
+Na serwerze można zakupić subskrypcje w sklepie Kokscraft. Wejdź na stronę [sklepu](https://kokscraft.pl/sklep/), wybierz zakładkę "Minigry", przejdź do zakładki "Przedmioty Premium" i wybierz interesującą Cię subskrypcję.
 
 ## Aktualnie na serwerze występują 2 subskrypcje:
 
-- **Incognito dla gracza**  
+### Incognito dla gracza  
 ![Incognito](/assets/subscriptions/inco.png)
   **Incognito dla gracza**: Daje dostęp do komend `/nick` oraz `/incognito`, które umożliwiają ukrycie swojego nicku oraz rangi przed innymi graczami w trybach minigames(na lobby nie działa!).
 
 
-- **Overlay**  
+### Overlay  
 ![overlay](/assets/subscriptions/overlay.png)
   **Overlay**: Daje dostęp do podglądu najważniejszych statystyk innych graczy w grze. Po naciśnięciu TAB, możesz zobaczyć u każdego gracza:
 
