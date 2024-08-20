@@ -2,25 +2,15 @@
 
 ## Poziom Globalny
 
-Poziom globalny pokazany jest na chacie (w miejscu zaznaczonym czerwonym prostokątem). 
-Jego kolor jest zależyny od aktualnego poziomu.
+Poziom globalny pokazany jest na chacie (w miejscu zaznaczonym czerwonym prostokątem).
 
 ![Poziom globalny](/assets/levels/level-format.png)
 
-|  Poziom   |     Kolor      |
-|:---------:|:--------------:|
-|  0 - 29   |     szary      |
-|  30 - 49  | jasny zielony  |
-|  50 - 89  | ciemny zielony |
-|  90 - 99  |     żółty      |
-| 100 - 149 |     złoty      |
-| 150 - 199 |     różowy     |
-| 200 - 249 |   fioletowy    |
-| 250 - 299 | jasny czerwony |
-| 300 - 499 |    czerwony    |
-|   500+    |     czarny     |
+Jego kolor jest zależyny od aktualnego poziomu.
 
- ## Kolory oraz nazwy odznak (poziomy trybowe)
+![Poziom kolor](/assets/levels/kolory.png)
+
+## Kolory oraz nazwy odznak (poziomy trybowe)
 
 Poziomy trybowe w odróżnieniu od poziomu globalnego, mogą się zwiększyć, grając tylko w dany tryb. 
 Poziom ten jest zaznaczony na chacie (w miejscu zaznaczonym czerwonym prostokątem) danym symbolem.
