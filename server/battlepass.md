@@ -3,7 +3,7 @@
 Karnet to inaczej przepustka, która umożliwia zdobywanie **ekskluzywnych oraz wyjątkowych** nagród poprzez aktywne uczestnictwo w rozgrywce, czyli zdobywanie punktów **XP**.
 ### JAK ODBLOKOWAĆ KARNET?
 Na serwerze istnieją karnety **PŁATNE** oraz **DARMOWE!**
-- **PŁATNE >** Kupuić je można za KoksCoiny, czyli walute serwerową którą zakupić można na stronie serwera > [Kliknij tutaj aby kupić KoksCoiny!](https://kokscraft.pl/sklep/kokscoiny/minigames) 
+- **PŁATNE >** Kupić je można za KoksCoiny, czyli walute serwerową którą zakupić można na stronie serwera > [Kliknij tutaj aby kupić KoksCoiny!](https://kokscraft.pl/sklep/kokscoiny/minigames) 
 - **DARMOWE >** Jeśli na serwerze zostanie dodany Darmowy Karnet, natychmiastowo zostaje on odblokowany przy wejściu na serwer!
 
 ### KROK PO KROKU, JAK KUPIĆ KARNET >
