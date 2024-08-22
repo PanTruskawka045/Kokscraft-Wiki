@@ -74,7 +74,7 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 ## Karnety
 
-W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, który oferuje graczom dostęp do ekskluzywnych kosmetyków, rubinów i kokscoinów. Karnet ten można nabyć za pomocą kokscoinów, klikając na niego lewym przyciskiem myszy, natomiast prawym przyciskiem można podejrzeć zawarte w nim nagrody. Każdy poziom karnetu odblokowuje inną, unikatową nagrodę, dodając elementy kolekcjonerskie i motywujące graczy do częstszego uczestnictwa w grze.
+W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, a więcej informacji o karnetach można znależć tu -> [Karnety](/article/server/batlepass)!
 
 ## K/D
 
