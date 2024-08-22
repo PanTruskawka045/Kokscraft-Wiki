@@ -44,23 +44,23 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 ### **Lista Perków**
 
-|           Perk            |  Rzadkość  |                                          Opis                                           | Maksymalny tier |
-|:-------------------------:|:----------:|:---------------------------------------------------------------------------------------:|:---------------:|
-|          Wampir           |   Częsty   |                        Leczy o 20% zadanych obrażeń x (% szans)                         |        1        |
-|       Lepsza Zbroja       |   Rzadki   | Daje x szans na ulepszenie jednej części zbroi otrzymanej przy zabójstwie z przeciwnika |        5        |
-| Regeneracja po zabójstwie |   Rzadki   |                   Daje efekt regeneracji I na x sekund po zabójstwie                    |        5        |
-|         Zaklinacz         |   Częsty   |                      Daje x poziomów doświadczenia przy zabójstwie                      |        3        |
-|        Robin Hood         |   Częsty   |                  Daje x % szans na zwrot strzały przy trafieniu z łuku                  |        3        |
-|         Strongman         | Legendarny |                        Daje efekt siły I na x s przy zabójstwie                         |        3        |
-|      Bonusowe monety      | Legendarny |                        Daje x dodatkowych monet przy zabójstwie                         |       10        |
-|      Bezpieczny drop      |   Rzadki   |    Daje x % na wyrzucenie przedmiotów na ziemię przy zrzuceniu przeciwnika w otchłań    |        5        |
-|         Wojownik          | Legendarny |         Daje x % szans na ulepszenie poziomu ostrości na mieczu przy zabójstwie         |        1        |
-|    Refil po zabójstwie    |   Rzadki   |               Daje x % szans na otrzymanie złotego jabłka przy zabójstwie               |       20        |
-|       Zwrot bloków        |   Częsty   |                       Daje x % szans na zwrot postawionego bloku                        |       10        |
-| Automatyczne przepalanie  |   Rzadki   |                    Automatycznie przepala wykopane rudy x (% szans)                     |        5        |
-|       Podwójny drop       |   Rzadki   |                    Daje x % szans na podwojenie wykopanych surowców                     |        5        |
-|   Bonusowe złote jabłko   | Legendarny |      Daje x % szans na otrzymanie dodatkowego złotego jabłka ze skrzyni startowej       |        2        |
-|  Bezpieczna teleportacja  |   Rzadki   |                    Redukuje x % obrażeń otrzymywanych od ender pereł                    |        3        |
+|           Perk            |           Rzadkość           |                                          Opis                                           | Maksymalny tier |
+|:-------------------------:|:----------------------------:|:---------------------------------------------------------------------------------------:|:---------------:|
+|          Wampir           |    [green/]Częsty[/green]    |                        Leczy o 20% zadanych obrażeń x (% szans)                         |        1        |
+|       Lepsza Zbroja       |     [blue/]Rzadki[/blue]     | Daje x szans na ulepszenie jednej części zbroi otrzymanej przy zabójstwie z przeciwnika |        5        |
+| Regeneracja po zabójstwie |     [blue/]Rzadki[/blue]     |                   Daje efekt regeneracji I na x sekund po zabójstwie                    |        5        |
+|         Zaklinacz         |    [green/]Częsty[/green]    |                      Daje x poziomów doświadczenia przy zabójstwie                      |        3        |
+|        Robin Hood         |    [green/]Częsty[/green]    |                  Daje x % szans na zwrot strzały przy trafieniu z łuku                  |        3        |
+|         Strongman         | [orange/]Legendarny[/orange] |                        Daje efekt siły I na x s przy zabójstwie                         |        3        |
+|      Bonusowe monety      | [orange/]Legendarny[/orange] |                        Daje x dodatkowych monet przy zabójstwie                         |       10        |
+|      Bezpieczny drop      |     [blue/]Rzadki[/blue]     |    Daje x % na wyrzucenie przedmiotów na ziemię przy zrzuceniu przeciwnika w otchłań    |        5        |
+|         Wojownik          | [orange/]Legendarny[/orange] |         Daje x % szans na ulepszenie poziomu ostrości na mieczu przy zabójstwie         |        1        |
+|    Refil po zabójstwie    |     [blue/]Rzadki[/blue]     |               Daje x % szans na otrzymanie złotego jabłka przy zabójstwie               |       20        |
+|       Zwrot bloków        |    [green/]Częsty[/green]    |                       Daje x % szans na zwrot postawionego bloku                        |       10        |
+| Automatyczne przepalanie  |     [blue/]Rzadki[/blue]     |                    Automatycznie przepala wykopane rudy x (% szans)                     |        5        |
+|       Podwójny drop       |     [blue/]Rzadki[/blue]     |                    Daje x % szans na podwojenie wykopanych surowców                     |        5        |
+|   Bonusowe złote jabłko   | [orange/]Legendarny[/orange] |      Daje x % szans na otrzymanie dodatkowego złotego jabłka ze skrzyni startowej       |        2        |
+|  Bezpieczna teleportacja  |     [blue/]Rzadki[/blue]     |                    Redukuje x % obrażeń otrzymywanych od ender pereł                    |        3        |
 
 
 ## Harmonogram gry
