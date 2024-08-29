@@ -13,7 +13,7 @@ Questy można aktywować klikając NPC z nimi, a następnie aktywować zadanie. 
 
 ![Screen NPC](/assets/questy/npc.png)
 
-### Wiadomość o wykonanym zadaniu
+### Wiadomość o zrobionym zadaniu
 
 ![Screen wiadomość](/assets/questy/wiadomosc.png)
 

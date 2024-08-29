@@ -26,7 +26,7 @@ Ranking graczy według najdłuższej serii pod rząd wygranych w trybie BuildBat
 Gracze, którzy najwięcej razy poprawnie przebudowali budowle w trybie SpeedBuilders.
 
 **Topka Questów**  
-Gracze, którzy zdobyli najwięcej questów znajdują sie w tej topce! Topka questów nabija się questów bedwars oraz buildgames.
+Gracze, którzy zrobili najwięcej questów znajdują sie w tej topce! Topka questów nabija się questów bedwars oraz buildgames.
 
 ## Topki Ogólne
 Topki ogólne obejmują różne kategorie, takie jak:
