@@ -23,4 +23,4 @@ Za zadania można uzyskać rubiny, XP, punkty trybowe (BuildGames) i w momentach
 
 ![Screen odbiór](/assets/questy/odbjur.png)
 
-## Istnieje również topka questów, na temat której możesz dowiedzieć się więcej [Tutaj!](/article/server/topki)
+## Istnieje również topka questów, na temat której możesz dowiedzieć się więcej [Tutaj!](/article/ogolne/topki)
