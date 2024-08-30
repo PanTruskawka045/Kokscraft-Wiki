@@ -74,7 +74,7 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 ## Karnety
 
-W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, a więcej informacji o karnetach można znależć tu -> [Karnety](/article/server/batlepass)!
+W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, a więcej informacji o karnetach można znależć tu -> [Karnety](/article/ogolne/karnety)!
 
 ## K/D
 
@@ -82,7 +82,7 @@ Wskaźnik **K/D**, czyli **zabójstw przez śmierci**, jest miernikiem wydajnoś
 
 ## Topki
 
-Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/server/leaderboards)**
+Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/ogolne/topki)**
 ## Dusze
 
 **Dusze** w kontekście SkyWars są swego rodzaju symbolicznym przedstawieniem **"duszy"** przeciwnika, którego pokonaliśmy. Zdobywa się je **poprzez zabójstwa** w trakcie gry, co oznacza, że każda eliminacja przeciwnika przekłada się na zdobycie duszy. Zebrane dusze służą następnie jako **waluta do zakupu skrzyń dusz**, z których gracze mogą losować **unikalne perki**, które pomagają w dalszej rozgrywce. To mechanizm nagradzający **umiejętności i strategię**, motywujący graczy do dalszej rywalizacji i doskonalenia swoich umiejętności w SkyWars.
