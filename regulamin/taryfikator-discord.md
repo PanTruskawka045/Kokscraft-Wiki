@@ -54,8 +54,8 @@ Ostatnia aktualizacja: 27.08.2024 (v1.3)
 |                               Powód                                |        Pierwsza Kara        |                 Druga Kara i więcej**                  |
 |:------------------------------------------------------------------:|:---------------------------:|:------------------------------------------------------:|
 |        **Siedzenie na kanale za złość, będąc niepożądanym**        | [green/]upomnienie[/green]* | [yellow/]warn[/yellow] + [green/]kick z kanału[/green] |
-|          **Puszczanie bindów / Korzystanie z modulatora**          |            ? ? ?            |                         ? ? ?                          |
-| **Utrudnianie komunikacji** (jęczenie, dmuchanie, krzyczenie itd.) |            ? ? ?            |                         ? ? ?                          |
+|          **Puszczanie bindów / Korzystanie z modulatora**          | [orange/]mute 14d[/orange]  |                                                        |
+| **Utrudnianie komunikacji** (jęczenie, dmuchanie, krzyczenie itd.) |   [yellow/]warn[/yellow]    |                                                        |
 
 ### Legenda
 
