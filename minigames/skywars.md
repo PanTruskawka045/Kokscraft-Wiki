@@ -42,6 +42,27 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 ![dusze](/assets/skywars/dusze.png)
 
+### **Lista Perków**
+
+|           Perk            |           Rzadkość           |                                          Opis                                           | Maksymalny tier |
+|:-------------------------:|:----------------------------:|:---------------------------------------------------------------------------------------:|:---------------:|
+|          Wampir           |    [green/]Częsty[/green]    |                        Leczy o 20% zadanych obrażeń x (% szans)                         |        1        |
+|       Lepsza Zbroja       |     [blue/]Rzadki[/blue]     | Daje x szans na ulepszenie jednej części zbroi otrzymanej przy zabójstwie z przeciwnika |        5        |
+| Regeneracja po zabójstwie |     [blue/]Rzadki[/blue]     |                   Daje efekt regeneracji I na x sekund po zabójstwie                    |        5        |
+|         Zaklinacz         |    [green/]Częsty[/green]    |                      Daje x poziomów doświadczenia przy zabójstwie                      |        3        |
+|        Robin Hood         |    [green/]Częsty[/green]    |                  Daje x % szans na zwrot strzały przy trafieniu z łuku                  |        3        |
+|         Strongman         | [orange/]Legendarny[/orange] |                        Daje efekt siły I na x s przy zabójstwie                         |        3        |
+|      Bonusowe monety      | [orange/]Legendarny[/orange] |                        Daje x dodatkowych monet przy zabójstwie                         |       10        |
+|      Bezpieczny drop      |     [blue/]Rzadki[/blue]     |    Daje x % na wyrzucenie przedmiotów na ziemię przy zrzuceniu przeciwnika w otchłań    |        5        |
+|         Wojownik          | [orange/]Legendarny[/orange] |         Daje x % szans na ulepszenie poziomu ostrości na mieczu przy zabójstwie         |        1        |
+|    Refil po zabójstwie    |     [blue/]Rzadki[/blue]     |               Daje x % szans na otrzymanie złotego jabłka przy zabójstwie               |       20        |
+|       Zwrot bloków        |    [green/]Częsty[/green]    |                       Daje x % szans na zwrot postawionego bloku                        |       10        |
+| Automatyczne przepalanie  |     [blue/]Rzadki[/blue]     |                    Automatycznie przepala wykopane rudy x (% szans)                     |        5        |
+|       Podwójny drop       |     [blue/]Rzadki[/blue]     |                    Daje x % szans na podwojenie wykopanych surowców                     |        5        |
+|   Bonusowe złote jabłko   | [orange/]Legendarny[/orange] |      Daje x % szans na otrzymanie dodatkowego złotego jabłka ze skrzyni startowej       |        2        |
+|  Bezpieczna teleportacja  |     [blue/]Rzadki[/blue]     |                    Redukuje x % obrażeń otrzymywanych od ender pereł                    |        3        |
+
+
 ## Harmonogram gry
 
 |      Wydarzenie      |        Czas        |
@@ -53,7 +74,7 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 ## Karnety
 
-W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, który oferuje graczom dostęp do ekskluzywnych kosmetyków, rubinów i kokscoinów. Karnet ten można nabyć za pomocą kokscoinów, klikając na niego lewym przyciskiem myszy, natomiast prawym przyciskiem można podejrzeć zawarte w nim nagrody. Każdy poziom karnetu odblokowuje inną, unikatową nagrodę, dodając elementy kolekcjonerskie i motywujące graczy do częstszego uczestnictwa w grze.
+W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, a więcej informacji o karnetach można znależć tu -> [Karnety](/article/ogolne/karnety)!
 
 ## K/D
 
@@ -61,7 +82,7 @@ Wskaźnik **K/D**, czyli **zabójstw przez śmierci**, jest miernikiem wydajnoś
 
 ## Topki
 
-Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/server/leaderboards)**
+Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/ogolne/topki)**
 ## Dusze
 
 **Dusze** w kontekście SkyWars są swego rodzaju symbolicznym przedstawieniem **"duszy"** przeciwnika, którego pokonaliśmy. Zdobywa się je **poprzez zabójstwa** w trakcie gry, co oznacza, że każda eliminacja przeciwnika przekłada się na zdobycie duszy. Zebrane dusze służą następnie jako **waluta do zakupu skrzyń dusz**, z których gracze mogą losować **unikalne perki**, które pomagają w dalszej rozgrywce. To mechanizm nagradzający **umiejętności i strategię**, motywujący graczy do dalszej rywalizacji i doskonalenia swoich umiejętności w SkyWars.

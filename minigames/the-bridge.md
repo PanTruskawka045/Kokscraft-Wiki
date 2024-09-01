@@ -2,17 +2,14 @@
 
 Wbiegnij przeciwnikowi do dziury i nie daj mu wskoczyć do swojej. Możesz to zrobić poprzez zabijanie go, omijanie go (bypass),
 zabudowanie wejścia do dziury (hippo), pójście ukośnym mostem do jego bazy (wing) i próbowanie go wykiwać, żeby móc go ominąć (juke)
-![the-bridge](/assets/thebridge/lobbynpc1.png)
-
-![the-bridge](/assets/thebridge/lobbynpc2.png)
+![the-bridge](/assets/thebridge/npclobby.png)
 
 ## Rozkład gry
 Na początku gry znajdujesz się w klatce, po odliczaniu które trwa 5 sekund zaczyna się 15-minutowa gra, żeby wygrać musisz strzelić 5 razy do bramki przeciwnika.
 
 ![the-bridge](/assets/thebridge/scorebord.png)
 
-![the-bridge](/assets/thebridge/odliczanie.png)
-
+## Koniec gry - wynik
 ![the-bridge](/assets/thebridge/wygrana.png)
 
 ## Bypass

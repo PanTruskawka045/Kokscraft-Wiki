@@ -207,13 +207,11 @@ Możesz sprwadzić swoje statystyki trybowe.
 ![statystyki](/assets/bedwars/statystyki.png)
 ## Topki 
 
-Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/server/leaderboards)**
+Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/ogolne/topki)**
 
 ## Karnety
 
-Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**. Pozwola on zdobyć **unikalne addony, vouchery na rangi, rubiny oraz kokscoiny**. Za każdy poziom karnetu jest inna wyjątkowa nagroda. W karnecie dostępnych jest aż **30 poziomów**. Osoby z aktywnym karnetem mają mnożnik **125%** do niego. 
-Karnet BedWars można kupić za **kokscoiny**. Aby kupić karnet musisz kliknąć na niego **lewym przyciskiem myszy**. Aby odpalić podgląd karnetu kliknij na niego **prawym przyciskiem myszy**.
-![karnet](/assets/bedwars/karnet-cena.png)
+Podczas każdego sezonu BedWars gracz ma możliwość kupienia **karnetu BedWars**, a więcej informacji o karnetach można znależć tu -> [Karnety](/article/ogolne/karnety)!
 ## Kosmetyki  
 
 Aby urozmaicić grę dla graczy postanowiliśmy wprowadzić kosmetyki. W skład ich wchodzą **skórki sklepu, skórki ulepszeń, wiadomość zniszczenia łóżka, hologram po zniszczeniu łóżka i efekt po zniszczeniu łóżka**.  Kosmetyki możesz zdobywać za pomocą karnetów BedWars, lub po prostu po zakupieniu w sklepie dziennym lub tygodniowy. Możesz również wylosować kosmetyki ze skrzynki unikatowej lub rzadkiej.
