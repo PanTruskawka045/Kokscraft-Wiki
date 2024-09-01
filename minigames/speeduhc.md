@@ -63,7 +63,7 @@ Aby otworzyć sklep, wpisz komendę /sklep lub kliknij prawym przyciskiem myszy 
 **Uwaga!** Niektóre przedmioty w sklepie są zablokowane za walutę trybową.
 
 ### Walka
-![SklepSpeeduhc.png](/assets/speeduhc/SklepSpeeduhc.png)
+![SklepSpeeduhc.png](/assets/speeduhc/SklepSpeedUhc.png)
 
 
 |       Przedmiot       | Cena przedmiotu |
@@ -75,14 +75,14 @@ Aby otworzyć sklep, wpisz komendę /sklep lub kliknij prawym przyciskiem myszy 
 |   Diamentowy miecz    |   Diament x2    |
 |     Żelazny hełm      |    Żelazo x5    |
 |  Żelazny napierśnik   |    Żelazo x8    |
-|Żelazne spodnie |    Żelazo x7    |
-| Żelazne buty |    Żelazo x4    |
-| Żelazny miecz |    Żelazo x2    |
-| Wędka |    Nitka x2     |
-| Łuk |    Nitka x3     |
-| Strzały x8|    Nitka x4     |
-|Strzały x16|    Nitka x6     |
-|Strzały x32|    Nitka x10    |
+|    Żelazne spodnie    |    Żelazo x7    |
+|     Żelazne buty      |    Żelazo x4    |
+|     Żelazny miecz     |    Żelazo x2    |
+|         Wędka         |    Nitka x2     |
+|          Łuk          |    Nitka x3     |
+|      Strzały x8       |    Nitka x4     |
+|      Strzały x16      |    Nitka x6     |
+|      Strzały x32      |    Nitka x10    |
 
 ### Narzędzia
 
@@ -99,18 +99,18 @@ Aby otworzyć sklep, wpisz komendę /sklep lub kliknij prawym przyciskiem myszy 
 
 ![AkcesoriaSpeedUhc.png](/assets/speeduhc/AkcesoriaSpeedUhc.png)
 
-|            Przedmiot             |            Cena przedmiotu             |
-|:--------------------------------:|:--------------------------------------:|
-| Enderperła| Szmaragd x8  |
-|TNT|Redstone x2 + Piasek x2|
-|Natychmiastowe TNT | Redstone x4 + Piasek x4|
-| Krzesiwo | Żelazo x1|
-| Wiadro z wodą |Żelazo x3 + Redstone x2|
-| Wiadro z lawą|Żelazo x3 + Redstone x1|
-| Wiadro | Żelazo x3|
-| Stół do zaklęć | Żelazo x8 + Redstone x 16 + Diament x2 |
-| Kowadło |               Żelazo x8                |
-|Kompas |        Żelazo x1 + Redsotne x1         |
+|          Przedmiot          |            Cena przedmiotu             |
+|:---------------------------:|:--------------------------------------:|
+|         Enderperła          |              Szmaragd x8               |
+|             TNT             |        Redstone x2 + Piasek x2         |
+|     Natychmiastowe TNT      |        Redstone x4 + Piasek x4         |
+|          Krzesiwo           |               Żelazo x1                |
+|        Wiadro z wodą        |        Żelazo x3 + Redstone x2         |
+|        Wiadro z lawą        |        Żelazo x3 + Redstone x1         |
+|           Wiadro            |               Żelazo x3                |
+|       Stół do zaklęć        | Żelazo x8 + Redstone x 16 + Diament x2 |
+|           Kowadło           |               Żelazo x8                |
+|           Kompas            |        Żelazo x1 + Redsotne x1         |
 | Natychmiastowa Teleportacja |              Szmaragd x8               |
 
 ### Mikstury
@@ -137,7 +137,7 @@ Aby otworzyć sklep, wpisz komendę /sklep lub kliknij prawym przyciskiem myszy 
 |     Lapisowa głowa(Daje losową ilość lapisu, losowa ilość doświadczenia oraz efekt Szybkość III na 10 sekund)      |  Lapis x8 + Głowa Gracza x1   |
 | Diamentowa głowa(Daje efekty Regeneracja IV na 4 sekundy oraz Absorbcja II na 3 minuty i +2 serca maksymalnego hp) | Diament x8 + Głowa Gracza x1  |
 |                                       Szmaragdowa głowa(Daje losowe surowce)                                       | Szmaragd x8 + Głowa Gracza x1 |
-| Złote jabłko|      Złoto x6                 |
+|                                                    Złote jabłko                                                    |           Złoto x6            |
 
 ### Ulubione
 
@@ -147,10 +147,10 @@ Aby otworzyć sklep, wpisz komendę /sklep lub kliknij prawym przyciskiem myszy 
 
 Na początku masz jeden darmowy pasek z trzech dostępnych, a każdy pasek oferuje 7 miejsc na przedmioty.
 
-|           Pasek           |          Cena          |
-|:----------------------------:|:----------------------:|
-| Drugi pasek |  1000 waluty trybowej  |
-| Trzeci pasek | 1500 waluty trybowej   |     
+|    Pasek     |      Cena       |
+|:------------:|:---------------:|
+| Drugi pasek  | 1000 kokscoinów |
+| Trzeci pasek | 1500 kokscoinów |     
 
 ## System gwiazdek
 W trybie gry funkcjonuje system gwiazdek, który nagradza za zdobywanie doświadczenia (XP). Za każdą wygraną otrzymujesz 5 XP, a za każde zabójstwo 1 XP.
@@ -162,16 +162,16 @@ Często w kopalniach napotkasz spawnery, które generują różne rodzaje mobów
 
 ![SpeedUhcSpawner.png](/assets/speeduhc/SpeedUhcSpawner.png)
 
-|     Mob     |               Drop z moba                |
-|:-----------:|:----------------------------------------:|
-|   Zombie    |      1 redstone    |
-|  Szkielet   |      1 strzała       |
-| Pająk | 1 nitka|
-| Blaze       |  1 blaze powder |
-| wiedźma | 1 redstone|
-| creeper |  1 tnt|
-| enderman | 50% na 1 perłe|
-| owca | 1 nitka|
+|   Mob    |  Drop z moba   |
+|:--------:|:--------------:|
+|  Zombie  |   1 redstone   |
+| Szkielet |   1 strzała    |
+|  Pająk   |    1 nitka     |
+|  Blaze   | 1 blaze powder |
+| wiedźma  |   1 redstone   |
+| creeper  |     1 tnt      |
+| enderman | 50% na 1 perłe |
+|   owca   |    1 nitka     |
 
 
 
