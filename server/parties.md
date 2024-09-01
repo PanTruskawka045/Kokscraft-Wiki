@@ -16,7 +16,7 @@ Natomiast aby zaakceptować zaproszenie od innego gracza, wystarczy wpisać kome
 
 **/p leave** - Opuść party,
 
-**/p leader** - Awansuje gracza na lidera party,
+**/p leader <nick>** - Awansuje gracza na lidera party,
 
 **/p list** - Wyswietla liste graczy w party,
 
