@@ -6,7 +6,7 @@ Aby zaprosić innego gracza do party należy użyć komendy > **/p invite [nick]
 
 ![add](/assets/parties/add.png)
 
-Natomiast aby zaakceptować zaproszenie od innego gracza, wystarczy wpisać komende > **/p accept** 
+Natomiast aby zaakceptować zaproszenie od innego gracza, wystarczy wpisać komende > **/p accept [nick]** 
 
 ![zaproszenie](/assets/parties/zaproszenie.png)
 
@@ -28,6 +28,8 @@ Natomiast aby zaakceptować zaproszenie od innego gracza, wystarczy wpisać kome
 
 **/p warp** - Teleportuje czlonkow party na Twoje lobby,
 
+**/p chat-toggle** - Wylacz/Wlacz mozliwosc pisania na czacie party,
+
 ## PARTY OTWARTE >
 
 Po stworzeniu party z min. 1 graczem, możemy je otworzyć aby każdy gracz mógł do niego dołączyć, bez wcześniejszego zaproszenia od lidera party.
@@ -36,6 +38,6 @@ Aby otworzyć party należy wpisać komendę > **/p open** - tej samej komendy u
 
 ![open](/assets/parties/open.png)
 
- Komenda **/p limit** - ustawia limit osob, jakie mogą dołączyć do party.
+ Komenda **/p limit** - ustawia limit osob, które mogą dołączyć do party.
 
 ![limit](/assets/parties/limit.png)
