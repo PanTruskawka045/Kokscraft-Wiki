@@ -1,19 +1,18 @@
 # Taryfikator Minecraft
 
-Ostatnia aktualizacja: 08.08.2024 (v2.8)
+Ostatnia aktualizacja: 04.09.2024 (v2.8.1)
 
 ## Zasady ogólne serwera
 
 |                                                         Powód                                                         |                     Pierwsza Kara                     |                      Druga Kara*                      |                   Trzecia Kara i więcej*                    |
 |:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------------:|
-|                                              **Oszustwo Administracji**                                               |        [red/]ban 28d[/red] - [red/]perm[/red]         |                                                       |                                                             |
+|                                              **Oszustwo Administracji**                                               |        [red/]ban 14d[/red] - [red/]perm[/red]         |                                                       |                                                             |
 |                                         **Nieodpowiedni nick** (Non-premium)                                          |                 [red/]ban perm[/red]                  |                                                       |                                                             |
 |                                           **Nieodpowiedni nick** (Premium)                                            |                  [red/]ban 28d[/red]                  |                 [red/]ban perm[/red]                  |                                                             |
 |                                          **Nieodpowiedni nick** (Incognito)                                           |               [yellow/]ban 1d[/yellow]                |                  [red/]ban 7d[/red]                   |                     [red/]ban 14d[/red]                     |
 |                                                **Nieodpowiedni skin**                                                 |              [yellow/]ban 15min[/yellow]              |                  [red/]ban 7d[/red]                   |                     [red/]ban 28d[/red]                     |
 |                                             **Nieodpowiednie pelerynki**                                              |               [yellow/]ban 1d[/yellow]                |                  [red/]ban 7d[/red]                   |                     [red/]ban 28d[/red]                     |
 |                                         **Namawianie do łamania regulaminu**                                          |               [yellow/]ban 3d[/yellow]                |                  [red/]ban 14d[/red]                  |                     [red/]ban 60d[/red]                     |
-|                                                 **Przedłużanie gry**                                                  |                 [green/]kick[/green]                  |               [yellow/]ban 1h[/yellow]                |                  [yellow/]ban 12h[/yellow]                  |
 |                                                    **Rajdowanie**                                                     |                 [red/]ban perm[/red]                  |                                                       |                                                             |
 |                                                    **Multikonta**                                                     |                 [red/]ban perm[/red]                  |                                                       |                                                             |
 |                                  **Podszywanie się pod użytkowników/administrację**                                   |                [green/]mute 1d[/green]                |               [yellow/]ban 1d[/yellow]                |                     [red/]ban 7d[/red]                      |
@@ -61,6 +60,7 @@ Ostatnia aktualizacja: 08.08.2024 (v2.8)
 |                                        **Współpraca z cheaterem** (tryby survival)                                         |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             | 
 |                                                 **Wykorzystywanie błędów**                                                 |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             |
 |                                                       **Teamowanie**                                                       |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 28d[/red]             |
+|                                                    **Przedłużanie gry**                                                    |    [green/]kick[/green]    | [yellow/]ban 1h[/yellow]  |          [yellow/]ban 12h[/yellow]          |
 |                                      **Sabotowanie drużyny, celowe utrudnianie gry**                                       |  [yellow/]ban 2h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]           | 
 |                                                 **Niecenzuralne budowle**                                                  |  [yellow/]ban 3d[/yellow]  |    [red/]ban 14d[/red]    |             [red/]ban 28d[/red]             |
 |                                    **Pomaganie na UHC** (oddawanie killi, główek itp.)                                     |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 14d[/red]             |
