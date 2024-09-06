@@ -4,7 +4,7 @@ Headwars to tryb gry w Minecraft, który polega na intensywnych walkach, w któr
 Na początku rozgrywki posiadasz 4 guziki które pomogą zdobyć żelazo dzięki któremu możesz kupić ulepszenia/generatory oraz itemy.
 ![Przycisk startowy Head Wars](/assets/head-wars/Przycisk-HW.png)
 ## Generatory
-Ulepszator to drewniana motyka, która automatycznie pojawia się w 9. slocie ekwipunku. Umożliwia ona ulepszanie posiadanych generatorów poprzez kliknięcie prawym przyciskiem myszy w stronę generatora. Koszt ulepszenia zależy od rodzaju generatora i jego aktualnego poziomu, co pozwala na strategiczne zarządzanie zasobami w trakcie rozgrywki.
+W trakcie rozgrywki gracz może zakupić trzy rodzaje generatorów: złota, żelaza i diamentów. Generatory szmaragdów nie są dostępne do zakupu, ale emeraldy można zdobyć, udając się na środek mapy. Tam znajdują się cztery generatory, które odradzają emeraldy co 45 sekund, przy czym na jednym generatorze może pojawić się maksymalnie jeden emerald.
 #### Uwaga! Generatory mają swój czas działania
 
 | **Generator**                  | **Czas działania** |
@@ -85,7 +85,7 @@ W sklepie u villagera gracze mogą zakupić różnorodne przedmioty, bloki oraz 
 | Szybkie Kopanie 2    | 16 Diamentów  |
 | Powolne Opadanie     | 8 Diamentów   |
 | Powolne Opadanie 2   | 2 Diamenty    |
-| Efekt żyia           | 10 Szmaragdów |
+| Efekt życia          | 10 Szmaragdów |
 | Efekt Siły           | 10 Szmaragdów |
 | Zaklęty ogień        | 10 Szmaragdów |
 
@@ -130,15 +130,21 @@ Po udanym zniszczeniu główki zostajesz wyrzucony w powietrze dostając efekt M
 #### Uwaga! Glówke można zniszczyć poprzez rozwalenie jej przeciwnikowi.
 
 ## Często zadawane pytania przez graczy.
-- Do czego jest motyka? <br>
+- Do czego jest motyka?
+
 Odp. Motyka jest to ulepszator dzięki któremu można ulepszyć generatory/bloki.
-- Czemu nie mogę postawić generatora ?<br>
+- Czemu nie mogę postawić generatora ?
+
 Odp. Mógł zostać przekroczony limit generatorów możliwych do posiadania na wyspie.
-- Po jakim czasie mogę wyjść z bazy ?<br>
+- Po jakim czasie mogę wyjść z bazy ?
+
 Odp. Wyjście z bazy jest możliwe od razu po rozpoczęciu rozgrywki.
-- Ile trwa gra?<br>
+- Ile trwa gra?
+
 Odp. Czas gry jest zależny jak szybko gracze się wyliminują z areny.
-- Gdzie mogę kupić sobie efekt zniszczenia główki?<br>
+- Gdzie mogę kupić sobie efekt zniszczenia główki?
+
 Odp. Efekt jest jedynie możliwy do zdobycie po przez użycie główki przeciwinika.
-- Ile trwa spawn protection?<br>
+- Ile trwa spawn protection?
+
 Odp. Spawn protection trwa 5 sekund od momentu odrodzenia się, nie uwzględnia on problemów z internetem bądź problemów sprzętowych
