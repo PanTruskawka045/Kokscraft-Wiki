@@ -5,6 +5,7 @@ Na początku rozgrywki posiadasz 4 guziki które pomogą zdobyć żelazo dzięki
 ![Przycisk startowy Head Wars](/assets/head-wars/Przycisk-HW.png)
 ## Generatory
 W trakcie rozgrywki gracz może zakupić trzy rodzaje generatorów: złota, żelaza i diamentów. Generatory szmaragdów nie są dostępne do zakupu, ale emeraldy można zdobyć, udając się na środek mapy. Tam znajdują się cztery generatory, które odradzają emeraldy co 45 sekund, przy czym na jednym generatorze może pojawić się maksymalnie jeden emerald.
+
 #### Uwaga! Generatory mają swój czas działania
 
 | **Generator**                  | **Czas działania** |
