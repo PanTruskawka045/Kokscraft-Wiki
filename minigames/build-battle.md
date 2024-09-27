@@ -113,6 +113,11 @@ Dzieje się tak gdy przynajmniej 5-ciu graczy zagłosuje oceną "KOKS"
 
 ![KOKS Budowla](/assets/buildbattle/build-battle-KOKS-budowla.png)
 
+## Czerwona Pochodnia (Zgłoszenie!)
+Każdy gracz otrzymuje do ekwipunku czerwoną pochodnię, która służy do zgłaszania nieodpowiednich budowli innych graczy. Wystarczy na nią kliknąć, aby zgłoszenie budowli trafiło do weryfikacji przez administrację. Jeśli budowla zostanie uznana za nieodpowiednią, gracz zostanie ukarany!
+
+![Pochodnia](/assets/buildbattle/pochodnia.png)
+
 ## Koniec Gry
 
 Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły pierwsze, drugie i trzecie miejsce w grze, zarazem pokazując budowle, która wygrała.
