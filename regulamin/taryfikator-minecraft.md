@@ -1,6 +1,6 @@
 # Taryfikator Minecraft
 
-Ostatnia aktualizacja: 04.09.2024 (v2.8.1)
+Ostatnia aktualizacja: 05.10.2024 (v2.8.2)
 
 ## Zasady ogólne serwera
 
@@ -53,7 +53,7 @@ Ostatnia aktualizacja: 04.09.2024 (v2.8.1)
 
 |                                                           Powód                                                            |       Pierwsza Kara        |        Druga Kara*        |           Trzecia Kara i więcej*            |
 |:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------:|:-------------------------------------------:|
-|                                  **Używanie wspomagaczy klikania** (makra, autoclickery)                                   |    [red/]ban 14d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             |
+|                                  **Używanie wspomagaczy klikania** (makra, autoclickery)                                   |    [red/]ban 14d[/red]     |    [red/]ban 60d[/red]    |            [red/]ban 180d[/red]             |
 |                                                      **Cheatowanie**                                                       |    [red/]ban 28d[/red]     |   [red/]ban perm[/red]    |                                             |
 |                             **Inne niedozwolone modyfikacje** (mniej wpływające na rozgrywkę)                              |     [red/]ban 7d[/red]     |    [red/]ban 14d[/red]    |             [red/]ban 28d[/red]             |
 |                                            **Współpraca z cheaterem** (minigry)                                            |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     | [red/]ban 28d[/red] -> [red/]ban 180d[/red] |
