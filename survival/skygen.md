@@ -19,6 +19,8 @@ W momencie, kiedy skończyłeś już walkę, a chciałbyś się Szybko uleczyć,
 ## Bossy 
 Na trybie występują bossy, z których dropią serca, za które możesz kupić skile, kule precyzji, karty talizmanow  pojawiają się one w nastepujacych godzinach 12:00, 14:00, 16:00, 18:00, 19:00, 20:00, 22:00, 23:00.
 
+![skygen](/assets/skygen/bosik.png)
+
 ## Strefa afk
 Odpoczywaj w tym miejscu, przy okazji zgarniając Klucze do Skrzyni AFK!
 
@@ -63,6 +65,8 @@ Podczas rozgrywki na trybie występują eventy, za które otrzemuje się klucze 
 |    1    |  2 koks klucze   |
 |    2    |   1 koks klucz   |
 |    3    | 2 magiczny klucz |
+
+![skygen](/assets/skygen/evencik.png)
 
 ## Genboosty
 Na serwerze występują dwa rodzaje genboostów globalne i indywidualne. Genboosty możesz zdobywać poprzez otwieranie skrzynek, osiągnięcia lub poprzez kupienie ich pod komendą /sklep. Genboosty mnożą bloki wypadające z generatorów potrzebnych do ulepszania zbroi.
