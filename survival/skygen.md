@@ -21,10 +21,12 @@ Na trybie występują bossy, z których dropią serca, za które możesz kupić 
 
 ## Strefa afk
 Odpoczywaj w tym miejscu, przy okazji zgarniając Klucze do Skrzyni AFK!
+
+![skygen](/assets/skygen/strefaafk.png)
+
 ## Skrzynki
 Na spawnie znajdują się skrzynki, do których klucze można pozyskać ze strefy afk, eventów, klucze można zdobyć również poprzez zakup ich na stronie kokscraft.pl
 
-![skygen](/assets/skygen/strefaafk.png)
 
 ## Skille
 Na skygenie znajdują się specjalne przedmioty takie jak talizmany i skile, które ułatwią ci rozgrywkę. Możesz je zdobyc u villagerów na spawnie, zeby naprawic skilla potrzebujesz 64 odłamków czasu i 5000 waluty serwerowej.
