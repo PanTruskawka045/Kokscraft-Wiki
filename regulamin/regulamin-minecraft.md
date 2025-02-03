@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 08.08.2024
+Ostatnia aktualizacja: 3.02.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -19,7 +19,7 @@ Ostatnia aktualizacja: 08.08.2024
 **2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administacji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
-**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu. Szczegółowa rozpiska dotycząca nicków opisana jest __**tutaj**__.
+**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu.
 **2.8 -** Użytkownik zobowiązany jest do posiadania pelerynki i skina, który(a) nie zawiera treści: historycznych, przeznaczonych dla osób powyżej 18 roku życia oraz wzbudzających kontrowersje.
 **2.9.1 -** Przewinienia graczy na chacie należy zgłaszać w czasie maksymalnie 24h.
 **2.9.2 -** Przewinienia graczy w rozgrywce na serwerze należy zgłaszać w czasie maksymalnie tygodnia. Wyjątkiem są rzeczy, za które przypada kara w postaci bana na minimum 28 dni.
@@ -48,7 +48,7 @@ Ostatnia aktualizacja: 08.08.2024
 
 ## 4. Zasady ogólne rozgrywki
 
-**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Szczegółowe informacje dotyczące dozwolonych/zabronionych modyfikacji znajdziesz **__tutaj__**.
+**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Ze wszystkich modyfikacji poza OptiFine korzystasz na własną odpowiedzialność.
 **4.2 -** Zabrania się współpracowania z cheaterem poprzez granie z nim i/lub pomocy w rozgrywce.
 **4.3 -** Zabronione jest budowanie niecenzuralnych budowli.
 
@@ -70,7 +70,7 @@ Ostatnia aktualizacja: 08.08.2024
 
 ### SV+DZIAŁKI
 
-**6.3 -** Zabrania się ustawiania nazw działek których nazwa w jakimkolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
+**6.3 -** Zabrania się ustawiania nazw działek, których nazwa w jakimkolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
 **6.4 -** Zabrania się griefowania terenu.
 
 ## Terminologia

@@ -1,6 +1,6 @@
 # Regulamin Discord
 
-Ostatnia aktualizacja 08.08.2024
+Ostatnia aktualizacja: 3.02.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -55,3 +55,14 @@ Ostatnia aktualizacja 08.08.2024
 **4.1 -** Zabrania się utrudniania komunikacji poprzez np.: używania modulatora, robienia przesterów, puszczania bindów, wydawania nieznośnych oraz nieprzyjemnych dźwięków.
 **4.2 -** Zabrania się przesiadywania na kanale wówczas, gdy większość osób bądź właściciel kanału Cię tam nie chce - dotyczy tylko kanałów MAX.
 **4.3 -** Nagrywanie na kanałach głosowych jest dozwolone jedynie w przypadku, gdy każdy z obecnych na kanale wyrazi na to zgodę, bądź w celach dowodowych do zgłoszenia innej osoby, jeśli ta łamie regulamin.
+
+## Terminologia
+**Wulgaryzmy oraz przekleństwa:**
+Lista: http://marcinmazurek.com.pl/polskie-wulgaryzmy
+Definicja: https://pl.wikipedia.org/wiki/wulgaryzmy_i_przekleństwa_w_języku_polskim
+
+**Mowa nienawiści:**
+Definicja: https://uprzedzuprzedzenia.org/czym-mowa-nienawisci/
+
+_Niniejszy regulamin jest własnością intelektualną administracji serwera KoksCraft._
+_Jakiekolwiek przejawy plagiatu będą surowo karane._
