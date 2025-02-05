@@ -44,7 +44,7 @@ Ostatnia aktualizacja: 3.02.2025
 **3.2 -** Zabrania się pisania inną czcionką niż tą domyślną.
 **3.3 -** Zabrania się wysyłania na chat jakichkolwiek linków (nawet do gif'ów). Nie zaliczają się pod to strony kokscrafta.
 **3.4 -** Niezastosowanie się do wzoru i przypiętej wiadomości z kanału propozycji może skutkować usunięciem propozycji i nadaniem kary.
-**3.5 -** Czat ogólny nie jest odpowiednim miejscem, do poruszania tematu swojego bana.
+**3.5 -** Czat ogólny nie jest odpowiednim miejscem, do poruszania tematu swojej kary.
 **3.6 -** Zabrania się próby używania komend administracyjnych.
 **3.7 -** Podczas pisania należy starać się przestrzegać zasad gramatyki oraz ortografii.
 **3.8 -** Zabrania się nadmiernego oznaczania oraz bezpodstawnego pingowania osób, w tym administracji.
