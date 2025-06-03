@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 30.04.2025
+Ostatnia aktualizacja: 3.06.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -68,11 +68,13 @@ Ostatnia aktualizacja: 30.04.2025
 
 **6.1 -** Reklamować własną twórczość z serwera poprzez nazwy profili z mediów społecznościowych mogą tylko użytkownicy posiadający rangę CEO, PARTNER, MEDIA, KOKS, MVIP oraz wszystkie rangi specjalne.
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
+**6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
+**6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
 
 ### SV+DZIAŁKI
 
-**6.3 -** Zabrania się ustawiania nazw działek, których nazwa w jakimkolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
-**6.4 -** Zabrania się griefowania terenu.
+**6.4 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
+**6.5 -** Zabrania się griefowania terenu.
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
