@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 3.06.2025
+Ostatnia aktualizacja: 7.07.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -36,7 +36,8 @@ Ostatnia aktualizacja: 3.06.2025
 **3.4 -** Na serwerze panuje absolutny zakaz przeklinania oraz używania wulgaryzmów 24/7 FFH (Family Friendly Hour).
 **3.5 -** Zabrania się poruszać tematy kontrowersyjne, w tym polityczne, wulgarne, religijne oraz te o charakterze seksualnym (18+).
 **3.6 -** Surowo zabrania się namawiania do samookaleczenia, samobójstwa, robienia krzywdy sobie lub innym, wyzywania, życzenia śmierci, gróźb, złorzeczenia, werbalnego znęcania się oraz poniżania.
-**3.7 -** Cenzurowanie/Modyfikowanie przekleństw lub innych słów powszechnie uznawanych za obraźliwych jest normalnie karane.
+**3.7.1 -** Cenzurowanie/Modyfikowanie przekleństw lub innych słów powszechnie uznawanych za obraźliwych jest normalnie karane.
+**3.7.2 -** Zabrania się używania skrótów, które w swoim rozwinięciu naruszają regulamin. (wyjątek: "wtf")
 **3.8 -** Absolutnie zabrania się propagowania rasizmu, seksizmu, faszyzmu, nazizmu i komunizmu oraz jakichkolwiek form dyskryminacji.
 **3.9 -** Zabrania się jakichkolwiek prób prowokacji użytkowników.
 **3.10 -** Wprowadzanie graczy w błąd, nawet niecelowe może skutkować karą.
