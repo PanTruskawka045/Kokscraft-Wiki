@@ -1,6 +1,6 @@
 # Taryfikator Minecraft
 
-Ostatnia aktualizacja: 2.02.2025 (v2.9)
+Ostatnia aktualizacja: 28.07.2025 (v2.10.1)
 
 ## Zasady ogólne serwera
 
@@ -61,7 +61,7 @@ Ostatnia aktualizacja: 2.02.2025 (v2.9)
 |                                        **Współpraca z cheaterem** (tryby survival)                                         |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             | 
 |                                                 **Wykorzystywanie błędów**                                                 |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             |
 |                                                       **Teamowanie**                                                       |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 28d[/red]             |
-|                                                    **Przedłużanie gry**                                                    |    [green/]kick[/green]    | [yellow/]ban 1h[/yellow]  |          [yellow/]ban 12h[/yellow]          |
+|                                                    **Przedłużanie gry**                                                    |  [yellow/]ban 1h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]           |
 |                                      **Sabotowanie drużyny, celowe utrudnianie gry**                                       |  [yellow/]ban 2h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]           | 
 |                                                 **Niecenzuralne budowle**                                                  |  [yellow/]ban 3d[/yellow]  |    [red/]ban 14d[/red]    |             [red/]ban 28d[/red]             |
 |                                    **Pomaganie na UHC** (oddawanie killi, główek itp.)                                     |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 14d[/red]             |
