@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 7.07.2025
+Ostatnia aktualizacja: 3.08.2025
 
 ## 1. Postanowienia Ogólne
 
