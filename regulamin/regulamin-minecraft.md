@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 7.07.2025
+Ostatnia aktualizacja: 3.08.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -27,6 +27,7 @@ Ostatnia aktualizacja: 7.07.2025
 **2.11 -** Zabrania się nawiązywania stosunków handlowych, które tyczą się realnych walut. Administracja nie ponosi odpowiedzialności za wszelkie oszustwa, których dopuszczą się użytkownicy. Wszelkie "zakłady 1v1 o 100 kokscoinow" i inne tego typu działalności są przeprowadzane na wyłączną odpowiedzialność użytkowników.
 **2.12 -** Zabrania się tworzenia gildii, których nazwa lub tag w jakikolwiek sposób łamie regulamin. Złamanie tej zasady skutkuje usunięciem klanu bez zwrotów kosztów za założenie!
 **2.13 -** Zabrania się ustawiania słów w personalizowanych tytułach, które łamią w jakimkolwiek stopniu regulamin.
+**2.14 -** Blacklista na rekrutacje jest nieodwołalna, nie podlega apelacji i wyjaśnieniom.
 
 ## 3. Zasady ogólne czatu tekstowego
 
