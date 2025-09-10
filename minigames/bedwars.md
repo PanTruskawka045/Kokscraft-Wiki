@@ -53,10 +53,10 @@ Generator diamentów - Posiada 3 poziomy które ulepszają się wraz z biegiem r
 - **II poziom diamentów** - diamenty pojawiają się co 20 sekund
 - **III poziom diamentów** - diamenty pojawiają się co 15 sekund
 
-Generator Szmaragdów - Posiada 3 poziomy które ulepszają się wraz z biegiem rozgrywki. Dzięki niemu możesz zakupić rzeczy typu obsydian, łuk (moc II) lub diamentową zbroję. Lista poziomów: 
-- **I poziom szmaragdów** - diamenty pojawiają się co 60 sekund
-- **II poziom szmaragdów** - diamenty pojawiają się co 40 sekund
-- **III poziom szmaragdów** - diamenty pojawiają się co 30 sekund
+Generator Szmaragdów - Posiada 3 poziomy które ulepszają się wraz z biegiem rozgrywki. Dzięki niemu możesz zakupić rzeczy typu obsydian, łuk (moc II) czy też diamentową zbroję. Lista poziomów: 
+- **I poziom szmaragdów** - szmaragdy pojawiają się co 60 sekund
+- **II poziom szmaragdów** - szmaragdy pojawiają się co 40 sekund
+- **III poziom szmaragdów** - szmaragdy pojawiają się co 30 sekund
 ![generator diamentów](/assets/bedwars/generator-diamenty.png)
 ![generator szmaragdów](/assets/bedwars/generator-szmaragdy.png)
 

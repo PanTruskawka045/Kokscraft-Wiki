@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 08.08.2024
+Ostatnia aktualizacja: 3.08.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -19,7 +19,7 @@ Ostatnia aktualizacja: 08.08.2024
 **2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administacji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
-**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu. Szczegółowa rozpiska dotycząca nicków opisana jest __**tutaj**__.
+**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu.
 **2.8 -** Użytkownik zobowiązany jest do posiadania pelerynki i skina, który(a) nie zawiera treści: historycznych, przeznaczonych dla osób powyżej 18 roku życia oraz wzbudzających kontrowersje.
 **2.9.1 -** Przewinienia graczy na chacie należy zgłaszać w czasie maksymalnie 24h.
 **2.9.2 -** Przewinienia graczy w rozgrywce na serwerze należy zgłaszać w czasie maksymalnie tygodnia. Wyjątkiem są rzeczy, za które przypada kara w postaci bana na minimum 28 dni.
@@ -27,6 +27,7 @@ Ostatnia aktualizacja: 08.08.2024
 **2.11 -** Zabrania się nawiązywania stosunków handlowych, które tyczą się realnych walut. Administracja nie ponosi odpowiedzialności za wszelkie oszustwa, których dopuszczą się użytkownicy. Wszelkie "zakłady 1v1 o 100 kokscoinow" i inne tego typu działalności są przeprowadzane na wyłączną odpowiedzialność użytkowników.
 **2.12 -** Zabrania się tworzenia gildii, których nazwa lub tag w jakikolwiek sposób łamie regulamin. Złamanie tej zasady skutkuje usunięciem klanu bez zwrotów kosztów za założenie!
 **2.13 -** Zabrania się ustawiania słów w personalizowanych tytułach, które łamią w jakimkolwiek stopniu regulamin.
+**2.14 -** Blacklista na rekrutacje jest nieodwołalna, nie podlega apelacji i wyjaśnieniom.
 
 ## 3. Zasady ogólne czatu tekstowego
 
@@ -36,7 +37,8 @@ Ostatnia aktualizacja: 08.08.2024
 **3.4 -** Na serwerze panuje absolutny zakaz przeklinania oraz używania wulgaryzmów 24/7 FFH (Family Friendly Hour).
 **3.5 -** Zabrania się poruszać tematy kontrowersyjne, w tym polityczne, wulgarne, religijne oraz te o charakterze seksualnym (18+).
 **3.6 -** Surowo zabrania się namawiania do samookaleczenia, samobójstwa, robienia krzywdy sobie lub innym, wyzywania, życzenia śmierci, gróźb, złorzeczenia, werbalnego znęcania się oraz poniżania.
-**3.7 -** Cenzurowanie/Modyfikowanie przekleństw lub innych słów powszechnie uznawanych za obraźliwych jest normalnie karane.
+**3.7.1 -** Cenzurowanie/Modyfikowanie przekleństw lub innych słów powszechnie uznawanych za obraźliwych jest normalnie karane.
+**3.7.2 -** Zabrania się używania skrótów, które w swoim rozwinięciu naruszają regulamin. (wyjątek: "wtf")
 **3.8 -** Absolutnie zabrania się propagowania rasizmu, seksizmu, faszyzmu, nazizmu i komunizmu oraz jakichkolwiek form dyskryminacji.
 **3.9 -** Zabrania się jakichkolwiek prób prowokacji użytkowników.
 **3.10 -** Wprowadzanie graczy w błąd, nawet niecelowe może skutkować karą.
@@ -48,8 +50,9 @@ Ostatnia aktualizacja: 08.08.2024
 
 ## 4. Zasady ogólne rozgrywki
 
-**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Szczegółowe informacje dotyczące dozwolonych/zabronionych modyfikacji znajdziesz **__tutaj__**.
-**4.2 -** Zabrania się współpracowania z cheaterem poprzez granie z nim i/lub pomocy w rozgrywce.
+**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Ze wszystkich modyfikacji poza OptiFine korzystasz na własną odpowiedzialność.
+**4.2.1 -** Zabrania się współpracowania z cheaterem poprzez granie z nim i/lub pomocy w rozgrywce.
+**4.2.2 -** Dowody od graczy dotyczące współpracy z cheaterem nie będą brane pod uwagę w celu uniknięcia nadużycia.
 **4.3 -** Zabronione jest budowanie niecenzuralnych budowli.
 
 ## 5. Zasady czatu tekstowego i rozgrywki - tryby minigames
@@ -61,17 +64,19 @@ Ostatnia aktualizacja: 08.08.2024
 **5.4 -** Zabrania się trolowania/utrudniania gry lub sabotowania swojej drużyny.
 **5.5 -** Zabrania się teamowania z graczami będących w innej drużynie.
 **5.6 -** Zabrania się używania jakichkolwiek wspomagaczy klikania, makr (nawet wbudowanych w myszkę) czy innych programów zewnętrznych.
-**5.7 -** Nabijanie statystyk na afk skutkuje całkowitym resetem konta.
+**5.7 -** Nabijanie statystyk/xpa lub rubinów na afk skutkuje całkowitym resetem konta.
 
 ## 6. Zasady czatu tekstowego i rozgrywki - tryby survival
 
 **6.1 -** Reklamować własną twórczość z serwera poprzez nazwy profili z mediów społecznościowych mogą tylko użytkownicy posiadający rangę CEO, PARTNER, MEDIA, KOKS, MVIP oraz wszystkie rangi specjalne.
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
+**6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
+**6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
 
 ### SV+DZIAŁKI
 
-**6.3 -** Zabrania się ustawiania nazw działek których nazwa w jakimkolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
-**6.4 -** Zabrania się griefowania terenu.
+**6.4 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
+**6.5 -** Zabrania się griefowania terenu.
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
