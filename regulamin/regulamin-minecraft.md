@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 3.08.2025
+Ostatnia aktualizacja: 13.09.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -72,6 +72,7 @@ Ostatnia aktualizacja: 3.08.2025
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
+**6.3.3 -** Termin ubiegania się o backupa wynosi 2 tygodnie.
 
 ### SV+DZIAŁKI
 
