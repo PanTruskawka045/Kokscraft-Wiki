@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 13.09.2025
+Ostatnia aktualizacja: 14.09.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -50,7 +50,7 @@ Ostatnia aktualizacja: 13.09.2025
 
 ## 4. Zasady ogólne rozgrywki
 
-**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Ze wszystkich modyfikacji poza OptiFine korzystasz na własną odpowiedzialność.
+**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Szczegółowa lista modyfikacji znajduje się [tutaj](/article/zasady/modyfikacje).
 **4.2.1 -** Zabrania się współpracowania z cheaterem poprzez granie z nim i/lub pomocy w rozgrywce.
 **4.2.2 -** Dowody od graczy dotyczące współpracy z cheaterem nie będą brane pod uwagę w celu uniknięcia nadużycia.
 **4.3 -** Zabronione jest budowanie niecenzuralnych budowli.
