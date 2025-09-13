@@ -4,7 +4,7 @@ Na serwerze jest możliwość urozmaicenia nie tylko wyglądu gracza, ale równi
 ![ekwipunek.png](/assets/addony/ekwipunek.png)
 
 
-Addony możemy kupić w sklepie, wylosować ze skrzynki, dostać w [karnetu](article/ogolne/karnety), otrzymać po wbiciu poziomu serwerowego i dodatkowo niektóre rangi sezonowe mają unikalne addony na czas trwania rangi!
+Addony możemy kupić w sklepie, wylosować ze skrzynki, dostać w [karnetu](/article/ogolne/karnety), otrzymać po wbiciu poziomu serwerowego i dodatkowo niektóre rangi sezonowe mają unikalne addony na czas trwania rangi!
 
 # **Addony na lobby**
 Na lobby do swojego skina dodać możemy specjalne dodatki.

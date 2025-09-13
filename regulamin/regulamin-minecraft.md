@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 3.08.2025
+Ostatnia aktualizacja: 14.09.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -16,7 +16,7 @@ Ostatnia aktualizacja: 3.08.2025
 **2.3 -** Zabrania się podszywania pod administrację oraz użytkowników.
 **2.4 -** Zabrania się namawiania do łamania regulaminu.
 **2.5.1 -** Użytkownik na trybach minigames może posiadać tylko jedno konto. Każda zmiana używanego konta powinna być zgłoszona do administracji.
-**2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administacji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
+**2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administracji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
 **2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu.
@@ -50,7 +50,7 @@ Ostatnia aktualizacja: 3.08.2025
 
 ## 4. Zasady ogólne rozgrywki
 
-**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Ze wszystkich modyfikacji poza OptiFine korzystasz na własną odpowiedzialność.
+**4.1 -** Absolutnie zabrania się korzystania z niedozwolonych oprogramowań dających przewagę w rozgrywce. Szczegółowa lista modyfikacji znajduje się [tutaj](/article/zasady/modyfikacje).
 **4.2.1 -** Zabrania się współpracowania z cheaterem poprzez granie z nim i/lub pomocy w rozgrywce.
 **4.2.2 -** Dowody od graczy dotyczące współpracy z cheaterem nie będą brane pod uwagę w celu uniknięcia nadużycia.
 **4.3 -** Zabronione jest budowanie niecenzuralnych budowli.
@@ -72,6 +72,7 @@ Ostatnia aktualizacja: 3.08.2025
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
+**6.3.3 -** Termin ubiegania się o backupa wynosi 2 tygodnie.
 
 ### SV+DZIAŁKI
 
