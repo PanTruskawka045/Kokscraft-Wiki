@@ -1,6 +1,6 @@
 # Taryfikator Minecraft
 
-Ostatnia aktualizacja: 28.07.2025 (v2.10.1)
+Ostatnia aktualizacja: 14.09.2025 (v2.11)
 
 ## Zasady ogólne serwera
 
@@ -52,24 +52,24 @@ Ostatnia aktualizacja: 28.07.2025 (v2.10.1)
 
 ## Rozgrywka
 
-|                                                           Powód                                                            |       Pierwsza Kara        |        Druga Kara*        |           Trzecia Kara i więcej*            |
-|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------:|:-------------------------------------------:|
-|                                  **Używanie wspomagaczy klikania** (makra, autoclickery)                                   |    [red/]ban 14d[/red]     |    [red/]ban 60d[/red]    |            [red/]ban 180d[/red]             |
-|                                                      **Cheatowanie**                                                       |    [red/]ban 28d[/red]     |   [red/]ban perm[/red]    |                                             |
-|                             **Inne niedozwolone modyfikacje** (mniej wpływające na rozgrywkę)                              |     [red/]ban 7d[/red]     |    [red/]ban 14d[/red]    |             [red/]ban 28d[/red]             |
-|                                            **Współpraca z cheaterem** (minigry)                                            |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     | [red/]ban 28d[/red] -> [red/]ban 180d[/red] |
-|                                        **Współpraca z cheaterem** (tryby survival)                                         |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             | 
-|                                                 **Wykorzystywanie błędów**                                                 |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]             |
-|                                                       **Teamowanie**                                                       |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 28d[/red]             |
-|                                                    **Przedłużanie gry**                                                    |  [yellow/]ban 1h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]           |
-|                                      **Sabotowanie drużyny, celowe utrudnianie gry**                                       |  [yellow/]ban 2h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]           | 
-|                                                 **Niecenzuralne budowle**                                                  |  [yellow/]ban 3d[/yellow]  |    [red/]ban 14d[/red]    |             [red/]ban 28d[/red]             |
-|                                    **Pomaganie na UHC** (oddawanie killi, główek itp.)                                     |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 14d[/red]             |
-|                                        **Nabijanie statystyk lub topki** (minigry)                                         |    [red/]ban perm[/red]    |                           |                                             |
-|                                   **Nabijanie statystyk lub rankingu** (tryby survival)                                    |    [red/]ban 14d[/red]     |    [red/]ban 60d[/red]    |            [red/]ban 180d[/red]             |
-|                                              **Celowy grief** (tryb działki)                                               |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |             [red/]ban 14d[/red]             |
-|                                               **Niecenzuralne nazwy itemów**                                               |  [yellow/]ban 6h[/yellow]  | [yellow/]ban 1d[/yellow]  |          [yellow/]ban 3d[/yellow]           |
-| **Inne, wyżej nie wymienione powody, działające na szkodę serwera czy też próby ominięcia kary z taryfikatora/regulaminu** | Decyzja [red/]Admin+[/red] |                           |                                             |
+|                                                           Powód                                                            |       Pierwsza Kara        |        Druga Kara*        |           Trzecia Kara i więcej*           |
+|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------:|:------------------------------------------:|
+|                                  **Używanie wspomagaczy klikania** (makra, autoclickery)                                   |    [red/]ban 14d[/red]     |    [red/]ban 60d[/red]    |            [red/]ban 180d[/red]            |
+|                                                      **Cheatowanie**                                                       |    [red/]ban 28d[/red]     |   [red/]ban perm[/red]    |                                            |
+|                             **Inne niedozwolone modyfikacje** (mniej wpływające na rozgrywkę)                              |     [red/]ban 7d[/red]     |    [red/]ban 14d[/red]    |            [red/]ban 28d[/red]             |
+|                                            **Współpraca z cheaterem** (minigry)                                            |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     | [red/]ban 28d[/red] -> [red/]ban 60d[/red] |
+|                                        **Współpraca z cheaterem** (tryby survival)                                         |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]            | 
+|                                                 **Wykorzystywanie błędów**                                                 |     [red/]ban 7d[/red]     |    [red/]ban 28d[/red]    |            [red/]ban 180d[/red]            |
+|                                                       **Teamowanie**                                                       |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |            [red/]ban 28d[/red]             |
+|                                                    **Przedłużanie gry**                                                    |  [yellow/]ban 1h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]          |
+|                                      **Sabotowanie drużyny, celowe utrudnianie gry**                                       |  [yellow/]ban 2h[/yellow]  | [yellow/]ban 12h[/yellow] |          [yellow/]ban 1d[/yellow]          | 
+|                                                 **Niecenzuralne budowle**                                                  |  [yellow/]ban 3d[/yellow]  |    [red/]ban 14d[/red]    |            [red/]ban 28d[/red]             |
+|                                    **Pomaganie na UHC** (oddawanie killi, główek itp.)                                     |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |            [red/]ban 14d[/red]             |
+|                                        **Nabijanie statystyk lub topki** (minigry)                                         |    [red/]ban perm[/red]    |                           |                                            |
+|                                   **Nabijanie statystyk lub rankingu** (tryby survival)                                    |    [red/]ban 14d[/red]     |    [red/]ban 60d[/red]    |            [red/]ban 180d[/red]            |
+|                                              **Celowy grief** (tryb działki)                                               |  [yellow/]ban 1d[/yellow]  |    [red/]ban 7d[/red]     |            [red/]ban 14d[/red]             |
+|                                               **Niecenzuralne nazwy itemów**                                               |  [yellow/]ban 6h[/yellow]  | [yellow/]ban 1d[/yellow]  |          [yellow/]ban 3d[/yellow]          |
+| **Inne, wyżej nie wymienione powody, działające na szkodę serwera czy też próby ominięcia kary z taryfikatora/regulaminu** | Decyzja [red/]Admin+[/red] |                           |                                            |
 
 ### Legenda
 
