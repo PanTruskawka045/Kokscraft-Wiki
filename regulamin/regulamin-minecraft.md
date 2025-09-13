@@ -16,7 +16,7 @@ Ostatnia aktualizacja: 13.09.2025
 **2.3 -** Zabrania się podszywania pod administrację oraz użytkowników.
 **2.4 -** Zabrania się namawiania do łamania regulaminu.
 **2.5.1 -** Użytkownik na trybach minigames może posiadać tylko jedno konto. Każda zmiana używanego konta powinna być zgłoszona do administracji.
-**2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administacji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
+**2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administracji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
 **2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu.
