@@ -34,7 +34,7 @@ Ostatnia aktualizacja: 14.09.2025
 **3.1 -** Zabrania się spamowania, floodowania i nadużywania caps look'a.
 **3.2 -** Zabrania się pisania inną czcionką niż tą domyślnie dostępną w minecrafcie.
 **3.3 -** Zabrania się szukania atencji (kokscraft nie jest od tego miejscem).
-**3.4 -** Na serwerze panuje absolutny zakaz przeklinania oraz używania wulgaryzmów 24/7 FFH (Family Friendly Hour).
+**3.4 -** Na serwerze od 6:00 do 22:00 obowiązuje FFH (Family Friendly Hour), zabrania się wtedy używania jakichkolwiek przekleństw, w tym z cenzurą. Poza tymi godzinami przeklinanie jest dozwolone z umiarem - nadmierne może skutkować karą.
 **3.5 -** Zabrania się poruszać tematy kontrowersyjne, w tym polityczne, wulgarne, religijne oraz te o charakterze seksualnym (18+).
 **3.6 -** Surowo zabrania się namawiania do samookaleczenia, samobójstwa, robienia krzywdy sobie lub innym, wyzywania, życzenia śmierci, gróźb, złorzeczenia, werbalnego znęcania się oraz poniżania.
 **3.7.1 -** Cenzurowanie/Modyfikowanie przekleństw lub innych słów powszechnie uznawanych za obraźliwych jest normalnie karane.
@@ -73,11 +73,12 @@ Ostatnia aktualizacja: 14.09.2025
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
 **6.3.3 -** Termin ubiegania się o backupa wynosi 2 tygodnie.
+**6.4 -** Zabrania się ustawiania słów w itemach, które łamią w jakimkolwiek stopniu regulamin. Dotyczy to również ofert na rynku.
 
 ### SV+DZIAŁKI
 
-**6.4 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
-**6.5 -** Zabrania się griefowania terenu.
+**6.5 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
+**6.6 -** Zabrania się griefowania terenu.
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
