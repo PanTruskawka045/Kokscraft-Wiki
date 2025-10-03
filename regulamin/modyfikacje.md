@@ -1,6 +1,6 @@
 # Modyfikacje
 
-Ostatnia aktualizacja: 14.09.2025
+Ostatnia aktualizacja: 3.10.2025
 
 ## 1. Ogólne informacje.
 
@@ -56,6 +56,7 @@ Ostatnia aktualizacja: 14.09.2025
 - Inventory Hud+ (nie dotyczy trybów: skygen/skybox/boxpvp/kokssmp/działki)
 
 **4.3 -** Pomocna lista dozwolonych modyfikacji, po nazwie:
+- Smooth Swapping
 - Health Indicator
 - Just Enough Items (JEI)
 - Jade
