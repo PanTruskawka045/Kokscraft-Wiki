@@ -1,6 +1,6 @@
 # Regulamin Discord
 
-Ostatnia aktualizacja: 5.02.2025
+Ostatnia aktualizacja: 24.09.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -11,7 +11,7 @@ Ostatnia aktualizacja: 5.02.2025
 
 ## 2. Zasady Ogólne
 
-**2.1 -** Wszystkie działania, które wpływają na szkodę lub niekorzyść serwera mogą być surowo karane.
+**2.1 -** Wszystkie działania, które wpływają na szkodę lub niekorzyść serwera, mogą być surowo karane.
 **2.2 -** Jakakolwiek próba oszustwa administracji może być odpowiednio karana, w zależności od występującej sytuacji.
 **2.3 -** Zabrania się podszywania pod administrację oraz użytkowników.
 **2.4 -** Zabrania się namawiania do łamania regulaminu.
@@ -22,7 +22,8 @@ Ostatnia aktualizacja: 5.02.2025
 **2.9 -** Przewinienia graczy należy zgłaszać w czasie maksymalnie 7 dni. Wyjątkiem są rzeczy, za które przypada ban.
 **2.10 -** Na całym serwerze dozwolone jest tylko używanie języka polskiego i angielskiego.
 **2.11 -** Zabrania się oferowania swoich usług oraz nawiązywania stosunków handlowych, które tyczą realnych walut.
-**2.12 -** Na serwerze od 6:00 do 22:00 obowiązuje FFH (Family Friendly Hour), zabrania się wtedy używania jakichkolwiek przekleństw, w tym z cenzurą. Poza tymi godzinami przeklinanie jest dozwolone z umiarem - nadmierne skutkować może karą.
+**2.12.1 -** Na serwerze od 6:00 do 22:00 obowiązuje FFH (Family Friendly Hour), zabrania się wtedy używania jakichkolwiek przekleństw, w tym z cenzurą. Poza tymi godzinami przeklinanie jest dozwolone z umiarem - nadmierne może skutkować karą.
+**2.12.2 -** Na kanałach z propozycjami zakaz przekleństw obowiązuje niezależnie od godziny.
 **2.13 -** Surowo zabrania się namawiania do samookaleczenia, robienia krzywdy sobie lub innym, wyzywania, życzenia śmierci, gróźb, złorzeczenia, werbalnego znęcania się oraz poniżania.
 **2.14 -** Zabrania się jakichkolwiek prób prowokacji użytkowników.
 **2.15 -** Zabrania się poruszać tematy kontrowersyjne, w tym polityczne, wulgarne, religijne oraz te o charakterze seksualnym (18+).

@@ -4,7 +4,7 @@ Na serwerze jest możliwość urozmaicenia nie tylko wyglądu gracza, ale równi
 ![ekwipunek.png](/assets/addony/ekwipunek.png)
 
 
-Addony możemy kupić w sklepie, wylosować ze skrzynki, dostać w [karnetu](article/ogolne/karnety), otrzymać po wbiciu poziomu serwerowego i dodatkowo niektóre rangi sezonowe mają unikalne addony na czas trwania rangi!
+Addony możemy kupić w sklepie, wylosować ze skrzynki, dostać w [karnetu](/article/ogolne/karnety), otrzymać po wbiciu poziomu serwerowego i dodatkowo niektóre rangi sezonowe mają unikalne addony na czas trwania rangi!
 
 # **Addony na lobby**
 Na lobby do swojego skina dodać możemy specjalne dodatki.
@@ -34,7 +34,7 @@ Specjalny efekt, dzięki któremu np. możesz na kilka sekund zmienić podłogę
 ## Zwierzaki 
 Są nie tylko urozmaiceniem wyglądu gracza, ale również dodają mnożnik do gier. 
 ![pety.png](/assets/addony/pety.png)
-Więcej informacji znajdziesz na [zwierzaki](article/ogolne/zwierzaki)
+Więcej informacji znajdziesz na [zwierzaki](/article/ogolne/zwierzaki)
 ## Cząsteczki ogonka
 Są to przedmioty, które poruszają się wraz z rzuconą perłą, rzuconym jajkiem lub śniezką i użyciem wędki podczas rozgrywki
 ![czasteczkiogonka.gif](/assets/addony/czasteczkiogonka.gif)
