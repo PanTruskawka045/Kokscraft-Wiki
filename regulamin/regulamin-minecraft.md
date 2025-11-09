@@ -71,6 +71,7 @@ Ostatnia aktualizacja: 24.09.2025
 **6.1 -** Reklamowanie własnej twórczości (np. poprzez nazwy profili w mediach społecznościowych) jest dozwolone wyłącznie dla użytkowników posiadających jedną z poniższych rang:
 - CEO, PARTNER, MEDIA, KOKS, MVIP
 - rangi specjalne – w tym rangi limitowane i eventowe
+
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
