@@ -3,15 +3,16 @@
 Aby uzyskać **ID osoby**, włącz **tryb developera**: **Komputer**
 
 1. Wejdź w **Ustawienia użytkownika**
-![Zaawansowane](/assets/discord/UstawieniaZ.png)
+![x](/assets/discord/UstawieniaZ.png)
 2. Przejdź do zakładki **Zaawansowane**
-![Zaawansowane](/assets/discord/Zaawansowane.png)
+
+![x](/assets/discord/Zaawansowane.png)
 3. Włącz **Tryb developera**
-![Zaawansowane](/assets/discord/Developer.png)
+![x](/assets/discord/Developer.png)
 
 Następnie kliknij **prawym przyciskiem myszy** na osobę, której ID chcesz uzyskać. Na samym dole pojawi się opcja **"Kopiuj ID"**
 
-![Zaawansowane](/assets/discord/id.png)
+![x](/assets/discord/id.png)
 
 ---
 
