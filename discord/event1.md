@@ -1,6 +1,6 @@
 # Event Discordowy
 
-**Event trwa od 23.09.2024 do 30.09.2024**
+**Event trwał od 23.09.2024 do 30.09.2024**
 
 ## Na czym polega event?
 
