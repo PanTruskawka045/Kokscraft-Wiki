@@ -94,7 +94,7 @@ Kolory
 ```
 Przykład jak dodać kolory poniżej:
 
-[green/]Zielony[/green] - `[green/]Zielony[/green]`
+[green/]Zielony[/green] - `\[green/]Zielony[/green]`
 
 # Pull Request
 
