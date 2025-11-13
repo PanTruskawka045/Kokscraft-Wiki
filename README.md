@@ -94,7 +94,29 @@ Kolory
 ```
 Przykład jak dodać kolory poniżej:
 
+[slate/]Slate[/slate] - `[slate/]Slate[/slate]`
+[gray/]Gray[/gray] - `[gray/]Gray[/gray]`
+[zinc/]Zinc[/zinc] - `[zinc/]Zinc[/zinc]`
+[neutral/]Neutral[/neutral] - `[neutral/]Neutral[/neutral]`
+[stone/]Stone[/stone] - `[stone/]Stone[/stone]`
+[red/]Czerwony[/red] - `[red/]Czerwony[/red]`
+[orange/]Pomarańczowy[/orange] - `[orange/]Pomarańczowy[/orange]`
+[amber/]Bursztynowy[/amber] - `[amber/]Bursztynowy[/amber]`
+[yellow/]Żółty[/yellow] - `[yellow/]Żółty[/yellow]`
+[lime/]Limonkowy[/lime] - `[lime/]Limonkowy[/lime]`
 [green/]Zielony[/green] - `[green/]Zielony[/green]`
+[emerald/]Szmaragdowy[/emerald] - `[emerald/]Szmaragdowy[/emerald]`
+[teal/]Teal[/teal] - `[teal/]Teal[/teal]`
+[cyan/]Cyjan[/cyan] - `[cyan/]Cyjan[/cyan]`
+[sky/]Sky[/sky] - `[sky/]Sky[/sky]`
+[blue/]Niebieski[/blue] - `[blue/]Niebieski[/blue]`
+[indigo/]Indigo[/indigo] - `[indigo/]Indigo[/indigo]`
+[violet/]Fioletowy[/violet] - `[violet/]Fioletowy[/violet]`
+[purple/]Purpurowy[/purple] - `[purple/]Purpurowy[/purple]`
+[fuchsia/]Fuksja[/fuchsia] - `[fuchsia/]Fuksja[/fuchsia]`
+[pink/]Różowy[/pink] - `[pink/]Różowy[/pink]`
+[rose/]Róża[/rose] - `[rose/]Róża[/rose]`
+
 
 # Pull Request
 
