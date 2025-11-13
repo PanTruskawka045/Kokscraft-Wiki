@@ -89,6 +89,13 @@ Jeśli chcesz dodać link do strony, użyj poniższego kodu:
 (Używaj komentarzy tylko wtedy, gdy jest to konieczne, np. gdy chcesz coś wyjaśnić, ale nie chcesz, żeby to było
 widoczne na stronie)
 
+```md
+Kolory
+```
+Przykład jak dodać kolory poniżej:
+
+`[green/]Zielony[/green]` - [green/]Zielony[/green]
+
 # Pull Request
 
 Zmiany wrzucaj w pull request'ach.
