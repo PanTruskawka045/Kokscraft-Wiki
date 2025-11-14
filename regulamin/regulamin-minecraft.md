@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 24.09.2025
+Ostatnia aktualizacja: 14.11.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -79,6 +79,7 @@ Ostatnia aktualizacja: 24.09.2025
 
 **6.5 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
 **6.6 -** Zabrania się griefowania terenu.
+**6.7 -** Zabrania się korzystania z programów wykonujących czynności w grze podczas nieobecności gracza.
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
