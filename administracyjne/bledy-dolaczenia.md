@@ -85,7 +85,7 @@ Co oznacza ten komunikat?
 ## Invalid session
 Jeżeli wyświetla się Tobie ten komunikat:
 
-![invalid-session.png](../assets/bledy-dolaczania/invalid-session.png)
+![invalid-session.png](/assets/bledy-dolaczania/invalid-session.png)
 
 Co oznacza ten komunikat?
 - Zazwyczaj oznacza to, że z konta non-premium próbujesz wejść pod nickiem, na którym jest przypisane konto premium.
@@ -109,7 +109,7 @@ Co oznacza ten komunikat?
 ## Wystąpił błąd podczas tworzenia konta
 Jeżeli wyświetla się Tobie ten komunikat:
 
-![incognito-error.png](../assets/bledy-dolaczania/incognito-error.png)
+![incognito-error.png](/assets/bledy-dolaczania/incognito-error.png)
 
 Co oznacza ten komunikat?
 - Oznacza to, że ktoś na naszym serwerze ustawił sobie incognito z takim samym nickiem co Ty, próbując wbić na serwer.
@@ -129,7 +129,7 @@ Jeżeli wyświetla się Tobie ten komunikat:
 ## Gracz o takim NICKU jest już na serwerze"
 Jeżeli wyświetla się Tobie ten komunikat:
 
-![gracz-o-podanym-nicku.png](../assets/bledy-dolaczania/gracz-o-podanym-nicku.png)
+![gracz-o-podanym-nicku.png](assets/bledy-dolaczania/gracz-o-podanym-nicku.png)
 
 1. Spróbuj wyłączyć Minecrafta i uruchomić go ponownie.
 2. Jeżeli po zrobieniu pierwszego punktu dalej nie możesz wejść na serwer to możliwe, że:
