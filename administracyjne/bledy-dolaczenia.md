@@ -129,7 +129,7 @@ Jeżeli wyświetla się Tobie ten komunikat:
 ## Gracz o takim NICKU jest już na serwerze"
 Jeżeli wyświetla się Tobie ten komunikat:
 
-![gracz-o-podanym-nicku.png](assets/bledy-dolaczania/gracz-o-podanym-nicku.png)
+![gracz-o-podanym-nicku.png](/assets/bledy-dolaczania/gracz-o-podanym-nicku.png)
 
 1. Spróbuj wyłączyć Minecrafta i uruchomić go ponownie.
 2. Jeżeli po zrobieniu pierwszego punktu dalej nie możesz wejść na serwer to możliwe, że:
