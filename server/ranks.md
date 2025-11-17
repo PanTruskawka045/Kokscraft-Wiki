@@ -38,7 +38,9 @@ To tryby **Minigames**, więc aby zakupić rangę, wybierz właśnie tę opcję.
 ## Rangi Minigames
 Na trybach **minigames** można zakupić rangi, które po zakupie trwają **30 dni**. Ranga się **stackuje**, czyli możesz kupić np. 2 razy rangę **[lime/]VIP[/lime]** i wtedy trwa ona przez 60 dni. Mając inną rangę, np. **[emerald/]MVIP[/emerald]**, i kupując **[yellow/]KOKSA[/yellow]**, trafia voucher do ekwipunku, który można aktywować w momencie, gdy obecna ranga wygaśnie. Jest również opcja zdjęcia rangi z konta, jeśli chcesz aktywować inną rangę. W tym celu udaj się na discorda [Support Kokscraft](https://discord.com/invite/WRFdntaCKF) i stwórz ticket do odpowiedniej kategorii.
 
-### Rangi Eventowe Na naszym serwerze znajdują się rangi specjalne, które pojawiają się w sklepie na różne okazje, przykładowo na Święta, czy Wielkanoc.
+### Rangi Eventowe 
+
+Na naszym serwerze znajdują się rangi specjalne, które pojawiają się w sklepie na różne okazje, przykładowo na Święta, czy Wielkanoc.
 
 ### Prefixy przed rangą
 Jeżeli posiadasz rangę **[yellow/]TESTER[/yellow]**, **[amber/]SR.TESTER[/amber]**, **[cyan/]MEDIA[/cyan]**, **[pink/]PARTNER[/pink]** lub inną rangę **Administracyjną** i zakupisz bądź użyjesz vouchera na rangę ze sklepu, będzie wyświetlał się prefix danej rangi. Na przykład:  
