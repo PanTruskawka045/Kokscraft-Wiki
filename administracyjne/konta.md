@@ -26,7 +26,7 @@ to, które chcesz zachować. **Proces jest NIEODWRACALNY, więc wybierz dobrze!*
 
 ## Mam konto premium, zmieniłem nick i muszę użyć /login
 
-Spróbuj najpierw dołączyć z czystego MC (Oryginalny Launcher)
+Spróbuj najpierw dołączyć z czystego Minecrafta (Oryginalny Launcher)
 
 Jeśli to **NIE pomoże**, to najwidoczniej ktoś zajął wcześniej ten nick
 na koncie nonpremium. Możemy zwolnić to konto, jeśli [spełnia wymagania do resetu](#wymagania-do-zresetowania-konta), więc skontaktuj się z nami na **[serwerze Supportu Kokscraft](https://support.kokscraft.pl/)**
@@ -63,11 +63,11 @@ odwracalna. **NIE** jesteśmy nic z tym w stanie zrobić
 
 ## Grałem normalnie na serwerze, nie zmieniałem nicku, wbijam i muszę się zalogować, a mam pod `/stats` premium i widnieje na namemc jako konto premium (poniżej screen `/stats`)
 
-Spróbuj dołączyć z Oficjalnego Launchera MC. Natomiast jeśli chcesz grać na innym kliencie, na którym nie możesz dołączyć przez logowanie, to spróbuj się na nim przelogować
+Spróbuj dołączyć z Oficjalnego Launchera Minecraft. Natomiast jeśli chcesz grać na innym kliencie, na którym nie możesz dołączyć przez logowanie, to spróbuj się na nim przelogować
 
 **Jeśli to NIE pomoże:**
 
-Musisz grać na Oficjalnym Launcherze MC do momentu, aż nie zacznie działać 
+Musisz grać na Oficjalnym Launcherze Minecraft do momentu, aż nie zacznie działać 
 
 ![/stats konta](/assets/konta/kontaStats.png)
 
@@ -81,7 +81,9 @@ Musisz grać na Oficjalnym Launcherze MC do momentu, aż nie zacznie działać
 - **Brak zakupów na serwerze na podany nick**
 - **Nick zgodny z regulaminem**
 
-Grupa Resetowanie-Kont może zresetować konto, nawet jeśli nie spełnia powyższych wymagań, ale to oni decydują, czy konto finalnie zostanie zresetowane, czy nie!
+Grupa Resetowanie-Kont może zresetować konto, nawet jeśli nie spełnia powyższych wymagań, jednak ostateczna decyzja zawsze należy do nich i nie podlega dyskusji. <br>
+Nie istnieje coś takiego jak "analiza na życzenie"!
+
 
 ### ! UWAGA !
 
