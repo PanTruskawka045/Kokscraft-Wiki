@@ -75,14 +75,14 @@ Musisz grać na Oficjalnym Launcherze Minecraft do momentu, aż nie zacznie dzia
 
 ### Aby konto było możliwe do zresetowania, MUSI ono spełniać następujące wymagania:
 
-- **Mniejszy niż 20lvl globalny**
-- **Ostatnie logowanie 31dni+**
-- **Brak aktywnej rangi PREMIUM**
+- **Mniejszy niż 20 poziom globalny**
+- **Ostatnie logowanie więcej niż 31 dni temu**
+- **Brak aktywnej [rangi PREMIUM](article/ogolne/rangi#rangi-kupne)**
 - **Brak zakupów na serwerze na podany nick**
 - **Nick zgodny z regulaminem**
 
 Grupa Resetowanie-Kont może zresetować konto, nawet jeśli nie spełnia powyższych wymagań, jednak ostateczna decyzja zawsze należy do nich i nie podlega dyskusji. <br>
-Nie istnieje coś takiego jak "analiza na życzenie"!
+Administracja nie analizuje kont na życzenie gracza.
 
 
 ### ! UWAGA !
