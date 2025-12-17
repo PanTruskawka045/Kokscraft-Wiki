@@ -1,7 +1,7 @@
 # Śluby
 Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepszać maksymalnie do 10 poziomu. Im wyższy level, tym większy boost XP i rubinów otrzymujecie wraz ze swoją drugą połówką.
 
-![GUI ślubu](/assets/marriages/gui.png)
+![gui.png](../assets/marriages/gui.png)
 
 ## Panel
 - Związek można ulepszyć za **kokscoiny** lub **rubiny**:
@@ -18,6 +18,48 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 - Czas od ostatniego logowania się twojej miłości sprawdzisz najeżdżając na jej główkę w GUI.
 
 ![Czas ostatniego logowania](/assets/marriages/last_seen.png)
+
+## Informacje o zwierzakach 
+- Aby zakupić zwierzaka za **kokscoiny** kliknij **lewym** przyciskiem myszy na rybke/kość/skóre królika.
+- Aby zakupić zwierzaka za **rubiny** kliknij **prawym** przyciskiem myszy na rybke/kość/skóre królika.
+- Jeżeli posiadasz kilka zwierzaków, to Boosty się łączą ze sobą.
+- Musisz pamiętać o karmieniu swojego zwierzaka, żeby nie ucieknął
+
+![piesek.png](../assets/marriages/piesek.png)
+
+## Piesiek
+| **Poziom** | **Booster XP** |
+|------------|----------------|
+| 1          | 2              |
+| 2          | 7              |
+| 3          | 7              |
+| 4          | 7              |
+| 5          | 7              |
+| 6          | 35%            |
+
+![kotek.png](../assets/marriages/kotek.png)
+
+## Kotek
+| **Poziom** | **Booster rubinów** |
+|------------|---------------------|
+| 1          | 2                   |
+| 2          | 7                   |
+| 3          | 7                   |
+| 4          | 7                   |
+| 5          | 7                   |
+| 6          | 35%                 |
+
+![królik.png](../assets/marriages/krolik.png)
+
+## Królik
+| **Poziom** | **Booster XP i rubinów** |
+|------------|--------------------------|
+| 1          | 2                        |
+| 2          | 7                        |
+| 3          | 7                        |
+| 4          | 7                        |
+| 5          | 7                        |
+| 6          | 40%                      |
 
 ## Komendy
 - Aby wziąć ślub, użyj komendy **/slub zapros [nick]**.

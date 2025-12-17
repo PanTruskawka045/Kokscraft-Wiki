@@ -1,4 +1,7 @@
-# Dlaczego nie wspieramy wersji 1.9 - 1.19.3?
+# Błędy dołączania 
+Tutaj znajdziesz rozwiązana na przykładowe błędy.
+
+## Dlaczego nie wspieramy wersji 1.9 - 1.19.3?
 Przy wejściu z tych wersji pojawia się ten komunikat, który nie pozwoli grać u nas na serwerze:
 
 ![komunikat-o-nie-wspieranej-wersji](/assets/bledy-dolaczania/komunikat-o-nie-wspieranej-wersji.png)
@@ -80,7 +83,7 @@ Co oznacza ten komunikat?
 → Następnie zapisz plik w lewym górnym rogu.
 → I uruchom ponownie Minecrafta.
 
-- ![Plik-Windows-PowerShell](/assets/bledy-dolaczania/plik-windows-powershell.png)
+![Plik-Windows-PowerShell](/assets/bledy-dolaczania/plik-windows-powershell.png)
 
 ## Invalid session
 Jeżeli wyświetla się Tobie ten komunikat:
