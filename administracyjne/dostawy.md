@@ -7,7 +7,7 @@ Na głównym lobby na środku znajduje się ten NPC
 
 ![NPC_dostawy](/assets/dostawy/NPC_dostawy.png)
 
-Po kliknięciu pojawi się gui z dostawami.
+Po kliknięciu otworzy się gui z dostawami.
 
 ## Krótkie informacje o dostawach
 - Menu dostaw możesz otworzyć klikając NPC na lobby (opisane wyżej) lub pod komendą "/dostawy".
@@ -18,12 +18,15 @@ Po kliknięciu pojawi się gui z dostawami.
 ![menu_dostaw.png](../assets/dostawy/menu_dostaw.png)
 
 ## Ilość dostaw w zależności od rangi
-- Dla wszystkich = 1
-- Dla VIP'a = 2
-- Dla SVIP'a = 3
-- Dla MVIP'a = 4
-- Dla UVIP'a = 5
-- Dla KOKS'a = 6
+
+| **Ranga** | **Ilość dostaw** |
+|-----------|------------------|
+| GRACZ     | 1                |
+| VIP       | 2                |
+| SVIP      | 3                |
+| MVIP      | 4                |
+| UVIP      | 5                |
+| KOKS      | 6                |
 
 ## Co można dropnąć z tych dostaw?
 
@@ -32,4 +35,4 @@ Po kliknięciu pojawi się gui z dostawami.
 3. Uniwersalny klucz
 4. Skrzynie (zwyczajną, pospolitą i rzadką)
 5. Boostery doświadczenia lub rubinów
-6. Karma dla zwierząt (opisana [tutaj](https://wiki.kokscraft.pl/article/ogolne/sluby#sluby))
+6. [Karma dla zwierząt](/article/ogolne/sluby#sluby)

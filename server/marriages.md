@@ -19,22 +19,30 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 
 ![Czas ostatniego logowania](/assets/marriages/last_seen.png)
 
-## Informacje o zwierzakach 
+## Informacje o zwierzakach
+
+- Zwierzaki znajdziesz w lewym dolnym roku po wpisaniu /slub.
 - Aby zakupić zwierzaka za **kokscoiny** kliknij **lewym** przyciskiem myszy na rybke/kość/skóre królika.
 - Aby zakupić zwierzaka za **rubiny** kliknij **prawym** przyciskiem myszy na rybke/kość/skóre królika.
 - Jeżeli posiadasz kilka zwierzaków, to Boosty się łączą ze sobą.
-- Musisz pamiętać o karmieniu swojego zwierzaka, żeby nie ucieknął
+- Musisz pamiętać o karmieniu swojego zwierzaka, żeby nie ucieknął.
+- W sklepie pod drugim slotem jest do kupna skrzynka z karmą, możesz je zakupić albo za 200 kokscoinów lub za 1000 robimów.
+- Aby osiągnąć wyższy poziom zwierzaka, należy wbijać exp'a
+
+![skrzynia_pupili.png](../assets/marriages/skrzynia_pupili.png)
+
+## Dostępne zwierzaki
 
 ![piesek.png](../assets/marriages/piesek.png)
 
 ## Piesiek
 | **Poziom** | **Booster XP** |
 |------------|----------------|
-| 1          | 2              |
-| 2          | 7              |
-| 3          | 7              |
-| 4          | 7              |
-| 5          | 7              |
+| 1          | 10%            |
+| 2          | 15%            |
+| 3          | 20%            |
+| 4          | 25%            |
+| 5          | 30%            |
 | 6          | 35%            |
 
 ![kotek.png](../assets/marriages/kotek.png)
@@ -42,24 +50,24 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 ## Kotek
 | **Poziom** | **Booster rubinów** |
 |------------|---------------------|
-| 1          | 2                   |
-| 2          | 7                   |
-| 3          | 7                   |
-| 4          | 7                   |
-| 5          | 7                   |
+| 1          | 10%                 |
+| 2          | 15%                 |
+| 3          | 20%                 |
+| 4          | 25%                 |
+| 5          | 30%                 |
 | 6          | 35%                 |
 
 ![królik.png](../assets/marriages/krolik.png)
 
 ## Królik
-| **Poziom** | **Booster XP i rubinów** |
-|------------|--------------------------|
-| 1          | 2                        |
-| 2          | 7                        |
-| 3          | 7                        |
-| 4          | 7                        |
-| 5          | 7                        |
-| 6          | 40%                      |
+| **Poziom** | **Booster XP irubinów** |
+|------------|-------------------------|
+| 1          | 15%                     |
+| 2          | 20%                     |
+| 3          | 25%                     |
+| 4          | 30%                     |
+| 5          | 35%                     |
+| 6          | 40%                     |
 
 ## Komendy
 - Aby wziąć ślub, użyj komendy **/slub zapros [nick]**.
@@ -70,12 +78,12 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 ## Informacje o poziomach. 
 | **Poziom** |      **Nazwa**      | **Cena (kokscoiny)** | **Cena (rubiny)** | **Booster XP i rubinów** |
 |:----------:|:-------------------:|:--------------------:|:-----------------:|:------------------------:|
-|     1      |        Para         |        1 000         |         -         |           10%            |
+|     1      |        Para         |        1 000         |         x         |           10%            |
 |     2      |      Zakochani      |         500          |      15 000       |           15%            |
 |     3      |      Partnerzy      |        1 500         |      45 000       |           20%            |
 |     4      |      Słodziaki      |        2 000         |      60 000       |           25%            |
 |     5      |     Narzeczeni      |        2 250         |      67 500       |           30%            |
-|     6      |     Noworzeńcy      |        2 750         |      82 500       |           35%            |
+|     6      |      Nowożeńcy      |        2 750         |      82 500       |           35%            |
 |     7      |  Miłość aż po grób  |        3 500         |      105 000      |           40%            |
 |     8      |   Na zawsze razem   |        4 000         |      120 000      |           45%            |
 |     9      |   Wieczna miłość    |        5 000         |      150 000      |           50%            |
