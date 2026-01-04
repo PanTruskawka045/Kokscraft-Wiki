@@ -35,39 +35,38 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 
 ![piesek.png](../assets/marriages/piesek.png)
 
-## Piesiek
-| **Poziom** | **Booster XP** |
-|------------|----------------|
-| 1          | 10%            |
-| 2          | 15%            |
-| 3          | 20%            |
-| 4          | 25%            |
-| 5          | 30%            |
-| 6          | 35%            |
+### Pies
 
-![kotek.png](../assets/marriages/kotek.png)
+| Poziom | Wymagany XP | Booster XP | Booster Rubinów |
+| :---: | :---: | :---: | :---: |
+| 1 | ❌ | 10% | ❌ |
+| 2 | 10.000 | 15% | ❌ |
+| 3 | 15.000 | 20% | ❌ |
+| 4 | 25.000 | 25% | ❌ |
+| 5 | 40.000 | 30% | ❌ |
+| 6 | 60.000 | 35% | ❌ |
 
-## Kotek
-| **Poziom** | **Booster rubinów** |
-|------------|---------------------|
-| 1          | 10%                 |
-| 2          | 15%                 |
-| 3          | 20%                 |
-| 4          | 25%                 |
-| 5          | 30%                 |
-| 6          | 35%                 |
+### Kot
 
-![królik.png](../assets/marriages/krolik.png)
+| Poziom | Wymagany XP | Booster XP | Booster Rubinów |
+| :---: | :---: | :---: | :---: |
+| 1 | ❌ | ❌ | 10% |
+| 2 | 10.000 | ❌ | 15% |
+| 3 | 15.000 | ❌ | 20% |
+| 4 | 25.000 | ❌ | 25% |
+| 5 | 40.000 | ❌ | 30% |
+| 6 | 60.000 | ❌ | 35% |
 
-## Królik
-| **Poziom** | **Booster XP irubinów** |
-|------------|-------------------------|
-| 1          | 15%                     |
-| 2          | 20%                     |
-| 3          | 25%                     |
-| 4          | 30%                     |
-| 5          | 35%                     |
-| 6          | 40%                     |
+### Królik
+
+| Poziom | Wymagany XP | Booster XP | Booster Rubinów |
+| :---: | :---: | :---: | :---: |
+| 1 | ❌ | 15% | 15% |
+| 2 | 10.000 | 20% | 20% |
+| 3 | 15.000 | 25% | 25% |
+| 4 | 25.000 | 30% | 30% |
+| 5 | 40.000 | 35% | 35% |
+| 6 | 60.000 | 40% | 40% |
 
 ## Komendy
 - Aby wziąć ślub, użyj komendy **/slub zapros [nick]**.
