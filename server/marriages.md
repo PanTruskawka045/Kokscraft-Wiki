@@ -1,7 +1,7 @@
 # Śluby
 Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepszać maksymalnie do 10 poziomu. Im wyższy level, tym większy boost XP i rubinów otrzymujecie wraz ze swoją drugą połówką.
 
-![gui.png](../assets/marriages/gui.png)
+![gui.png](/assets/marriages/gui.png)
 
 ## Panel
 - Związek można ulepszyć za **kokscoiny** lub **rubiny**:
@@ -29,11 +29,11 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 - W sklepie pod drugim slotem jest do kupna skrzynka z karmą, możesz je zakupić albo za 200 kokscoinów lub za 1000 robimów.
 - Aby osiągnąć wyższy poziom zwierzaka, należy wbijać exp'a
 
-![skrzynia_pupili.png](../assets/marriages/skrzynia_pupili.png)
+![skrzynia_pupili.png](/assets/marriages/skrzynia_pupili.png)
 
 ## Dostępne zwierzaki
 
-![piesek.png](../assets/marriages/piesek.png)
+![piesek.png](/assets/marriages/piesek.png)
 
 ### Pies
 
