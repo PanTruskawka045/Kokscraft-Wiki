@@ -15,7 +15,7 @@ Po kliknięciu otworzy się gui z dostawami.
 - Aby odebrać dostawe będziesz musiał wbić jednorazowo 900 expa każdego dnia.
 - W trakcie trwającego eventu na serwerze dostępna jest dodatkowa specjalna dostawa.
 
-![menu_dostaw.png](../assets/dostawy/menu_dostaw.png)
+![menu_dostaw.png](/assets/dostawy/menu_dostaw.png)
 
 ## Ilość dostaw w zależności od rangi
 
