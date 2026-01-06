@@ -40,7 +40,7 @@ Granice światów (bordery) są zwiększane co jakiś czas wraz z rozwojem edycj
 ## Działka i zarządzanie nią
 
 [amber/]Survival PLUS DZIAŁKI! Za opłatą w walucie serwerowej możesz kupić działkę - rezerwację terenu tylko dla
-siebie (chyba, że dodasz swoich sojuszników)![/amber]
+siebie (chyba, że dodasz swoich sojuszników).[/amber]
 
 ### Lista komend
 
