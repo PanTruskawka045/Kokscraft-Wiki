@@ -87,8 +87,12 @@ Składnia: `[badge:TEKST:KOLOR]`
 *   Inne: `[badge:1.20.4:primary]`
 
 Przykłady użycia w tekście:
-> Ta komenda jest dostępna tylko dla rangi [badge:MVP:indigo] i wyższych.
-> Funkcja działek jest obecnie w fazie [badge:BETA:blue].
+
+Ta komenda jest dostępna tylko dla rangi [badge:MVP:indigo] i wyższych.
+Funkcja działek jest obecnie w fazie [badge:BETA:red].
+
+Dostępne kolory:
+`red, green, blue, yellow, orange, indigo, purple, gray, primary`
 
 # Ramki
 Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne informacje.
