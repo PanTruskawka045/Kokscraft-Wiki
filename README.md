@@ -81,20 +81,32 @@ Jeśli chcesz ~~przekreślić~~ tekst, użyj podwójnych tyld:
 # Ramki
 Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne informacje.
 
+> [!NOTE]
+> Pamiętaj, że ranga VIP wygasa po 30 dniach.
+
 ```md
 > [!NOTE]
 > Pamiętaj, że ranga VIP wygasa po 30 dniach.
 ```
+
+> [!TIP]
+> Użyj komendy /msg, aby napisać prywatną wiadomość.
 
 ```md
 > [!TIP]
 > Użyj komendy /msg, aby napisać prywatną wiadomość.
 ```
 
+> [!WARNING]
+> Wchodząc na arenę PvP tracisz ochronę ekwipunku!
+
 ```md
 > [!WARNING]
 > Wchodząc na arenę PvP tracisz ochronę ekwipunku!
 ```
+
+> [!DANGER]
+> Usunięcie działki jest nieodwracalne.
 
 ```md
 > [!DANGER]
