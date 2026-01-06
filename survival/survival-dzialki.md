@@ -85,6 +85,7 @@ Tak samo z ich zestawami - /kit, prawym przyciskiem myszy podejrzysz zawartość
 |    ![kit-vip](/assets/survival-dzialki/kit-vip.png)    |
 |   ![kit-svip](/assets/survival-dzialki/kit-svip.png)   |
 |   ![kit-mvip](/assets/survival-dzialki/kit-mvip.png)   |
+|   ![kit-mvip](/assets/survival-dzialki/kit-koks.png)   |
 
 
 ### Na stronie można również kupić **klucze do skrzyń!** Co to za skrzynie?
