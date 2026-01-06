@@ -12,7 +12,7 @@ Poniżej opisz w 3-5 zdaniach co to jest za tryb i co się na nim robi
 
 ```md
 # Bedwars
- 
+
 Tryb polega na budowaniu bazy, zbieraniu zasobów i eliminowaniu innych graczy
 ```
 
@@ -78,13 +78,60 @@ Jeśli chcesz ~~przekreślić~~ tekst, użyj podwójnych tyld:
 ~~przekreślony tekst~~
 ```
 
+# Formatowanie tekstu Minecraft
+
+Wiki obsługuje specjalną składnię do renderowania tekstu wyglądającego jak w grze Minecraft (czat/MOTD). System
+obsługuje **Legacy Color Codes** (używając znaku `&`).
+Tekst wewnątrz tagu zostanie wyrenderowany na ciemnym tle (styl czatu) z odpowiednią czcionką i kolorami.
+
+### Składnia
+
+Aby użyć kolorów, zamknij tekst w bloku `[MINECRAFT: ... ]`.
+
+```md
+[MINECRAFT:&cTo jest czerwony tekst &ai zielony.]
+```
+
+### Dostępne kody
+
+| Kod | Kolor / Efekt   |
+|-----|-----------------|
+| &0  | Czarny          |
+| &1  | Ciemnoniebieski |
+| &2  | Ciemnozielony   |
+| &3  | Ciemnoturkusowy |
+| &4  | Ciemnoczerwony  |
+| &5  | Ciemnofioletowy |
+| &6  | Złoty           |
+| &7  | Jasnoszary      |
+| &8  | Ciemnoszary     |
+| &9  | Niebieski       |
+| &a  | Zielony         |
+| &b  | Turkusowy       |
+| &c  | Czerwony        |
+| &d  | Fioletowy       |
+| &e  | Żółty           |
+| &f  | Biały           |
+| &k  | Magiczny        |
+| &l  | Pogrubiony      |
+| &m  | Przekreślony    |
+| &n  | Podkreślony     |
+| &o  | Kursywa         |
+| &r  | Reset           |
+
+### Przykłady użycia
+
+`Wiadomość o banie:`
+[MINECRAFT:&cGracz &4Admin &czbanował &eNoobka&c.]
+
 # Badge
+
 Możesz dodawać stylowe odznaki, aby oznaczać rangi, statusy lub wersje.
 Składnia: `[badge:TEKST:KOLOR]`
 
-*   Rangi: `[badge:VIP:orange]`, `[badge:ADMIN:red]`, `[badge:GRACZ:gray]`
-*   Statusy: `[badge:BETA:blue]`, `[badge:NOWOŚĆ:green]`, `[badge:WIP:yellow]`
-*   Inne: `[badge:1.20.4:primary]`
+* Rangi: [badge:VIP:orange], [badge:ADMIN:red], [badge:GRACZ:gray]
+* Statusy: [badge:BETA:blue], [badge:NOWOŚĆ:green], [badge:WIP:yellow]
+* Inne: [badge:1.20.4:primary]
 
 Przykłady użycia w tekście:
 
@@ -95,6 +142,7 @@ Dostępne kolory:
 `red, green, blue, yellow, orange, indigo, purple, gray, primary`
 
 # Ramki
+
 Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne informacje.
 
 > [!NOTE]
@@ -151,6 +199,7 @@ widoczne na stronie)
 ```md
 Kolory
 ```
+
 Przykład jak dodać kolory poniżej:
 
 [slate/]Slate[/slate] - `[slate/]Slate[/slate]`
@@ -175,7 +224,6 @@ Przykład jak dodać kolory poniżej:
 [fuchsia/]Fuksja[/fuchsia] - `[fuchsia/]Fuksja[/fuchsia]`
 [pink/]Różowy[/pink] - `[pink/]Różowy[/pink]`
 [rose/]Róża[/rose] - `[rose/]Róża[/rose]`
-
 
 # Pull Request
 
