@@ -78,6 +78,18 @@ Jeśli chcesz ~~przekreślić~~ tekst, użyj podwójnych tyld:
 ~~przekreślony tekst~~
 ```
 
+# Badge
+Możesz dodawać stylowe odznaki, aby oznaczać rangi, statusy lub wersje.
+Składnia: `[badge:TEKST:KOLOR]`
+
+*   Rangi: `[badge:VIP:orange]`, `[badge:ADMIN:red]`, `[badge:GRACZ:gray]`
+*   Statusy: `[badge:BETA:blue]`, `[badge:NOWOŚĆ:green]`, `[badge:WIP:yellow]`
+*   Inne: `[badge:1.20.4:primary]`
+
+Przykłady użycia w tekście:
+> Ta komenda jest dostępna tylko dla rangi [badge:MVP:indigo] i wyższych.
+> Funkcja działek jest obecnie w fazie [badge:BETA:blue].
+
 # Ramki
 Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne informacje.
 
