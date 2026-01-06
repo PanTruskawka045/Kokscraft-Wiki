@@ -12,7 +12,7 @@ Poniżej opisz w 3-5 zdaniach co to jest za tryb i co się na nim robi
 
 ```md
 # Bedwars
-
+ 
 Tryb polega na budowaniu bazy, zbieraniu zasobów i eliminowaniu innych graczy
 ```
 
@@ -76,6 +76,29 @@ Jeśli chcesz ~~przekreślić~~ tekst, użyj podwójnych tyld:
 
 ```md
 ~~przekreślony tekst~~
+```
+
+# Ramki
+Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne informacje.
+
+```md
+> [!NOTE]
+> Pamiętaj, że ranga VIP wygasa po 30 dniach.
+```
+
+```md
+> [!TIP]
+> Użyj komendy /msg, aby napisać prywatną wiadomość.
+```
+
+```md
+> [!WARNING]
+> Wchodząc na arenę PvP tracisz ochronę ekwipunku!
+```
+
+```md
+> [!DANGER]
+> Usunięcie działki jest nieodwracalne.
 ```
 
 # Linki
