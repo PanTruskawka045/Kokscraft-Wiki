@@ -97,6 +97,14 @@ Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne in
 > Użyj komendy /msg, aby napisać prywatną wiadomość.
 ```
 
+> [!IMPORTANT]
+> Nie udostępniaj swojego hasła innym osobom.
+
+```md
+> [!IMPORTANT]
+> Nie udostępniaj swojego hasła innym osobom.
+```
+
 > [!WARNING]
 > Wchodząc na arenę PvP tracisz ochronę ekwipunku!
 
@@ -105,11 +113,11 @@ Zamiast zwykłego tekstu, używaj specjalnych bloków, aby wyróżnić ważne in
 > Wchodząc na arenę PvP tracisz ochronę ekwipunku!
 ```
 
-> [!DANGER]
+> [!CAUTION]
 > Usunięcie działki jest nieodwracalne.
 
 ```md
-> [!DANGER]
+> [!CAUTION]
 > Usunięcie działki jest nieodwracalne.
 ```
 
