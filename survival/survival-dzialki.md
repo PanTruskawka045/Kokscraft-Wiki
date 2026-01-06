@@ -163,13 +163,15 @@ Każda ranga posiada unikalne przywileje (sprawdź pod `/rangi`) oraz zestawy pr
 
 ### Zestawy (Kity)
 
-|                        ZESTAWY                         |
-|:------------------------------------------------------:|
-| ![Kit Player](/assets/survival-dzialki/kit-player.png) |
-|       [badge:VIP:lime] - DOSTĘPNY OD 15.11 12:00       |
-|      [badge:SVIP:cyan] - DOSTĘPNY OD 15.11 12:00       |
-|      [badge:MVIP:green] - DOSTĘPNY OD 15.11 12:00      |
-|     [badge:KOKS:primary] - DOSTĘPNY OD 15.11 12:00     |
+|                      |                        ZESTAWY                         |
+|----------------------|:------------------------------------------------------:|
+| [badge:GRACZ:gray]   | ![Kit Player](/assets/survival-dzialki/kit-player.png) |
+| [badge:VIP:lime]     |  ![Kit Player](/assets/survival-dzialki/kit-vip.png)   |
+| [badge:SVIP:cyan]    |  ![Kit Player](/assets/survival-dzialki/kit-svip.png)  |
+| [badge:MVIP:green]   |  ![Kit Player](/assets/survival-dzialki/kit-mvip.png)  |
+| [badge:KOKS:primary] |  ![Kit Player](/assets/survival-dzialki/kit-koks.png)  |
+
+
 
 ### Skrzynie (Crates)
 
