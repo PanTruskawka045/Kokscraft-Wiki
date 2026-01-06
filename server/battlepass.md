@@ -37,9 +37,9 @@ Na serwerze istnieją karnety **PŁATNE** oraz **DARMOWE!**
 Możesz zdobywać poziomy karnetu, **nie mając go odblokowanego/kupionego**. Oznacza to, że możesz najpierw wbić wszystkie poziomy karnetu, a dopiero później go kupić - a wszystkie nagrody zostaną Ci automatycznie dodane. 
 
 ### ZNIŻKI NA KARNETY >
-Posiadając rangę zakupioną na stronie serwera, posiadamy zniżke na karnety płatne! [Kliknij tutaj aby kupić rangę!](https://kokscraft.pl/sklep/rangi/minigames) Ile wynosi zniżka?
+Posiadając rangę zakupioną na stronie serwera, posiadamy zniżke na karnety płatne! [Kliknij tutaj aby kupić rangę!](https://kokscraft.pl/sklep/minigames) Ile wynosi zniżka?
 - Ranga **VIP** > 5% 
 - Ranga **SVIP** > 5%
 - Ranga **MVIP** > 10%
 - Ranga **UVIP** > 15%
-- Ranga **KOKS** > Wszystkie karnety odblokowane! **ALE!** Tylko na czas posiadania rangi, czyli w momencie w którym ranga wygasa - karnety automatycznie blokują się.
+- Ranga **KOKS** > 50%

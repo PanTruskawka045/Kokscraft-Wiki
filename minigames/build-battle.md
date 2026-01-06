@@ -126,7 +126,7 @@ Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły p
 
 ## Punkty Rangi
 
-### **Build Battle**
+### Build Battle
 
  Wygrana - 20
 
@@ -134,18 +134,19 @@ Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły p
 
  KOKS Budowla - 5
 
-### **Kalambury**
+### Kalambury
 
 Wygrana - 10
 
 Zgadnięcie tematu - 2
 
-### **Speed Builders**
+### Speed Builders
 
 Wygrana - 10
 
 Perfect Match - 1 
 
+## Poziomy Build Games
 
 | **Nazwa**                                         |  **Poziom**  | **Punkty**   |
 |---------------------------------------------------|--------------|--------------|

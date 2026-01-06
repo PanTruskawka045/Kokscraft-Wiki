@@ -36,13 +36,14 @@ Tryby takie jak:
 To tryby **Minigames**, więc aby zakupić rangę, wybierz właśnie tę opcję.
 
 ## Rangi Minigames
-Na trybach **minigames** można zakupić rangi, które po zakupie trwają **30 dni**. Ranga się **stackuje**, czyli możesz kupić np. 2 razy rangę [lime/]**VIP**[/lime] i wtedy trwa ona przez 60 dni. Mając inną rangę, np. [emerald/]**MVIP**[/emerald], i kupując [yellow/]**KOKSA**[/yellow], trafia voucher do ekwipunku, który można aktywować w momencie, gdy obecna ranga wygaśnie. Jest również opcja zdjęcia rangi z konta, jeśli chcesz aktywować inną rangę. W tym celu udaj się na discorda [Support Kokscraft](https://discord.com/invite/WRFdntaCKF) i stwórz ticket do odpowiedniej kategorii.
+Na trybach **minigames** można zakupić rangi, które po zakupie trwają **30 dni**. Ranga się **stackuje**, czyli możesz kupić np. 2 razy rangę **[lime/]VIP[/lime]** i wtedy trwa ona przez 60 dni. Mając inną rangę, np. **[emerald/]MVIP[/emerald]**, i kupując **[yellow/]KOKSA[/yellow]**, trafia voucher do ekwipunku, który można aktywować w momencie, gdy obecna ranga wygaśnie. Jest również opcja zdjęcia rangi z konta, jeśli chcesz aktywować inną rangę. W tym celu udaj się na discorda [Support Kokscraft](https://discord.com/invite/WRFdntaCKF) i stwórz ticket do odpowiedniej kategorii.
 
-### Rangi Eventowe
+### Rangi Eventowe 
+
 Na naszym serwerze znajdują się rangi specjalne, które pojawiają się w sklepie na różne okazje, przykładowo na Święta, czy Wielkanoc.
 
 ### Prefixy przed rangą
-Jeżeli posiadasz rangę [yellow/]**TESTER**[/yellow], [amber/]**SR.TESTER**[/amber], [cyan/]**MEDIA**[/cyan], [pink/]**PARTNER**[/pink] lub inną rangę **Administracyjną** i zakupisz bądź użyjesz vouchera na rangę ze sklepu, będzie wyświetlał się prefix danej rangi. Na przykład:  
+Jeżeli posiadasz rangę **[yellow/]TESTER[/yellow]**, **[amber/]SR.TESTER[/amber]**, **[cyan/]MEDIA[/cyan]**, **[pink/]PARTNER[/pink]** lub inną rangę **Administracyjną** i zakupisz bądź użyjesz vouchera na rangę ze sklepu, będzie wyświetlał się prefix danej rangi. Na przykład:  
 K = [yellow/]KOKS[/yellow] - Ranga Premium (Ze sklepu)  
 [blue/]MOD[/blue] - Ranga Funkcyjna  
 ![ranga](/assets/ranks/ranga.png)
@@ -53,7 +54,7 @@ Tak, można zdobyć rangi za darmo. Od czasu do czasu są organizowane konkursy,
 ![voucher](/assets/ranks/voucher.png)
 
 ## Rangi survival (Anarchia, KOKS SMP, SV + Działki, ChestPvP, SkyBox, Skygen, BoxPvP)
-Na trybach **survival** również można zakupić rangę w [sklepie](https://kokscraft.pl/sklep) wybierając odpowiedni tryb, a od czasu do czasu pojawiają się również rangi **Eventowe**. Rangi na tryby survival można zakupić na **30 dni**. Rangę kupujesz tylko na [red/]**JEDEN**[/red] wybrany tryb.
+Na trybach **survival** również można zakupić rangę w [sklepie](https://kokscraft.pl/sklep) wybierając odpowiedni tryb, a od czasu do czasu pojawiają się również rangi **Eventowe**. Rangi na tryby survival można zakupić na **30 dni**. Rangę kupujesz tylko na **[red/]JEDEN[/red]** wybrany tryb.
     
 ## Rangi Administracyjne
 

@@ -1,0 +1,18 @@
+name: 'Pull Request Open Notification'
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord notification
+        uses: stegzilla/discord-notify@v2
+        with:
+          webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          title: Stworzono nowego Pull Request'a
+          message: "**[${{ github.event.pull_request.title }}](${{ github.event.pull_request.html_url }})**\n**Przez: **[${{ github.event.pull_request.user.login }}](https://github.com/${{ github.event.pull_request.user.login }})\n"
+          include_image: true
+          avatar_url: https://avatars.githubusercontent.com/u/247478740?s=200&v=4
+          username: Kokscraft Wiki
