@@ -7,7 +7,7 @@ działki, zdobywać bogactwo poprzez handel i piąć się w rankingach, tworząc
 - **Wersja gry:** 1.21.8+
 - **Data startu 6 edycji:** 14 listopada 2025
 
-![Spawn Survival](/assets/survival-dzialki/survival-spawn.png)
+![Jak zacząć](/assets/survival-dzialki/jak-zaczac.png)
 
 ## Jak zacząć?
 
@@ -16,8 +16,6 @@ i zakup pierwszej działki. Wybierz swoją pracę, handluj z graczami, znajdź d
 
 > [!TIP]
 > Skorzystaj z losowego teleportu na spawnie, aby znaleźć idealny i bezpieczny teren pod swoją pierwszą bazę!
-
-![Jak zacząć](/assets/survival-dzialki/jak-zaczac.png)
 
 ## Praca - formy zatrudnienia
 
@@ -35,8 +33,8 @@ Granice światów (bordery) są zwiększane co jakiś czas wraz z rozwojem edycj
 
 | **ŚWIAT** |      **BORDER**      |
 |:---------:|:--------------------:|
-| OVERWORLD |     7500 x 7500      |
-|  NETHER   | [red/]wkrótce![/red] |
+| OVERWORLD |    45000 x 45000     |
+|  NETHER   |     6000 x 6000      |
 |    END    | [red/]wkrótce![/red] |
 
 ## Działka i zarządzanie nią
@@ -46,10 +44,10 @@ siebie (chyba, że dodasz swoich sojuszników)![/amber]
 
 ### Lista komend
 
-- **[emerald/]/dzialka dom[/emerald]** - teleportuje na działkę (koordynaty teleportu można zmieniać).
-- **[emerald/]/dzialka info[/emerald]** - wyświetla informacje o działce, na której stoisz (nazwa, kordy, właściciel).
-- **[emerald/]/dzialka kup[/emerald]** - otwiera GUI z możliwością zakupu bloku działki (kilka różnych wariantów).
-- **[emerald/]/dzialka menu[/emerald]** - otwiera panel ustawień działki, na której stoisz (lub listę działek, jeśli
+- `/dzialka dom` - teleportuje na działkę (koordynaty teleportu można zmieniać).
+- `/dzialka info` - wyświetla informacje o działce, na której stoisz (nazwa, kordy, właściciel).
+- `/dzialka kup` - otwiera GUI z możliwością zakupu bloku działki (kilka różnych wariantów).
+- `/dzialka menu` - otwiera panel ustawień działki, na której stoisz (lub listę działek, jeśli
   jesteś poza nią).
 
 ### Rodzaje działek
@@ -81,13 +79,13 @@ Panel pozwala na szczegółowe zarządzanie twoim terenem:
 
 ## Przydatne dodatkowe komendy
 
-- **[orange/]/pomoc[/orange]** - wyświetla GUI z informacjami o trybie i listą komend.
-- **[orange/]/ustawienia[/orange]** - otwiera GUI z ustawieniami konta.
-- **[orange/]/ignore nick[/orange]** - możliwość zignorowania gracza.
-- **[orange/]/warp[/orange]** - wyświetla GUI z dostępnymi warpami.
-- **[yellow/]/rangi[/yellow]** - wyświetla GUI z opisem rang premium.
-- **[yellow/]/prestiz[/yellow]** - wyświetla GUI systemu prestiżu.
-- **[yellow/]/kosz[/yellow]** - bezpieczne usuwanie niepotrzebnych przedmiotów.
+- `/pomoc` - wyświetla GUI z informacjami o trybie i listą komend.
+- `/ustawienia` - otwiera GUI z ustawieniami konta.
+- `/ignore nick` - możliwość zignorowania gracza.
+- `/warp` - wyświetla GUI z dostępnymi warpami.
+- `/rangi` - wyświetla GUI z opisem rang premium.
+- `/prestiz` - wyświetla GUI systemu prestiżu.
+- `/kosz` - bezpieczne usuwanie niepotrzebnych przedmiotów.
 
 ## Handel i Ekonomia
 
@@ -102,16 +100,16 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 
 ### Komendy ekonomiczne
 
-- **[sky/]/market otworz[/sky]** - otwiera menu serwerowego rynku.
-- **[sky/]/market wystaw cena[/sky]** - wystaw przedmiot na rynek za określoną cenę na 24h.
-- **[sky/]/market dostawy[/sky]** - schowek kupionych, wylicytowanych oraz wygaśniętych ofert.
-- **[sky/]/wymiana nick[/sky]** - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
-- **[sky/]/czek kwota[/sky]** - tworzy fizyczny czek pieniężny.
-- **[sky/]/aukcja wystaw kwota[/sky]** - tworzy licytację na czacie (szybka sprzedaż).
-- **[sky/]/aukcja licytuj kwota[/sky]** - podbija cenę licytowanego przedmiotu.
+- `/market otworz` - otwiera menu serwerowego rynku.
+- `/market wystaw cena` - wystaw przedmiot na rynek za określoną cenę na 24h.
+- `/market dostawy` - schowek kupionych, wylicytowanych oraz wygaśniętych ofert.
+- `/wymiana nick` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
+- `/czek kwota` - tworzy fizyczny czek pieniężny.
+- `/aukcja wystaw kwota` - tworzy licytację na czacie (szybka sprzedaż).
+- `/aukcja licytuj kwota` - podbija cenę licytowanego przedmiotu.
 
 > [!TIP]
-> Jeśli masz znajomego w potrzebie, przelej mu pieniądze używając komendy **[green/]/pay nick kwota[/green]**.
+> Jeśli masz znajomego w potrzebie, przelej mu pieniądze używając komendy `/pay nick kwota`.
 
 ![Market](/assets/survival-dzialki/market.png)
 
@@ -122,10 +120,10 @@ uprawnienia.
 
 ![Ślub Info](/assets/survival-dzialki/slub_info.png)
 
-- **[pink/]/slub info[/pink]** - wyświetla informację o Twoim ślubie.
-- **[pink/]/slub invite nick[/pink]** - wysyła zaproszenie do ślubu.
-- **[pink/]/slub rozwod[/pink]** - bierze natychmiastowy rozwód.
-- **[pink/]/slub list[/pink]** - wyświetla listę aktywnych małżeństw.
+- `/slub info` - wyświetla informację o Twoim ślubie.
+- `/slub invite nick` - wysyła zaproszenie do ślubu.
+- `/slub rozwod` - bierze natychmiastowy rozwód.
+- `/slub list` - wyświetla listę aktywnych małżeństw.
 
 > [!IMPORTANT]
 > Po wzięciu rozwodu musisz odczekać **24h** zanim ponownie weźmiesz ślub!
@@ -168,10 +166,10 @@ Każda ranga posiada unikalne przywileje (sprawdź pod `/rangi`) oraz zestawy pr
 |                        ZESTAWY                         |
 |:------------------------------------------------------:|
 | ![Kit Player](/assets/survival-dzialki/kit-player.png) |
-|    **[lime/]VIP[/lime]** - DOSTĘPNY OD 15.11 12:00     |
-|    **[cyan/]SVIP[/cyan]** - DOSTĘPNY OD 15.11 12:00    |
-|   **[green/]MVIP[/green]** - DOSTĘPNY OD 15.11 12:00   |
-| **[primary/]KOKS[/primary]** - DOSTĘPNY OD 15.11 12:00 |
+|       [badge:VIP:lime] - DOSTĘPNY OD 15.11 12:00       |
+|      [badge:SVIP:cyan] - DOSTĘPNY OD 15.11 12:00       |
+|      [badge:MVIP:green] - DOSTĘPNY OD 15.11 12:00      |
+|     [badge:KOKS:primary] - DOSTĘPNY OD 15.11 12:00     |
 
 ### Skrzynie (Crates)
 
