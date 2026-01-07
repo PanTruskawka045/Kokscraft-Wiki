@@ -40,6 +40,13 @@ Aby Umieścić obrazek w artykule, użyj poniższego kodu:
 ```
 
 W kwadratowych nawiasach podaj opis obrazka, a w nawiasach okrągłych ścieżkę do obrazka (jak na przykładzie)
+Pamiętaj, aby obrazki:
+- Były w formacie .png lub .jpg
+- Miały rozsądną wielkość (nie przesadzaj z rozdzielczością, ale też nie za małe)
+- Były robione na domyślnym texturepacku
+- Nie było na nich widać interfejsu gry (chyba że jest to zamierzone)
+- Nie było widać modów na interfejsie (np. saturation indicator, lub znak klienta obok nicku gracza)
+- Screenshot zawierał tylko to, co jest potrzebne do zrozumienia artykułu
 
 # Tabelki
 
