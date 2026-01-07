@@ -1,6 +1,6 @@
 # Modyfikacje
 
-Ostatnia aktualizacja: 3.10.2025
+Ostatnia aktualizacja: 14.11.2025
 
 ## 1. Ogólne informacje.
 
@@ -12,7 +12,7 @@ Ostatnia aktualizacja: 3.10.2025
 ## 2. Pozostałe rzeczy ingerujące w grę.
 
 **2.1 -** Kategorycznie zabrania się altowania, niezależnie od sposobu jego wykonania. Nie dotyczy to lobby serwerowego.
-**2.2 -** Dozwolone są skrypty/tinytaski lub inne programy, które służą tylko i wyłącznie do odtwarzania nagranych ruchów/czynności.
+**2.2 -** Na wszystkich trybach z wyjątkiem SV+DZIAŁKI, dozwolone są skrypty/tinytaski lub inne programy, które służą tylko i wyłącznie do odtwarzania nagranych ruchów/czynności.
 
 ## 3. Launchery i Clienty.
 

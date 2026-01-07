@@ -1,6 +1,6 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 24.09.2025
+Ostatnia aktualizacja: 2.12.2025
 
 ## 1. Postanowienia Ogólne
 
@@ -75,13 +75,14 @@ Ostatnia aktualizacja: 24.09.2025
 **6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
-**6.3.3 -** Termin ubiegania się o backupa wynosi 2 tygodnie.
+**6.3.3 -** Termin ubiegania się o backupa wynosi 3 dni, licząc od momentu śmierci.
 **6.4 -** Zabrania się ustawiania słów w itemach, które łamią w jakimkolwiek stopniu regulamin. Dotyczy to również ofert na rynku.
 
 ### SV+DZIAŁKI
 
 **6.5 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
 **6.6 -** Zabrania się griefowania terenu.
+**6.7 -** Zabrania się korzystania z programów wykonujących czynności w grze podczas nieobecności gracza.
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
