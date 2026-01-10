@@ -1,6 +1,7 @@
 # Regulamin Discord
 
-Ostatnia aktualizacja: 24.09.2025
+> [!NOTE]
+> Ostatnia aktualizacja: 10.01.2026.
 
 ## 1. Postanowienia Ogólne
 
