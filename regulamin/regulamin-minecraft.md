@@ -1,6 +1,10 @@
 # Regulamin Minecraft
 
-Ostatnia aktualizacja: 2.12.2025
+> [!WARNING]
+> Regulamin nie obowiązuje na trybie RUST.
+
+> [!NOTE]
+> Ostatnia aktualizacja: 10.01.2026.
 
 ## 1. Postanowienia Ogólne
 
@@ -15,8 +19,8 @@ Ostatnia aktualizacja: 2.12.2025
 **2.2 -** Jakakolwiek próba oszustwa administracji może być odpowiednio karana, w zależności od występującej sytuacji.
 **2.3 -** Zabrania się podszywania pod administrację oraz użytkowników.
 **2.4 -** Zabrania się namawiania do łamania regulaminu.
-**2.5.1 -** Użytkownik na trybach minigames może posiadać tylko jedno konto. Każda zmiana używanego konta powinna być zgłoszona do administracji.
-**2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administracji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta.
+**2.5.1 -** Użytkownik na trybach minigames może posiadać tylko jedno konto. Każda zmiana używanego konta musi zostać zgłoszona do administracji, aby uniknąć potencjalnego otrzymania kary.
+**2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administracji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta. Szczegółowe pozostałe zasady dotyczące multikont znajdują się w punkcie 6.2. 
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
 **2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu.
@@ -68,11 +72,11 @@ Ostatnia aktualizacja: 2.12.2025
 
 ## 6. Zasady czatu tekstowego i rozgrywki - tryby survival
 
-**6.1 -** Reklamowanie własnej twórczości (np. poprzez nazwy profili w mediach społecznościowych) jest dozwolone wyłącznie dla użytkowników posiadających jedną z poniższych rang:
-- CEO, PARTNER, MEDIA, KOKS, MVIP
-- rangi specjalne – w tym rangi limitowane i eventowe
-
-**6.2 -** Zabrania się nabijania punktów/rankingu/killi/topki na multikontach lub z pomocą osoby trzeciej.
+**6.1 -** Reklamowanie własnej twórczości (np. poprzez nazwy profili w mediach społecznościowych) jest dozwolone wyłącznie dla użytkowników posiadających rangę [badge:CEO:red], [badge:PARTNER:purple], [badge:MEDIA:blue], [badge:KOKS:primary], [badge:MVIP:green] lub którąś z rang specjalnych – w tym rang limitowanych i eventowych.
+**6.2 -** Zabrania się na multikontach lub z pomocą osoby trzeciej:
+- nabijania punktów/rankingu/zabójstw/topki,
+- przerzucania itemów z konto na konto w celu odebrania osiągnięć lub wygrywania eventów na danym koncie,
+- odbierania darmowych nagród i przerzucania ich na inne konto.
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
 **6.3.3 -** Termin ubiegania się o backupa wynosi 3 dni, licząc od momentu śmierci.
@@ -83,6 +87,7 @@ Ostatnia aktualizacja: 2.12.2025
 **6.5 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
 **6.6 -** Zabrania się griefowania terenu.
 **6.7 -** Zabrania się korzystania z programów wykonujących czynności w grze podczas nieobecności gracza.
+**6.8 -** Zabrania się używania multikont do automatycznych czynności w celu pozyskania itemów (np. łowienia).
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
