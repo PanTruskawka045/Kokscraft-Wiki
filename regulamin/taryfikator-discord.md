@@ -66,4 +66,4 @@
 2. Historia kar gracza jest udostępniana do jego wglądu na życzenie.
 3. Wielokrotne otrzymywanie kar z tego samego powodu może się wiązać z dłuższymi karami niż określonymi w taryfikatorze.
 4. Powody, które w powyższym taryfikatorze nie są określone, a działają na szkodę serwera lub łamią regulamin podlegają karze ustalonej przez [badge:Discord Administrator:red].
-5. Taryfikator nie obowiązuje wstecz. Jeśli wcześniej gracz otrzymał karę według wtedy obowiązującego taryfikatora, to długość/typ kary nie zostanie zmieniony.
+5. Jeśli gracz otrzymał karę według starego taryfikatora (obowiązującego w momencie jej nadania), to długość/typ kary nie zostanie zmieniony.
