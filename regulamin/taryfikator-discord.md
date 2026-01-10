@@ -1,6 +1,7 @@
 # Taryfikator Discord
 
-Ostatnia aktualizacja: 11.11.2025
+> [!NOTE]
+> Ostatnia aktualizacja: 10.01.2026.
 
 ## Zasady ogólne
 
@@ -32,7 +33,6 @@ Ostatnia aktualizacja: 11.11.2025
 |                                                 **Łamanie ToS-u Discorda**                                                 |                                            [red/]ban[/red]                                            |                                                     |
 |                                          **Łamanie regulaminu za pomocą emotek**                                           |                             kara zgodnie z tym, co znajduje się w emotce                              |                                                     |
 |                                        **Cytowanie wiadomości łamiących regulamin**                                        |                           kara zgodnie z tym, co znajduje się w wiadomości                            |                                                     |
-| **Inne, wyżej nie wymienione powody, działające na szkodę serwera czy też próby ominięcia kary z taryfikatora/regulaminu** |                                      Decyzja [red/]Admin+[/red]                                       |                                                     |
 
 
 ## Czat tekstowy
@@ -56,7 +56,14 @@ Ostatnia aktualizacja: 11.11.2025
 |          **Puszczanie bindów / Korzystanie z modulatora**          | [orange/]mute 1d[/orange] - [orange/]14d[/orange] |                                                        |
 | **Utrudnianie komunikacji** (jęczenie, dmuchanie, krzyczenie itd.) |              [yellow/]warn[/yellow]               |                                                        |
 
-### Legenda
+## Legenda
 
 `*` - Ostrzeżenie słowne lub głosowe stosowane przez osobe z administracji - nie ma obowiązku jego wystawienia!
 `**` - Jeżeli nieuzupełnione, wtedy stosowana jest kara z kolumny poprzedniej.
+
+## Inne ważne informacje
+1. Administracja ma prawo ukarać gracza poza taryfikatorem.
+2. Historia kar gracza jest udostępniana do jego wglądu na życzenie.
+3. Wielokrotne otrzymywanie kar z tego samego powodu może się wiązać z dłuższymi karami niż określonymi w taryfikatorze.
+4. Powody, które w powyższym taryfikatorze nie są określone, a działają na szkodę serwera lub łamią regulamin podlegają karze ustalonej przez [badge:Discord Administrator:red].
+5. Taryfikator nie obowiązuje wstecz. Jeśli wcześniej gracz otrzymał karę według wtedy obowiązującego taryfikatora, to długość/typ kary nie zostanie zmieniony.
