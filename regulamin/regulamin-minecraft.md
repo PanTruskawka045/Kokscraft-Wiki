@@ -67,7 +67,7 @@
 **5.3 -** Zabrania się celowego przedłużania gry.
 **5.4 -** Zabrania się trolowania/utrudniania gry lub sabotowania swojej drużyny.
 **5.5 -** Zabrania się teamowania z graczami będących w innej drużynie.
-**5.6 -** Zabrania się używania jakichkolwiek wspomagaczy klikania, makr (nawet wbudowanych w myszkę) czy innych programów zewnętrznych.
+**5.6 -** Zabrania się używania jakichkolwiek wspomagaczy klikania, makr (nawet wbudowanych w myszkę) czy innych programów zewnętrznych (wyjątek: tryb UHC).
 **5.7 -** Nabijanie statystyk/xpa lub rubinów na afk skutkuje całkowitym resetem konta.
 
 ## 6. Zasady czatu tekstowego i rozgrywki - tryby survival
