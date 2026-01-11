@@ -1,6 +1,6 @@
 # BoxPvP
 
-BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt, zarazem musisz **pamietać** o wzbogocaniu się i ciągłym **ulepszaniu** swojego ekwipunku, żeby nie zostać w tyle!
+Tryb BoxPvP [badge:1.19.4 - 1. 21.8:yellow] jest to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt, zarazem musisz **pamietać** o wzbogocaniu się i ciągłym **ulepszaniu** swojego ekwipunku, żeby nie zostać w tyle!
 
 ![spawn.png](../assets/boxpvp/spawn.png)
 
