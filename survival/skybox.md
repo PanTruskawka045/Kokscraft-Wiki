@@ -2,13 +2,13 @@
 
 Tryb SkyBox [badge:1.19.4 - 1. 21.8:yellow] jest to podniebna walka z innymi graczami, musisz zbierać bloki z generatorów oraz boxów, żeby ulepszać swój ekwipunek.
 
-![spawn.png](../assets/skybox/spawn.png)
+![spawn.png](/assets/skybox/spawn.png)
 
-![strefa_pvp_1.png](../assets/skybox/strefa_pvp_1.png)
+![strefa_pvp_1.png](/assets/skybox/strefa_pvp_1.png)
 
-![strefa_pvp_2.png](../assets/skybox/strefa_pvp_2.png)
+![strefa_pvp_2.png](/assets/skybox/strefa_pvp_2.png)
 
-![bezpieczna_strefa.png](../assets/skybox/bezpieczna_strefa.png)
+![bezpieczna_strefa.png](/assets/skybox/bezpieczna_strefa.png)
 
 ## Jak zacząć?
 
@@ -17,7 +17,7 @@ Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie większego ran
 - 32x czernitu
 - 32x mięska
 
-![itemy_startowe.png](../assets/skybox/itemy_startowe.png)
+![itemy_startowe.png](/assets/skybox/itemy_startowe.png)
 
 > [!IMPORTANT]
 > Po śmierci na strefie PVP nie tracisz swojego wyposażenia.
@@ -39,28 +39,28 @@ Jest to główne miejsce Twojej przygody na trybie SkyBox. Tutaj znajdziesz wszy
 
 Jeżeli chcesz szybciej przedostać się do poszczególnych lokacji na mapie, możesz użyć komendy (`/warp`), po wpisaniu otworzy się gui, gdzie możesz kliknąć odpowiedni klocek.
 
-![warpy.png](../assets/skybox/warpy.png)
+![warpy.png](/assets/skybox/warpy.png)
 
 ## Magazyn
 
 Umożliwia przechowywanie bloków, pozwalając zaoszczędzić cenne miejsce w Twoim enderchecie. W celu otwarcia menu magazynu wpisz komendę (`/magazyn`).
 
-![magazyn.png](../assets/skybox/magazyn.png)
+![magazyn.png](/assets/skybox/magazyn.png)
 
 ## Osiągnięcia i zwoje
 
 Po osiągnięciu danego celu możesz otrzymać za nie nagrody. W celu otwarcia menu osiągnięć wpisz komendę  (`/osiagniecia`).
 
-![osiagniecia.png](../assets/skybox/osiagniecia.png)
+![osiagniecia.png](/assets/skybox/osiagniecia.png)
 
 Na SkyBox są 4 zwoje, które mogą Tobie pomóc podczas rozgrywki:
 
-| **Skill** |                        **Co robi?**                        |
-|:---------:|:----------------------------------------------------------:|
-|  Naprawy  |   ![zwoj_naprawy.png](../assets/skybox/zwoj_naprawy.png)   |
-| Zwinności | ![zwoj_zwinnosci.png](../assets/skybox/zwoj_zwinnosci.png) |
-|   Życia   |     ![zwoj_zycia.png](../assets/skybox/zwoj_zycia.png)     |
-| Dominacji | ![zwoj_dominacji.png](../assets/skybox/zwoj_dominacji.png) |
+| **Skill** |                       **Co robi?**                       |
+|:---------:|:--------------------------------------------------------:|
+|  Naprawy  |   ![zwoj_naprawy.png](/assets/skybox/zwoj_naprawy.png)   |
+| Zwinności | ![zwoj_zwinnosci.png](/assets/skybox/zwoj_zwinnosci.png) |
+|   Życia   |     ![zwoj_zycia.png](/assets/skybox/zwoj_zycia.png)     |
+| Dominacji | ![zwoj_dominacji.png](/assets/skybox/zwoj_dominacji.png) |
 
 > [!TIP]
 > Zwój Życia oraz Dominacji możesz zdobyć ze skrzyni KOKS, a Zwój Naprawy i Zwinności z osiągnięć.
@@ -69,23 +69,23 @@ Na SkyBox są 4 zwoje, które mogą Tobie pomóc podczas rozgrywki:
 
 Loguj się codziennie i zgarniaj nagrody! Z każdym dniem nagroda jest jeszcze lepsza! Wbij i sam się przekonaj!
 
-![codzienna_nagroda.png](../assets/skybox/codzienna_nagroda.png)
+![codzienna_nagroda.png](/assets/skybox/codzienna_nagroda.png)
 
 ## Perki
 
 Jest to część Twojego wyposażenia, która jest bardzo istotna podczas rozgrywki, im wyższy poziom danego perka, tym większa przewaga nad drugim graczem. W celu otwarcia menu perków użyj komendy (`/perk` lub `/szaman`). 
 
-|        **Perk**         |                                 **Co robi?**                                 |
-|:-----------------------:|:----------------------------------------------------------------------------:|
-|         Obrażeń         |            ![perk_obrazen.png](../assets/skybox/perk_obrazen.png)            |
-|         Ochrony         |            ![perk_ochrony.png](../assets/skybox/perk_ochrony.png)            |
-|        Rankingu         |           ![perk_rankingu.png](../assets/skybox/perk_rankingu.png)           |
-|         Zdrowia         |            ![perk_zdrowia.png](../assets/skybox/perk_zdrowia.png)            |
-|    Bonusowego Dropu     |      ![perk_bonusowy_drop.png](../assets/skybox/perk_bonusowy_drop.png)      |
-|          Dropu          |              ![perk_dropu.png](../assets/skybox/perk_dropu.png)              |
-| Większe Obrażenia Mobom | ![wieksze_obrazenia_mobom.png](../assets/skybox/wieksze_obrazenia_mobom.png) |
-|          Dusz           |               ![perk_dusz.png](../assets/skybox/perk_dusz.png)               |
-|         Zarobku         |            ![perk_zarobku.png](../assets/skybox/perk_zarobku.png)            |
+|        **Perk**         |                                **Co robi?**                                |
+|:-----------------------:|:--------------------------------------------------------------------------:|
+|         Obrażeń         |            ![perk_obrazen.png](/assets/skybox/perk_obrazen.png)            |
+|         Ochrony         |            ![perk_ochrony.png](/assets/skybox/perk_ochrony.png)            |
+|        Rankingu         |           ![perk_rankingu.png](/assets/skybox/perk_rankingu.png)           |
+|         Zdrowia         |            ![perk_zdrowia.png](/assets/skybox/perk_zdrowia.png)            |
+|    Bonusowego Dropu     |      ![perk_bonusowy_drop.png](/assets/skybox/perk_bonusowy_drop.png)      |
+|          Dropu          |              ![perk_dropu.png](/assets/skybox/perk_dropu.png)              |
+| Większe Obrażenia Mobom | ![wieksze_obrazenia_mobom.png](/assets/skybox/wieksze_obrazenia_mobom.png) |
+|          Dusz           |               ![perk_dusz.png](/assets/skybox/perk_dusz.png)               |
+|         Zarobku         |            ![perk_zarobku.png](/assets/skybox/perk_zarobku.png)            |
 
 
 > [!TIP]
@@ -97,15 +97,15 @@ Jest to kolejna część Twojego wyposażenia, która jest bardzo istotna podcza
 
 Na trybie BoxPvP jest 7 skilli, które możesz zakupić, żeby ulepszyć swój ekwipunek:
 
-|     **Skill**     |                                      **Co robi?**                                       |
-|:-----------------:|:---------------------------------------------------------------------------------------:|
-|    Trujący Jad    |             ![skill_trujacy_jad.png](../assets/skybox/skill_trujacy_jad.png)            |
-|   Mroczna Mgła    |           ![skill_mroczna_mgla.png](../assets/skybox/skill_mroczna_mgla.png)            |
-|   Pajęcza Sieć    |           ![skill_pajecza_siec.png](../assets/skybox/skill_pajecza_siec.png)            |
-| Podmuch Powietrza |      ![skill_podmuch_powietrza.png](../assets/skybox/skill_podmuch_powietrza.png)       |
-|     Zew Krwi      |             ![skill_zew _krwi.png](../assets/skybox/skill_zew%20_krwi.png)              |
-|    Furia Zeusa    |            ![skill_furia_zeusa.png](../assets/skybox/skill_furia_zeusa.png)             |
-|  Elytra Blocker   |         ![skill_elytra_blocker.png](../assets/skybox/skill_elytra_blocker.png)          |
+|     **Skill**     |                                **Co robi?**                                |
+|:-----------------:|:--------------------------------------------------------------------------:|
+|    Trujący Jad    |       ![skill_trujacy_jad.png](/assets/skybox/skill_trujacy_jad.png)       |
+|   Mroczna Mgła    |      ![skill_mroczna_mgla.png](/assets/skybox/skill_mroczna_mgla.png)      |
+|   Pajęcza Sieć    |      ![skill_pajecza_siec.png](/assets/skybox/skill_pajecza_siec.png)      |
+| Podmuch Powietrza | ![skill_podmuch_powietrza.png](/assets/skybox/skill_podmuch_powietrza.png) |
+|     Zew Krwi      |        ![skill_zew _krwi.png](/assets/skybox/skill_zew%20_krwi.png)        |
+|    Furia Zeusa    |       ![skill_furia_zeusa.png](/assets/skybox/skill_furia_zeusa.png)       |
+|  Elytra Blocker   |    ![skill_elytra_blocker.png](/assets/skybox/skill_elytra_blocker.png)    |
 
 > [!TIP]
 > Waluta do zakupu skilli to "Serce Boss'a", które znajdziesz na Strefie Bez Elytr.
@@ -127,11 +127,11 @@ Na trybie SkyBox jest 12 różnych talizmanów do piątego poziomu, które pomog
 - Talizman Zaawansowanego Kopacza
 - Talizman KOKS Kopacza
 
-| Funkcja                             |                            Co robi?                             |
-|-------------------------------------|:---------------------------------------------------------------:|
-| [badge:Ulepsz swój talizman:purple] |  ![ulepsz_talizman.png](../assets/skybox/ulepsz_talizman.png)   |
-| [badge:Aktywne talizmany:blue]      |![aktywne_talizmany.png](../assets/skybox/aktywne_talizmany.png) |
-| [badge:Wylosuj talizman:primary]    |  ![wylosuj_talizman.png](../assets/skybox/wylosuj_talizman.png)  |
+| Funkcja                             |                            Co robi?                            |
+|-------------------------------------|:--------------------------------------------------------------:|
+| [badge:Ulepsz swój talizman:purple] |   ![ulepsz_talizman.png](/assets/skybox/ulepsz_talizman.png)   |
+| [badge:Aktywne talizmany:blue]      | ![aktywne_talizmany.png](/assets/skybox/aktywne_talizmany.png) |
+| [badge:Wylosuj talizman:primary]    |  ![wylosuj_talizman.png](/assets/skybox/wylosuj_talizman.png)  |
 
 > [!TIP]
 > Aby zdobyć talizmany, potrzebujesz "Karty Talizmanów", które możesz zdobyć poprzez: "Prestiż", "Za zabójstwa", "W skrzynkach KOKS/Szczęśliwa".
@@ -141,7 +141,7 @@ Na trybie SkyBox jest 12 różnych talizmanów do piątego poziomu, które pomog
 Market na serwerze rządzi się swoimi prawami. Ty oraz inni gracze ustalacie ceny przedmiotów! Serwer umożliwia handel na kilka
 sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie waluty. Jeżeli chcesz przeglądać oferty innych graczy wpisz komendę (`/market`).
 
-![market.png](../assets/skybox/market.png)
+![market.png](/assets/skybox/market.png)
 
 ### Przydatne komendy ekonomiczne
 
@@ -193,7 +193,7 @@ Zbierz grupkę przyjaciół i podbijajcie Strefe PVP, tworząc wasz wspólny kla
 
 Jest to część PVP tylko bez możliwości założenia elytry. Znajdziesz tam boxy z blokami, które możesz wykopać oraz zabijać bosa.
 
-![strefa_bez_elytr.png](../assets/skybox/strefa_bez_elytr.png)
+![strefa_bez_elytr.png](/assets/skybox/strefa_bez_elytr.png)
 
 > [!IMPORTANT]
 > Boss respi się tylko o godzinach: 16:00, 18:00, 19:00, 20:00 i 22:00, więc pilnuj zegara i szykuj się do walki!
@@ -208,8 +208,8 @@ Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`
 |:------------------------------------------|:--------------------:|:--------------------:|:-------------------:|:-----------------:|:------------------:|
 | Dostęp do wszystkich zestawów             |         TAK          |    MVIP/SVIP/VIP     |      SVIP/VIP       |        VIP        |       GRACZ        |  
 | Dostęp do Bezpiecznej Strefy              |      KOKS/MVIP       |      KOKS/MVIP       |      SVIP/VIP       |     SVIP/VIP      |       GRACZ        |
-| Codzienne darmowe klucze                  |         TAK          |         ❌          |          ❌          |         ❌         |         ❌          |
-| Możliwość wejścia na pełen serwer         |         TAK          |         TAK          |         ❌           |        ❌          |         ❌          |
+| Codzienne darmowe klucze                  |         TAK          |          ❌           |          ❌          |         ❌         |         ❌          |
+| Możliwość wejścia na pełen serwer         |         TAK          |         TAK          |          ❌          |         ❌         |         ❌          |
 | Prefix na czacie, obok nicku              |         TAK          |         TAK          |         TAK         |        TAK        |         ❌          |
 | Możliwość pisania na kolorowo             |         TAK          |         TAK          |          ❌          |        TAK        |         ❌          |
 | Szansa na podwójny blok z generatora/boxa |         50%          |         40%          |         30%         |        20%        |        10%         |
@@ -227,23 +227,23 @@ Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`
 
 Po zakupie kluczy otrzymasz specjalny klucz do danej skrzyni, z której możesz wylosować:
 
-|  **Rodzaj Skrzyni**  |                             **Zawartość**                              |
-|:--------------------:|:----------------------------------------------------------------------:|
-|  Magiczna skrzynia   |    ![magiczna_skrzynia.png](../assets/skybox/magiczna_skrzynia.png)    |
-|    KOKS skrzynia     |        ![koks_skrzynia.png](../assets/skybox/koks_skrzynia.png)        |
-| Szczęśliwa skrzynia  |  ![szczesliwa_skrzynia.png](../assets/skybox/szczesliwa_skrzynia.png)  |
-|  Skrzynia Boosterów  |   ![skrzynia_boosterow.png](../assets/skybox/skrzynia_boosterow.png)   |
-| Zwierzakowa skrzynia | ![zwierzakowa_skrzynia.png](../assets/skybox/zwierzakowa_skrzynia.png) |
+|  **Rodzaj Skrzyni**  |                            **Zawartość**                             |
+|:--------------------:|:--------------------------------------------------------------------:|
+|  Magiczna skrzynia   |    ![magiczna_skrzynia.png](/assets/skybox/magiczna_skrzynia.png)    |
+|    KOKS skrzynia     |        ![koks_skrzynia.png](/assets/skybox/koks_skrzynia.png)        |
+| Szczęśliwa skrzynia  |  ![szczesliwa_skrzynia.png](/assets/skybox/szczesliwa_skrzynia.png)  |
+|  Skrzynia Boosterów  |   ![skrzynia_boosterow.png](/assets/skybox/skrzynia_boosterow.png)   |
+| Zwierzakowa skrzynia | ![zwierzakowa_skrzynia.png](/assets/skybox/zwierzakowa_skrzynia.png) |
 
 ## Zestawy/Kity
 
-| Ranga                |                        Zestawy                         |
-|----------------------|:------------------------------------------------------:|
-| [badge:GRACZ:gray]   | ![zestaw_gracz.png](../assets/skybox/zestaw_gracz.png) |
-| [badge:VIP:green]    |   ![zestaw_vip.png](../assets/skybox/zestaw_vip.png)   |
-| [badge:SVIP:indigo]  |  ![zestaw_svip.png](../assets/skybox/zestaw_svip.png)  |
-| [badge:MVIP:emerald] |  ![zestaw_mvip.png](../assets/skybox/zestaw_mvip.png)  |
-| [badge:KOKS:primary] |  ![zestaw_koks.png](../assets/skybox/zestaw_koks.png)  |
+| Ranga                |                       Zestawy                        |
+|----------------------|:----------------------------------------------------:|
+| [badge:GRACZ:gray]   | ![zestaw_gracz.png](/assets/skybox/zestaw_gracz.png) |
+| [badge:VIP:green]    |   ![zestaw_vip.png](/assets/skybox/zestaw_vip.png)   |
+| [badge:SVIP:indigo]  |  ![zestaw_svip.png](/assets/skybox/zestaw_svip.png)  |
+| [badge:MVIP:emerald] |  ![zestaw_mvip.png](/assets/skybox/zestaw_mvip.png)  |
+| [badge:KOKS:primary] |  ![zestaw_koks.png](/assets/skybox/zestaw_koks.png)  |
 
 ### Najważniejsze komendy
 
