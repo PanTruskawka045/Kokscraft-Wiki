@@ -8,7 +8,7 @@ Tryb ChestPvP [badge:1.19.4 - 1.21.8:yellow] jest to dynamiczne pole walki, na k
 
 ## Jak zacząć?
 
-Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie większego rankingu i zbieranie pieniędzy. Zbierz swoich przyjaciół i stawajcie do walki z innymi graczami. Twoja gra rozpoczynma się z podstawowym wyposażeniem, w które wchodzi:
+Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie większego rankingu i zbieranie pieniędzy. Zbierz swoich przyjaciół i stawajcie do walki z innymi graczami. Twoja gra rozpoczyna się z podstawowym wyposażeniem, w które wchodzi:
 
 - Żelazny miecz
 - Żelazna zbroja
@@ -37,6 +37,12 @@ Jeżeli chcesz szybciej przedostać się do poszczególnych lokacji na mapie, mo
 
 ![warpy.png](../assets/chestpvp/warpy.png)
 
+## Osiągnięcia
+
+Po osiągnieciu danego celu możesz otrzymać potrzebne przedmioty, musisz użyć komendy (`/osiagniecia`).
+
+![osiagniecia.png](../assets/chestpvp/osiagniecia.png)
+
 ## Perki
 
 Jest to część Twojego wyposażenia, która jest bardzo istotna podczas normalnej rozgrywki, im wyższy poziom danego perka, tym większa przewaga nad drugim graczem. 
@@ -45,7 +51,7 @@ Jest to część Twojego wyposażenia, która jest bardzo istotna podczas normal
 
 ## Talizmany
 
-Na trybie ChestPvP jest 4 różnych talizmanów, które pomogą Tobie podczas ulepszania Twojego ekwipunku:
+Na trybie ChestPvP jest 4 różnych talizmanów do piątego poziomu, które pomogą Tobie podczas ulepszania Twojego ekwipunku:
 
 - Talizman Zdrowia 
 - Talizman Ochrony
@@ -55,12 +61,22 @@ Na trybie ChestPvP jest 4 różnych talizmanów, które pomogą Tobie podczas ul
 > [!TIP]
 > Wszystkie talizmany możesz zdobyć, otwierając skrzynkę: Magiczną, KOKS lub Szczęśliwą.
 
+## Codzienna nagroda
+
+Loguj się codziennie i zgarniaj nagrody! Z każdym dniem nagroda jest jeszcze lepsza!
+
+![codzienna_nagroda.png](../assets/chestpvp/codzienna_nagroda.png)
+
 ## Ochrona
 
 Dzięki niej możesz na spokojnie zapoznać się z mapą lub zbierać itemy ze skrzynek.
 
 > [!IMPORTANT]
 > Trwa ona tylko 10 minut oraz możesz ją odbierać raz na 16 godzin.
+
+## Klan
+
+Zbierz grupkę przyjaciół i podbijajcie Strefe PVP, tworząc wasz wspólny klan.
 
 ## Drop
 
@@ -76,6 +92,8 @@ Na trybie ChestPvP są 3 różne dropy, które dadzą Tobie przewagę nad innymi
 
 Market na serwerze rządzi się swoimi prawami. Ty oraz inni gracze ustalacie ceny przedmiotów! Serwer umożliwia handel na kilka
 sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie waluty.
+
+![market.png](../assets/chestpvp/market.png)
 
 ### Przydatne komendy ekonomiczne
 
@@ -120,12 +138,12 @@ Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`
 Po zakupie kluczy z naszej strony otrzymasz specjalny klucz do danej skrzyni, z której możesz wylosować:
 
 
-|                  **Rodzaj Skrzyni**                   |                                        **Zawartość**                                        |
-|:-----------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-|                   Magiczna skrzynia                   |             ![skrzynia_magiczna.png](../assets/chestpvp/skrzynia_magiczna.png)              |
-|                     KOKS skrzynia                     |                 ![skrzynia_KOKS.png](../assets/chestpvp/skrzynia_KOKS.png)                  |
-|                  Szczęśliwa skrzynia                  |           ![skrzynia_szczesliwa.png](../assets/chestpvp/skrzynia_szczesliwa.png)            |
-|                 Zwierzakowa skrzynia                  |          ![skrzyania_zwierzat.png](../assets/chestpvp/skrzyania_zwierzat.png)               |
+|                  **Rodzaj Skrzyni**                   |                               **Zawartość**                               |
+|:-----------------------------------------------------:|:-------------------------------------------------------------------------:|
+|                   Magiczna skrzynia                   |    ![skrzynia_magiczna.png](../assets/chestpvp/skrzynia_magiczna.png)     |
+|                     KOKS skrzynia                     | ![skrzynia_KOKS.png](../assets/chestpvp/skrzynia_KOKS.png)                |
+|                  Szczęśliwa skrzynia                  |  ![skrzynia_szczesliwa.png](../assets/chestpvp/skrzynia_szczesliwa.png)   |
+|                 Zwierzakowa skrzynia                  |   ![skrzyania_zwierzat.png](../assets/chestpvp/skrzyania_zwierzat.png)    |
 
 
 

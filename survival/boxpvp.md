@@ -23,7 +23,7 @@ Do **Villagerów Ze Zbrojami** można się przeteleportować za pomocą **/warp*
 
 ![sety](/assets/boxpvp/boxpvp-sety.png)
 
-## NPC Z Przydatnymi i Specjalnymi Przedmiotami
+## NPC Z Przydatnymi i Specjalnymi Przedmiotam
 
 Tych **Dwoje Villagerów** można uznać jako jedni z **Najważniejszych**. 
 
