@@ -1,6 +1,10 @@
 # Modyfikacje
 
-Ostatnia aktualizacja: 14.11.2025
+> [!NOTE]
+> Ostatnia aktualizacja: 10.01.2026.
+
+> [!WARNING]
+> Poniższe wszystkie informacje nie dotyczą trybu RUST.
 
 ## 1. Ogólne informacje.
 
@@ -12,34 +16,31 @@ Ostatnia aktualizacja: 14.11.2025
 ## 2. Pozostałe rzeczy ingerujące w grę.
 
 **2.1 -** Kategorycznie zabrania się altowania, niezależnie od sposobu jego wykonania. Nie dotyczy to lobby serwerowego.
-**2.2 -** Na wszystkich trybach z wyjątkiem SV+DZIAŁKI, dozwolone są skrypty/tinytaski lub inne programy, które służą tylko i wyłącznie do odtwarzania nagranych ruchów/czynności.
+**2.2 -** Na wszystkich trybach z wyjątkiem SV+DZIAŁKI, dozwolone są skrypty/tinytaski lub inne programy (nie mody!), które służą tylko i wyłącznie do odtwarzania nagranych ruchów/czynności.
 
 ## 3. Launchery i Clienty.
 
 **3.1 -** Oficjalnie wspieramy rozgrywkę tylko na Vanilla (czystej niemodyfikowanej wersji minecrafta) oraz Forge i Fabric, o ile te zawierają dozwolone mody.
-**3.2 -** Korzystanie z podejrzanych launcherów, może się wiązać z niechcianą ingerencją w grę oraz złośliwym oprogramowaniem na komputerze.
-**3.3 -** Nie posiadamy na obecny moment listy dozwolonych clientów. Każdy może potencjalnie wpływać na rozgrywkę, przez jego modyfikacje. Należy mieć na uwadze, że w związku z tym mogą się zdarzyć sytuacje otrzymania kary z winy clienta (od systemu AntyCheat) - takie bany nie są ściągane, ze względu na brak możliwości weryfikacji, co było faktycznym powodem bana.
+**3.2 -** Korzystanie z podejrzanych nieoficjalnych launcherów minecrafta, może się wiązać z niechcianą ingerencją w grę oraz złośliwym oprogramowaniem na komputerze.
+**3.3 -** Należy mieć na uwadze, że samo używanie niektórych clientów, może być przyczyną niesłusznych kar od administracji lub systemu AntiCheat. Takie bany **nie są zdejmowane**, ponieważ nie są spowodowane winą serwera, a my nie mamy możliwości weryfikacji, czy powodem był błąd clienta, czy cheaty. Stosowanie się do punktów 3.1 i 3.2 wyklucza szansę na bana z winy clienta.
+**3.4 -** Poniżej znajduje się lista clientów, na których najczęściej zdarzają się opisane w punkcie 3.3 problemy:
+- Salwyrr Client
+- Silent Client
+- CMCLIENT
 
-## 4. Modyfikacje.
+## 4. Niedozwolone modyfikacje.
 
-**4.1 -** Opis słowny:
-- Zabrania się korzystania z modów, które:
-  • pokazują u innych graczy enchanty, ich poziomy i ilość posiadanych itemów (dotyczy to również texturepacków),
-  • podświetlają za ścianą innych graczy, skrzynki, piecyki, rudy itd. (dotyczy to również przeźroczystych texturepacków),
-  • ingerują w ekwipunek podczas poruszania się,
-  • minimap, które pokazują jaskinie, graczy lub moby,
-  • pokazują zawartość całego ekwipunku (nie dotyczy trybów: skygen/skybox/boxpvp/kokssmp/działki),
-  • ukrywają widoczność posiadanego clienta, 
-  • oszukują aktualną wersję gry,
-  • dają jakąkolwiek przewagę w rozgrywce.
+[red/]Zabrania się[/red] korzystania z modów, które:
+- pokazują u innych graczy enchanty, ich poziomy i ilość posiadanych itemów (dotyczy to również texturepacków),
+- podświetlają za ścianą innych graczy, skrzynki, piecyki, rudy itd. (dotyczy to również przeźroczystych texturepacków),
+- ingerują w ekwipunek podczas poruszania się,
+- minimap, które pokazują jaskinie, graczy lub moby,
+- pokazują zawartość całego ekwipunku`*`,
+- ukrywają widoczność posiadanego clienta, 
+- oszukują aktualną wersję gry,
+- dają jakąkolwiek przewagę w rozgrywce.
 
-- Pozwala się na korzystanie z modów, które:
-  • pokazują serca innych graczy lub mobów,
-  • pokazują aktualne zużycie założonej zbroi,
-  • zawierają informacje o grze pomocne w rozgrywce, np. receptury,
-  • służą optymalizacji gry.
-
-**4.2 -** Pomocna lista niedozwolonych modyfikacji, po nazwie:
+Pomocna lista [red/]niedozwolonych[/red] modyfikacji, po nazwie:
 - Accurate Block Placement
 - Auto Totem
 - Inventory Move
@@ -53,9 +54,19 @@ Ostatnia aktualizacja: 14.11.2025
 - ViaForge
 - ViaFabric
 - XRay
-- Inventory Hud+ (nie dotyczy trybów: skygen/skybox/boxpvp/kokssmp/działki)
+- Inventory Hud+`*`
 
-**4.3 -** Pomocna lista dozwolonych modyfikacji, po nazwie:
+`*` - Nie dotyczy trybów: skygen/skybox/boxpvp/kokssmp/sv+działki.
+
+## 5. Dozwolone modyfikacje.
+
+[green/]Pozwala się[/green] na korzystanie z modów, które:
+- pokazują serca innych graczy lub mobów,
+- pokazują aktualne zużycie założonej zbroi,
+- zawierają informacje o grze pomocne w rozgrywce, np. receptury,
+- służą optymalizacji gry.
+
+Pomocna lista [green/]dozwolonych[/green] modyfikacji, po nazwie:
 - Smooth Swapping
 - Health Indicator
 - Just Enough Items (JEI)
