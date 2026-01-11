@@ -1,12 +1,12 @@
 # Regulamin Minecraft
 
-> [!WARNING]
-> Regulamin nie obowiązuje na trybie RUST.
-
 > [!NOTE]
 > Ostatnia aktualizacja: 10.01.2026.
 
-## 1. Postanowienia Ogólne
+> [!WARNING]
+> Regulamin nie obowiązuje na trybie RUST.
+
+## 1. Postanowienia ogólne
 
 **1.1 -** Administracja nie ponosi prawnych konsekwencji za działania użytkowników, które grożą odpowiedzialnością cywilną lub karną.
 **1.2 -** Działania niezgodne z Konstytucją Rzeczypospolitej Polski, rozporządzaniem o ochronie danych osobowych RODO, Kodeksem Karnym, lub Cywilnym będą skutkowały nadaniem natychmiastowego bana na konto.
@@ -61,8 +61,8 @@
 
 ## 5. Zasady czatu tekstowego i rozgrywki - tryby minigames
 
-**5.1.1 -** Reklamować własną twórczość z serwera poprzez nazwy profili z mediów społecznościowych mogą tylko użytkownicy posiadający rangę CEO, PARTNER, MEDIA i KOKS.
-**5.1.2 -** Reklama wysyłana przez rangę KOKS nie może być natarczywa. Pozwala się na jedną wiadomość na około 5 minut.
+**5.1.1 -** Reklamować własną twórczość z serwera poprzez nazwy profili z mediów społecznościowych mogą tylko użytkownicy posiadający rangę [badge:CEO:red], [badge:PARTNER:purple], [badge:MEDIA:blue] i [badge:KOKS:primary].
+**5.1.2 -** Reklama wysyłana przez rangę [badge:KOKS:primary] nie może być natarczywa. Pozwala się na jedną wiadomość na około 5 minut.
 **5.2 -** Zabrania się stosowania jakichkolwiek form nienawiści do przeciwnika i innych graczy.
 **5.3 -** Zabrania się celowego przedłużania gry.
 **5.4 -** Zabrania się trolowania/utrudniania gry lub sabotowania swojej drużyny.
@@ -77,6 +77,7 @@
 - nabijania punktów/rankingu/zabójstw/topki,
 - przerzucania itemów z konto na konto w celu odebrania osiągnięć lub wygrywania eventów na danym koncie,
 - odbierania darmowych nagród i przerzucania ich na inne konto.
+
 **6.3.1 -** Backup itemów jest nadawany tylko w przypadku śmierci przez cheatera lub z winy serwera.
 **6.3.2 -** W celu otrzymania backupa wymagany jest clip z momentu śmierci udowadniający jedną z podanych przyczyn z punktu 6.3.1.
 **6.3.3 -** Termin ubiegania się o backupa wynosi 3 dni, licząc od momentu śmierci.
