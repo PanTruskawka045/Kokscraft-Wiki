@@ -4,7 +4,7 @@
 > Ostatnia aktualizacja: 10.01.2026.
 
 > [!WARNING]
-> Poniższe informacje nie dotyczą trybu RUST.
+> Poniższe wszystkie informacje nie dotyczą trybu RUST.
 
 ## 1. Ogólne informacje.
 
@@ -22,8 +22,7 @@
 
 **3.1 -** Oficjalnie wspieramy rozgrywkę tylko na Vanilla (czystej niemodyfikowanej wersji minecrafta) oraz Forge i Fabric, o ile te zawierają dozwolone mody.
 **3.2 -** Korzystanie z podejrzanych nieoficjalnych launcherów minecrafta, może się wiązać z niechcianą ingerencją w grę oraz złośliwym oprogramowaniem na komputerze.
-**3.3 -** Należy mieć na uwadze, że samo używanie niektórych clientów, może być przyczyną niesłusznych kar od administracji lub systemu AntiCheat. Takie bany **nie są zdejmowane**, ponieważ
-nie są spowodowane winą serwera, a my nie mamy możliwości weryfikacji, czy powodem był błąd clienta, czy cheaty. Stosowanie się do punktów 3.1 i 3.2 wyklucza szansę na bana z winy clienta.
+**3.3 -** Należy mieć na uwadze, że samo używanie niektórych clientów, może być przyczyną niesłusznych kar od administracji lub systemu AntiCheat. Takie bany **nie są zdejmowane**, ponieważ nie są spowodowane winą serwera, a my nie mamy możliwości weryfikacji, czy powodem był błąd clienta, czy cheaty. Stosowanie się do punktów 3.1 i 3.2 wyklucza szansę na bana z winy clienta.
 **3.4 -** Poniżej znajduje się lista clientów, na których najczęściej zdarzają się opisane w punkcie 3.3 problemy:
 - Salwyrr Client
 - Silent Client

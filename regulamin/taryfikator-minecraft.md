@@ -1,10 +1,10 @@
 # Taryfikator Minecraft
 
-> [!WARNING]
-> Taryfikator nie obowiązuje na trybie RUST.
-
 > [!NOTE]
 > Ostatnia aktualizacja: 10.01.2026.
+
+> [!WARNING]
+> Taryfikator nie obowiązuje na trybie RUST.
 
 ## Zasady ogólne serwera
 
