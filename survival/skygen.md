@@ -1,134 +1,276 @@
-# Skygen
-Tryb polega na ulepszaniu swojego ekwipunku i wzbogacaniu się, aby stać się najlepszym graczem na serwerze.
+# SkyGen
 
-## Surowce
-Surowce mozna pozyskac poprzez stanie na generatorze, surowce mozesz za walute seerwerowa pod /gornik lub wlaczyc automatyczne sprzedawanie pod /ustaw
+Tryb SkyGen [badge:1.19.4 - 1. 21.8:yellow] jest to podniebna walka z innymi graczami, musisz zbierać bloki z generatorów, żeby ulepszać swój ekwipunek.
 
-![skygen](/assets/skygen/surowce.png)
+![spawn_nonpvp.png](../assets/skygen/spawn_nonpvp.png)
 
-## Bonusowe Bloki
-Bonusowe Bloki mozesz pozyskac z generatorow surowcow sa one bardziej wartosciowe gdy stoisz np nageneratorze diamentow wypadaja ci co nieokreslona ilosc czasu bloki szmaragdu
+![strefapvp.png](../assets/skygen/strefapvp.png)
 
-![skygen](/assets/skygen/bonusowebloki.png)
+## Jak zacząć?
 
-## Strefa Leczenia
-W momencie, kiedy skończyłeś już walkę, a chciałbyś się Szybko uleczyć, masz taką możliwość na spawnie stając w Strefie Leczenia znajduję się ona przed wyjściem na Arene PVP.
+Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie coraz większego rankingu i zarabianie pieniędzy. Zbierz swoich przyjaciół i stawajcie do walki z innymi graczami. Twoja gra rozpoczyna się z podstawowym wyposażeniem, w które wchodzi:
 
-![skygen](/assets/skygen/2024-11-30_01.27.51.png)
+- 16x Ziemi
+- 32x mięska
 
-## Bossy 
-Na trybie występują bossy, z których dropią serca, za które możesz kupić skile, kule precyzji, karty talizmanow  pojawiają się one w nastepujacych godzinach 12:00, 14:00, 16:00, 18:00, 19:00, 20:00, 22:00, 23:00.
+![startowe_itemy.png](../assets/skygen/startowe_itemy.png)
 
-![skygen](/assets/skygen/bosik.png)
+> [!TIP]
+> Na sam początek zaopatrz się w "Początkowy set" stojąc na generatorach przed czerwoną linią.
+> Zerknij pod (`/rozgrywka`), przyda się podczas Twojej rozgrywki!
 
-## Strefa afk
-Odpoczywaj w tym miejscu, przy okazji zgarniając Klucze do Skrzyni AFK!
+## Spawn
 
-![skygen](/assets/skygen/strefaafk.png)
+Jest to główne miejsce Twojej przygody na trybie SkyGen. Tutaj znajdziesz wszystkie potrzebne lokalizacje:
 
-## Skrzynki
-Na spawnie znajdują się skrzynki, do których klucze można pozyskać ze strefy afk, eventów, klucze można zdobyć również poprzez zakup ich na stronie kokscraft.pl
+* Topki.
+* Skrzynki.
+* Strefe AFK.
+* Rynek z NPC'tami.
 
+> [!CAUTION]
+> Spawn jest bezpieczną strefą (Non-PvP), jeżeli wyjdziesz za czerwoną linię, to już znajdziesz się w strefie PVP, gdzie gracze moga ze sobą walczyć. Uważaj na siebie!
+
+## Osiągnięcia
+
+Po osiągnięciu danego celu możesz otrzymać za nie nagrody. W celu otwarcia menu osiągnięć wpisz komendę  (`/osiagniecia`).
+
+![osiagniecia.png](../assets/skygen/osiagniecia.png)
+
+## Zwoje
+
+Na SkyGen są 5 zwoi, które mogą Tobie pomóc podczas rozgrywki:
+
+| **Skill** |                        **Co robi?**                        |
+|:---------:|:----------------------------------------------------------:|
+|  Naprawy  |   ![zwoj_naprawy.png](../assets/skybox/zwoj_naprawy.png)   |
+| Zwinności | ![zwoj_zwinnosci.png](../assets/skybox/zwoj_zwinnosci.png) |
+|   Życia   |     ![zwoj_zycia.png](../assets/skybox/zwoj_zycia.png)     |
+| Dominacji | ![zwoj_dominacji.png](../assets/skybox/zwoj_dominacji.png) |
+| Szczęścia | ![zwoj_szczescia.png](../assets/skygen/zwoj_szczescia.png) |
+
+## Codzienna nagroda i Codzienne zadania
+
+Loguj się codziennie i zgarniaj nagrody! Z każdym dniem nagroda jest jeszcze lepsza! Wbij i sam się przekonaj! Jeśli chcesz otworzyć menu Codziennych nagrów wpisz (`/codzienna`).
+
+![codzienna_nagroda.png](../assets/skygen/codzienna_nagroda.png)
+
+Od 5 poziomu na SkyGen, możesz codziennie robić zadania i zgarniać za nie nagrody!
+
+## Perki
+
+Jest to część Twojego wyposażenia, która jest bardzo istotna podczas rozgrywki, im wyższy poziom danego perka, tym większa przewaga nad drugim graczem. W celu otwarcia menu perków użyj komendy (`/perk` lub `/szaman`).
+
+|        **Perk**         |                       **Co robi?**                       |
+|:-----------------------:|:--------------------------------------------------------:|
+|         Obrażeń         |  ![perk_obrazen.png](../assets/skygen/perk_obrazen.png)  |
+|         Ochrony         |  ![perk_ochrony.png](../assets/skygen/perk_ochrony.png)  |
+|        Rankingu         | ![perk_rankingu.png](../assets/skygen/perk_rankingu.png) |
+|         Zdrowia         |  ![perk_zdrowia.png](../assets/skygen/perk_zdrowia.png)  |
+|          Dropu          |    ![perk_dropu.png](../assets/skygen/perk_dropu.png)    |
+|          Dusz           |     ![perk_dusz.png](../assets/skygen/perk_dusz.png)     |
+|         Zarobku         |  ![perk_zarobku.png](../assets/skygen/perk_zarobku.png)  |
+
+> [!TIP]
+> Żeby zdobyć dusze, to musisz zabijać innych graczy.
 
 ## Skille
-Na skygenie znajdują się specjalne przedmioty takie jak talizmany i skile, które ułatwią ci rozgrywkę. Możesz je zdobyc u villagerów na spawnie, zeby naprawic skilla potrzebujesz 64 odłamków czasu i 5000 waluty serwerowej.
 
-Skille w zależności od poziomu mają swoją ilość użyć tak jak jest to rozpisane poniżej
-- Zew krwi: 10, 15, 25, 35, 50
-- Mroczna mgła: 15, 20, 30, 45, 60
-- Elytra blocker: 10, 15, 25, 35, 50
-- Furia zeusa: 10, 15, 25, 35, 50
-- Trujący jad: 10, 20, 30, 45, 60
-- Podmuch powietrza: 10, 15, 25, 35, 50
-- sieć: 15, 20, 30, 45, 60
+Jest to kolejna część Twojego wyposażenia, która jest bardzo istotna podczas dynamicznej rozgrywki. Im więcej ulepszonych skilli zakupisz, tym silniejszy będziesz od innych graczy. W celu otwarcia menu skilli wpisz komendę (`/skille`).
 
-![skygen](/assets/skygen/skille.png)
+Na trybie SkyGen jest 7 skilli, które możesz zakupić, żeby ulepszyć swój ekwipunek:
+
+|     **Skill**     |                                 **Co robi?**                                 |
+|:-----------------:|:----------------------------------------------------------------------------:|
+|    Trujący Jad    |       ![skill_trujacy_jad.png](../assets/skygen/skill_trujacy_jad.png)       |
+|   Mroczna Mgła    |      ![skill_mroczna_mgla.png](../assets/skygen/skill_mroczna_mgla.png)      |
+|   Pajęcza Sieć    |      ![skill_pajecza_siec.png](../assets/skygen/skill_pajecza_siec.png)      |
+| Podmuch Powietrza | ![skill_podmuch_powietrza.png](../assets/skygen/skill_podmuch_powietrza.png) |
+|     Zew Krwi      |        ![skill_zew _krwi.png](../assets/skygen/skill_zew%20_krwi.png)        |
+|    Furia Zeusa    |       ![skill_furia_zeusa.png](../assets/skygen/skill_furia_zeusa.png)       |
+|  Elytra Blocker   |    ![skill_elytra_blocker.png](../assets/skygen/skill_elytra_blocker.png)    |
+
+> [!TIP]
+> Zbieraj "Magiczne Grzyby" wykorzystasz je do ulepszania skilli oraz talizmanów
 
 ## Talizmany
-Na serwerze dostepne sa talizmany które ułatwią ci rozgrywkę. Żeby zdobyc talizman potrzebujesz karty talizmanu, mozesz ja zdobyc z /osiagniecia lub z bossa
 
-Na ten moment dostępne są następujące talizmany:
+Na trybie SkyBox jest 9 różnych talizmanów do piątego poziomu, które pomogą Tobie podczas ulepszania Twojego ekwipunku. Jeżeli chcesz otworzyć menu talizmanów, wpisz komendę (`/talizmany`):
 
-- talizamn skoku
-- talizman ochrony
-- talizman poczatkujacego zbieracza 
-- talizman sily
-- talizman szybkosci
-- talizman zdrowia
-- talizman zaawansowanego zbieracza
+- Talizman Zdrowia
+- Talizman Ochrony
+- Talizman Siły
+- Talizman Szybkości
+- Talizman Skoku
+- Talizman Doświadczenia
+- Talizman Początkującego Zbieracza
+- Talizman Zaawansowanego Zbieracza
+- Talizman KOKS Zbieracza
 
-## Eventy
-Podczas rozgrywki na trybie występują eventy, za które otrzemuje się klucze do skrzynek.
+| Funkcja                             |                             Co robi?                             |
+|-------------------------------------|:----------------------------------------------------------------:|
+| [badge:Ulepsz swój talizman:purple] |   ![ulepsz_talizman.png](../assets/skygen/ulepsz_talizman.png)   |
+| [badge:Aktywne talizmany:blue]      | ![aktywne_talizmany.png](../assets/skygen/aktywne_talizmany.png) |
+| [badge:Wylosuj talizman:primary]    |  ![wylosuj_talizman.png](../assets/skygen/wylosuj_talizman.png)  |
 
-| Miejsce |     Nagroda      |
-|:-------:|:----------------:|
-|    1    |  2 koks klucze   |
-|    2    |   1 koks klucz   |
-|    3    | 2 magiczny klucz |
-
-![skygen](/assets/skygen/evencik.png)
-
-## Genboosty
-Na serwerze występują dwa rodzaje genboostów globalne i indywidualne. Genboosty możesz zdobywać poprzez otwieranie skrzynek, osiągnięcia lub poprzez kupienie ich pod komendą /sklep. Genboosty mnożą bloki wypadające z generatorów potrzebnych do ulepszania zbroi.
-
-| **x2** | **x3** | **x5** | **x10** |
-|--------|--------|--------|---------|
-| 5min   | 5min   | 5min   | 5min    |
-| -          | -           | 10min  | -       |
-
-
-![skygen](/assets/skygen/genboost.png)
-
-
-## Xpboosty
-Xpboosty występują tylko w postaci indywidualnej, można zdobyć je poprzez otwieranie skrzynek lub przez /osiągnięcia. Xpoosty jak nazwa wskazuje, mnożą zdobyty exp.
-
-![skygen](/assets/skygen/xpboost.png)
-
-| **x2** | **X3**|
-|--------|---------|
-| 5min   | -           |
-| 15min  | 15min|
-| 30min  | -         |
-
-## Aktualizacje
-Wszystkie aktualizacje, jakie wchodzą, na tryb Skygen są opisane na dc.kokscraft.pl albo można zobaczyć pokrótce opisane na spawnie.
-
-![skygen](/assets/skygen/Aktualizacje.png)
-
-
-## Najważniejsze komendy
-- /klan - Lista komend klanowych
-- /ch - Zmiana kanału trybu
-- /cc - Ustawienia czatu
-- /osiagniecia - Nagrody za osiągnięcia
-- /kit - Zestawy
-- /ulepsz - Ulepszanie uzbrojenia
-- /warp - Lista warpów
-- /topki - Topki serwerowe
-- /gamma - Włączenie/wyłączenie światła
-- /wymiana [nick] - Wymiana z graczem
-- /profil [nick] - Profil gracza
-- /rangi - Informacje o rangach
-- /wyplac [kwota] - Wypłacenie $ w postaci Czeku
-- /afk - Informacje o Strefie AFK
-- /pay [nick] [kwota] - Wysyłanie $
-- /zwoje - Lista dostępnych zwojów
-- /prestiz - Ulepszenia prestiżu oraz nagrody
-- /ustawienia - Zarządzanie automatyczną sprzedażą 
-
-## Rangi
-Na serwerze znajduja sie rangi premium ktore mozesz zdobyc poprzez otwieranie skrzyn lub zakupienie ich na stronie kokscraft.pl
-
-
-## Kowal
-Kowal to npc w ktorym mozesz nalozyc custom enchant na zbroje/miecz lub uzyc kule precyzji na mieczu
-
-![skygen](/assets/skygen/kowal.png)
-
+> [!TIP]
+> Aby zdobyć talizmany, potrzebujesz "Karty Talizmanów", które możesz zdobyć poprzez otwieranie skrzynek KOKS i Szczęśliwych.
 
 ## Market
-Market można otworzyć przy pomocy komendy /market to miejsce, gdzie możesz sprzedać lub kupić przedmioty od innych graczy. Klikając w enderchesta po lewej stronie można zobaczyć swoje oferty, jeżeli przedmiot został sprzedany wystarczy na niego kliknąć, natomiast jeżeli klikniemy w kowadło po prawej stronie będzie można otworzyć kategorie itemów, jakich szukamy.
 
-![skygen](/assets/skygen/market.png)
+Market na serwerze rządzi się swoimi prawami. Ty oraz inni gracze ustalacie ceny przedmiotów! Serwer umożliwia handel na kilka
+sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie waluty. Jeżeli chcesz przeglądać oferty innych graczy wpisz komendę (`/market`).
+
+![market.png](../assets/skygen/market.png)
+
+### Przydatne komendy ekonomiczne
+
+- `/market` - otwiera menu sortowania marketu.
+- `/market wystaw <cena>` - wystawia dany przedmiot, który trzymasz w prawej ręce na 72h.
+- `/wyplac <kwota>` - tworzy fizyczny czek pieniędzy (minimalna stawka to 500$).
+- `/wymiana <nick>` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
+
+> [!TIP]
+> Jeśli Twój przyjaciel potrzebuje pieniędzy, możesz mu je przelać używając komendy (`/pay <nick> <kwota>`).
+ > Gdy chcesz otrzymać pieniądze ze sprzedanych przedmiotów, wpisz (`/market) i potem kliknij enderchesta w lewym dolnym rogu!
+
+## Sklep
+
+Są 3 rodzaje sklepów na SkyGen, aby otworzyć jego menu, wpisz komendę (`/sklep`):
+
+- Sklep za Spędzony Czas (GENBOOST 2X 15min Indywidualny, GENBOOST 5x 5min Indywidualny, KOKS Klucz 1x, VOUCHER NA RANGE VIP 30 dni, Odłamek Czasu).
+- Sklep za Coiny (Rakieta 1-3, Plaster Miodu, Strzała, Magiczny Grzyb)
+- Sklep za Zabójstwa (Zwój Dominacji, Zwój Życia, Zwój Szczęścia, Zwój Zwinności, Kula Precyzji, Serce Boss'a, Odłamek Zwierzakowego Klucza)
+
+## Klan
+
+Zbierz grupkę przyjaciół i podbijajcie Strefe PVP, tworząc wasz wspólny klan.
+
+### Przydatne komendy klanowe
+
+- `/klan` - lista klanowych komend.
+- `/klan zaloz <tag> <nazwa>` - tworzy klan.
+- `/klan usun` - usuwa klan.
+- `/klan zapros <nick>` - zaprasza danego gracza do klanu.
+- `/klan wyrzuc <nick>` - wyrzuca danego gracza z klanu.
+- `/klan dolacz <tag>` - dołącza do klanu.
+- `/klan zastepca <nick>` - zarządzanie zastępcami w klanie.
+- `/klan info <tag>` - informacje o danym klanie.
+- `/klan pvp` - zarządzanie PVP w klanie.
+- `/klan ulepszenie` - Otwiera panel z ulepszeniami.
+- `/klan chat <wiadomosc>` - pisanie z członkami klanu.
+- `!<wiadomosc>` - szybsza forma pisania z członkami klanu.
+
+## Ranki i klucze
+
+Na naszej stronie znajdziesz do kupienia rangi oraz klucze, które mogą przyśpieszyć rozwijanie Twojego ekwipunku: [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/skygen).
+
+Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`/kit`).
+
+| UPRAWNIENIA                                   | [badge:KOKS:primary] | [badge:MVIP:emerald] | [badge:SVIP:indigo]  | [badge:VIP:green] | [badge:GRACZ:gray]  |
+|:----------------------------------------------|:--------------------:|:--------------------:|:--------------------:|:-----------------:|:-------------------:|
+| Dostęp do wszystkich zestawów                 |         TAK          |    MVIP/SVIP/VIP     |       SVIP/VIP       |        VIP        |        GRACZ        |  
+| Codzienne darmowe klucze                      |         TAK          |          ❌          |          ❌          |         ❌         |          ❌       |
+| Możliwość wejścia na pełen serwer             |         TAK          |         TAK          |         TAK          |        TAK        |          ❌         |
+| Prefix na czacie, obok nicku                  |         TAK          |         TAK          |         TAK          |        TAK        |          ❌         |
+| Możliwość pisania na kolorowo                 |         TAK          |         TAK          |          ❌          |         ❌         |          ❌       |
+| Szansa na dodatkowy blok z generatora         |         40%          |         30%          |         20%          |        20%        |         10%         |
+| Zwiększony limit ofert w markecie do          |          30          |          20          |          15          |        10         |          5          |
+| Zwiększony limit graczy w klanie do           |          50          |          40          |          30          |        20         |         15          |
+| Zwiększony limit enderchestów do              |          7           |          6           |          4           |         2         |          1          |
+| Szansa na losowy blok z Strefy AFK            |    Co 30s 1x 3-7✩    |    Co 40s 1x 2-6✩    |    Co 50s 1x 1-5✩    |  Co 55s 1x 1-4✩   |  Co 60s 1x 1-3✩   | 
+| Szansa na losowy utwardzony blok z Strefy AFK | Co 15m 1x 1-7✩ (25%) | Co 15m 1x 1-6✩ (20%) | Co 15m 1x 1-5✩ (15%) | Co 15m 1-4✩ (10%) | Co 15m 1x 1-3✩ (5%)|
+| Szansa na Klucz do skrzyni AFK                |         50%          |         40%          |         30%          |        20%        |         10%         |
+| Dostęp do komendy `/ec`                       |         TAK          |         TAK          |          ❌           |         ❌         |          ❌      |
+| Dostęp do komendy `/incognito`                |         TAK          |         TAK          |         TAK          |        TAK        |         TAK         |
+| Dostęp do komendy `/glow`                     |         TAK          |          ❌           |          ❌           |         ❌         |          ❌     |
+
+## Skrzynki
+
+Po zakupie kluczy otrzymasz specjalny klucz do danej skrzyni, z której możesz wylosować:
+
+|  **Rodzaj Skrzyni**  |                             **Zawartość**                              |
+|:--------------------:|:----------------------------------------------------------------------:|
+|  Magiczna skrzynia   |    ![magiczna_skrzynia.png](../assets/skygen/magiczna_skrzynia.png)    |
+|    KOKS skrzynia     |        ![koks_skrzynia.png](../assets/skygen/koks_skrzynia.png)        |
+| Szczęśliwa skrzynia  |  ![szczesliwa_skrzynia.png](../assets/skygen/szczesliwa_skrzynia.png)  |
+| Zwierzakowa skrzynia | ![zwierzakowa_skrzynia.png](../assets/skygen/zwierzakowa_skrzynia.png) |
+
+## Zestawy/Kity
+
+| Ranga                |                        Zestawy                         |
+|----------------------|:------------------------------------------------------:|
+| [badge:GRACZ:gray]   | ![zestaw_gracz.png](../assets/skygen/zestaw_gracz.png) |
+| [badge:VIP:green]    |   ![zestaw_vip.png](../assets/skygen/zestaw_vip.png)   |
+| [badge:SVIP:indigo]  |  ![zestaw_svip.png](../assets/skygen/zestaw_svip.png)  |
+| [badge:MVIP:emerald] |  ![zestaw_mvip.png](../assets/skygen/zestaw_mvip.png)  |
+| [badge:KOKS:primary] |  ![zestaw_koks.png](../assets/skygen/zestaw_koks.png)  |
+
+### Najważniejsze komendy
+
+- `/ch` - zmiana trybowego kanału.
+- `/cc` - ustawienia czatu.
+- `/topki` - topki serwerowe.
+- `/gamma` - włącza/wyłącza rozjaśnienie gry.
+- `/profil <nick>` - pokazuje profil gracza.
+- `/afk` - pokazuje informacje o strefie AFK.
+- `/kowal` - pokazuje gui z kowalem.
+- `/ustawienia` zarządzanie automatyczną sprzedażą.
+- `/pomoc` - lista komend.
+- `/helpop` - wysyła wiadomość do aktywnych administratorów na danym trybie. 
+- `/gornik` - pokazuje aktualne ceny materiałów.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

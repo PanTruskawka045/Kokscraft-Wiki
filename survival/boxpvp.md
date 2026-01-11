@@ -1,152 +1,191 @@
-# BOXPVP
+# BoxPvP
 
-**BOXPVP** to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt topek i zostać **najlepszym** na serwerze, zarazem trzeba **pamietać** o wzbogocaniu się i ciągłym **ulepszaniu** swojego ekwipunku, żeby nie zostać w tyle!
+BoxPvP to dynamiczny tryb polegający na pokonywaniu innych graczy, przy tym zdobywaniu coraz wyższego rankingu, aby wspiąć się na szczyt, zarazem musisz **pamietać** o wzbogocaniu się i ciągłym **ulepszaniu** swojego ekwipunku, żeby nie zostać w tyle!
 
-## Wygląd Sezonu
+![spawn.png](../assets/boxpvp/spawn.png)
 
-W aktualnym sezonie **BOXPVP** tematem przewodnim są **Pokemony**, na samej mapie można zobaczyć dużej ilości wybudowanych pokemonów, a zarazem same **Sety** są nazwane, rodzajami **Pokemonów**.
+![1cz_strefypvp.png](../assets/boxpvp/1cz_strefypvp.png)
 
-![MAPA](/assets/boxpvp/boxpvp-glowna-mapa.png)
+![bezpieczna_strefa.png](../assets/boxpvp/bezpieczna_strefa.png)
 
-## NPC Do Wymiany Bloków Na Coinsy
+## Jak zacząć?
 
-**Najważniejszą** rzeczą jaką trzeba pamiętać na BOXPVP, jest to że główną walutą do **Ulepszania** rzeczy są **Coinsy**. Same coinsy zdobywasz poprzez wymianę bloków u villagerów, pod nazwą **Wymiana Bloków**, trzeba też pamiętać, że jest duża ilość poziomów coinsów, i żeby zdobyć wyższy poziom trzeba je wymienić u villagera, pod nazwą **Wymiana Coinsy**.
+Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie większego rankingu i zarabianie pieniędzy. Zbierz swoich przyjaciół i stawajcie do walki z innymi graczami. Twoja gra rozpoczyna się z podstawowym wyposażeniem, w które wchodzi:
 
-Do **Villagerów** z wymianą **bloków i coinsów**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+- Diamentowa zbroja 
+- Diamentowy miecz
+- Diamentowy kilof
+- 32x mięska
 
-![wymiana blokow](/assets/boxpvp/boxpvp-wymiana-blokow.png)
+## Spawn
 
-## NPC Ze Zbrojami
-Przy **Villagerach Ze Zbrojami** możesz ulepszyć swoją zbroję używając **Coinsów**, które zdobywasz poprzez wymiane wykopanych bloków. Pamiętaj twoja zbroja musi być **Naprawiona** aby dało się ją ulepszyć!
+Jest to główne miejsce Twojej przygody na trybie SkyBox. Tutaj znajdziesz wszystkie potrzebne lokalizacje:
 
-Do **Villagerów Ze Zbrojami** można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+* Przejście do Bezpiecznej Strefy
+* Topki.
+* Skrzynki.
+* Strefe AFK.
 
-![sety](/assets/boxpvp/boxpvp-sety.png)
+> [!CAUTION]
+> Spawn jest bezpieczną strefą (Non-PvP), jeżeli wyjdziesz za czerwoną linię, to już znajdziesz się w strefie PVP, gdzie gracze moga ze sobą walczyć. Uważaj na siebie!
 
-## NPC Z Przydatnymi i Specjalnymi Przedmiotami
+## Warp i Strefa Bez Elytr
 
-Tych **Dwoje Villagerów** można uznać jako jedni z **Najważniejszych**. 
+Jeżeli chcesz szybciej przedostać się do poszczególnych lokacji na mapie, możesz użyć komendy (`/warp`), po wpisaniu otworzy się gui, gdzie możesz kliknąć odpowiedni klocek.
 
-Villager z **Przydatnymi Przedmiotami** oferuje nam takie rzeczy jak np: złote jabłuszka, fajerwerki, sieci czy kamień i drewno. 
+![warpy.png](../assets/boxpvp/warpy.png)
 
-Villager z **Specjalnymi Przedmiotami** za to oferuje nam takie przedmioty jak np: Skill Podpalenia, Skill Usuwania Ognia, Siekierke, czy nawet kij z odrzutem. 
+Gdy przekroczysz czerwoną wełne, to automatycznie zdejmie Tobie elytre i nie będziesz w stanie jej ponownie założyć na Strefie Bez Elytr. Znajdziesz tam boxy z surowcami, które możesz skopać, żeby więcej zarabiać na swój ekwipunek.
 
-Do **Villagerów Ze Specjalnymi I Przydatnymi Przedmiotami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+![strefa_bez_elytr.png](../assets/boxpvp/strefa_bez_elytr.png)
 
-![Przydatne itemy](/assets/boxpvp/boxpvp-przydatne-itemy.png)
+## Osiągnięcia
 
-## NPC Ze Skillami 
+Po osiągnięciu danego celu możesz otrzymać za nie nagrody. W celu otwarcia menu osiągnięć wpisz komendę  (`/osiagniecia`).
 
-**Villagerzy ze skillami** dają również **bardzo ważne rzeczy**, które mogą przydać się w samej walce. Żeby kupić u nich rzeczy trzeba posiadać **Serce BOSSA**.
+![osiagniecia.png](../assets/boxpvp/osiagniecia.png)
 
-Villager pod nazwą **Skille** daje tańsze i gorsze skille, którymi są np: **Skill: Zabójczy Strzał**, który po uderzeniu typa strzela go piorunem, zabierając mu 25% jego życia. 
+## Codzienna nagroda
 
-Villager pod nazwą **Ulepszone Skille** daje możliwość kupna mocniejszego skilla np: **Ulepszony Skill: Zabójczy Strzał**, który przez to, że jest ulepszony w momencie uderzenia gracza strzela go piorunem i zabierając mu 45% jego życia. 
+Loguj się codziennie i zgarniaj nagrody! Z każdym dniem nagroda jest jeszcze lepsza! Wbij i sam się przekonaj!
 
-Do **Villagerów Ze Skillami**, można się przeteleportować za pomocą **/warp** i wybierając **Jajko Villagera**.
+![codzienna_nagroda.png](../assets/boxpvp/codzienna_nagroda.png)
 
-![Skille](/assets/boxpvp/boxpvp-skille.png)
+## Perki
 
-## Generatory
+Jest to część Twojego wyposażenia, która jest bardzo istotna podczas rozgrywki, im wyższy poziom danego perka, tym większa przewaga nad drugim graczem. W celu otwarcia menu perków użyj komendy (`/perk` lub `/szaman`).
 
-Na serwerze znajdziesz **Generatory** takie jak:
-1. Generator Węgla & Bloków Węgla
-2. Generator Żelaza & Bloków Żelaza
-3. Generator Złota & Bloków Złota 
-4. Generator Szmaragdów & Bloków Szmaragdu
-5. Generator Diamentów & Bloków  Diamentu
-6. Generator Bloków Purpuru,Szmaragdów & Bloków Szmaragdu
-7. Generator Pradawnych Zgliszcz, Szmaragdów, Bloków Szmaragdu, Diamentów & Bloków  Diamentu
+|        **Perk**         |                                 **Co robi?**                                 |
+|:-----------------------:|:----------------------------------------------------------------------------:|
+|         Obrażeń         |            ![perk_obrazen.png](../assets/boxpvp/perk_obrazen.png)            |
+|         Ochrony         |            ![perk_ochrony.png](../assets/boxpvp/perk_ochrony.png)            |
+|        Rankingu         |           ![perk_rankingu.png](../assets/boxpvp/perk_rankingu.png)           |
+|         Zdrowia         |            ![perk_zdrowia.png](../assets/boxpvp/perk_zdrowia.png)            |
+|          Dropu          |              ![perk_dropu.png](../assets/boxpvp/perk_dropu.png)              |
+| Większe Obrażenia Mobom | ![wieksze_obrazenia_mobom.png](../assets/boxpvp/wieksze_obrazenia_mobom.png) |
+|          Dusz           |               ![perk_dusz.png](../assets/boxpvp/perk_dusz.png)               |
+|         Zarobku         |            ![perk_zarobku.png](../assets/boxpvp/perk_zarobku.png)            |
 
-**Każdy** z generatorów ma własny czas **Regenarcji**, tym droższe bloki tym więcej czasu regeneracj.
+## Talizmany
 
-## Arena PVP
+Na trybie BoxPvP jest 6 różnych talizmanów do piątego poziomu, które pomogą Tobie podczas ulepszania Twojego ekwipunku. Jeżeli chcesz otworzyć menu talizmanów, wpisz komendę (`/talizmany`):
 
-Na **Arenie PVP** możesz walczyć z innymi graczami, dodatkowo również zbierać **bloki z boxów**.
+- Talizman Zdrowia
+- Talizman Ochrony
+- Talizman Siły
+- Talizman Szybkości
+- Talizman Skoku
+- Talizman Doświadczenia
 
-**Uwaga!** Po śmierci tracisz większość przedmiotów!
+| Funkcja                             |                             Co robi?                             |
+|-------------------------------------|:----------------------------------------------------------------:|
+| [badge:Ulepsz swój talizman:purple] |   ![ulepsz_talizman.png](../assets/boxpvp/ulepsz_talizman.png)   |
+| [badge:Aktywne talizmany:blue]      | ![aktywne_talizmany.png](../assets/boxpvp/aktywne_talizmany.png) |
+| [badge:Wylosuj talizman:primary]    | ![wylosuj_talizmany.png](../assets/boxpvp/wylosuj_talizmany.png) |
 
-**Uwaga!** Obrażenia od upadku za linią PVP są **włączone!**
+> [!TIP]
+> Żeby zdobyć dusze, to musisz zabijać innych graczy.
 
-Na mapie możesz stawiać bloki: **cobblestone oraz drewno**, które znikają po **określonym czasie**.
+## Market
 
-## Strefa Bez Elytr
+Market na serwerze rządzi się swoimi prawami. Ty oraz inni gracze ustalacie ceny przedmiotów! Serwer umożliwia handel na kilka
+sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie waluty. Jeżeli chcesz przeglądać oferty innych graczy wpisz komendę (`/market`).
 
-W tej strefie korzystanie z elytr jest **zablokowane**, ale trzeba **pamiętać**, że jeżeli masz pełny ekwipunek to elytra wypadnie na ziemie! W strefie **Strefie Bez Elytr**, każda osoba otrzymuje efekt **Strength 1**.
+![market.png](../assets/boxpvp/market.png)
 
-Do **Strefy Bez Elytr** można się przeteleportować, używając komendy **/warp** i wybierając **Elytre**. 
+### Przydatne komendy ekonomiczne
 
-### Bloki Pradawnych Zgliszcz
+- `/market` - otwiera menu sortowania marketu.
+- `/market wystaw <cena>` - wystawia dany przedmiot, który trzymasz w prawej ręce na 72h.
+- `/wyplac <kwota>` - tworzy fizyczny czek pieniędzy (minimalna stawka to 500$).
+- `/wymiana <nick>` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
 
-W **Strefie Bez Elytr** można też wydobyć bloki **Pradawnych zgliszcz**, są one pomieszane z blokami 
-i rudami **diamentów i emeraldów**.
+> [!TIP]
+> Gdy chcesz otrzymać pieniądze ze sprzedanych przedmiotów, wpisz (`/market) i potem kliknij enderchesta w lewym dolnym rogu!
+> Jeśli Twój przyjaciel potrzebuje pieniędzy, możesz mu je przelać używając komendy (`/pay <nick> <kwota>`).
 
-![Bez Elytr](/assets/boxpvp/boxpvp-strefa-bez-elytr.png)
+## Klan
 
-## Bossy
+Zbierz grupkę przyjaciół i podbijajcie Strefe PVP, tworząc wasz wspólny klan.
 
-**BOSSY** respią się zawsze w godzinach **15:00-20:00**, występują ona w **Strefie Bez Elytr**, po zabójstwie **BOSSA** otrzymuje się jego serce.
+### Przydatne komendy klanowe
 
-![Boss](/assets/boxpvp/boxpvp-boss-strefa.png)
+- `/klan` - lista klanowych komend.
+- `/klan zaloz <tag> <nazwa>` - tworzy klan.
+- `/klan usun` - usuwa klan.
+- `/klan zapros <nick>` - zaprasza danego gracza do klanu.
+- `/klan wyrzuc <nick>` - wyrzuca danego gracza z klanu.
+- `/klan dolacz <tag>` - dołącza do klanu.
+- `/klan zastepca <nick>` - zarządzanie zastępcami w klanie.
+- `/klan info <tag>` - informacje o danym klanie.
+- `/klan pvp` - zarządzanie PVP w klanie.
+- `/klan ulepszenie` - Otwiera panel z ulepszeniami.
+- `/klan chat <wiadomosc>` - pisanie z członkami klanu.
+- `!<wiadomosc>` - szybsza forma pisania z członkami klanu.
 
-## Strefa Leczenia
+## Ranki i klucze
 
-W momencie, kiedy skończyłeś już walkę a chciałbyś się **Szybko uleczyć** masz taką możliwość na spawnie stając w **Strefie Leczenia** znajduję się ona przed wyjściem na **Arene PVP**.
+Na naszej stronie znajdziesz do kupienia rangi oraz klucze, które mogą przyśpieszyć rozwijanie Twojego ekwipunku: [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/boxpvp).
 
-![Lecznie](/assets/boxpvp/boxpvp-leczenie.png)
+Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`/kit`).
 
-## Bezpieczna Strefa Kopania
-Żeby przejść do bezpiecznej strefy kopania, możesz zrobić to za pomocą komendy **/warp** i tam kliknąć w zielony sztandar, drugą opcją żeby się przeteleportować na Bezpieczną strefę kopania jest na spawnie kliknięcie w NPC pod nazwą **Bezpieczna Strefa Kopania** 
-
-![NPC Bezpieczna Strefa](/assets/boxpvp/boxpvp-bezpieczna-strefa.png)
-
-Na **Bezpiecznej Strefie Kopania** pvp jest zawsze wyłączone, a na samej strefie są różne generatory bloków. Każdy z generatorów ma własny czas Regenarcji **tym droższe bloki tym więcej czasu regeneracji**, ale trzeba pamiętać o tym, że każdy generator ma również do jakiego poziomu maksymalnie można używać kilof. 
-
-## Strefa AFK
-
-Odpoczywaj w tym miejscu, przy okazji zgarniając **Klucze do Skrzyni AFK!**
-
-Dodatkowo masz szanse zgarnąc bonusową nagrodę w postaci **Magicznego Klucza!**
-
-![strefa afk](/assets/boxpvp/boxpvp-strefa-afk.png)
+| UPRAWNIENIA                                        | [badge:KOKS:primary] | [badge:MVIP:emerald] | [badge:SVIP:indigo] | [badge:VIP:green] | [badge:GRACZ:gray] |
+|:---------------------------------------------------|:--------------------:|:--------------------:|:-------------------:|:-----------------:|:-----------------:|
+| Dostęp do zestawu                                  |         KOKS         |         MVIP         |        SVIP         |        VIP        |       GRACZ       |  
+| Dostęp do Strefy Bezpiecznej                       |      KOKS/MVIP       |      KOKS/MVIP       |      SVIP/VIP       |        VIP        |       GRACZ       |  
+| Codzienna darmowe klucze                           |         TAK          |          ❌         |          ❌          |         ❌         |         ❌       |  
+| Możliwość wejścia na pełen serwer                  |         TAK          |         TAK          |         TAK         |        TAK        |         ❌         |  
+| Prefix na czacie oraz prefix obok nicku            |         TAK          |         TAK          |         TAK         |        TAK        |         ❌         |  
+| Możliwość pisania na kolorowo                      |         TAK          |         TAK          |          ❌         |         ❌         |         ❌       |  
+| Szansa na Klucz AFK                                |         50%          |         40%          |         30%         |        20%        |        10%        |  
+| Szansa na zachowanie itemów po śmierci (na zbroje) |        +50%          |         +40%         |        +30%         |       +20%        |         ❌         |  
+| Zwiększony limit ofert w markecie do               |          30          |          20          |         15          |        10         |         5         |  
+| Zwiększony limit enderchestów do                   |          7           |          6           |          4          |         2         |         1         |  
+| Szansa na dusze po zabójstwie                      |         70%          |         60%          |         50%         |        40%        |        30%        |  
+| Dostęp do komendy `/ec`                            |         TAK          |         TAK          |          ❌         |             ❌     |         ❌        |  
+| Dostęp do komendy `/incognito`                     |         TAK          |         TAK          |         TAK         |        TAK        |         ❌         |  
+| Dostęp do komendy `/repair`                        |         TAK          |         TAK          |         TAK         |         ❌         |         ❌         |  
+| Dostęp do komendy `/repair all`                    |         TAK          |           ❌         |         ❌        |         ❌         |         ❌       |  
 
 ## Skrzynki
-Na **BOXPVP** masz dużą ilość skrzynek do otwierania, kluczę do nich można zdobyć np: ze strefy afk, ale też można je zakupić na stronie **kokscraft.pl** jak się wejdzie na strone trzeba się skierować do **sklepu**, gdy cię przełączy wybrać tryb **BOXPVP** i na koniec **specjalne przedmioty**.
 
-Do **Skrzynek** można się przeteleportować wpisując **/warp** i wybierając **Pomarańczowego Shulker Boxa**.
+Po zakupie kluczy otrzymasz specjalny klucz do danej skrzyni, z której możesz wylosować:
 
-![Skrzynki](/assets/boxpvp/boxpvp-skrzynki-1.png)
+|  **Rodzaj Skrzyni**  |                            **Zawartość**                             |
+|:--------------------:|:--------------------------------------------------------------------:|
+|  Magiczna skrzynia   |   ![magiczna_skrzynia.png](../assets/boxpvp/magiczna_skrzynia.png)   |
+|    KOKS skrzynia     |    ![koks_skrzynia.png](../assets/boxpvp/koks_skrzynia.png)          |
+| Szczęśliwa skrzynia  | ![szczesliwa_skrzynia.png](../assets/boxpvp/szczesliwa_skrzynia.png) |
 
-### Co znajduje się w skrzynkach
-W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po klucze i sety. **Wszystko** też jest zależne od skrzynki bo tym **Lepsza** skrzynka to też **Lepszy** drop.
+## Zestawy/Kity
 
-## Najważniejsze Komendy
+| Ranga                |                         Zestawy                         |
+|----------------------|:-------------------------------------------------------:|
+| [badge:GRACZ:gray]   |  ![zestaw_gracz.png](../assets/boxpvp/zestaw_gracz.png) |
+| [badge:VIP:green]    |   ![zestaw_vip.png](../assets/boxpvp/zestaw_vip.png)    |
+| [badge:SVIP:indigo]  |  ![zestaw_svip.png](../assets/boxpvp/zestaw_svip.png)   |
+| [badge:MVIP:emerald] |  ![zestaw_mvip.png](../assets/boxpvp/zestaw_mvip.png)   |
+| [badge:KOKS:primary] |  ![zestaw_koks.png](../assets/boxpvp/zestaw_koks.png)   |
 
-1. /klan - Lista komend klanowych.
-2. /ch - Zmiana kanału trybu.
-3. /cc - Ustawienia czatu.
-4. /kit - Zestawy.
-5. /konto - Ulepszanie konta.
-6. /nick - Zmiana koloru nicku.
-7. /warp - Lista warpow.
-8. /bloki - Zmiana minerałów na Bloki.
-9. /topki - Topki serwerowe.
-10. /gamma- Wlaczenie/wylaczenie swiatla.
-11. /gracz [nick] - Informacje o graczu.
-12. /profil [nick] - Profil gracza.
-13. /rangi - Informacje o rangach.
-14. /resetujranking - Reset rankingu za 10000$.
-15. /wymiana [nick] - Wymiana z graczem.
-16. /rynek - Rynek na którym możesz kupować lub sprzedawać przedmioty.
-17. /villager - Dostęp do npc poza spawnem.
-18. /ustawienia - Możliwość włączenia np: żeby minerały zmieniały się na bloki. 
-19. /profil - możliwość sprawdzenia kogoś ekwipunku.
-20. /perk - Ulepszanie perków.
-21. /ec - Dostęp do enderchestów poza spawnem.
 
-## Aktualizacje Trybu BOXPVP
 
-**Wszystkie aktualizacje** jakie wchodzą na tryb **BOXPVP** są opisane na **dc.kokscraft.pl** albo można zobaczyć po krótce opisane przy skrzyni **AFK i MAGICZNEJ**.
 
-![Aktualizacje](/assets/boxpvp/boxpvp-aktualizacje.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
