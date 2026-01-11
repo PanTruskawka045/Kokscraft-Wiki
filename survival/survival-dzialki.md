@@ -1,17 +1,17 @@
 # Survival + Działki 1.21.8
 
 Survival + Działki to unikalne połączenie klasycznej rozgrywki z systemem własnych terenów na najnowszej wersji gry.
-Tryb ten oferuje wersję 1.21.8+, zapewniając dostęp do najnowszych bloków i mechanik. Gracze mogą rozwijać swoje
+Tryb ten oferuje wersję [badge:1.21.8:yellow], zapewniając dostęp do najnowszych bloków i mechanik. Gracze mogą rozwijać swoje
 działki, zdobywać bogactwo poprzez handel i piąć się w rankingach, tworząc potężne sojusze.
 
-- **Wersja gry:** 1.21.8+
+- **Wersja gry:** [badge:1.21.8:yellow]
 - **Data startu 6 edycji:** 14 listopada 2025
 
 ![Jak zacząć](/assets/survival-dzialki/jak-zaczac.png)
 
 ## Jak zacząć?
 
-Rozgrywka wygląda jak na klasycznym survivalu 1.21.8+. Twoim głównym celem jest zbieranie surowców, zarabianie pieniędzy
+Rozgrywka wygląda jak na klasycznym survivalu [badge:1.21.8:yellow]. Twoim głównym celem jest zbieranie surowców, zarabianie pieniędzy
 i zakup pierwszej działki. Wybierz swoją pracę, handluj z graczami, znajdź drugą połówkę i zostań milionerem.
 
 > [!TIP]
@@ -100,16 +100,16 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 
 ### Komendy ekonomiczne
 
-- `/market otworz` - otwiera menu serwerowego rynku.
-- `/market wystaw cena` - wystaw przedmiot na rynek za określoną cenę na 24h.
+- `/market` - otwiera menu serwerowego rynku.
+- `/market wystaw <cena>` - wystaw przedmiot na rynek za określoną cenę na 24h.
 - `/market dostawy` - schowek kupionych, wylicytowanych oraz wygaśniętych ofert.
-- `/wymiana nick` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
-- `/czek kwota` - tworzy fizyczny czek pieniężny.
-- `/aukcja wystaw kwota` - tworzy licytację na czacie (szybka sprzedaż).
-- `/aukcja licytuj kwota` - podbija cenę licytowanego przedmiotu.
+- `/wymiana <nick>` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
+- `/czek <kwota>` - tworzy fizyczny czek pieniężny.
+- `/aukcja wystaw <kwota>` - tworzy licytację na czacie (szybka sprzedaż).
+- `/aukcja licytuj <kwota>` - podbija cenę licytowanego przedmiotu.
 
 > [!TIP]
-> Jeśli masz znajomego w potrzebie, przelej mu pieniądze używając komendy `/pay nick kwota`.
+> Jeśli masz znajomego w potrzebie, przelej mu pieniądze używając komendy `/pay <nick> <kwota>`.
 
 ![Market](/assets/survival-dzialki/market.png)
 
@@ -141,36 +141,35 @@ Każda ranga posiada unikalne przywileje (sprawdź pod `/rangi`) oraz zestawy pr
 | Limit działek                      |          8           |         6          |         4         |        3         |         2          |
 | Limit dodanych graczy do działki   |          25          |         20         |        16         |        12        |         8          |
 | Limit domów                        |          10          |         7          |         5         |        3         |         2          |
-| Dostęp do Dziennych Zadań Premium  |         TAK          |        TAK         |        NIE        |       NIE        |        NIE         |
-| Pisanie na kolorowo                |         TAK          |        TAK         |        NIE        |       NIE        |        NIE         |
-| /latanie (na działce)              |         TAK          |        NIE         |        NIE        |       NIE        |        NIE         |
+| Dostęp do Dziennych Zadań Premium  |         TAK          |        TAK         |         ❌         |        ❌         |        ❌       |
+| Pisanie na kolorowo                |         TAK          |        TAK         |         ❌         |        ❌         |        ❌         |
+| /latanie (na działce)              |         TAK          |        ❌         |         ❌         |        ❌         |        ❌         |
 | Limit przedmiotów na markecie      |          25          |         20         |        15         |        10        |         5          |
 | Limit przedmiotów na aukcji        |          5           |         4          |         3         |        2         |         1          |
 | Zarobek AFK na minutę              |          5$          |         4$         |        3$         |        2$        |         1$         |
 | Szansa na Fragment Klucza AFK      |         50%          |        40%         |        30%        |       20%        |        10%         |
 | Czas teleportacji                  |          5s          |         7s         |        8s         |        9s        |        10s         |
-| Wyświetlanie przedmiotów na czacie |         TAK          |        TAK         |        TAK        |       TAK        |        NIE         |
-| Wejście na pełny serwer            |         TAK          |        TAK         |        TAK        |       TAK        |        NIE         |
-| /workbench                         |         TAK          |        TAK         |        TAK        |       TAK        |        NIE         |
-| /hat                               |         TAK          |        TAK         |        TAK        |       TAK        |        NIE         |
+| Wyświetlanie przedmiotów na czacie |         TAK          |        TAK         |        TAK        |       TAK        |        ❌         |
+| Wejście na pełny serwer            |         TAK          |        TAK         |        TAK        |       TAK        |        ❌         |
+| /workbench                         |         TAK          |        TAK         |        TAK        |       TAK        |        ❌         |
+| /hat                               |         TAK          |        TAK         |        TAK        |       TAK        |        ❌         |
 | /gamma                             |         TAK          |        TAK         |        TAK        |       TAK        |        TAK         |
-| /sellall                           |         TAK          |        TAK         |        TAK        |       NIE        |        NIE         |
-| /repair                            |         TAK          |        TAK         |        TAK        |       NIE        |        NIE         |
-| /feed                              |         TAK          |        TAK         |        TAK        |       NIE        |        NIE         |
-| /enderchest                        |         TAK          |        TAK         |        NIE        |       NIE        |        NIE         |
-| /heal                              |         TAK          |        TAK         |        NIE        |       NIE        |        NIE         |
-| /repairall                         |         TAK          |        NIE         |        NIE        |       NIE        |        NIE         |
+| /sellall                           |         TAK          |        TAK         |        TAK        |        ❌         |        ❌         |
+| /repair                            |         TAK          |        TAK         |        TAK        |        ❌         |        ❌         |
+| /feed                              |         TAK          |        TAK         |        TAK        |        ❌         |        ❌         |
+| /enderchest                        |         TAK          |        TAK         |         ❌         |        ❌         |        ❌         |
+| /heal                              |         TAK          |        TAK         |         ❌         |        ❌         |        ❌         |
+| /repairall                         |         TAK          |        ❌         |         ❌         |        ❌         |        ❌         |
 
 ### Zestawy (Kity)
 
 |                      |                        ZESTAWY                         |
 |----------------------|:------------------------------------------------------:|
 | [badge:GRACZ:gray]   | ![Kit Player](/assets/survival-dzialki/kit-player.png) |
-| [badge:VIP:lime]     |  ![Kit Player](/assets/survival-dzialki/kit-vip.png)   |
-| [badge:SVIP:cyan]    |  ![Kit Player](/assets/survival-dzialki/kit-svip.png)  |
-| [badge:MVIP:green]   |  ![Kit Player](/assets/survival-dzialki/kit-mvip.png)  |
+| [badge:VIP:green]    |  ![Kit Player](/assets/survival-dzialki/kit-vip.png)   |
+| [badge:SVIP:indigo]  |  ![Kit Player](/assets/survival-dzialki/kit-svip.png)  |
+| [badge:MVIP:emerald] |  ![Kit Player](/assets/survival-dzialki/kit-mvip.png)  |
 | [badge:KOKS:primary] |  ![Kit Player](/assets/survival-dzialki/kit-koks.png)  |
-
 
 
 ### Skrzynie (Crates)
@@ -205,6 +204,7 @@ Spawn to serce serwera, gdzie zaczynasz swoją przygodę. Znajdziesz tu wszystki
 * Informacje o borderach map.
 * Portal do Endu.
 * Tablice z Topkami najlepszych graczy.
+* Strefe AFK.
 
 > [!CAUTION]
 > Spawn jest bezpieczną strefą (Non-PvP), ale tuż za linią PVP gracze mogą ze sobą walczyć! Uważaj, gdzie stawiasz

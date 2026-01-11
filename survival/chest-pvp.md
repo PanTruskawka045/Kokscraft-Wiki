@@ -1,86 +1,143 @@
 # Chest PvP
 
-Tryb ChestPvP polega na rywalizacji z innymi graczami oraz ulepszaniu swojego konta! Zdobywaj przydatne przedmioty ze skrzynek na mapie!
+Tryb ChestPvP [badge:1.19.4 - 1.21.8:yellow] jest to dynamiczne pole walki, na której musisz eksplorować mapę w poszukiwaniu skrzynek, aby zdobyć lepszy ekwipunek.
 
-![Zdjęcie 1](/assets/chestpvp/img1.png)
-![Zdjęcie 2](/assets/chestpvp/img2.png)
+![gora_mapy.png](../assets/chestpvp/gora_mapy.png)
 
-## Jak wygląda gra
+![dol_mapy.png](../assets/chestpvp/dol_mapy.png)
 
-- Rozpoczęcie Gry: Gracze zaczynają z podstawowym wyposażeniem w które wchodzi:
-  - żelazny miecz
-  - Kamienny kilof
-  - Kamienna sikiera
-  - Potka regenracji (I) (45 sekund)
-  - Żelazny set
-    
-  ![Wyposażenie początkowe](/assets/chestpvp/wyposazenie.png)
-- Eksploracja Mapy: Aby zwiększyć swoje szanse eksploruj mapę w poszukiwaniu skrzynek.
+## Jak zacząć?
 
-- Zbieranie Zasobów: Skrzynki są rozmieszczone w różnych miejscach mapy i zawierają przydatne przedmioty, takie jak lepsze miecze, zbroje, narzędzia, jedzenie, inne.
+Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie większego rankingu i zbieranie pieniędzy. Zbierz swoich przyjaciół i stawajcie do walki z innymi graczami. Twoja gra rozpoczynma się z podstawowym wyposażeniem, w które wchodzi:
 
-![Skrzynka](/assets/chestpvp/skrzynka.png)
-- Walka z Inymi Graczami: Gracze używają zebranych przedmiotów, aby stoczyć walkę z innymi uczestnikami. Celem jest przeżycie i eliminacja pozostałych graczy.
+- Żelazny miecz
+- Żelazna zbroja
+- 32x mięska 
 
-- Strategia: Sukces często zależy od strategii - od wyboru momentu ataku, poprzez umiejętne unikanie konfrontacji (kiedy to konieczne), aż po efektywne zarządzanie zasobami.
+![startowe_itemy.png](../assets/chestpvp/startowe_itemy.png)
 
-## Perki
+> [!WARNING]
+> Gdy zginiesz, Twój ekwipunek powróci do stanu początkowego.
 
-**Perki Zdobywane po Zabójstwie:** Są to bonusy, które gracz ma szansę otrzymać po pokonaniu innego uczestnika gry. Te perki nie są gwarantowane przy każdym zabójstwie. Po aktywacji, mogą one zapewniać różnorodne czasowe ulepszenia, takie jak regeneracja zdrowia lub zwiększona szybkość.
+## Spawn
 
-**Perki Stałe:** To bonusy, które po zakupie działają przez cały czas, niezależnie od działań gracza. Mogą to być ulepszenia takie jak większa odporność na obrażenia, lepsza szansa na znalezienie cennych przedmiotów, czy też stała regeneracja zdrowia.
+Jest to główne serce trybu ChestPvP, gdzie zaczynasz swoją przygodę. Znajdziesz tu wszystkie niezbędne elementy:
 
-## Ochrona
+* Losowy teleport (RTP).
+* Skrzynki.
+* Strefe AFK. 
+* Stół do zaklęć.
 
-**Ochrona** jest funkcją dostępną w grze, która pozwala graczowi na zakup tymczasowej **nietykalności przed atakami** innych graczy. Po zakupie, ochrona trwa przez **15 minut**, dając graczowi krótki okres czasu, w którym może on działać bez obawy o zostanie zabitym przez innych uczestników. Koszt aktywacji ochrony to **2500$**, a zakupić ją można co **360 minut**, czyli możliwość ponownego zakupu jest dostępna każde **6 godzin**. Aby zakupić ochronę, gracz musi użyć komendy **/ochrona kup**. Ta funkcja może być szczególnie użyteczna dla nowych graczy lub w momentach, gdy potrzebują oni czasu na organizację swojego ekwipunku bez ryzyka ataku.
-
-## Drop
-- Drop z Pryzmarynu
-  
-  ![Drop z Pryzmarynu](/assets/chestpvp/drop-pryzmaryn.png)
-- Drop z Drewna
-
-   ![Drop z Drewna](/assets/chestpvp/drop-drewno.png)
-
-- Drop z KOKSBOXOW
-
-   ![Drop z KOKSBOXOW](/assets/chestpvp/drop-koksbox.png)
-
-## Market
-
-System rynku umożliwia graczom handel między sobą, sprzedaż nadmiarowych zasobów oraz zakup potrzebnych przedmiotów, co jest istotnym aspektem ekonomii
-
-- **/market gui** – otwiera interfejs użytkownika (GUI) rynku, co umożliwia przeglądanie dostępnych ofert oraz zakup przedmiotów wystawionych na sprzedaż przez innych graczy.
-- **/market wystaw** <cena> – pozwala wystawić przedmiot, który gracz aktualnie trzyma, na rynek wewnętrzny gry za określoną cenę. To polecenie wykorzystuje się, gdy gracz chce sprzedać swój przedmiot innym.
-- **/market wyplac** – służy do wypłaty pieniędzy lub zasobów za oferty, które zostały sprzedane na rynku. Jeśli oferta gracza została zakupiona, to za pomocą tego polecenia może on odebrać swoje zarobki.
-- **/market gracz <nick>** – to polecenie pozwala zobaczyć wszystkie oferty wystawione na rynku przez konkretnego gracza, którego nick został wpisany w miejscu <nick>. Dzięki temu można śledzić aktywność handlową określonej osoby w grze.
-
-## Kit
-
-komenda **/kit** jest używana do zarządzania i odbierania zestawów przedmiotów, znanych jako kity. Po wpisaniu tej komendy, gracz może użyć przycisku myszy, aby interaktywnie wybrać kit:
-
-- Kliknięcie prawym przyciskiem myszy na kit umożliwia wyświetlenie podglądu, co pozwala zobaczyć, co dokładnie zawiera dany kit bez jego odbierania.
-- Kliknięcie lewym przyciskiem myszy na kit pozwala na jego odebranie, co dodaje przedmioty zawarte w zestawie do ekwipunku gracza.
-
-To intuicyjne rozwiązanie pozwala graczom na szybkie zarządzanie swoimi kitami, sprawdzanie ich zawartości oraz wykorzystanie w grze.
-
-- VIP
-  
-![Ranga VIP](/assets/chestpvp/vip.png)
-- SVIP
-  
-![Ranga SVIP](/assets/chestpvp/svip.png)
-- MVIP
-  
-![Ranga MVIP](/assets/chestpvp/mvip.png)
+> [!CAUTION]
+> Spawn jest bezpieczną strefą (Non-PvP), ale jak skoczysz na dół, to już znajdziesz się w strefie PVP, gdzie gracze moga ze sobą walczyć. Uważaj na siebie! 
 
 ## Warp
 
-Komenda /warp w grze umożliwia graczom szybkie przenoszenie się do różnych, wcześniej zdefiniowanych punktów na mapie, co znacznie ułatwia i przyspiesza poruszanie się po świecie gry.
+Jeżeli chcesz szybciej przedostać się do poszczególnych lokacji na mapie, możesz użyć komendy `/warp`, po wpisaniu otworzy się gui, gdzie możesz kliknąć odpowiedni klocek.
 
-![Warp](/assets/chestpvp/warp.png)
+![warpy.png](../assets/chestpvp/warpy.png)
+
+## Perki
+
+Jest to część Twojego wyposażenia, która jest bardzo istotna podczas normalnej rozgrywki, im wyższy poziom danego perka, tym większa przewaga nad drugim graczem. 
+
+![perki.png](../assets/chestpvp/perki.png)
+
+## Talizmany
+
+Na trybie ChestPvP jest 4 różnych talizmanów, które pomogą Tobie podczas ulepszania Twojego ekwipunku:
+
+- Talizman Zdrowia 
+- Talizman Ochrony
+- Talizman Siły
+- Talizman Skrzynek
+
+> [!TIP]
+> Wszystkie talizmany możesz zdobyć, otwierając skrzynkę: Magiczną, KOKS lub Szczęśliwą.
+
+## Ochrona
+
+Dzięki niej możesz na spokojnie zapoznać się z mapą lub zbierać itemy ze skrzynek.
+
+> [!IMPORTANT]
+> Trwa ona tylko 10 minut oraz możesz ją odbierać raz na 16 godzin.
+
+## Drop
+
+Na trybie ChestPvP są 3 różne dropy, które dadzą Tobie przewagę nad innymi graczami, aby zobaczyć ich zawartość na serwerze, to możesz użyć komendy (`/dropy`):
+
+| Rodzaj dropu           |                             Zawartość                             |
+|------------------------|:-----------------------------------------------------------------:|
+| [badge:Z graczy:gray]  |    ![drop_z_graczy.png](../assets/chestpvp/drop_z_graczy.png)     |
+| [badge:Z kopania:blue] |   ![drop_z_kopania.png](../assets/chestpvp/drop_z_kopania.png)    |
+| [badge:Z buraków:red]  |    ![drop_z_burakow.png](../assets/chestpvp/drop_z_burakow.png)   |
+
+## Market
+
+Market na serwerze rządzi się swoimi prawami. Ty oraz inni gracze ustalacie ceny przedmiotów! Serwer umożliwia handel na kilka
+sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie waluty.
+
+### Przydatne komendy ekonomiczne
+
+- `/market` - otwiera menu sortowania marketu.
+- `/market wystaw <cena>` - wystawia dany przedmiot, który trzymasz w prawej ręce na 72h.
+- `/wyplac <kwota>` - tworzy fizyczny czek pieniędzy (minimalna stawka to 500$).
+- `/wymiana <nick>` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
+
+> [!TIP]
+> Jeśli Twój przyjaciel potrzebuje pieniędzy, możesz mu je przelać używając komendy `/pay <nick> <kwota>`.
+
+![market.png](../assets/chestpvp/market.png)
+
+## Rangi i klucze
+
+Na naszej stronie możesz zakupić rangi oraz klucze, żeby przyśpieszyć rozwijanie Twojego ekwipunki: [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/chestpvp).
+
+Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`/kit`).
+
+| UPRAWNIENIA                              | [badge:KOKS:primary] | [badge:MVIP:emerald] | [badge:SVIP:indigo] | [badge:VIP:green] | [badge:GRACZ:gray] |
+|:-----------------------------------------|:--------------------:|:--------------------:|:-------------------:|:-----------------:|:------------------:|
+| Dostęp do wszystkich zestawów            |         TAK          |         ❌          |          ❌          |         ❌         |        ❌         |  
+| Codzienne darmowe klucze                 |         TAK          |         ❌          |          ❌          |         ❌         |        ❌         |
+| Możliwość wejścia na pełen serwer        |         TAK          |         TAK          |         TAK         |        TAK        |        ❌         |
+| Prefix na czacie, obok nicku             |         TAK          |         TAK          |         TAK         |        TAK        |        ❌         |
+| Szansa na klucz w Strefie AFK            |         50%          |         40%          |         30%         |        20%        |        10%         |
+| Zwiększona szansa na drop dusz z graczy  |         TAK          |         TAK          |         TAK         |        TAK        |        ❌         |
+| Zwiększony drop z pryzmarynu o           |         40%          |         30%          |         20%         |        10%        |        ❌         |
+| Zwiększony limit ofert w markecie do     |          30          |          25          |         20          |        15         |         10         |
+| Zwiększony limit graczy w klanie do      |          40          |          30          |         25          |        20         |         10         |
+| Zwiększona ilość coinsów za zabójstwo do |         12$          |         10$          |         8$          |        6$         |         4$         |
+| Zwiększony limit enderchestów do         |          7           |          6           |          4          |         2         |         1          |
+| Dostęp do komendy `/incognito`           |         TAK          |         TAK          |         TAK         |        TAK        |        ❌         |
+| Dostęp do komendy `/wb`                  |         TAK          |         TAK          |         TAK         |        TAK        |        ❌         |
+| Dostęp do komendy `/ec`                  |         TAK          |         TAK          |         TAK         |         ❌         |        ❌         |
+| Dostęp do komendy `/repair`              |         TAK          |         TAK          |         TAK         |         ❌         |        ❌         |
+| Dostęp do komendy `/repair all`          |         TAK          |         ❌          |          ❌          |         ❌         |        ❌         |
+| Podświetlanie swojego konta `/glow`      |         TAK          |         ❌          |          ❌          |         ❌         |        ❌         |
+
+## Skrzynki
+
+Po zakupie kluczy z naszej strony otrzymasz specjalny klucz do danej skrzyni, z której możesz wylosować:
 
 
+|                  **Rodzaj Skrzyni**                   |                                        **Zawartość**                                        |
+|:-----------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+|                   Magiczna skrzynia                   |             ![skrzynia_magiczna.png](../assets/chestpvp/skrzynia_magiczna.png)              |
+|                     KOKS skrzynia                     |                 ![skrzynia_KOKS.png](../assets/chestpvp/skrzynia_KOKS.png)                  |
+|                  Szczęśliwa skrzynia                  |           ![skrzynia_szczesliwa.png](../assets/chestpvp/skrzynia_szczesliwa.png)            |
+|                 Zwierzakowa skrzynia                  |          ![skrzyania_zwierzat.png](../assets/chestpvp/skrzyania_zwierzat.png)               |
+
+
+
+## Zestawy/Kity
+
+| Ranga                |                         Zestawy                          |
+|----------------------|:--------------------------------------------------------:|
+| [badge:GRACZ:gray]   | ![zestaw_GRACZ.png](../assets/chestpvp/zestaw_GRACZ.png) |
+| [badge:VIP:green]    |   ![zestaw_VIP.png](../assets/chestpvp/zestaw_VIP.png)   |
+| [badge:SVIP:indigo]  |  ![zestaw_SVIP.png](../assets/chestpvp/zestaw_SVIP.png)  |
+| [badge:MVIP:emerald] |  ![zestaw_MVIP.png](../assets/chestpvp/zestaw_MVIP.png)  |
+| [badge:KOKS:primary] |  ![zestaw_KOKS.png](../assets/chestpvp/zestaw_KOKS.png)  |
 
 
 
