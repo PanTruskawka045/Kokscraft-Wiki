@@ -101,7 +101,7 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 - `/wymiana <nick>` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
 
 > [!TIP]
-> Gdy chcesz otrzymać pieniądze ze sprzedanych przedmiotów, wpisz (`/market) i potem kliknij enderchesta w lewym dolnym rogu!
+> Gdy chcesz otrzymać pieniądze ze sprzedanych przedmiotów, wpisz (`/market`), następnie kliknij enderchesta w lewym dolnym rogu!
 > Jeśli Twój przyjaciel potrzebuje pieniędzy, możesz mu je przelać używając komendy (`/pay <nick> <kwota>`).
 
 ## Klan
