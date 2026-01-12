@@ -21,7 +21,7 @@ Twoim głównym celem jest zebranie dobrego ekwipunku, zdobywanie większego ran
 
 > [!IMPORTANT]
 > Po śmierci na strefie PVP nie tracisz swojego wyposażenia.
-> Aby ulepszać Twoje przbory do walki oraz zbierania bloków wpisz (`/ulepsz`).
+> Aby ulepszać Twoje przybory do walki oraz zbierania bloków wpisz (`/ulepsz`).
 
 ## Spawn
 
@@ -63,7 +63,7 @@ Na SkyBox są 4 zwoje, które mogą Tobie pomóc podczas rozgrywki:
 | Dominacji | ![zwoj_dominacji.png](/assets/skybox/zwoj_dominacji.png) |
 
 > [!TIP]
-> Zwój Życia oraz Dominacji możesz zdobyć ze skrzyni KOKS, a Zwój Naprawy i Zwinności z osiągnięć.
+> Zwój Życia oraz Dominacji możesz zdobyć ze skrzyni Szczęśliwej, a Zwój Naprawy i Zwinności z osiągnięć.
 
 ## Codzienna nagroda
 

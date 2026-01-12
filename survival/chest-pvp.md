@@ -106,8 +106,6 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 > Jeśli Twój przyjaciel potrzebuje pieniędzy, możesz mu je przelać używając komendy `/pay <nick> <kwota>`.
 > Gdy chcesz otrzymać pieniądze ze sprzedanych przedmiotów, wpisz (`/market) i potem kliknij enderchesta w lewym dolnym rogu!
 
-![market.png](/assets/chestpvp/market.png)
-
 ## Rangi i klucze
 
 Na naszej stronie możesz zakupić rangi oraz klucze, żeby przyśpieszyć rozwijanie Twojego ekwipunki: [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/chestpvp).

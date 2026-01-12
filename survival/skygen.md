@@ -116,6 +116,12 @@ Na trybie SkyBox jest 9 różnych talizmanów do piątego poziomu, które pomog�
 > [!TIP]
 > Aby zdobyć talizmany, potrzebujesz "Karty Talizmanów", które możesz zdobyć poprzez otwieranie skrzynek KOKS i Szczęśliwych.
 
+## Miód
+
+Na strefie PvP znajdziesz wyspe, gdzie możesz zbierać plastry miodu, które pomogą Tobie w ulepszaniu ekwipunku. Jeżeli chcesz zakupić owe przedmioty wpisz (`/rozgrywka`).
+
+![wyspa_z_miodem.png](../assets/skygen/wyspa_z_miodem.png)
+
 ## Market
 
 Market na serwerze rządzi się swoimi prawami. Ty oraz inni gracze ustalacie ceny przedmiotów! Serwer umożliwia handel na kilka
@@ -167,23 +173,23 @@ Na naszej stronie znajdziesz do kupienia rangi oraz klucze, które mogą przyśp
 
 Każda ranga posiada unikalne przywileje (`/rangi`) oraz zestawy przedmiotów (`/kit`).
 
-| UPRAWNIENIA                                   | [badge:KOKS:primary] | [badge:MVIP:emerald] | [badge:SVIP:indigo]  | [badge:VIP:green] | [badge:GRACZ:gray]  |
-|:----------------------------------------------|:--------------------:|:--------------------:|:--------------------:|:-----------------:|:-------------------:|
-| Dostęp do wszystkich zestawów                 |         TAK          |    MVIP/SVIP/VIP     |       SVIP/VIP       |        VIP        |        GRACZ        |  
-| Codzienne darmowe klucze                      |         TAK          |          ❌           |          ❌           |         ❌         |          ❌          |
-| Możliwość wejścia na pełen serwer             |         TAK          |         TAK          |         TAK          |        TAK        |          ❌          |
-| Prefix na czacie, obok nicku                  |         TAK          |         TAK          |         TAK          |        TAK        |          ❌          |
-| Możliwość pisania na kolorowo                 |         TAK          |         TAK          |          ❌           |         ❌         |          ❌          |
-| Szansa na dodatkowy blok z generatora         |         40%          |         30%          |         20%          |        20%        |         10%         |
-| Zwiększony limit ofert w markecie do          |          30          |          20          |          15          |        10         |          5          |
-| Zwiększony limit graczy w klanie do           |          50          |          40          |          30          |        20         |         15          |
-| Zwiększony limit enderchestów do              |          7           |          6           |          4           |         2         |          1          |
-| Szansa na losowy blok z Strefy AFK            |    Co 30s 1x 3-7✩    |    Co 40s 1x 2-6✩    |    Co 50s 1x 1-5✩    |  Co 55s 1x 1-4✩   |   Co 60s 1x 1-3✩    | 
-| Szansa na losowy utwardzony blok z Strefy AFK | Co 15m 1x 1-7✩ (25%) | Co 15m 1x 1-6✩ (20%) | Co 15m 1x 1-5✩ (15%) | Co 15m 1-4✩ (10%) | Co 15m 1x 1-3✩ (5%) |
-| Szansa na Klucz do skrzyni AFK                |         50%          |         40%          |         30%          |        20%        |         10%         |
-| Dostęp do komendy `/ec`                       |         TAK          |         TAK          |          ❌           |         ❌         |          ❌          |
-| Dostęp do komendy `/incognito`                |         TAK          |         TAK          |         TAK          |        TAK        |         TAK         |
-| Dostęp do komendy `/glow`                     |         TAK          |          ❌           |          ❌           |         ❌         |          ❌          |
+| UPRAWNIENIA                                   | [badge:KOKS:primary] | [badge:MVIP:emerald] | [badge:SVIP:indigo]  |  [badge:VIP:green]  | [badge:GRACZ:gray]  |
+|:----------------------------------------------|:--------------------:|:--------------------:|:--------------------:|:-------------------:|:-------------------:|
+| Dostęp do wszystkich zestawów                 |         TAK          |    MVIP/SVIP/VIP     |       SVIP/VIP       |         VIP         |        GRACZ        |  
+| Codzienne darmowe klucze                      |         TAK          |          ❌           |          ❌           |       ❌          |         ❌           |
+| Możliwość wejścia na pełen serwer             |         TAK          |         TAK          |         TAK          |         TAK         |          ❌          |
+| Prefix na czacie, obok nicku                  |         TAK          |         TAK          |         TAK          |         TAK         |          ❌          |
+| Możliwość pisania na kolorowo                 |         TAK          |         TAK          |          ❌           |          ❌          |          ❌          |
+| Szansa na dodatkowy blok z generatora         |         40%          |         30%          |         20%          |         20%         |         10%         |
+| Zwiększony limit ofert w markecie do          |          30          |          20          |          15          |         10          |          5          |
+| Zwiększony limit graczy w klanie do           |          50          |          40          |          30          |         20          |         15          |
+| Zwiększony limit enderchestów do              |          7           |          6           |          4           |          2          |          1          |
+| Szansa na losowy blok z Strefy AFK            |    Co 30s 1x 3-7✩    |    Co 40s 1x 2-6✩    |    Co 50s 1x 1-5✩    |   Co 55s 1x 1-4✩    |   Co 60s 1x 1-3✩    | 
+| Szansa na losowy utwardzony blok z Strefy AFK | Co 15m 1x 1-7✩ (25%) | Co 15m 1x 1-6✩ (20%) | Co 15m 1x 1-5✩ (15%) |  Co 15m 1-4✩ (10%)  | Co 15m 1x 1-3✩ (5%) |
+| Szansa na Klucz do skrzyni AFK                |         50%          |         40%          |         30%          |         20%         |         10%         |
+| Dostęp do komendy `/ec`                       |         TAK          |         TAK          |          ❌           |          ❌          |          ❌          |
+| Dostęp do komendy `/incognito`                |         TAK          |         TAK          |         TAK          |         TAK         |         TAK         |
+| Dostęp do komendy `/glow`                     |         TAK          |          ❌           |          ❌           |          ❌          |          ❌          |
 
 ## Skrzynki
 
@@ -217,5 +223,4 @@ Po zakupie kluczy otrzymasz specjalny klucz do danej skrzyni, z której możesz 
 - `/kowal` - pokazuje gui z kowalem.
 - `/ustawienia` zarządzanie automatyczną sprzedażą.
 - `/pomoc` - lista komend.
-- `/helpop` - wysyła wiadomość do aktywnych administratorów na danym trybie. 
-- `/gornik` - pokazuje aktualne ceny materiałów.
+- `/helpop` - wysyła wiadomość do aktywnych administratorów na danym trybie.
