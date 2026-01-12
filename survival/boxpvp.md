@@ -123,7 +123,7 @@ Zbierz grupkę przyjaciół i podbijajcie Strefe PVP, tworząc wasz wspólny kla
 - `/klan chat <wiadomosc>` - pisanie z członkami klanu.
 - `!<wiadomosc>` - szybsza forma pisania z członkami klanu.
 
-## Ranki i klucze
+## Rangi i klucze
 
 Na naszej stronie znajdziesz do kupienia rangi oraz klucze, które mogą przyśpieszyć rozwijanie Twojego ekwipunku: [SKLEP KOKSCRAFT](https://kokscraft.pl/sklep/boxpvp).
 
