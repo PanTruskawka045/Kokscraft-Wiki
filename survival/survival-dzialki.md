@@ -31,11 +31,11 @@ własne poziomy i zakresy obowiązków.
 
 Granice światów (bordery) są zwiększane co jakiś czas wraz z rozwojem edycji.
 
-| **ŚWIAT** |      **BORDER**      |
-|:---------:|:--------------------:|
-| OVERWORLD |    45000 x 45000     |
-|  NETHER   |     6000 x 6000      |
-|    END    | [red/]wkrótce![/red] |
+| **ŚWIAT** |  **BORDER**   |
+|:---------:|:-------------:|
+| OVERWORLD | 45000 x 45000 |
+|  NETHER   |  6000 x 6000  |
+|    END    |  7000 x 7000  |
 
 ## Działka i zarządzanie nią
 
