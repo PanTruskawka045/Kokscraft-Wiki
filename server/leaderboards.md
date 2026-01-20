@@ -1,85 +1,104 @@
 # Topki Graczy
-Na naszym serwerze istnieją różne rodzaje topek: ogólne, sezonowe, tygodniowe oraz dzienne.
 
-## Rodzaje Topek
-Na serwerze dostępne są różne topki, które wyróżniają najlepszych graczy w określonej kategorii.
+Na naszym serwerze istnieją 4 różne rodzaje topek, które możesz wbić
 
-**Wygrane**  
-Ranking graczy, którzy mają najwięcej wygranych gier.
+1. Ogólne 
+2. Sezonowe
+3. Tygodniowe 
+4. Dzienne
 
-**Zabójstwa**  
-Ranking graczy, którzy mają najwięcej zabójstw.
+| Rodzaj                          |                                      Co oznacza |
+|:--------------------------------|------------------------------------------------:|
+| Wygrane                         |                 Najwieksza ilość wygranych gier |
+| Zabójstwa                       |                       Największa ilość zabójstw |
+| Zniszczone Łóżka (BedWars)      |             Największa ilość zniszczonych łóżek |
+| K/D Ratio (SkyWars)             |          Największy stosunek zabójstw do zgonów |
+| Win Ratio (SkyWars i TheBridge) |              Największy stosunek wygranych gier |
+| Winstreak (BuildBattle)         |       Najdłuższej serii wygranych gier pod rząd |
+| Perfect Match (SpeedBuilders)   |  Najwięcej razy poprawnie przebudowanej budowli |
+| Questów                         |                    Najwięcej wykonanych questów |
 
-**Zniszczone łóżka (BedWars)**  
-Ranking graczy z największą liczbą zniszczonych łóżek.
+> [!NOTE]
+> Możesz skorzystać z komendy `(/topki)`, żeby zobaczyć topki BedWars, BedWars Practice i Eventową.
 
-**K/D Ratio (SkyWars)**  
-Ranking graczy, którzy mają największy stosunek zabójstw do zgonów.
+## Topki Rankingowe
 
-**Win Ratio (TheBridge, BuildBattle)**  
-Lista graczy z najwyższym stosunkiem wygranych do rozegranych gier w trybach TheBridge oraz BuildBattle.
-
-**Winstreak (BuildBattle)**  
-Ranking graczy według najdłuższej serii pod rząd wygranych w trybie BuildBattle.
-
-**Perfect Match (SpeedBuilders)**  
-Gracze, którzy najwięcej razy poprawnie przebudowali budowle w trybie SpeedBuilders.
-
-**Topka Questów**  
-Gracze, którzy zrobili najwięcej questów znajdują sie w tej topce! Topka questów nabija się questów bedwars oraz buildgames.
+Pod (`/topki`), znajdziesz zakładkę "Topki Rankingowe" trybów duo i czwórek, gdzie możesz zobaczyć Top 10 graczy z najwyższym rankingiem, największą ilością killi, wygranych gier i zniszczonych łóżek. 
 
 ## Topki Ogólne
+
 Topki ogólne obejmują różne kategorie, takie jak:
 
-- **Poziom (lvl)**
-- **Czas na serwerze**
-- **Wygrane gry**
-- **Rubiny**
-- **Kokscoiny**
-- **Przegrane**
+|      Rodzaj       |
+|:-----------------:|
+|   Poziom (lvl)    |
+| Czas na serwerze  |
+|    Wygrane gry    |
+|      Rubiny       |
+|     KoksCoiny     |
+|     Przegrane     |
 
 ![Hub Topki](/assets/leaderboard/sshubogolne.png)
 
 ## Topki Sezonowe
+
 Topki sezonowe obowiązują przez cały sezon i resetują się wraz z rozpoczęciem nowego sezonu danego trybu.
 
 ## Topki Tygodniowe
+
 Topki te resetują się w cyklu siedmiodniowym, który przesuwa się codziennie o jeden dzień. Oznacza to, że każda nowa topka obejmuje dokładnie tydzień, ale zaczyna się i kończy zawsze tego samego dnia tygodnia, np. od środy do środy lub od piątku do piątku.
 
 ## Topki Dzienne
+
 Topki dzienne naliczane są w godzinach 09:00 - 24:00.
 
-## Nagrody za Topki
+## Nagrody
 
-### **Sezonowe**
-Nagrodami za topki sezonowe są różne addony, klucze itp. Nagrody są rozdawane po zakończonych sezonach.
+Im jesteś wyżej w topkach, tym lepsze nagrody możesz zgarnąć! Wbijaj i się przekonaj!
 
-### **Dzienne**
-Nagrodami za topki dzienne są boostery, które są automatycznie rozdawane o pólnocy.
+> [!NOTE]
+> Nagrody sezonowe są rozdawane po zakończeniu danego sezonu!
+> Nagrody codzienne po północy!
 
-| **Miejsce** |                       **Nagroda**                        |
-|:-----------:|:--------------------------------------------------------:|
-|      1      | [Booster](/article/ogolne/boostery) XP 200% na 1 godzinę |
-|      2      | [Booster](/article/ogolne/boostery) XP 150% na 1 godzinę |
-|      3      | [Booster](/article/ogolne/boostery) XP 100% na 1 godzinę |
-|      4      | [Booster](/article/ogolne/boostery) XP 50% na 1 godzinę  |
-|      5      |  [Booster](/article/ogolne/boostery) XP 50% na 30 minut  |
+| Rodzaj   | Potencjalna nagroda       |
+|----------|---------------------------|
+| Sezonowa | różne addony, klucze itp. |
+| Dzienna  | Boostery                  |
 
-**Uwaga**: Nagrody są przyznawane tylko wtedy, gdy znajduje się o tym informacja w hologramie!
+### Nagrody za topke dzienną
 
-![Screen hologram](/assets/leaderboard/sshologram.png)
+| **Miejsce** |         **Nagroda**          |
+|:-----------:|:----------------------------:|
+|      1      | BoosterXP 200% na 1 godzinę  |
+|      2      | Booster XP 150% na 1 godzinę |
+|      3      | Booster XP 100% na 1 godzinę |
+|      4      | Booster XP 50% na 1 godzinę  |
+|      5      |  Booster XP 50% na 30 minut  |
 
-# Topki Klanowe
-Na serwerze występują również topki klanowe: ogólne, sezonowe, tygodniowe i dzienne.
+> [!IMPORTANT]
+> Nagrody są przyznawane tylko wtedy, gdy znajduje się o tym informacja w hologramie!
+
+## Topki Klanowe
+
+Na serwerze występują również topki klanowe, które możesz wbijać wraz z grupką znajomych: 
+
+1. Ogólne 
+2. Sezonowe 
+3. Tygodniowe 
+4. Dzienne
 
 ## Topki Ogólne Klanowe
+
 Topki ogólne klanowe znajdują się na głównym hubie i obejmują:
 
-- **Topka rubinów w klanie**
-- **Topka kokscoinów w klanie**
-- **Ilość wbitego XP do klanu**
+1. Topka Rubinów w klanie
+2. Topka KoksCoinów w klanie
+3. Ilość wbitego XP do klanu
 
 ![Topki klanowe](/assets/leaderboard/topkaklanhub.png)
 
 ## Topki Klanowe Minigier
-Topki klanowe istnieją na trybach takich jak Bedwars i Skywars. Klan, który znajdzie się w topce na koniec sezonu, otrzymuje nagrody, np. boostery dla klanów, kokscoiny.
+
+Masz topki klanowe na trybach Bedwars i Skywars. 
+
+Klan, który znajdzie się w topce na koniec sezonu, otrzyma specjalne nagrody!
