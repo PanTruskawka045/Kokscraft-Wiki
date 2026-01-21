@@ -17,46 +17,46 @@ Jeżeli chcesz posiadać jeszcze lepszy ekwipunek od innych graczy, to udaj się
 
 Na trybie BedWars są 3 generatory surowców, z których możesz zbierać:
 
-|    Rodzaj     |                           Wygląd                            |
-|:-------------:|:-----------------------------------------------------------:|
-| Złoto, Żelazo |  ![zloto_i_zelazo.png](../assets/bedwars/zloto_i_zelazo.png)|
-|   Diamenty    |       ![diamenty.png](../assets/bedwars/diamenty.png)       |
-|   Emeraldy    |    ![emeraldy.png](../assets/bedwars/emeraldy.png)          |
+|    Rodzaj     |                          Wygląd                           |
+|:-------------:|:---------------------------------------------------------:|
+| Złoto, Żelazo | ![zloto_i_zelazo.png](/assets/bedwars/zloto_i_zelazo.png) |
+|   Diamenty    |       ![diamenty.png](/assets/bedwars/diamenty.png)       |
+|   Emeraldy    |       ![emeraldy.png](/assets/bedwars/emeraldy.png)       |
 
 ## Sklep i ulepszenia
 
 Podczas rozgrywki posiadasz do dyspozycji sklep oraz ulepszenia, w którym możesz zakupić potrzebne przedmioty do wygrania areny.
 
-![sklep.png](../assets/bedwars/sklep.png)
+![sklep.png](/assets/bedwars/sklep.png)
 
-| Sklep                                              |                                                             Zawartość                                                             |
-|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![bloki.png](../assets/bedwars/bloki.png)          |                                   wełna, glina, szkło, kamień kresu, deski, obsydian i drabina                                    |
-|  ![bronie.png](../assets/bedwars/bronie.png)       |                                      kamienny miecz, żelazny, diamentowy i patyk (odrzut 2)                                       |
-| ![zbroja.png](../assets/bedwars/zbroja.png)        |                                           stała kolczugowa zbroja, żelazna i diamentowa                                           |
-| ![narzedzia.png](../assets/bedwars/narzedzia.png) |                   drewniany kilof, żelazny, złoty, diamentowy, drewniana siekiera, żelazna, diamentowa, nożyce                    |
-|  ![luki.png](../assets/bedwars/luki.png)          |                                             8 strzał, łuk, łuk (moc 1) i łuk (moc 2)                                              |
-| ![mikstury.png](../assets/bedwars/mikstury.png)    |                                      mikstura szybkości 2, wysokiego skoku i niewidzialności                                      |
-| ![inne.png](../assets/bedwars/inne.png)            | złote jabłko, rybik cukrowy, kula ognia, TNT, perła kresu, widro wody, automatyczny most, mleko, gąbka, żelazny golem i navigator |
+| Sklep                                           |                                                             Zawartość                                                             |
+|:------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![bloki.png](/assets/bedwars/bloki.png)         |                                   wełna, glina, szkło, kamień kresu, deski, obsydian i drabina                                    |
+| ![bronie.png](/assets/bedwars/bronie.png)       |                                      kamienny miecz, żelazny, diamentowy i patyk (odrzut 2)                                       |
+| ![zbroja.png](/assets/bedwars/zbroja.png)       |                                           stała kolczugowa zbroja, żelazna i diamentowa                                           |
+| ![narzedzia.png](/assets/bedwars/narzedzia.png) |                   drewniany kilof, żelazny, złoty, diamentowy, drewniana siekiera, żelazna, diamentowa, nożyce                    |
+| ![luki.png](/assets/bedwars/luki.png)           |                                             8 strzał, łuk, łuk (moc 1) i łuk (moc 2)                                              |
+| ![mikstury.png](/assets/bedwars/mikstury.png)   |                                      mikstura szybkości 2, wysokiego skoku i niewidzialności                                      |
+| ![inne.png](/assets/bedwars/inne.png)           | złote jabłko, rybik cukrowy, kula ognia, TNT, perła kresu, widro wody, automatyczny most, mleko, gąbka, żelazny golem i navigator |
 
-![ulepszenia.png](../assets/bedwars/ulepszenia.png)
+![ulepszenia.png](/assets/bedwars/ulepszenia.png)
 
-|                            Ulepszenia                             |
-|:-----------------------------------------------------------------:|
-|           ![ostrosc.png](../assets/bedwars/ostrosc.png)           |
-|           ![ochrona.png](../assets/bedwars/ochrona.png)           |
-|   ![szybkie_kopanie.png](../assets/bedwars/szybkie_kopanie.png)   |
-|        ![generatory.png](../assets/bedwars/generatory.png)        |
-|  ![pole_regeneracji.png](../assets/bedwars/pole_regeneracji.png)  |
+|                          Ulepszenia                           |
+|:-------------------------------------------------------------:|
+|          ![ostrosc.png](/assets/bedwars/ostrosc.png)          |
+|          ![ochrona.png](/assets/bedwars/ochrona.png)          |
+|  ![szybkie_kopanie.png](/assets/bedwars/szybkie_kopanie.png)  |
+|       ![generatory.png](/assets/bedwars/generatory.png)       |
+| ![pole_regeneracji.png](/assets/bedwars/pole_regeneracji.png) |
 
-![menu_pulapek.png](../assets/bedwars/menu_pulapek.png)
+![menu_pulapek.png](/assets/bedwars/menu_pulapek.png)
 
-|                            Pułapki                             |
-|:--------------------------------------------------------------:|
-|        ![zasadzka.png](../assets/bedwars/zasadzka.png)         |
-|   ![kontrnatarcie.png](../assets/bedwars/kontrnatarcie.png)    |
-|           ![alarm.png](../assets/bedwars/alarm.png)            |
-| ![powolne_kopanie.png](../assets/bedwars/powolne_kopanie.png)  |
+|                           Pułapki                           |
+|:-----------------------------------------------------------:|
+|        ![zasadzka.png](/assets/bedwars/zasadzka.png)        |
+|   ![kontrnatarcie.png](/assets/bedwars/kontrnatarcie.png)   |
+|           ![alarm.png](/assets/bedwars/alarm.png)           |
+| ![powolne_kopanie.png](/assets/bedwars/powolne_kopanie.png) |
 
 
 ## Modyfikator sklepu
@@ -139,7 +139,7 @@ Możesz również wylosować kosmetyki ze skrzynki unikatowej lub rzadkiej.
 
 ## Topki 
 
-Informacje o topkach są dostępne tutaj [Klinij Tu!](https://wiki.kokscraft.pl/article/ogolne/topki)!
+Informacje o topkach są dostępne [tutaj](/article/ogolne/topki)!
 
 ## Karnety
 
