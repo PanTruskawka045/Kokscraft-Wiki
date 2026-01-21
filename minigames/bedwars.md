@@ -4,11 +4,12 @@ Tryb BedWars [badge:1.8.9:yellow] to popularny tryb gry typu PvP na wersji 1.8, 
 
 ## Jak zacząć?
 
-Po dołączeniu na arene zostaniesz przeteleportowany przed początkowy generator, gdzie w nim musisz zbierać złoto i żelazo, aby zakupić początkowe itemy i obudować swoje łóżko.
+Po dołączeniu na arene zostaniesz przeteleportowany na swoją wyspę, na której jest początkowy generator.
+W nim możesz zbierać złoto i żelazo, za które możesz zakupić początkowe itemy i obudować swoje łóżko.
 
 Ważnym aspektem rozgrywki także jest zbieranie diamentów, za które możesz zakupić ulepszenia, aby stać się silniejszym od innych graczy.
 
-Jeżeli chcesz posiadać jeszcze lepszy ekwipunek od innych graczy, to udaj się na środek mapy, aby zbierać szmaragdy!
+Jeżeli chcesz zdobyć jeszcze lepszy ekwipunek od innych graczy, to udaj się na środek mapy, aby zbierać szmaragdy!
 
 > [!TIP]
 > Jeżeli mapa jest mała, trzeba zachować czujność, bo przeciwnicy mogą bardzo szybko się zbudować. Często lepiej od razu kupić bloki i uważać na rush, zamiast odkładać żelazo na kamienny miecz, bo zanim uzbierasz 14 żelaza, ktoś może już być u Ciebie.
@@ -25,7 +26,7 @@ Na trybie BedWars są 3 generatory surowców, z których możesz zbierać:
 
 ## Sklep i ulepszenia
 
-Podczas rozgrywki posiadasz do dyspozycji sklep oraz ulepszenia, w którym możesz zakupić potrzebne przedmioty do wygrania areny.
+Podczas rozgrywki masz do dyspozycji sklep, w którym możesz zakupić potrzebne przedmioty do wygrania areny, oraz ulepszenia.
 
 ![sklep.png](/assets/bedwars/sklep.png)
 
@@ -72,7 +73,7 @@ Jeżeli chcesz zakupić za Rubiny, kliknij prawym przyciskiem myszy i zaakceptuj
 
 Pozwala Tobie na liczenie statystyk takich jak:
 1. Zniszczone Łóżka
-2. Finall Kille
+2. Final Kille
 
 Owe statystyki będą wyświetlać się na czacie! 
 Koszt zakupu wynosi 1000 KoksCoinów.
@@ -131,11 +132,9 @@ Podbijaj topke na practice i zdobywaj nagrody!
 
 ## Kosmetyki
 
-Jeżeli chcesz urozmaicić grę, postanowiliśmy wprowadzić kosmetyki! W skład ich wchodzą **skórki sklepu, skórki ulepszeń, wiadomość zniszczenia łóżka, hologram po zniszczeniu łóżka i efekt po zniszczeniu łóżka**.
+Jeżeli chcesz urozmaicić grę, postanowiliśmy wprowadzić kosmetyki! W skład ich wchodzą **[skórki sklepu, skórki ulepszeń](/article/ogolne/addony#skrki-sklepuulepsze), [wiadomość zniszczenia łóżka](/article/ogolne/addony#wiadomo-zniszczenia-ka), [hologram po zniszczeniu łóżka](/article/ogolne/addony#hologram-po-zniszczeniu-ka), [efekt po zniszczeniu łóżka](/article/ogolne/addony#efekt-po-zniszczeniu-ka) i [Ozdoby wysp](/article/ogolne/addony#ozdoby-wysp)**.
 
-Kosmetyki możesz zdobywać za pomocą karnetów BedWars, lub po prostu po zakupieniu w sklepie dziennym, lub tygodniowym.
-
-Możesz również wylosować kosmetyki ze skrzynki unikatowej lub rzadkiej.
+Kosmetyki możesz zdobywać z karnetów BedWars, lub po prostu kupując je w sklepie dziennym, lub tygodniowym.
 
 ## Topki 
 
