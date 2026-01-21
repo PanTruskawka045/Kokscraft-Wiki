@@ -1,22 +1,22 @@
 # Topki Graczy
 
-Na naszym serwerze istnieją 4 różne rodzaje topek, które możesz wbić
+Na naszym serwerze istnieją 4 różne rodzaje topek, które możesz wbić:
 
 1. Ogólne 
 2. Sezonowe
 3. Tygodniowe 
 4. Dzienne
 
-| Rodzaj                          | Co oznacza                                      |
-|:--------------------------------|:------------------------------------------------|
-| Wygrane                         | Najwieksza ilość wygranych gier                 |
-| Zabójstwa                       | Największa ilość zabójstw                       |
-| Zniszczone Łóżka (BedWars)      | Największa ilość zniszczonych łóżek             |
-| K/D Ratio (SkyWars)             | Największy stosunek zabójstw do zgonów          |
-| Win Ratio (SkyWars i TheBridge) | Największy stosunek wygranych gier              |
-| Winstreak (BuildBattle)         | Najdłuższej serii wygranych gier pod rząd       |
-| Perfect Match (SpeedBuilders)   | Najwięcej razy poprawnie przebudowanej budowli  |
-| Questów                         | Najwięcej wykonanych questów                    |
+| Rodzaj                          | Co oznacza                                           |
+|:--------------------------------|:-----------------------------------------------------|
+| Wygrane                         | Najwieksza ilość wygranych gier                      |
+| Zabójstwa                       | Największa ilość zabójstw                            |
+| Zniszczone Łóżka (BedWars)      | Największa ilość zniszczonych łóżek                  |
+| K/D Ratio (SkyWars)             | Największy stosunek zabójstw do zgonów               |
+| Win Ratio (SkyWars i TheBridge) | Największy stosunek wygranych gier do zagranych gier |
+| Winstreak (BuildBattle)         | Najdłuższej serii wygranych gier pod rząd            |
+| Perfect Match (SpeedBuilders)   | Najwięcej razy poprawnie przebudowanej budowli       |
+| Questów                         | Najwięcej wykonanych questów                         |
 
 > [!NOTE]
 > Możesz skorzystać z komendy `(/topki)`, żeby zobaczyć topki BedWars, BedWars Practice i Eventową.
