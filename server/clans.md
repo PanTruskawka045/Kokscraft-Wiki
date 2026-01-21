@@ -1,43 +1,92 @@
 # Klany
-Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Można go ulepszać wpłacając **rubiny i kokscoiny**, za co dostajemy np. **boostery** i inne możliwości opisane niżej.
+
+Na serwerze możesz stworzyć **własny klan** albo **dołączyć do istniejącego**. Klan można **ulepszać**, wpłacając **rubiny** oraz **kokscoiny**, co odblokowuje m.in. boostery i inne możliwości opisane poniżej.
+
+### Dodatkowe Informacje
+
+- **TAG** klanu może zawierać od 2-5 znaków,
+- **NAZWA** klanu może zawierać od 6-24 znaków,
+- **KOSZT** założenia klanu to 1500 Kokscoinow i 5000 Rubinów. 
+
+### Ważne!
+
+- **TAG** oraz **NAZWA** klanu nie mogą zawierać słów w jakikolwiek sposób łamiących regulamin. Będzie to skutkować usunięciem klanu,
+- Aby dołączyć do klanu trzeba mieć conajmniej **10 level** na serwerze.
+
 
 ## Komendy
 
-- **/klan zaloz [Tag] [Nazwa]** - Stworzenie klanu.
-- **/klan info [Tag]** - Pokazuje informacje na temat danego klanu.
-- **/klan usun** - Usunięcie klanu.
-- **/klan panel** - Panel klanu.
-- **/klan chat [Wiadomość]** - Wysyła wiadomość na chat klanu.
-- **/klan wlasciciel [Nick]** - Zmiana właściciela klanu.
-- **/klan zapros [Nick]** - Zaproszenie gracza do klanu.
-- **/klan wyrzuc [Nick]** - Usunięcie gracza z klanu.
-- **/klan dolacz [Tag]** - Dołączenie do klanu.
-- **/klan opusc** - Opuszczenie klanu.
-- **/klan list** - Pokazuje listę członkow klanu.
-- **@[Wiadomość]** - Łatwiejszy czat klanu. 
+Ponizej znajduje się lista najpotrzebniejszych komend związanych z klanami!
+- **/klan zaloz [TAG] [NAZWA]** - Tworzy klan o podanym tagu i nazwie,
+- **/klan info [TAG]** - Wyświetla szczegółowe informacje o wybranym klanie,
+- **/klan usun** - Usuwa klan, którego jesteś właścicielem,
+- **/klan panel** - Otwiera panel zarządzania klanem,
+- **/klan wlasciciel [NICK]** - Przekazuje własność klanu wskazanemu graczowi,
+- **/klan zapros [NICK]** - Wysyła zaproszenie do klanu wybranemu graczowi,
+- **/klan wyrzuc [NICK]** - Usuwa gracza z klanu,
+- **/klan dolacz [TAG]** - Dołącza do klanu o podanym tagu (do którego otrzymałaś/eś zaproszenie),
+- **/klan opusc** - Opuszcza aktualny klan,
+- **/klan list** - Wyświetla listę członków klanu,
+- **/klan chat [WIADOMOŚĆ]** - Wysyła wiadomość na chat klanowy,
+- **@[WIADOMOŚĆ]** - Szybszy sposób wysłania wiadomości na chat klanowy. 
 
-## Dodatkowe Informacje
-- **TAG** klanu może zawierać od 2-5 znaków. 
-- **NAZWA** klanu może zawierać od 6-24 znaków. 
-- **Koszt** założenia klanu to 1500 kokscoinow i 5000 rubinów. 
-- Aby dołączyć do klanu trzeba mieć conajmniej **10 level** na serwerze. 
+## GUI Klanu
 
-## Gui Klanu
+W GUI znajdziesz głowki, odpowiadające kolejno za:
 
-### Informacje O Klanie
+![Gui](/assets/klany/gui-klanu-2.png)
 
-Informacje o klanie, sprawdzisz **najeżdżając** myszką na **jasnozieloną główkę** w GUI. Znajdziesz tam: 
+  1. Informacje o klanie,
+2. Liste członków klanu,
+3. Poziomy klanu,
+4. Statystyki klanu,
+5. Ustawienia klanu,
+6. Skarbiec klanu,
+7. Boostery klanu.
 
-![Informacje](/assets/klany/klan-informacje.png)
 
-### Członkowie Klanu
-Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow** lub **Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu. Aby sprawdzić statystyki graczy musisz, kliknąć myszką na **Brązową Główkę** w GUI.
+## Informacje O Klanie
 
-### Poziomy Ulepszeń Klanów 
+Tutaj znajdują się najpotrzebniejsze informacje dot. klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną strzałką główke!
 
-W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić, wystarczy kliknąć w **Zieloną Główkę** lvl w GUI. Tą czynność może wykonać **Właściciel** lub **Zastępca** klanu.
+![InformacjeOKlanie](/assets/klany/klan-informacje2.png)
 
-**Boost Xp'a i Boost Rubinów**, mają takie same **ceny, wymagania i wartość mnożnika.**
+## Lista Członków Klanu
+
+Liste członków możesz sprawdzić klikając w główke wskazaną strzałką!
+
+![CzłonkowieKlanu](/assets/klany/lista-czlonkow-klanu.png)
+
+Będąc w GUI członków, najeżdżając na główkę danego gracza myszką, można:
+- Sprawdzić ilośc wpłaconych **Kokscoinow** albo **Rubinów** do klanu przez wybranego gracza. 
+- **Właściciel** klanu może nadawać i odbierać rangę **Zastępcy**. Zarówno Właściciel, jak i Zastępca mają możliwość dodawania oraz usuwania graczy z klanu.
+
+## Poziomy Ulepszeń Klanów 
+
+Poziomy klanu możesz sprawdzić klikając główkę wskazana strzałką!
+
+![PoziomyKlanu](/assets/klany/poziomy-klanow.png)
+
+#### Po kliknięciu wyżej wymienionej główki otworzy się **GUI Poziomów Klanu**.
+
+![PoziomyKlanu2](/assets/klany/poziomy-klanow-2.png)
+
+### Szczegółowy opis główek:
+
+1. Ulepszenie Mnożnika XP
+   - Zwiększa ilość XP, które otrzymuje gracz.
+2. Ulepszenie Mnożnik Rubinów
+   - Zwiększa ilość Rubinów, które otrzymuje gracz.
+3. Indywidualne ulepszenie Mnoznika XP
+   - Zwiększa ilość XP
+4. Indywidualne ulepszenie Podatku XP
+   - Zwiększa ilość XP
+5. Indywidualne ulepszenie Mnoznika Rubinów
+   - Zwiększa ilość Rubinów
+6. Indywidualne ulepszenie Podatku Rubinów
+   - Zwiększa ilość Rubinów
+
+**Boost XP** oraz **Rubinów**, mają takie same **ceny, wymagania i wartość mnożnika!**
 
 | Poziom | Cena W Rubinach | Cena W Kokscoinach | Wymagany Poziom | Wartość Mnożnika |
 |:------:|:---------------:|:------------------:|:---------------:|:----------------:|
@@ -77,13 +126,18 @@ W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubi
 |   34   |    3.497.000    |       9.000        |       95        |        68        | 
 |   35   |    3.772.000    |       10.000       |       100       |        70        |
 
-### Ustawienia Klanu
+## Ustawienia Klanu
 
-Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
+W celu otwarcia GUI ustawień należy użyć główki wskazanej strzałką. Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
-- **Podatek klanowy** - W klanie można ustawić podatek, który będzie zabierał z gier procent z otrzymanego xp'a z gry. Podatek można ustawić od 0% do 10%. 
+![PoziomyKlanu](/assets/klany/ustawienia-klanu.png)
 
-- **Kolory klanów** 
+### Podatek Klanowy
+
+W klanie można ustawić **podatek**, który będzie zabierał z gier procent z otrzymanego XP od gracza. Podatek można ustawić od 0% do 10%. 
+
+
+### Koloroy Klanów
 
 |                 Kolor                 |       Cena       |                 Wymagania                 |
 |:-------------------------------------:|:----------------:|:-----------------------------------------:|
@@ -103,11 +157,23 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 | ![kolor14](/assets/klany/color14.png) |       brak       |          maksymalny level klanu           |
 
 
-### Skarbiec Klanu
+## Skarbiec Klanu
 
-**Skarbiec Klanowy** służy do **wpłacania** walut serwerowych jak **Rubiny i Kokscoiny**, żeby ulepszać boostery klanowe lub zmieniać kolor klanu. Aby użyć skarbca klanowego należy **Kliknąć** na tabliczkę. 
+W celu wpłacenia do skarbca klanu **Rubinów** albo **Kokscoinów** należy nakierować myszką na wskzaną strzałką **tabliczkę**. 
 
-![Skarbiec](/assets/klany/klan-skarbiec1.png)
+![Skarbiec](/assets/klany/klan-skarbiec-2.png)
+
+Zależnie od tego, jaką walutę chcemy wpłacić należy kliknąć 
+- Dla Rubinów - **PRAWY PRZYCISK MYSZY**
+- Dla Kokscoinów - **LEWY PRZYCISK MYSZY**
+
+## Boostery
+
+W celu otwarcia GUI Boosterów należy kliknąć na wskazaną strzałką główkę!
+
+![Boostery](/assets/klany/klan-boostery.png)
+
+Tutaj można zobaczyć aktywne Boostery Klanowe.
 
 ## Topki Klanowe
 
