@@ -54,18 +54,18 @@ Topki dzienne naliczane są w godzinach 09:00 - 24:00.
 
 ## Nagrody
 
-Im jesteś wyżej w topkach, tym lepsze nagrody możesz zgarnąć! Wbijaj i się przekonaj!
+Im wyższą pozycję zajmiesz w rankingach, tym większe i bardziej wartościowe nagrody czekają na Ciebie po zakończeniu sezonu. Rywalizuj, pnij się w górę i sprawdź, co możesz zdobyć!
 
-> [!NOTE]
-> Nagrody sezonowe są rozdawane po zakończeniu danego sezonu!
-> Nagrody codzienne po północy!
+Nagrody przyznawane są po zakończeniu sezonu i zależą od jego rodzaju oraz czasu trwania. Ilość kokscoinów może się różnić w zależności od sezonu. Stałe nagrody za miejsca w rankingach to unikalny tytuł za zajętą pozycję oraz kokscoiny.
 
-| Rodzaj   | Potencjalna nagroda       |
-|----------|---------------------------|
-| Sezonowa | Różne addony, klucze itp. |
-| Dzienna  | Boostery                  |
+W BedWarsach rankingowych dodatkowo odbywa się losowanie nagród z sezonowej puli, która zmienia się co sezon. Gracze otrzymują także tytuły za zajęte miejsca z odpowiednim mnożnikiem.
+
+Klany nagradzane są za miejsca w rankingach zwycięstw. Otrzymują kokscoiny oraz boostery klanowe, które wspierają rozwój całej drużyny.
 
 ### Nagrody za topke dzienną
+
+> [!NOTE]
+> Nagrody codzienne po północy!
 
 | **Miejsce** |         **Nagroda**          |
 |:-----------:|:----------------------------:|

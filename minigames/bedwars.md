@@ -1,10 +1,11 @@
 # Bedwars 
 
-Tryb BedWars [badge:1.8.9:yellow] to popularny tryb gry typu PvP na wersji 1.8, w którym walczysz z innymi graczami, oraz zniszczyć innych łóżka, i musisz bronić swojego! 
+Tryb BedWars [badge:1.8.9:yellow] to popularny tryb PvP, w którym walczysz na wyspach, broniąc własnego łóżka i niszcząc łóżka innych przeciwników. Zbieraj surowce, kupuj ulepszenia i eliminuj inne drużyny, aby wygrać rozgrywkę!
 
 ## Jak zacząć?
 
 Po dołączeniu na arene zostaniesz przeteleportowany na swoją wyspę, na której jest początkowy generator.
+
 W nim możesz zbierać złoto i żelazo, za które możesz zakupić początkowe itemy i obudować swoje łóżko.
 
 Ważnym aspektem rozgrywki także jest zbieranie diamentów, za które możesz zakupić ulepszenia, aby stać się silniejszym od innych graczy.
@@ -62,20 +63,28 @@ Podczas rozgrywki masz do dyspozycji sklep, w którym możesz zakupić potrzebne
 
 ## Modyfikator sklepu
 
-Jest to bardzo dobry przedmiot, który umożliwia Tobie na szybszy zakup potrzebnych przedmiotów oraz przyspieszy Twoją rozgrywke!
+Jest to przedmiot, który umożliwia Tobie na szybszy zakup potrzebnych przedmiotów oraz przyspieszy Twoją rozgrywke!
 
 Jej koszt to 1099 KoksCoinów lub 23999 Rubinów.
 
 Jeżeli chcesz zakupić za KoksCoiny, kliknij lewym przyciskiem myszy i zaakceptuj.
 Jeżeli chcesz zakupić za Rubiny, kliknij prawym przyciskiem myszy i zaakceptuj.
 
+### Jak działa modyfikator sklepu?
+
+Modyfikator sklepu pozwala Tobie na zarządzanie układem głównego GUI sklepu. 
+
+Aby przypisać przedmiot do głównego okna, należy kliknąć go kombinacją SHIFT + PPM, a następnie wybrać pusty slot, w którym ma się pojawić.
+
 ## StatTrack
 
 Pozwala Tobie na liczenie statystyk takich jak:
+
 1. Zniszczone Łóżka
 2. Final Kille
 
 Owe statystyki będą wyświetlać się na czacie! 
+
 Koszt zakupu wynosi 1000 KoksCoinów.
 
 > [!TIP]
@@ -142,4 +151,4 @@ Informacje o topkach są dostępne [tutaj](/article/ogolne/topki)!
 
 ## Karnety
 
-Podczas każdego sezonu BedWars posiadasz możliwość kupienia karnetu BedWars, więcej informacji o karnetach można znależć tu [Karnety](https://wiki.kokscraft.pl/article/ogolne/karnety)!
+Podczas każdego sezonu BedWars posiadasz możliwość kupienia karnetu BedWars, więcej informacji o karnetach można znaleźć tu [Karnety](https://wiki.kokscraft.pl/article/ogolne/karnety)!
