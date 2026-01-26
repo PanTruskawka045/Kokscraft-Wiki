@@ -24,6 +24,7 @@ Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 |    Zajączek     |           0,45%           |             45%             |             0,35%              |               35%                |
 |      Slime      |           0,5%            |             50%             |              0,4%              |               40%                |
 | Wakacyjny Goryl |           0,75%           |             75%             |             0,65%              |               65%                |
+|   Mis Polarny   |           0,8%            |             80%             |              0,7%              |               70%                |
 
 ### Kapibara
 
@@ -60,6 +61,14 @@ Dostępny w karnecie **[Bedwars](/article/minigames/bedwars) Sezon X**.
 ![Slime](/assets/pets/pet-6.png)
 
 ### Wakacyjny Goryl
+
+Mozliwy do zakupu w **[Sklepie Eventowym](/article/ogolne/event-wakacyjny)**, lub przez wydropienie z **Skrzynki Wakacyjnej**.
+![Slime](/assets/pets/pet-7.png)
+
+### Mis Polarny
+
+Dostępny w karnecie **[Bedwars](/article/minigames/bedwars) Sezon XIII**.
+![Slime](/assets/pets/pet-8.png)
 
 Możliwy do zakupu w **[Sklepie Eventowym](/article/ogolne/event-wakacyjny)**, lub przez wydropienie z **Skrzynki Wakacyjnej**.
 ![Wakacyjny Goryl](/assets/pets/pet-7.png)
