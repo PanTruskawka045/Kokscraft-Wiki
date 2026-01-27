@@ -1,6 +1,9 @@
 name: Verify Markdown Images
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     types: [opened, synchronize, reopened]
 
