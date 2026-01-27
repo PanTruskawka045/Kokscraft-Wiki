@@ -1,18 +1,87 @@
-name: 'Pull Request Open Notification'
+name: Verify Markdown Images
+
 on:
   pull_request:
-    types: [opened, reopened]
+    types: [opened, synchronize, reopened]
 
 jobs:
-  notify:
+  verify-images:
     runs-on: ubuntu-latest
     steps:
-      - name: Send Discord notification
-        uses: stegzilla/discord-notify@v2
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          title: Stworzono nowego Pull Request'a
-          message: "**[${{ github.event.pull_request.title }}](${{ github.event.pull_request.html_url }})**\n**Przez: **[${{ github.event.pull_request.user.login }}](https://github.com/${{ github.event.pull_request.user.login }})\n"
-          include_image: true
-          avatar_url: https://avatars.githubusercontent.com/u/247478740?s=200&v=4
-          username: Kokscraft Wiki
+          python-version: '3.x'
+
+      - name: Run Image Verification Script
+        shell: python
+        run: |
+          import os
+          import re
+          import sys
+
+          # Flaga błedu
+          has_error = False
+
+          # Regex szukający obrazków: ![alt](url)
+          # Wyciągamy zawartość nawiasów okrągłych
+          image_pattern = re.compile(r'!\[.*?\]\((.*?)\)')
+
+          print("🔍 Rozpoczynam sprawdzanie poprawności ścieżek do obrazków w plikach .md...")
+
+          for root, dirs, files in os.walk('.'):
+              # Pomijamy folder .git i node_modules dla wydajności
+              if '.git' in dirs: dirs.remove('.git')
+              if 'node_modules' in dirs: dirs.remove('node_modules')
+
+              for file in files:
+                  if file.endswith('.md'):
+                      file_path = os.path.join(root, file)
+                      # Relatywna ścieżka do wyświetlania w logach
+                      rel_path = os.path.relpath(file_path, '.')
+          
+                      try:
+                          with open(file_path, 'r', encoding='utf-8') as f:
+                              lines = f.readlines()
+                      except UnicodeDecodeError:
+                          print(f"::warning file={rel_path}::Nie można odczytać pliku (problem z kodowaniem).")
+                          continue
+
+                      for i, line in enumerate(lines, start=1):
+                          # Znajdź wszystkie obrazki w danej linii
+                          matches = image_pattern.finditer(line)
+          
+                          for match in matches:
+                              # Pobieramy to co jest w nawiasach okrągłych (ścieżka + opcjonalny tytuł)
+                              full_ref = match.group(1).strip()
+          
+                              # Ignorujemy zewnętrzne linki (http/https)
+                              if full_ref.startswith('http://') or full_ref.startswith('https://'):
+                                  continue
+          
+                              # Obsługa formatu z tytułem np: /sciezka/img.png "Tytuł"
+                              # Bierzemy tylko pierwszą część przed spacją
+                              image_path = full_ref.split()[0]
+          
+                              # 1. Sprawdzenie czy zaczyna się od "/"
+                              if not image_path.startswith('/'):
+                                  print(f"::error file={rel_path},line={i}::Błąd ścieżki: Obrazek '{image_path}' nie zaczyna się od '/'. Ścieżki muszą być absolutne względem roota (np. /assets/img.png).")
+                                  has_error = True
+                                  continue # Nie sprawdzamy istnienia, jeśli format jest zły
+
+                              # 2. Sprawdzenie czy plik istnieje
+                              # Usuwamy pierwszy slash, aby połączyć ze ścieżką systemową (root repozytorium to kropka)
+                              local_path = image_path.lstrip('/')
+          
+                              if not os.path.isfile(local_path):
+                                  print(f"::error file={rel_path},line={i}::Brak pliku: Plik '{image_path}' nie istnieje w repozytorium.")
+                                  has_error = True
+
+          if has_error:
+              print("❌ Znaleziono błędy w ścieżkach do obrazków.")
+              sys.exit(1)
+          else:
+              print("✅ Wszystkie obrazki zweryfikowane pomyślnie.")
