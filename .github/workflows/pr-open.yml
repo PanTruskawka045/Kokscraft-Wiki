@@ -23,61 +23,47 @@ jobs:
           import re
           import sys
 
-          # Flaga błedu
           has_error = False
-
-          # Regex szukający obrazków: ![alt](url)
-          # Wyciągamy zawartość nawiasów okrągłych
           image_pattern = re.compile(r'!\[.*?\]\((.*?)\)')
 
           print("🔍 Rozpoczynam sprawdzanie poprawności ścieżek do obrazków w plikach .md...")
 
           for root, dirs, files in os.walk('.'):
-              # Pomijamy folder .git i node_modules dla wydajności
               if '.git' in dirs: dirs.remove('.git')
               if 'node_modules' in dirs: dirs.remove('node_modules')
 
               for file in files:
                   if file.endswith('.md'):
                       file_path = os.path.join(root, file)
-                      # Relatywna ścieżka do wyświetlania w logach
                       rel_path = os.path.relpath(file_path, '.')
           
                       try:
                           with open(file_path, 'r', encoding='utf-8') as f:
                               lines = f.readlines()
                       except UnicodeDecodeError:
-                          print(f"::warning file={rel_path}::Nie można odczytać pliku (problem z kodowaniem).")
+                          print(f"::warning file={rel_path}::{rel_path}: Nie można odczytać pliku (problem z kodowaniem).")
                           continue
 
                       for i, line in enumerate(lines, start=1):
-                          # Znajdź wszystkie obrazki w danej linii
                           matches = image_pattern.finditer(line)
           
                           for match in matches:
-                              # Pobieramy to co jest w nawiasach okrągłych (ścieżka + opcjonalny tytuł)
                               full_ref = match.group(1).strip()
           
-                              # Ignorujemy zewnętrzne linki (http/https)
                               if full_ref.startswith('http://') or full_ref.startswith('https://'):
                                   continue
           
-                              # Obsługa formatu z tytułem np: /sciezka/img.png "Tytuł"
-                              # Bierzemy tylko pierwszą część przed spacją
                               image_path = full_ref.split()[0]
           
-                              # 1. Sprawdzenie czy zaczyna się od "/"
                               if not image_path.startswith('/'):
-                                  print(f"::error file={rel_path},line={i}::Błąd ścieżki: Obrazek '{image_path}' nie zaczyna się od '/'. Ścieżki muszą być absolutne względem roota (np. /assets/img.png).")
+                                  print(f"::error file={rel_path},line={i}::{rel_path}: Błąd ścieżki: Obrazek '{image_path}' nie zaczyna się od '/'.")
                                   has_error = True
-                                  continue # Nie sprawdzamy istnienia, jeśli format jest zły
+                                  continue
 
-                              # 2. Sprawdzenie czy plik istnieje
-                              # Usuwamy pierwszy slash, aby połączyć ze ścieżką systemową (root repozytorium to kropka)
                               local_path = image_path.lstrip('/')
           
                               if not os.path.isfile(local_path):
-                                  print(f"::error file={rel_path},line={i}::Brak pliku: Plik '{image_path}' nie istnieje w repozytorium.")
+                                  print(f"::error file={rel_path},line={i}::{rel_path}: Brak pliku: Plik '{image_path}' nie istnieje w repozytorium.")
                                   has_error = True
 
           if has_error:
