@@ -3,7 +3,8 @@ Na serwerze znajdują się skrzynki, z których można wylosować przeróżne rz
 > [!NOTE]
 > Znajdziesz je w swoim ekwipunku.
 
-![Ekwipunek](assets/lootchests/ekwipunek.png)
+![Ekwipunek](/assets/lootchests/ekwipunek.png)
+
 ## Skrzynki stałe
 Można je otworzyć kluczem uniwersalnym. Klikając na taką skrzynkę, można zobaczyć wszystkie itemy, które są w puli do trafienia.
 > [!TIP]
@@ -55,14 +56,15 @@ Możesz je otworzyć na lobby bedwars lub UHC po lewej stronie od spawna. Owe sk
 
 W każdym tygodniu masz szansę wydropić nowe skrzynki i klucze po prostu grając na serwerze. Możesz sprawdzić swoje limity i to ile już otrzymałeś skrzynek/kluczy w tym tygodniu w GUI ich otwierania najeżdzając kursorem na książke w prawym dolnym rogu.
 
-![Statystykidropu](assets/lootchests/statystykidropu.png)
+![Statystykidropu](/assets/lootchests/statystykidropu.png)
 
 > [!TIP]
 > Każda ranga ma inny limit zdobywanych kluczy i skrzynek na tydzień.
 
 Po otwarciu skrzynki wyboru, wszystkim graczom znajdującym się na tym samym lobby co ty, wyświetla się informacja o tym co z danej skrzynki dostałeś.
 
-![Chatdrop](assets/lootchests/chatdrop.png)
+![Chatdrop](/assets/lootchests/chatdrop.png)
+
 ## Skrzynia boosterów
 Aktualnie tych skrzyń nie da się zdobyć, a otworzyć je można jedynie w momencie gdy posiada się zarówno klucz i skrzynię w ekwipunku. Da się z nich otrzymać wszelkiego rodzaju boosty rubinów/doświadczenia/waluty eventowej dla klanu/gracza/party/trybu.
 
