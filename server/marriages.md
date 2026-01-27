@@ -26,7 +26,7 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 - Aby zakupić zwierzaka za **rubiny** kliknij **prawym** przyciskiem myszy na rybke/kość/skóre królika.
 - Jeżeli posiadasz kilka zwierzaków, to Boosty się łączą ze sobą.
 - Musisz pamiętać o karmieniu swojego zwierzaka, żeby nie ucieknął.
-- W sklepie pod drugim slotem jest do kupna skrzynka z karmą, możesz je zakupić albo za 200 kokscoinów lub za 1000 robimów.
+- W sklepie pod drugim slotem jest do kupna skrzynka z karmą, możesz je zakupić albo za 200 kokscoinów lub za 1000 rubinów.
 - Aby osiągnąć wyższy poziom zwierzaka, należy wbijać exp'a
 
 ![skrzynia_pupili.png](/assets/marriages/skrzynia_pupili.png)
@@ -103,5 +103,6 @@ Informacja o rozwodzie.
 ![Komunikat chatu](/assets/marriages/chat_message2.png)
 
 Informacja o ulepszeniu związku.
+
 
 ![Komunikat chatu](/assets/marriages/chat_message3.png)
