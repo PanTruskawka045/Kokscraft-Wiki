@@ -30,13 +30,14 @@ Ponizej znajduje się lista najpotrzebniejszych komend związanych z klanami!
 - **/klan chat [WIADOMOŚĆ]** - Wysyła wiadomość na chat klanowy,
 - **@[WIADOMOŚĆ]** - Szybszy sposób wysłania wiadomości na chat klanowy. 
 
-## GUI Klanu
+## GUI Klanu 
 
-W GUI znajdziesz głowki, odpowiadające kolejno za:
+> [!TIP]
+> W GUI znajdziesz głowki, odpowiadające kolejno za:
 
 ![Gui](/assets/klany/gui-klanu-2.png)
 
-  1. Informacje o klanie,
+1. Informacje o klanie,
 2. Liste członków klanu,
 3. Poziomy klanu,
 4. Statystyki klanu,
@@ -44,16 +45,17 @@ W GUI znajdziesz głowki, odpowiadające kolejno za:
 6. Skarbiec klanu,
 7. Boostery klanu.
 
-
 ## Informacje O Klanie
 
-Tutaj znajdują się najpotrzebniejsze informacje dot. klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną strzałką główke!
+> [!TIP] 
+> Tutaj znajdują się najpotrzebniejsze informacje dot. klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną strzałką główke!
 
 ![InformacjeOKlanie](/assets/klany/klan-informacje2.png)
 
 ## Lista Członków Klanu
 
-Liste członków możesz sprawdzić klikając w główke wskazaną strzałką!
+> [!TIP]
+> Liste członków możesz sprawdzić klikając w główke wskazaną strzałką!
 
 ![CzłonkowieKlanu](/assets/klany/lista-czlonkow-klanu.png)
 
@@ -63,7 +65,8 @@ Będąc w GUI członków, najeżdżając na główkę danego gracza myszką, mo�
 
 ## Poziomy Ulepszeń Klanów 
 
-Poziomy klanu możesz sprawdzić klikając główkę wskazana strzałką!
+> [!TIP]
+> Poziomy klanu możesz sprawdzić klikając główkę wskazana strzałką!
 
 ![PoziomyKlanu](/assets/klany/poziomy-klanow.png)
 
@@ -71,22 +74,18 @@ Poziomy klanu możesz sprawdzić klikając główkę wskazana strzałką!
 
 ![PoziomyKlanu2](/assets/klany/poziomy-klanow-2.png)
 
-### Szczegółowy opis główek:
+### Ulepszenia Ogólne
+
+> [!WARNING]
+> Do tych ulepszeń ma dostęp Właściciel Klanu oraz jego Zastępca!
 
 1. Ulepszenie Mnożnika XP
    - Zwiększa ilość XP, które otrzymuje gracz.
 2. Ulepszenie Mnożnik Rubinów
    - Zwiększa ilość Rubinów, które otrzymuje gracz.
-3. Indywidualne ulepszenie Mnoznika XP
-   - Zwiększa ilość XP
-4. Indywidualne ulepszenie Podatku XP
-   - Zwiększa ilość XP
-5. Indywidualne ulepszenie Mnoznika Rubinów
-   - Zwiększa ilość Rubinów
-6. Indywidualne ulepszenie Podatku Rubinów
-   - Zwiększa ilość Rubinów
 
-**Boost XP** oraz **Rubinów**, mają takie same **ceny, wymagania i wartość mnożnika!**
+> [!NOTE]
+> Cena dla ulepszeń **Rubinów** oraz **XP** jest taka sama! 
 
 | Poziom | Cena W Rubinach | Cena W Kokscoinach | Wymagany Poziom | Wartość Mnożnika |
 |:------:|:---------------:|:------------------:|:---------------:|:----------------:|
@@ -125,6 +124,35 @@ Poziomy klanu możesz sprawdzić klikając główkę wskazana strzałką!
 |   33   |    3.328.000    |       8.500        |       89        |        66        | 
 |   34   |    3.497.000    |       9.000        |       95        |        68        | 
 |   35   |    3.772.000    |       10.000       |       100       |        70        |
+
+### Ulepszenia Indywidualne
+1. Indywidualne ulepszenie Mnoznika XP
+   - Zwiększa ilość XP, które otrzymuje gracz z gry!
+2. Indywidualne ulepszenie Podatku XP
+   - Zwiększa ilość XP | SOON |
+3. Indywidualne ulepszenie Mnoznika Rubinów
+   - Zwiększa ilość Rubinów, które otrzymuje gracz z gry!
+4. Indywidualne ulepszenie Podatku Rubinów
+   - Zwiększa ilość Rubinów cos | SOON |
+
+> [!WARNING]
+> Koszt ulepszenia jest pobierany z **Twojego Konta!**
+
+|  Poziom  |   Cena - Rubiny   |   Cena - Kokscoin   |
+|:--------:|:-----------------:|:------------------: |
+|    1     |      1.000        |          0          |
+|    2     |      2.000        |         100         |
+|    3     |      3.000        |         250         |
+|    4     |      4.000        |         250         |
+|    5     |         0         |         500         |
+|    6     |         0         |         500         |
+|    7     |         0         |         750         |
+|    8     |         0         |         750         |
+|    9     |         0         |         1000        |
+|   10     |         0         |         1000        |
+
+> [!NOTE]
+> Cena dla ulepszeń **Rubinów** oraz **XP** jest taka sama! Ulepszenia indywidualne oraz ogólne łączą się w **jeden wielki mnożnik**!
 
 ## Ustawienia Klanu
 
@@ -169,7 +197,8 @@ Zależnie od tego, jaką walutę chcemy wpłacić należy kliknąć
 
 ## Boostery
 
-W celu otwarcia GUI Boosterów należy kliknąć na wskazaną strzałką główkę!
+> [!TIP]
+> W celu otwarcia GUI Boosterów należy kliknąć na wskazaną strzałką główkę!
 
 ![Boostery](/assets/klany/klan-boostery.png)
 
