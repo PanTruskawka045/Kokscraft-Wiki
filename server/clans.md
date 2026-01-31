@@ -138,18 +138,18 @@ Będąc w GUI członków, najeżdżając na główkę danego gracza myszką, mo�
 > [!WARNING]
 > Koszt ulepszenia jest pobierany z **Twojego Konta!**
 
-|  Poziom  |   Cena - Rubiny   |   Cena - Kokscoin   |
-|:--------:|:-----------------:|:------------------: |
-|    1     |      1.000        |          0          |
-|    2     |      2.000        |         100         |
-|    3     |      3.000        |         250         |
-|    4     |      4.000        |         250         |
-|    5     |         0         |         500         |
-|    6     |         0         |         500         |
-|    7     |         0         |         750         |
-|    8     |         0         |         750         |
-|    9     |         0         |         1000        |
-|   10     |         0         |         1000        |
+| Poziom | Cena - Rubiny | Cena - Kokscoin |
+|:------:|:-------------:|:---------------:|
+|   1    |     1.000     |        0        |
+|   2    |     2.000     |       100       |
+|   3    |     3.000     |       250       |
+|   4    |     4.000     |       250       |
+|   5    |       0       |       500       |
+|   6    |       0       |       500       |
+|   7    |       0       |       750       |
+|   8    |       0       |       750       |
+|   9    |       0       |      1000       |
+|   10   |       0       |      1000       |
 
 > [!NOTE]
 > Cena dla ulepszeń **Rubinów** oraz **XP** jest taka sama! Ulepszenia indywidualne oraz ogólne łączą się w **jeden wielki mnożnik**!
@@ -167,22 +167,22 @@ W klanie można ustawić **podatek**, który będzie zabierał z gier procent z 
 
 ### Koloroy Klanów
 
-|                 Kolor                 |       Cena       |                 Wymagania                 |
-|:-------------------------------------:|:----------------:|:-----------------------------------------:|
-|  ![kolor1](/assets/klany/color1.png)  | 20000 kokscoinow |                   brak                    |
-|  ![kolor2](/assets/klany/color2.png)  | 20000 kokscoinow |                   brak                    |
-|  ![kolor3](/assets/klany/color3.png)  | 30000 kokscoinow |                   brak                    |
-|  ![kolor4](/assets/klany/color4.png)  |       brak       |                   brak                    | 
-|  ![kolor5](/assets/klany/color5.png)  |       brak       |                   brak                    |
-|  ![kolor6](/assets/klany/color6.png)  | 20000 kokscoinow |                   brak                    |
-|  ![kolor7](/assets/klany/color7.png)  | 5000 kokscoinow  |                   brak                    |
-|  ![kolor8](/assets/klany/color8.png)  | 10000 kokscoinow |                   brak                    |
-|  ![kolor9](/assets/klany/color9.png)  | 50000 kokscoinow |                   brak                    |
-| ![kolor10](/assets/klany/color10.png) |       brak       |                   brak                    |
-| ![kolor11](/assets/klany/color11.png) |       brak       | conajmniej 5 graczy musi mieć rangę KOKS. |
-| ![kolor12](/assets/klany/color12.png) |       brak       |  min. 20 osób i połowa musi mieć rangę.   |
-| ![kolor13](/assets/klany/color13.png) |       brak       |            min. 75 level klanu            |
-| ![kolor14](/assets/klany/color14.png) |       brak       |          maksymalny level klanu           |
+|                 Kolor                 |       Cena        |                 Wymagania                 |
+|:-------------------------------------:|:-----------------:|:-----------------------------------------:|
+|  ![kolor1](/assets/klany/color1.png)  | 20.000 kokscoinow |                   brak                    |
+|  ![kolor2](/assets/klany/color2.png)  | 20.000 kokscoinow |                   brak                    |
+|  ![kolor3](/assets/klany/color3.png)  | 30.000 kokscoinow |                   brak                    |
+|  ![kolor4](/assets/klany/color4.png)  |       brak        |                   brak                    | 
+|  ![kolor5](/assets/klany/color5.png)  |       brak        |                   brak                    |
+|  ![kolor6](/assets/klany/color6.png)  | 20.000 kokscoinow |                   brak                    |
+|  ![kolor7](/assets/klany/color7.png)  | 5.000 kokscoinow  |                   brak                    |
+|  ![kolor8](/assets/klany/color8.png)  | 10.000 kokscoinow |                   brak                    |
+|  ![kolor9](/assets/klany/color9.png)  | 50.000 kokscoinow |                   brak                    |
+| ![kolor10](/assets/klany/color10.png) |       brak        |                   brak                    |
+| ![kolor11](/assets/klany/color11.png) |       brak        | conajmniej 5 graczy musi mieć rangę KOKS. |
+| ![kolor12](/assets/klany/color12.png) |       brak        |  min. 20 osób i połowa musi mieć rangę.   |
+| ![kolor13](/assets/klany/color13.png) |       brak        |            min. 75 level klanu            |
+| ![kolor14](/assets/klany/color14.png) |       brak        |          maksymalny level klanu           |
 
 
 ## Skarbiec Klanu
