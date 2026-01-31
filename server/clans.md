@@ -206,4 +206,4 @@ Tutaj można zobaczyć aktywne Boostery Klanowe.
 
 ## Topki Klanowe
 
-Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/ogolne/topki)**
+Informacje o topkach są dostępne [tutaj](/article/ogolne/topki#topki-klanowe)
