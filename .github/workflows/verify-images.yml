@@ -1,0 +1,76 @@
+name: Verify Markdown Images
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  verify-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Image Verification Script
+        shell: python
+        run: |
+          import os
+          import re
+          import sys
+
+          has_error = False
+          image_pattern = re.compile(r'!\[.*?\]\((.*?)\)')
+
+          print("🔍 Rozpoczynam sprawdzanie poprawności ścieżek do obrazków w plikach .md...")
+
+          for root, dirs, files in os.walk('.'):
+              if '.git' in dirs: dirs.remove('.git')
+              if 'node_modules' in dirs: dirs.remove('node_modules')
+
+              for file in files:
+                  if file.endswith('.md'):
+                      file_path = os.path.join(root, file)
+                      rel_path = os.path.relpath(file_path, '.')
+          
+                      try:
+                          with open(file_path, 'r', encoding='utf-8') as f:
+                              lines = f.readlines()
+                      except UnicodeDecodeError:
+                          print(f"::warning file={rel_path}::{rel_path}: Nie można odczytać pliku (problem z kodowaniem).")
+                          continue
+
+                      for i, line in enumerate(lines, start=1):
+                          matches = image_pattern.finditer(line)
+          
+                          for match in matches:
+                              full_ref = match.group(1).strip()
+          
+                              if full_ref.startswith('http://') or full_ref.startswith('https://'):
+                                  continue
+          
+                              image_path = full_ref.split()[0]
+          
+                              if not image_path.startswith('/'):
+                                  print(f"::error file={rel_path},line={i}::{rel_path}: Błąd ścieżki: Obrazek '{image_path}' nie zaczyna się od '/'.")
+                                  has_error = True
+                                  continue
+
+                              local_path = image_path.lstrip('/')
+          
+                              if not os.path.isfile(local_path):
+                                  print(f"::error file={rel_path},line={i}::{rel_path}: Brak pliku: Plik '{image_path}' nie istnieje w repozytorium.")
+                                  has_error = True
+
+          if has_error:
+              print("❌ Znaleziono błędy w ścieżkach do obrazków.")
+              sys.exit(1)
+          else:
+              print("✅ Wszystkie obrazki zweryfikowane pomyślnie.")

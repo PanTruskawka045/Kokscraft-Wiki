@@ -103,7 +103,7 @@ Na trybie BoxPvP jest 7 skilli, które możesz zakupić, żeby ulepszyć swój e
 |   Mroczna Mgła    |      ![skill_mroczna_mgla.png](/assets/skybox/skill_mroczna_mgla.png)      |
 |   Pajęcza Sieć    |      ![skill_pajecza_siec.png](/assets/skybox/skill_pajecza_siec.png)      |
 | Podmuch Powietrza | ![skill_podmuch_powietrza.png](/assets/skybox/skill_podmuch_powietrza.png) |
-|     Zew Krwi      |        ![skill_zew _krwi.png](/assets/skybox/skill_zew%20_krwi.png)        |
+|     Zew Krwi      |         ![skill_zew _krwi.png](/assets/skybox/skill_zew_krwi.png)          |
 |    Furia Zeusa    |       ![skill_furia_zeusa.png](/assets/skybox/skill_furia_zeusa.png)       |
 |  Elytra Blocker   |    ![skill_elytra_blocker.png](/assets/skybox/skill_elytra_blocker.png)    |
 
