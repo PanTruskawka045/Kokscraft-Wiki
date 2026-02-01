@@ -138,16 +138,16 @@ Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
 
 | Poziom | Cena w Rubinach | Cena w Kokscoinach |
 |:------:|:---------------:|:------------------:|
-|   1    |      1.000      |          0         |
-|   2    |      2.000      |         100        |
-|   3    |      3.000      |         250        |
-|   4    |      4.000      |         250        |
-|   5    |        0        |         500        |
-|   6    |        0        |         500        |
-|   7    |        0        |         750        |
-|   8    |        0        |         750        |
-|   9    |        0        |         1000       |
-|   10   |        0        |         1000       |
+|   1    |      1.000      |         0          |
+|   2    |      2.000      |        100         |
+|   3    |      3.000      |        250         |
+|   4    |      4.000      |        250         |
+|   5    |        0        |        500         |
+|   6    |        0        |        500         |
+|   7    |        0        |        750         |
+|   8    |        0        |        750         |
+|   9    |        0        |        1000        |
+|   10   |        0        |        1000        |
 
 ## Ustawienia Klanu
 
@@ -180,10 +180,10 @@ Pozostałe kolory można odblokować spełniając poniższe wymagania:
 
 |   Specjalne Kolory   |                   Wymagania                    |
 |:--------------------:|:----------------------------------------------:|
-|  [MINECRAFT:&6Klan]  |       Min. 5 graczy musi mieć rangę KOKS.      |
-|  [MINECRAFT:&eKlan]  | Min. 20 osób, połowa z nich musi mieć rangę.   |
-|  [MINECRAFT:&cKlan]  |               min. 75 level klanu              |
-|  [MINECRAFT:&4Klan]  |            maksymalny level klanu              |
+|  [MINECRAFT:&6Klan]  |      Min. 5 graczy musi mieć rangę KOKS.       |
+|  [MINECRAFT:&eKlan]  |  Min. 20 osób, połowa z nich musi mieć rangę.  |
+|  [MINECRAFT:&cKlan]  |              min. 75 level klanu               |
+|  [MINECRAFT:&4Klan]  |             maksymalny level klanu             |
 
 
 ## Skarbiec Klanu
