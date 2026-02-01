@@ -162,13 +162,12 @@ W klanie można ustawić **podatek**, który będzie zabierał z gier procent z 
 
 ## Koloroy Klanów
 
-Poniżej znajdują się wszystkie dostępne kolory Klanów!
+Domyślnie otrzymuje się kolor biały ([MINECRAFT:&fKlan]), szary ([MINECRAFT:&7Klan]) oraz ciemno szary ([MINECRAFT:&8Klan])
+
+Niektóre kolory można zakupić za kokscoiny klanowe:
 
 |         Kolor        |       Cena        |
 |:--------------------:|:-----------------:|
-|  [MINECRAFT:&fKlan]  |       brak        |
-|  [MINECRAFT:&7Klan]  |       brak        |
-|  [MINECRAFT:&8Klan]  |       brak        |
 |  [MINECRAFT:&2Klan]  | 5.000 kokscoinow  |
 |  [MINECRAFT:&bKlan]  | 10.000 kokscoinow |
 |  [MINECRAFT:&aKlan]  | 20.000 kokscoinow |
@@ -177,7 +176,7 @@ Poniżej znajdują się wszystkie dostępne kolory Klanów!
 |  [MINECRAFT:&5Klan]  | 30.000 kokscoinow |
 |  [MINECRAFT:&dKlan]  | 50.000 kokscoinow |
 
-### Na serwerze dostępne są także specjalne kolory. Poniżej znajdują się ich wymagania!
+Pozostałe kolory można odblokować spełniając poniższe wymagania:
 
 |   Specjalne Kolory   |                   Wymagania                    |
 |:--------------------:|:----------------------------------------------:|
