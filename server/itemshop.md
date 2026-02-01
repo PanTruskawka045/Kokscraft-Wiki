@@ -42,6 +42,6 @@ Jest to błąd ze strony pośrednika płatności, nie zależy od nas, musisz zac
 
 ## Metody płatności
 
-W [serwerowym sklepie internetowym](kokscraft.pl/sklep) dostępne są wyłącznie metody płatności widniejące na stronie.
+W [serwerowym sklepie internetowym](https://kokscraft.pl/sklep) dostępne są wyłącznie metody płatności widniejące na stronie.
 
 ![Metodyplatnosci](/assets/itemshop/metody-platnosci.png)
