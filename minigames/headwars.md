@@ -112,23 +112,23 @@ Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą z
 
 ![ulepszenia.png](/assets/head-wars/ulepszenia.png)
 
-| **Ulepszenia**                                                                        |
-|---------------------------------------------------------------------------------------|
-| ![ochrona1.png](/assets/head-wars/ochrona1.png)                                       |
-| ![ochrona2.png](/assets/head-wars/ochrona2.png)                                       | 
-| ![ochrona3.png](/assets/head-wars/ochrona3.png)                                       | 
-| ![ochrona4.png](/assets/head-wars/ochrona4.png)                                       |
+| **Ulepszenia**                                                                      |
+|-------------------------------------------------------------------------------------|
+| ![ochrona1.png](/assets/head-wars/ochrona1.png)                                     |
+| ![ochrona2.png](/assets/head-wars/ochrona2.png)                                     | 
+| ![ochrona3.png](/assets/head-wars/ochrona3.png)                                     | 
+| ![ochrona4.png](/assets/head-wars/ochrona4.png)                                     |
 | ![zwiekszony _limit_za_diax1.png](/assets/head-wars/zwiekszony%20_limit_za_diax1.png) |
-| ![zwiekszony _limit_za_diax.png](/assets/head-wars/zwiekszony%20_limit_za_diax.png)   |
-| ![ostrosc1.png](/assets/head-wars/ostrosc1.png)                                       |
-| ![ostrosc2.png](/assets/head-wars/ostrosc2.png)                                       |
-| ![szybkie_kopanie1.png](/assets/head-wars/szybkie_kopanie1.png)                       |
-| ![szybkie_kopanie2.png](/assets/head-wars/szybkie_kopanie2.png)                       |
-| ![powolne_opadanie1.png](/assets/head-wars/powolne_opadanie1.png)                     |
-| ![powolne_opadanie2.png](/assets/head-wars/powolne_opadanie2.png)                     |
-| ![efekt_zycia.png](../assets/head-wars/efekt_zycia.png)                               |
-| ![efekt_sily.png](../assets/head-wars/efekt_sily.png)                                 |
-| ![zaklety_ogien.png](../assets/head-wars/zaklety_ogien.png)                           |
+| ![zwiekszony _limit_za_diax.png](/assets/head-wars/zwiekszony%20_limit_za_diax.png) |
+| ![ostrosc1.png](/assets/head-wars/ostrosc1.png)                                     |
+| ![ostrosc2.png](/assets/head-wars/ostrosc2.png)                                     |
+| ![szybkie_kopanie1.png](/assets/head-wars/szybkie_kopanie1.png)                     |
+| ![szybkie_kopanie2.png](/assets/head-wars/szybkie_kopanie2.png)                     |
+| ![powolne_opadanie1.png](/assets/head-wars/powolne_opadanie1.png)                   |
+| ![powolne_opadanie2.png](/assets/head-wars/powolne_opadanie2.png)                   |
+| ![efekt_zycia.png](/assets/head-wars/efekt_zycia.png)                               |
+| ![efekt_sily.png](/assets/head-wars/efekt_sily.png)                                 |
+| ![zaklety_ogien.png](/assets/head-wars/zaklety_ogien.png)                           |
 
 > [!TIP]
 > Efekty życia, siły oraz zaklętego ognia możesz zakupić dopiero wtedy, gdy posiadasz wszystkie pozostałe ulepszenia.
