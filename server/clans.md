@@ -13,7 +13,6 @@ Na serwerze możesz stworzyć **własny klan** albo **dołączyć do istniejące
 - **TAG** oraz **NAZWA** klanu nie mogą zawierać słów w jakikolwiek sposób łamiących regulamin. Będzie to skutkować usunięciem klanu,
 - Aby dołączyć do klanu trzeba mieć conajmniej **10 level** na serwerze.
 
-
 ## Komendy
 
 Ponizej znajduje się lista najpotrzebniejszych komend związanych z klanami!
@@ -32,60 +31,53 @@ Ponizej znajduje się lista najpotrzebniejszych komend związanych z klanami!
 
 ## GUI Klanu 
 
-> [!TIP]
-> W GUI znajdziesz głowki, odpowiadające kolejno za:
+W GUI znajdziesz wszystkie ważne informacje dotyczące Twojego aktualnego klanu. Aby otworzyć gui nalezy użyc komendy /klan panel!
 
-![Gui](/assets/klany/gui-klanu-2.png)
-
-1. Informacje o klanie,
-2. Liste członków klanu,
-3. Poziomy klanu,
-4. Statystyki klanu,
-5. Ustawienia klanu,
-6. Skarbiec klanu,
-7. Boostery klanu.
+![GuiKlan](/assets/klany/gui-klan.png)
 
 ## Informacje O Klanie
 
 > [!TIP] 
-> Tutaj znajdują się najpotrzebniejsze informacje dot. klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną strzałką główke!
+> Tutaj znajdują się najpotrzebniejsze informacje dot. klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną główke!
 
-![InformacjeOKlanie](/assets/klany/klan-informacje2.png)
+![InformacjeOKlanie](/assets/klany/info-klan.png)
 
 ## Lista Członków Klanu
 
 > [!TIP]
-> Liste członków możesz sprawdzić klikając w główke wskazaną strzałką!
+> Liste członków możesz sprawdzić klikając wskazaną główkę!
 
-![CzłonkowieKlanu](/assets/klany/lista-czlonkow-klanu.png)
+![CzłonkowieKlanu](/assets/klany/czlonkowie-klan.png)
 
 Będąc w GUI członków, najeżdżając na główkę danego gracza myszką, można:
-- Sprawdzić ilośc wpłaconych **Kokscoinow** albo **Rubinów** do klanu przez wybranego gracza. 
+- Sprawdzić ilośc wpłaconych **Kokscoinow** oraz **Rubinów** do klanu przez wybranego gracza. 
 - **Właściciel** klanu może nadawać i odbierać rangę **Zastępcy**. Zarówno Właściciel, jak i Zastępca mają możliwość dodawania oraz usuwania graczy z klanu.
 
-## Poziomy Ulepszeń Klanów 
+## Poziomy Ulepszeń Klanu
 
 > [!TIP]
-> Poziomy klanu możesz sprawdzić klikając główkę wskazana strzałką!
+> GUI Poziomów klanu możesz sprawdzić klikając wskazaną główkę!
 
-![PoziomyKlanu](/assets/klany/poziomy-klanow.png)
+![PoziomyKlanu](/assets/klany/poziomy-klan.png)
 
-#### Po kliknięciu wyżej wymienionej główki otworzy się **GUI Poziomów Klanu**.
-
-![PoziomyKlanu2](/assets/klany/poziomy-klanow-2.png)
-
-### Ulepszenia Ogólne
+## Ogólne Ulepszenia Klanu
 
 > [!WARNING]
 > Do tych ulepszeń ma dostęp Właściciel Klanu oraz jego Zastępca!
 
-1. Ulepszenie Mnożnika XP
-   - Zwiększa ilość XP, które otrzymuje gracz.
-2. Ulepszenie Mnożnik Rubinów
-   - Zwiększa ilość Rubinów, które otrzymuje gracz.
+### Mnoznik XP 
+Ulepszenie to zwiększa ilość XP, które otrzymuje gracz.
 
+![xp.png](/assets/klany/mnoznikxp.png) 
+
+### Mnoznik Rubinów
+Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
+
+![rubiny.png](/assets/klany/mnoznikrubiny.png) 
+
+### Ceny powyższych ulepszeń klanu
 > [!NOTE]
-> Cena dla ulepszeń **Rubinów** oraz **XP** jest taka sama! 
+> Cena ulepszeń **Rubinów** oraz **XP** jest taka sama! Koszt ulepszenia jest pobierany z **Konta Klanu!**
 
 | Poziom | Cena W Rubinach | Cena W Kokscoinach | Wymagany Poziom | Wartość Mnożnika |
 |:------:|:---------------:|:------------------:|:---------------:|:----------------:|
@@ -125,80 +117,90 @@ Będąc w GUI członków, najeżdżając na główkę danego gracza myszką, mo�
 |   34   |    3.497.000    |       9.000        |       95        |       +68%       | 
 |   35   |    3.772.000    |       10.000       |       100       |       +70%       |
 
-### Ulepszenia Indywidualne
-1. Indywidualne ulepszenie Mnoznika XP
-   - Zwiększa ilość XP, które otrzymuje gracz z gry!
-2. Indywidualne ulepszenie Podatku XP
-   - Zwiększa ilość XP | SOON |
-3. Indywidualne ulepszenie Mnoznika Rubinów
-   - Zwiększa ilość Rubinów, które otrzymuje gracz z gry!
-4. Indywidualne ulepszenie Podatku Rubinów
-   - Zwiększa ilość Rubinów cos | SOON |
+## Indywidualne Ulepszenia Klanu
 
 > [!WARNING]
-> Koszt ulepszenia jest pobierany z **Twojego Konta!**
+> Do tych ulepszeń ma dostęp każda osoba w klanie!
 
-| Poziom | Cena - Rubiny | Cena - Kokscoin |
-|:------:|:-------------:|:---------------:|
-|   1    |     1.000     |        0        |
-|   2    |     2.000     |       100       |
-|   3    |     3.000     |       250       |
-|   4    |     4.000     |       250       |
-|   5    |       0       |       500       |
-|   6    |       0       |       500       |
-|   7    |       0       |       750       |
-|   8    |       0       |       750       |
-|   9    |       0       |      1000       |
-|   10   |       0       |      1000       |
+### Indywidualne ulepszenie Mnoznika XP 
+Ulepszenie to zwiększa ilość XP, które otrzymuje gracz.
 
+![indywidualnexp.png](/assets/klany/indywidualnymnoznikxp.png) 
+
+### Indywidualne ulepszenie Mnoznika Rubinów 
+Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
+
+![indywidualnerubiny.png](/assets/klany/indywidualnymnoznikrubinow.png)
+
+### Ceny powyższych ulepszeń Klanu
 > [!NOTE]
-> Cena dla ulepszeń **Rubinów** oraz **XP** jest taka sama! Ulepszenia indywidualne oraz ogólne łączą się w **jeden wielki mnożnik**!
+> Cena ulepszeń **Rubinów** oraz **XP** jest taka sama! Koszt ulepszenia jest pobierany z **Twojego Konta!**
+
+| Poziom | Cena w Rubinach | Cena w Kokscoinach |
+|:------:|:---------------:|:------------------:|
+|   1    |      1.000      |          0         |
+|   2    |      2.000      |         100        |
+|   3    |      3.000      |         250        |
+|   4    |      4.000      |         250        |
+|   5    |        0        |         500        |
+|   6    |        0        |         500        |
+|   7    |        0        |         750        |
+|   8    |        0        |         750        |
+|   9    |        0        |         1000       |
+|   10   |        0        |         1000       |
 
 ## Ustawienia Klanu
 
-W celu otwarcia GUI ustawień należy użyć główki wskazanej strzałką. Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
+W celu otwarcia GUI ustawień należy użyć wskazanej główki. Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
-![PoziomyKlanu](/assets/klany/ustawienia-klanu.png)
+![UstawieniaKlanu](/assets/klany/ustawienia-klanu.png)
 
 ### Podatek Klanowy
 
 W klanie można ustawić **podatek**, który będzie zabierał z gier procent z otrzymanego XP od gracza. Podatek można ustawić od 0% do 10%. 
 
 
-### Koloroy Klanów
+## Koloroy Klanów
 
-|                 Kolor                 |       Cena        |                 Wymagania                 |
-|:-------------------------------------:|:-----------------:|:-----------------------------------------:|
-|  ![kolor1](/assets/klany/color1.png)  | 20.000 kokscoinow |                   brak                    |
-|  ![kolor2](/assets/klany/color2.png)  | 20.000 kokscoinow |                   brak                    |
-|  ![kolor3](/assets/klany/color3.png)  | 30.000 kokscoinow |                   brak                    |
-|  ![kolor4](/assets/klany/color4.png)  |       brak        |                   brak                    | 
-|  ![kolor5](/assets/klany/color5.png)  |       brak        |                   brak                    |
-|  ![kolor6](/assets/klany/color6.png)  | 20.000 kokscoinow |                   brak                    |
-|  ![kolor7](/assets/klany/color7.png)  | 5.000 kokscoinow  |                   brak                    |
-|  ![kolor8](/assets/klany/color8.png)  | 10.000 kokscoinow |                   brak                    |
-|  ![kolor9](/assets/klany/color9.png)  | 50.000 kokscoinow |                   brak                    |
-| ![kolor10](/assets/klany/color10.png) |       brak        |                   brak                    |
-| ![kolor11](/assets/klany/color11.png) |       brak        | conajmniej 5 graczy musi mieć rangę KOKS. |
-| ![kolor12](/assets/klany/color12.png) |       brak        |  min. 20 osób i połowa musi mieć rangę.   |
-| ![kolor13](/assets/klany/color13.png) |       brak        |            min. 75 level klanu            |
-| ![kolor14](/assets/klany/color14.png) |       brak        |          maksymalny level klanu           |
+Poniżej znajdują się wszystkie dostępne kolory Klanów!
+
+|         Kolor        |       Cena        |
+|:--------------------:|:-----------------:|
+|  [MINECRAFT:&fKlan]  |       brak        |
+|  [MINECRAFT:&7Klan]  |       brak        |
+|  [MINECRAFT:&8Klan]  |       brak        |
+|  [MINECRAFT:&2Klan]  | 5.000 kokscoinow  |
+|  [MINECRAFT:&bKlan]  | 10.000 kokscoinow |
+|  [MINECRAFT:&aKlan]  | 20.000 kokscoinow |
+|  [MINECRAFT:&3Klan]  | 20.000 kokscoinow |
+|  [MINECRAFT:&9Klan]  | 20.000 kokscoinow |
+|  [MINECRAFT:&5Klan]  | 30.000 kokscoinow |
+|  [MINECRAFT:&dKlan]  | 50.000 kokscoinow |
+
+### Na serwerze dostępne są także specjalne kolory. Poniżej znajdują się ich wymagania!
+
+|   Specjalne Kolory   |                   Wymagania                    |
+|:--------------------:|:----------------------------------------------:|
+|  [MINECRAFT:&6Klan]  |       Min. 5 graczy musi mieć rangę KOKS.      |
+|  [MINECRAFT:&eKlan]  | Min. 20 osób, połowa z nich musi mieć rangę.   |
+|  [MINECRAFT:&cKlan]  |               min. 75 level klanu              |
+|  [MINECRAFT:&4Klan]  |            maksymalny level klanu              |
 
 
 ## Skarbiec Klanu
 
-W celu wpłacenia do skarbca klanu **Rubinów** albo **Kokscoinów** należy nakierować myszką na wskzaną strzałką **tabliczkę**. 
+W celu wpłacenia do skarbca klanu **Rubinów** albo **Kokscoinów** należy nakierować myszką na **tabliczkę**. 
 
-![Skarbiec](/assets/klany/klan-skarbiec-2.png)
+![Skarbiec](/assets/klany/klan-skarbiec.png)
 
-Zależnie od tego, jaką walutę chcemy wpłacić należy kliknąć 
+Zależnie od tego, jaką walutę chcemy wpłacić należy kliknąć:
 - Dla Rubinów - **PRAWY PRZYCISK MYSZY**
 - Dla Kokscoinów - **LEWY PRZYCISK MYSZY**
 
 ## Boostery
 
 > [!TIP]
-> W celu otwarcia GUI Boosterów należy kliknąć na wskazaną strzałką główkę!
+> W celu otwarcia GUI Boosterów należy kliknąć na wskazaną główkę!
 
 ![Boostery](/assets/klany/klan-boostery.png)
 
