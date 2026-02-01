@@ -39,17 +39,17 @@ Na HeadWars musisz pamiętać, że generatory żelaza, złota i diamentów dzia�
 
 Jeżeli minie czas działania generatora, to zostaje on zniszczony, a wszystkie surowce, które wygenerował, pozostają na ziemi, które możesz zebrać i zakupić nowy!
 
-| Generator                      | Czas działania |
-|--------------------------------|----------------|
-| Generator Żelaza (Poziom 1)    | 288 sekund     |
-| Generator Żelaza (Poziom 2)    | 432 sekund     |
-| Generator Żelaza (Poziom 3)    | 648 sekund     |
-| Generator Złota (Poziom 1)     | 288 sekund     |
-| Generator Złota (Poziom 1)     | 432 sekund     |
-| Generator Złota (Poziom 1)     | 648 sekund     |
-| Generator Diamentów (Poziom 1) | 768 sekund     |
-| Generator Diamentów (Poziom 2) | 1152 sekund    |
-| Generator Diamentów (Poziom 3) | 1080 sekund    |
+| Generator                      | Czas działania      |
+|--------------------------------|---------------------|
+| Generator Żelaza (Poziom 1)    | 4 minut, 48 sekund  |
+| Generator Żelaza (Poziom 2)    | 7 minut, 12 sekund  |
+| Generator Żelaza (Poziom 3)    | 10 minut, 48 sekund |
+| Generator Złota (Poziom 1)     | 4 minut, 48 sekund  |
+| Generator Złota (Poziom 1)     | 7 minut, 12 sekund  |
+| Generator Złota (Poziom 1)     | 10 minut, 48 sekund |
+| Generator Diamentów (Poziom 1) | 12 minut, 48 sekund |
+| Generator Diamentów (Poziom 2) | 19 minut, 12 sekund |
+| Generator Diamentów (Poziom 3) | 18 minut            |
 
 ### Ulepszator
 
@@ -57,10 +57,10 @@ Ulepszator jest to drewniana motyka, która pojawia się na 9 slocie, dzięki kt
 
 Kliknąć prawym przyciskiem myszy (ppm) w stronę generatora lub bloku wełny za niewielką opłatą, która jest zależna od rodzaju generatora oraz bloku.
 
-| Poziom Generatora    | Koszt Ulepszenia Żelaznego | Koszt Ulepszenia Złotego | Koszt Ulepszenia Diamnetowego |
-|-----------------------|--------------------------|-------------------------|-------------------------------|
-| 1 > 2                 | 16 Żelaza                | 12 Złota                | 6 Diamentów                   |
-| 2 > 3                 | 8 Złota                  | 4 Diamenty              | 4 Emeraldy                    |
+| Poziom Generatora | Koszt Ulepszenia Żelaznego | Koszt Ulepszenia Złotego | Koszt Ulepszenia Diamnetowego |
+|-------------------|----------------------------|--------------------------|-------------------------------|
+| 1 > 2             | 16 Żelaza                  | 12 Złota                 | 6 Diamentów                   |
+| 2 > 3             | 8 Złota                    | 4 Diamenty               | 4 Emeraldy                    |
 
 | Blok      | Cena           |
 |-----------|----------------|
@@ -74,36 +74,36 @@ U villagera możesz zakupić różnorodne przedmioty, bloki oraz ulepszenia, kt�
 
 ![sklep.png](/assets/head-wars/sklep.png)
 
-| Itemy                            | Cena        |
-|----------------------------------|-------------|
-| Jajko                            | 2 Emeraldy  |
-| Pajęczyna                        | 10 Złota    |
-| Złote Jabłko                     | 10 Złota    |
-| Wędka                            | 5 Diamentów |
-| Drabina 5x                       | 12 Żelaza   |
-| Generator Żelaza                 | 6 Żelaza    | 
-| Wełna                            | 6 Żelaza    |
-| Kamienny Miecz                   | 16 Żelaza   |
-| Skurzana Klata, Spodnie i Buty   | 64 Żelaza   |
-| Kolczugowa Klata, Spodnie i Buty | 64 złota    | 
-| Żelazna Klata, Spodnie i Buty    | 64 Diamenów |
+| Itemy                            | Cena         |
+|----------------------------------|--------------|
+| Jajko                            | 2 Emeraldy   |
+| Pajęczyna                        | 10 Złota     |
+| Złote Jabłko                     | 10 Złota     |
+| Wędka                            | 5 Diamentów  |
+| Drabina 5x                       | 12 Żelaza    |
+| Generator Żelaza                 | 6 Żelaza     | 
+| Wełna                            | 6 Żelaza     |
+| Kamienny Miecz                   | 16 Żelaza    |
+| Skurzana Klata, Spodnie i Buty   | 64 Żelaza    |
+| Kolczugowa Klata, Spodnie i Buty | 64 złota     | 
+| Żelazna Klata, Spodnie i Buty    | 64 Diamenów  |
 | Diamentowa Klata, Spodnie i Buty | 12 Emeraldów |
-| Łuk                              | 12 Złota    |
-| Łuk Z Moc 1                      | 24 Złota    |
-| Łuk Z Moc 2                      | 6 Emeraldów |
-| Wiadro Wody                      | 10 Złota    | 
-| Generator Złota                  | 24 Żelaza   |
-| Drewniany Kilof                  | 10 Żelaza   |
-| Żelazny Kilof                    | 10 Złota    |
+| Łuk                              | 12 Złota     |
+| Łuk Z Moc 1                      | 24 Złota     |
+| Łuk Z Moc 2                      | 6 Emeraldów  |
+| Wiadro Wody                      | 10 Złota     | 
+| Generator Złota                  | 24 Żelaza    |
+| Drewniany Kilof                  | 10 Żelaza    |
+| Żelazny Kilof                    | 10 Złota     |
 | Diamentowy Kilof                 | 10 Diamentów |
-| Żelazny Miecz                    | 16 Złota    |
-| Strzału 8x                       | 8 Diamentów |
-| TNT                              | 16 Złota    |
-| Generator Diamentów              | 12 Złota    |
-| Nożyce                           | 32 Żelaza   |
+| Żelazny Miecz                    | 16 Złota     |
+| Strzału 8x                       | 8 Diamentów  |
+| TNT                              | 16 Złota     |
+| Generator Diamentów              | 12 Złota     |
+| Nożyce                           | 32 Żelaza    |
 | Diamentowy Miecz                 | 16 Diamentów |
-| Skrzynia                         | 32 Żelaza   |
-| Kula Ognia                       | 8 Diamentów |
+| Skrzynia                         | 32 Żelaza    |
+| Kula Ognia                       | 8 Diamentów  |
 
 > [!TIP]
 > Jeżeli zakupisz np. żelazny kilof i zginiesz, po śmierci jego poziom spadnie do drewnianego kilofa, a jak będziesz posiadał diamentowy, to spadnie na żelazny.
@@ -112,23 +112,23 @@ Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą z
 
 ![ulepszenia.png](/assets/head-wars/ulepszenia.png)
 
-| **Ulepszenia**                                                                   |
-|----------------------------------------------------------------------------------|
-| ![ochrona1.png](/assets/head-wars/ochrona1.png)                                  |
-| ![ochrona2.png](/assets/head-wars/ochrona2.png)                                  | 
-| ![ochrona3.png](/assets/head-wars/ochrona3.png)                                  | 
-| ![ochrona4.png](/assets/head-wars/ochrona4.png)                                  |
+| **Ulepszenia**                                                                     |
+|------------------------------------------------------------------------------------|
+| ![ochrona1.png](/assets/head-wars/ochrona1.png)                                    |
+| ![ochrona2.png](/assets/head-wars/ochrona2.png)                                    | 
+| ![ochrona3.png](/assets/head-wars/ochrona3.png)                                    | 
+| ![ochrona4.png](/assets/head-wars/ochrona4.png)                                    |
 | ![zwiekszony _limit_za_diax1.png](/assets/head-wars/zwiekszony_limit_za_diax1.png) |
-| ![zwiekszony _limit_za_diax.png](/assets/head-wars/zwiekszony_limit_za_diax.png) |
-| ![ostrosc1.png](/assets/head-wars/ostrosc1.png)                                  |
-| ![ostrosc2.png](/assets/head-wars/ostrosc2.png)                                  |
-| ![szybkie_kopanie1.png](/assets/head-wars/szybkie_kopanie1.png)                  |
-| ![szybkie_kopanie2.png](/assets/head-wars/szybkie_kopanie2.png)                  |
-| ![powolne_opadanie1.png](/assets/head-wars/powolne_opadanie1.png)                |
-| ![powolne_opadanie2.png](/assets/head-wars/powolne_opadanie2.png)                |
-| ![efekt_zycia.png](/assets/head-wars/efekt_zycia.png)                            |
-| ![efekt_sily.png](/assets/head-wars/efekt_sily.png)                              |
-| ![zaklety_ogien.png](/assets/head-wars/zaklety_ogien.png)                        |
+| ![zwiekszony _limit_za_diax.png](/assets/head-wars/zwiekszony_limit_za_diax.png)   |
+| ![ostrosc1.png](/assets/head-wars/ostrosc1.png)                                    |
+| ![ostrosc2.png](/assets/head-wars/ostrosc2.png)                                    |
+| ![szybkie_kopanie1.png](/assets/head-wars/szybkie_kopanie1.png)                    |
+| ![szybkie_kopanie2.png](/assets/head-wars/szybkie_kopanie2.png)                    |
+| ![powolne_opadanie1.png](/assets/head-wars/powolne_opadanie1.png)                  |
+| ![powolne_opadanie2.png](/assets/head-wars/powolne_opadanie2.png)                  |
+| ![efekt_zycia.png](/assets/head-wars/efekt_zycia.png)                              |
+| ![efekt_sily.png](/assets/head-wars/efekt_sily.png)                                |
+| ![zaklety_ogien.png](/assets/head-wars/zaklety_ogien.png)                          |
 
 > [!TIP]
 > Efekty życia, siły oraz zaklętego ognia możesz zakupić dopiero wtedy, gdy posiadasz wszystkie pozostałe ulepszenia.
