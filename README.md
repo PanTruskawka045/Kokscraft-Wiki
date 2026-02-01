@@ -22,7 +22,7 @@ Następnie dodawaj nagłówki stopnia 2, które będą opisywały dane części 
 ## Generator
 
 Generator to miejsce, w którym zbieramy zasoby
-![Generator Bedwars](/assets/bedwars/example-generator.png)
+![Generator Bedwars](/assets/bedwars/diamenty.png)
 ```
 
 # Obrazki
@@ -32,11 +32,11 @@ sposób:
 
 Załóżmy że na obrazku jest generator i opisujesz tryb bedwars.
 Plik umieść w folderze `assets/bedwars`, i nazwij go tak, żeby nazwa ukazywała co dany obrazek przedstawia
-W tym przykładzie plik z obrazem nazywa się `example-generator.png`
+W tym przykładzie plik z obrazem nazywa się `diamenty.png`
 Aby Umieścić obrazek w artykule, użyj poniższego kodu:
 
 ```md
-![Generator Bedwars](/assets/bedwars/example-generator.png)
+![Generator Bedwars](/assets/bedwars/diamenty.png)
 ```
 
 W kwadratowych nawiasach podaj opis obrazka, a w nawiasach okrągłych ścieżkę do obrazka (jak na przykładzie)
