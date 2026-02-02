@@ -120,3 +120,4 @@ Z otwierania skrzyń możesz zdobyć:
 Skrzynie eventowe (np. Halloween, Świąteczne) mają w opisie informację o zwiększonych szansach na przedmioty z konkretnej kolekcji.
 
 [MINECRAFT:&6Skrzynia eventowa &ezwiększa szanse na drop przedmiotów z kolekcji wydarzenia.]
+
