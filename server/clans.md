@@ -4,41 +4,41 @@ Na serwerze możesz stworzyć **własny klan** albo **dołączyć do istniejące
 
 ### Dodatkowe Informacje
 
-- **TAG** klanu może zawierać od 2-5 znaków,
-- **NAZWA** klanu może zawierać od 6-24 znaków,
-- **KOSZT** założenia klanu to 1500 Kokscoinow i 5000 Rubinów. 
+- **TAG** Klanu może zawierać od 2-5 znaków,
+- **NAZWA** Klanu może zawierać od 6-24 znaków,
+- **KOSZT** założenia Klanu to 1500 Kokscoinow i 5000 Rubinów. 
 
 ### Ważne!
 
-- **TAG** oraz **NAZWA** klanu nie mogą zawierać słów w jakikolwiek sposób łamiących regulamin. Będzie to skutkować usunięciem klanu,
-- Aby dołączyć do klanu trzeba mieć conajmniej **10 level** na serwerze.
+- **TAG** oraz **NAZWA** Klanu nie mogą zawierać słów w jakikolwiek sposób łamiących regulamin. Będzie to skutkować usunięciem klanu,
+- Aby dołączyć do Klanu trzeba mieć conajmniej **10 level** na serwerze.
 
 ## Komendy
 
-Ponizej znajduje się lista najpotrzebniejszych komend związanych z klanami!
-- **/klan zaloz [TAG] [NAZWA]** - Tworzy klan o podanym tagu i nazwie,
-- **/klan info [TAG]** - Wyświetla szczegółowe informacje o wybranym klanie,
-- **/klan usun** - Usuwa klan, którego jesteś właścicielem,
-- **/klan panel** - Otwiera panel zarządzania klanem,
-- **/klan wlasciciel [NICK]** - Przekazuje własność klanu wskazanemu graczowi,
-- **/klan zapros [NICK]** - Wysyła zaproszenie do klanu wybranemu graczowi,
-- **/klan wyrzuc [NICK]** - Usuwa gracza z klanu,
-- **/klan dolacz [TAG]** - Dołącza do klanu o podanym tagu (do którego otrzymałaś/eś zaproszenie),
-- **/klan opusc** - Opuszcza aktualny klan,
-- **/klan list** - Wyświetla listę członków klanu,
-- **/klan chat [WIADOMOŚĆ]** - Wysyła wiadomość na chat klanowy,
-- **@[WIADOMOŚĆ]** - Szybszy sposób wysłania wiadomości na chat klanowy. 
+Ponizej znajduje się lista najpotrzebniejszych komend związanych z Klanami!
+- **/klan zaloz [TAG] [NAZWA]** - Tworzy Klan o podanym tagu i nazwie,
+- **/klan info [TAG]** - Wyświetla szczegółowe informacje o wybranym Klanie,
+- **/klan usun** - Usuwa Klan, którego jesteś właścicielem,
+- **/klan panel** - Otwiera panel zarządzania Klanem,
+- **/klan wlasciciel [NICK]** - Przekazuje własność Klanu wskazanemu graczowi,
+- **/klan zapros [NICK]** - Wysyła zaproszenie do Klanu wybranemu graczowi,
+- **/klan wyrzuc [NICK]** - Usuwa gracza z Klanu,
+- **/klan dolacz [TAG]** - Dołącza do Klanu o podanym tagu (do którego otrzymałaś/eś zaproszenie),
+- **/klan opusc** - Opuszcza aktualny Klan,
+- **/klan list** - Wyświetla listę członków Klanu,
+- **/klan chat [WIADOMOŚĆ]** - Wysyła wiadomość na chat Klanowy,
+- **@[WIADOMOŚĆ]** - Szybszy sposób wysłania wiadomości na chat Klanowy. 
 
 ## GUI Klanu 
 
-W GUI znajdziesz wszystkie ważne informacje dotyczące Twojego aktualnego klanu. Aby otworzyć gui nalezy użyc komendy /klan panel!
+W GUI znajdziesz wszystkie ważne informacje dotyczące Twojego aktualnego Klanu. Aby otworzyć gui nalezy użyc komendy /klan panel!
 
 ![GuiKlan](/assets/klany/gui-klan.png)
 
 ## Informacje O Klanie
 
 > [!TIP] 
-> Tutaj znajdują się najpotrzebniejsze informacje dot. klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną główke!
+> Tutaj znajdują się najpotrzebniejsze informacje dot. Klanu. Możesz zobaczyć je najeżdzając myszką na wskazaną główke!
 
 ![InformacjeOKlanie](/assets/klany/info-klan.png)
 
@@ -50,13 +50,13 @@ W GUI znajdziesz wszystkie ważne informacje dotyczące Twojego aktualnego klanu
 ![CzłonkowieKlanu](/assets/klany/czlonkowie-klan.png)
 
 Będąc w GUI członków, najeżdżając na główkę danego gracza myszką, można:
-- Sprawdzić ilośc wpłaconych **Kokscoinow** oraz **Rubinów** do klanu przez wybranego gracza. 
-- **Właściciel** klanu może nadawać i odbierać rangę **Zastępcy**. Zarówno Właściciel, jak i Zastępca mają możliwość dodawania oraz usuwania graczy z klanu.
+- Sprawdzić ilośc wpłaconych **Kokscoinow** oraz **Rubinów** do Klanu przez wybranego gracza. 
+- **Właściciel Klanu** może nadawać i odbierać rangę **Zastępcy**. Zarówno Właściciel, jak i Zastępca mają możliwość dodawania oraz usuwania graczy z Klanu.
 
 ## Poziomy Ulepszeń Klanu
 
 > [!TIP]
-> GUI Poziomów klanu możesz sprawdzić klikając wskazaną główkę!
+> GUI Poziomów Klanu możesz sprawdzić klikając wskazaną główkę!
 
 ![PoziomyKlanu](/assets/klany/poziomy-klan.png)
 
@@ -75,7 +75,7 @@ Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
 
 ![rubiny.png](/assets/klany/mnoznikrubiny.png) 
 
-### Ceny powyższych ulepszeń klanu
+### Ceny powyższych ulepszeń Klanu
 > [!NOTE]
 > Cena ulepszeń **Rubinów** oraz **XP** jest taka sama! Koszt ulepszenia jest pobierany z **Konta Klanu!**
 
@@ -118,23 +118,28 @@ Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
 |   35   |    3.772.000    |       10.000       |       100       |       +70%       |
 
 ## Indywidualne Ulepszenia Klanu
+Są to Indywidualne Ulepszenia - osobne, dla każdego gracza. Maksymalny level każdego ulepszenia to 10!
 
 > [!WARNING]
-> Do tych ulepszeń ma dostęp każda osoba w klanie!
+> Do tych ulepszeń ma dostęp każda osoba w Klanie!
 
-### Indywidualne ulepszenie Mnoznika XP 
-Ulepszenie to zwiększa ilość XP, które otrzymuje gracz.
+Każde ulepszenie jest trwałe – oznacza to, że nawet po zmianie Klanu pozostaje ono na poziomie zakupionym przez gracza.
+
+### Indywidualne ulepszenie Mnoznika XP oraz Rubinów 
+Ulepszenie to zwiększa ilość XP/Rubinów, które otrzymuje gracz z rozegranej gry. Ulepszenia wszystkich graczy z Klanu składa się na 1 ogromny mnożnik.
 
 ![indywidualnexp.png](/assets/klany/indywidualnymnoznikxp.png) 
 
-### Indywidualne ulepszenie Mnoznika Rubinów 
-Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
-
 ![indywidualnerubiny.png](/assets/klany/indywidualnymnoznikrubinow.png)
 
+### Indywidualne ulepszenie Podatku XP oraz Rubinów 
+To ulepszenie zwiększa ilość XP i Rubinów uzyskiwanych z podatku, które trafiają do Klanu. Ulepszenia wszystkich graczy w Klanie sumują się, tworząc jeden duży mnożnik.
+
+![indywidualnexp.png](/assets/klany/indywidualnypodatekxp.png) 
+
+![indywidualnerubiny.png](/assets/klany/indywidualnypodatekrubinow.png)
+
 ### Ceny powyższych ulepszeń Klanu
-> [!NOTE]
-> Cena ulepszeń **Rubinów** oraz **XP** jest taka sama! Koszt ulepszenia jest pobierany z **Twojego Konta!**
 
 | Poziom | Cena w Rubinach | Cena w Kokscoinach |
 |:------:|:---------------:|:------------------:|
@@ -149,15 +154,18 @@ Ulepszenie to zwiększa ilość Rubinów, które otrzymuje gracz.
 |   9    |        0        |         1000       |
 |   10   |        0        |         1000       |
 
+> [!WARNING]
+> Wartości ulepszeń są inne dla Podatku oraz Mnożnika. Mnożnik dodaje 0,1% natomiast Podatek 0,5% (zwiększa się to z każdym poziomem ulepszenia).
+
 ## Ustawienia Klanu
 
-W celu otwarcia GUI ustawień należy użyć wskazanej główki. Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
+W celu otwarcia GUI ustawień należy użyć wskazanej główki. Ustawienia Klanu może zmienić tylko **Właściciel i Zastępca**.
 
 ![UstawieniaKlanu](/assets/klany/ustawienia-klanu.png)
 
 ### Podatek Klanowy
 
-W klanie można ustawić **podatek**, który będzie zabierał z gier procent z otrzymanego XP od gracza. Podatek można ustawić od 0% do 10%. 
+W Klanie można ustawić **podatek**, który będzie zabierał z gier procent z otrzymanego XP od gracza. Podatek można ustawić od 0% do 10%. 
 
 
 ## Koloroy Klanów
@@ -183,13 +191,13 @@ Poniżej znajdują się wszystkie dostępne kolory Klanów!
 |:--------------------:|:----------------------------------------------:|
 |  [MINECRAFT:&6Klan]  |       Min. 5 graczy musi mieć rangę KOKS.      |
 |  [MINECRAFT:&eKlan]  | Min. 20 osób, połowa z nich musi mieć rangę.   |
-|  [MINECRAFT:&cKlan]  |               min. 75 level klanu              |
-|  [MINECRAFT:&4Klan]  |            maksymalny level klanu              |
+|  [MINECRAFT:&cKlan]  |               min. 75 level Klanu              |
+|  [MINECRAFT:&4Klan]  |            maksymalny level Klanu              |
 
 
 ## Skarbiec Klanu
 
-W celu wpłacenia do skarbca klanu **Rubinów** albo **Kokscoinów** należy nakierować myszką na **tabliczkę**. 
+W celu wpłacenia do skarbca Klanu **Rubinów** albo **Kokscoinów** należy nakierować myszką na **tabliczkę**. 
 
 ![Skarbiec](/assets/klany/klan-skarbiec.png)
 
