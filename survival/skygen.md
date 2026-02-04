@@ -86,7 +86,7 @@ Na trybie SkyGen jest 7 skilli, które możesz zakupić, żeby ulepszyć swój e
 |   Mroczna Mgła    |      ![skill_mroczna_mgla.png](/assets/skygen/skill_mroczna_mgla.png)      |
 |   Pajęcza Sieć    |      ![skill_pajecza_siec.png](/assets/skygen/skill_pajecza_siec.png)      |
 | Podmuch Powietrza | ![skill_podmuch_powietrza.png](/assets/skygen/skill_podmuch_powietrza.png) |
-|     Zew Krwi      |        ![skill_zew _krwi.png](/assets/skygen/skill_zew%20_krwi.png)        |
+|     Zew Krwi      |         ![skill_zew _krwi.png](/assets/skygen/skill_zew_krwi.png)          |
 |    Furia Zeusa    |       ![skill_furia_zeusa.png](/assets/skygen/skill_furia_zeusa.png)       |
 |  Elytra Blocker   |    ![skill_elytra_blocker.png](/assets/skygen/skill_elytra_blocker.png)    |
 
@@ -120,7 +120,7 @@ Na trybie SkyBox jest 9 różnych talizmanów do piątego poziomu, które pomog�
 
 Na strefie PvP znajdziesz wyspe, gdzie możesz zbierać plastry miodu, które pomogą Tobie w ulepszaniu ekwipunku. Jeżeli chcesz zakupić owe przedmioty wpisz (`/rozgrywka`).
 
-![wyspa_z_miodem.png](../assets/skygen/wyspa_z_miodem.png)
+![wyspa_z_miodem.png](/assets/skygen/wyspa_z_miodem.png)
 
 ## Market
 
