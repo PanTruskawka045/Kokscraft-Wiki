@@ -57,10 +57,12 @@ Ulepszator jest to drewniana motyka, która pojawia się na 9 slocie, dzięki kt
 
 Kliknąć prawym przyciskiem myszy (ppm) w stronę generatora lub bloku wełny za niewielką opłatą, która jest zależna od rodzaju generatora oraz bloku.
 
-| Poziom Generatora | Koszt Ulepszenia Żelaznego | Koszt Ulepszenia Złotego | Koszt Ulepszenia Diamnetowego |
-|-------------------|----------------------------|--------------------------|-------------------------------|
-| 1 > 2             | 16 Żelaza                  | 12 Złota                 | 6 Diamentów                   |
-| 2 > 3             | 8 Złota                    | 4 Diamenty               | 4 Emeraldy                    |
+| Generator               | Ulepszenie 1 → 2 | Ulepszenie 2 → 3 |
+|:------------------------|:-----------------|:-----------------|
+| **Generator Żelaza**    | 16 Żelaza        | 8 Złota          |
+| **Generator Złota**     | 12 Złota         | 4 Diamenty       |
+| **Generator Diamentów** | 6 Diamentów      | 4 Szmaragdy      |
+
 
 | Blok      | Cena           |
 |-----------|----------------|
@@ -138,17 +140,17 @@ Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą z
 
 Podczas rozgrywki będą się pojawiały wydarzenia:
 
-| Wydarzenie               | Czas wydarzenia                       |
-|--------------------------|---------------------------------------|
-| +5 do limitu generatorów | 5 Minut                               |
-| Emerald 2                | 3 Minut                               |
-| +5 do limitu generatorów | 5 Minut (+Budowa automatyczneg mostu) |
-| +5 do limitu generatorów | 5 Minut                               |
-| Utrata główki            | 10 Minut                              |
-| Utrata główki            | 5 Minut                               |
-| Utrata główki            | 5 Minut                               |
-| Utrata główki            | 5 Minut                               |
-| Utrata głównej główki    | 4 Minuty i 30 sekund                  |
+| Wydarzenie                                      | Czas wydarzenia      |
+|-------------------------------------------------|----------------------|
+| +5 do limitu generatorów                        | 5 Minut              |
+| Emerald 2                                       | 3 Minut              |
+| +5 do limitu generatorów, początek budowy mostu | 5 Minut              |
+| +5 do limitu generatorów                        | 5 Minut              |
+| Utrata główki                                   | 10 Minut             |
+| Utrata główki                                   | 5 Minut              |
+| Utrata główki                                   | 5 Minut              |
+| Utrata główki                                   | 5 Minut              |
+| Utrata głównej główki                           | 4 Minuty i 30 sekund |
 
 > [!NOTE]
 > Jeżeli nie posiadasz już główek i dalej grasz, to masz 4 minuty i 30 sekund na zbieranie itemów, ponieważ po tym czasie Twoja główna główka zostaje zniszczona.
