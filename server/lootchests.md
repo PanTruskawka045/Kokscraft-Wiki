@@ -7,14 +7,18 @@ Na serwerze znajdują się skrzynki, z których można wylosować przeróżne rz
 
 ## Skrzynki stałe
 Można je otworzyć kluczem uniwersalnym. Klikając na taką skrzynkę, można zobaczyć wszystkie itemy, które są w puli do trafienia.
+
 > [!TIP]
-> Klucz uniwersalny możesz kupić w sklepie (emerald na 2 slocie).
+> Klucz uniwersalny możesz kupić w sklepie (emerald na 2 slocie w ekwipunku na lobby). Klucz znajduje się w lewym dolnym rogu tego menu.
 
 Rodzaje skrzynek stałych:
 - Unikatowa Skrzynka
 - Rzadka skrzynka
 - Skrzynia skinów normalnych
 - Skrzynia skinów kolorowych
+
+Skrzynki stałe aktualnie są wycofane, lecz da się je otworzyć, jeżeli zostały już wcześniej zdobyte, używając klucza uniwersalnego. Nie da się ich zdobyć w żaden inny sposób.
+
 ## Skrzynki eventowe
 Kiedyś na serwerze podczas trwania danego eventu można było kupić lub otrzymać skrzynki związane właśnie z tym eventem. Wylosować można z nich było addony, rubiny, kokscoiny itp. Każda skrzynia miała przypisany inny klucz np. skrzynię wakacyjną otwierało się kluczem wakacyjnym.
 
@@ -32,16 +36,18 @@ Rodzaje skrzynek eventowych:
 - skrzynka zimowa
 
 ## Skrzynki wyboru
-Każda z nich ma inną ilość nagród które można wybrać spośród 6 dostępnych.
+Otwierając każdą ze skrzynek, jest inna ilość nagród, która można wybrać spośród sześciu skrzynek wokół Ciebie.
 
-| **rodzaj skrzynki** | **ilość nagród** |
-|---------------------|------------------|
-| pospolita           | 1                |
-| zwyczajna           | 2                |
-| rzadka              | 3                |
-| epicka              | 4                |
-| legendarna          | 5                |
-| eventowa            | 5                |
+| **Rodzaj skrzynki**                | **Ilość nagród** |
+|------------------------------------|------------------|
+| Pospolita                          | 1                |
+| Zwyczajna                          | 2                |
+| Rzadka                             | 3                |
+| Epicka                             | 4                |
+| Legendarna                         | 5                |
+| Halloween [badge:EVENT:primary]    | 5                |
+| Świąteczna [badge:EVENT:primary]   | 5                |
+| Walentynkowa [badge:EVENT:primary] | 5                |
 
 > [!NOTE]
 > Otwierając skrzynkę eventową masz 16x większą szansę na trafienie przedmiotów z obecnej kolekcji eventowej.
