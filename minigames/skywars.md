@@ -2,8 +2,6 @@
 
 **SkyWars** to **dynamiczny tryb gry**, w którym gracze walczą na **unoszących się w powietrzu wyspach**, starając się przetrwać i pokonać przeciwników, korzystając z dostępnych zasobów i sprzętu. Celem jest bycie **ostatnim żyjącym graczem lub drużyną** poprzez strategiczne planowanie, budowanie i szybką walkę w **zmieniającym się środowisku pełnym niebezpieczeństw i niespodzianek.**
 
-![Zdjęcie 1](/assets/skywars/skywars-mapa-1.png)
-![Zdjęcie 2](/assets/skywars/skywars-mapa-2.png)
 ![Zdjęcie 3](/assets/skywars/skywars-mapa-3.png)
 ## Zestawy SkywWars
 
@@ -108,7 +106,7 @@ W przypadku wylosowania perków, które gracz już posiada, otrzymuje on **zwrot
 
 ## Karnety
 
-W każdym sezonie SkyWars wprowadzany jest unikalny **karnet SkyWars**, a więcej informacji o karnetach można znależć tu -> [Karnety](/article/ogolne/karnety)!
+W każdym sezonie SkyWars wprowadzany jest unikalny **[karnet](/article/ogolne/karnety) SkyWars**.
 
 ## K/D
 
@@ -116,7 +114,7 @@ Wskaźnik **K/D**, czyli **zabójstw przez śmierci**, jest miernikiem wydajnoś
 
 ## Topki
 
-Informacje o topkach są dostępne tutaj --> **[Klinij Tu!](/article/ogolne/topki)**
+Informacje o topkach są dostępne [tutaj](/article/ogolne/topki)
 
 ## Dusze
 
