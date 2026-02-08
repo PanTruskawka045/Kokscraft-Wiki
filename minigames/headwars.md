@@ -72,7 +72,7 @@ Kliknąć prawym przyciskiem myszy (ppm) w stronę generatora lub bloku wełny z
 
 ## Sklep
 
-U villagera możesz zakupić różnorodne przedmioty, bloki oraz ulepszenia, które pomogą Tobie w zdobyciu przewagi nad przeciwnikami i wzmocnieniu swojej pozycji w grze.
+W sklepie możesz zakupić różnorodne przedmioty, bloki oraz ulepszenia, które pomogą Tobie w zdobyciu przewagi nad przeciwnikami i wzmocnieniu swojej pozycji w grze.
 
 ![sklep.png](/assets/head-wars/sklep.png)
 
@@ -114,23 +114,23 @@ Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą z
 
 ![ulepszenia.png](/assets/head-wars/ulepszenia.png)
 
-| **Ulepszenia**                                                                     |
-|------------------------------------------------------------------------------------|
-| ![ochrona1.png](/assets/head-wars/ochrona1.png)                                    |
-| ![ochrona2.png](/assets/head-wars/ochrona2.png)                                    | 
-| ![ochrona3.png](/assets/head-wars/ochrona3.png)                                    | 
-| ![ochrona4.png](/assets/head-wars/ochrona4.png)                                    |
-| ![zwiekszony _limit_za_diax1.png](/assets/head-wars/zwiekszony_limit_za_diax1.png) |
-| ![zwiekszony _limit_za_diax.png](/assets/head-wars/zwiekszony_limit_za_diax.png)   |
-| ![ostrosc1.png](/assets/head-wars/ostrosc1.png)                                    |
-| ![ostrosc2.png](/assets/head-wars/ostrosc2.png)                                    |
-| ![szybkie_kopanie1.png](/assets/head-wars/szybkie_kopanie1.png)                    |
-| ![szybkie_kopanie2.png](/assets/head-wars/szybkie_kopanie2.png)                    |
-| ![powolne_opadanie1.png](/assets/head-wars/powolne_opadanie1.png)                  |
-| ![powolne_opadanie2.png](/assets/head-wars/powolne_opadanie2.png)                  |
-| ![efekt_zycia.png](/assets/head-wars/efekt_zycia.png)                              |
-| ![efekt_sily.png](/assets/head-wars/efekt_sily.png)                                |
-| ![zaklety_ogien.png](/assets/head-wars/zaklety_ogien.png)                          |
+| Ulepszenia          | Czas wydarzenia  |
+|---------------------|------------------|
+| Ochrona 1           | 8 Diamentów      |
+| Ochrona 2           | 4 Szmaragdy      |
+| Ochrona 3           | 8 Szmaragdów     |
+| Ochrona 4           | 12 Szmaragdów    |
+| Limit Generatorów 1 | 8 Diamentów      |
+| Limit Generatorów 2 | 4 Szmaragdy      |
+| Ostrość 1           | 4 Szmaragdy      |
+| Ostrość 2           | 8 Szmaragdów     |
+| Szybkie Kopanie 1   | 8 Diamentów      |
+| Szybkie Kopanie 2   | 16 Diamentów     |
+| Powolne Opadanie 1  | 8 Diamentów      |
+| Powolne Opadanie 2  | 2 Diamenty       |
+| Efekt Życia         | 10 Szmaragdów    |
+| Efekt Siły          | 10 Szmaragdów    |
+| Zaklęty Ogień       | 10 Szmaragdów    |
 
 > [!TIP]
 > Efekty życia, siły oraz zaklętego ognia możesz zakupić dopiero wtedy, gdy posiadasz wszystkie pozostałe ulepszenia.
@@ -140,31 +140,36 @@ Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą z
 
 Podczas rozgrywki będą się pojawiały wydarzenia:
 
-| Wydarzenie                                      | Czas wydarzenia      |
-|-------------------------------------------------|----------------------|
-| +5 do limitu generatorów                        | 5 Minut              |
-| Emerald 2                                       | 3 Minut              |
-| +5 do limitu generatorów, początek budowy mostu | 5 Minut              |
-| +5 do limitu generatorów                        | 5 Minut              |
-| Utrata główki                                   | 10 Minut             |
-| Utrata główki                                   | 5 Minut              |
-| Utrata główki                                   | 5 Minut              |
-| Utrata główki                                   | 5 Minut              |
-| Utrata głównej główki                           | 4 Minuty i 30 sekund |
+| Wydarzenie                                      | Czas od startu rozgrywki | Czas trwania |
+|-------------------------------------------------|--------------------------|--------------|
+| +5 do limitu generatorów                        | 5 min                    | 5 min        |
+| Emerald 2                                       | 8 min                    | 3 min        |
+| +5 do limitu generatorów, początek budowy mostu | 13 min                   | 5 min        |
+| +5 do limitu generatorów                        | 18 min                   | 5 min        |
+| Utrata główki                                   | 23 min                   | 10 min       |
+| Utrata główki                                   | 33 min                   | 5 min        |
+| Utrata główki                                   | 38 min                   | 5 min        |
+| Utrata główki                                   | 43 min                   | 5 min        |
+| Utrata głównej główki                           | 48 min                   | 4 min 30 s   |
 
 > [!NOTE]
-> Jeżeli nie posiadasz już główek i dalej grasz, to masz 4 minuty i 30 sekund na zbieranie itemów, ponieważ po tym czasie Twoja główna główka zostaje zniszczona.
+> Po utracie wszystkich główek na swojej wyspie masz 4 minuty i 30 sekund na zbieranie itemów, ponieważ po tym czasie Twoja główna główka zostaje zniszczona.
 
 ## Co się stanie po zniszczeniu główki?
 
-Po zniszczeniu główki przeciwnika zostaniesz wybity w góre o 60 kratek.
+Jeśli jesteś na główce przeciwnika i razem z sojusznikami ją zniszczycie, wszyscy z was zostaną natychmiast wybici w górę o 60 kratek.
 
-Są dwa sposoby, żebyś nie zginął od upadku:
+Po chwili spadacie, więc bez szybkiej reakcji można zginąć od upadku.
+
+Aby uniknąć śmierci, to są trzy sposoby, żebyś nie zginął od upadku:
 
 1. Postawienie cobweba pod sobą (jeśli staniesz zbyt blisko główki, ten sposób nie zadziała, ponieważ go usunie).
 2. Postawienie wody przed upadkiem.
+3. Zbudować platformę oraz ścianę, a następnie umieścić na niej drabinki.
 
 Po zniszczeniu główki otrzymasz Magiczną Główkę, gdzie możesz wybrać jeden efekt.
+
+Możesz odebrać ją w sklepie na swojej główce.
 
 ![efekty.png](/assets/head-wars/efekty.png)
 
@@ -189,7 +194,7 @@ Koszt zakupu wynosi 1000 KoksCoinów.
 
 > [!TIP]
 > Stattrack można aktywować oraz dezaktywować w zależności od potrzeb. Posiada dwa różne tryby wyświetlania statystyk ogólnych oraz z obecnego sezonu.
-> Aby włączyć/wyłączyć wyświetlanie na lobby BedWars po lewej stronie znajdziesz NPC'ta odpowiedzialnego za tę funkcje.
+> Aby włączyć/wyłączyć wyświetlanie na lobby HeadWars po lewej stronie znajdziesz NPC'ta odpowiedzialnego za tę funkcje.
 
 ## Ulepszenia za Coiny
 
@@ -199,20 +204,17 @@ Po kliknięciu otwiera się GUI, w którym masz dostęp do kategorii dostępnych
 
 ![wybor_kategorii_ulepszen.png](/assets/head-wars/wybor_kategorii_ulepszen.png)
 
-| Rodzaj                                              | Poziom i cena                                 | Co robi?                                      |
-|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-|                                                     | 1 poizom (-5%) 5 tysięcy coinów               |                                               |
-| ![walka.png](/assets/head-wars/walka.png)           | 2 poziom (-10%) 15 tysięcy coinów             | Redukuje Twojego knocka o x%                  |
-|                                                     | 3 poziom (-15%) 30 tysięcy coinów             |                                               |
-|                                                     |                                               |                                               |
-|                                                     | 1 poziom (-2%) 5 tysięcy                      |                                               |
-| ![obrona.png](/assets/head-wars/obrona.png)         | 2 poziom (-4%) 15 tysięcy coinów              | Zmniejsza Twoje obrażenia o x%                |
-|                                                     | 3 poziom (-6%) 30 tysięcy coinów              |                                               |
-|                                                     |                                               |                                               |
-|                                                     | 1 poziom szybkość 1 (+0.01) 30 tysięcy coinów |                                               |
-| ![uzytkowe.png](/assets/head-wars/uzytkowe.png)     | 2 poziom szybkość 2 (+0.01) 30 tysięcy coinów | Dodaje prędkość chodzenia                     |
-|                                                     | 3 poziom szybkość 3(+0.01) 30 tysięcy coinów  |                                               |
-|                                                     |                                               |                                               |
-|                                                     | 1 poziom (-2%) 5 tysięcy                      |                                               |
-| ![generatory.png](/assets/head-wars/generatory.png) | 2 poziom (-4%) 15 tysięcy coinów              | Dodaje x% szczęścia na podwójny drop surowców |
-|                                                     | 3 poziom (-6%) 30 tysięcy coinów              |                                               |
+| Rodzaj         | Poziom | Co robi?                                      |
+|----------------|--------|-----------------------------------------------|
+| Walka I        | 5.000  | Redukuje Twojego knocka o 5%                  |
+| Walka II       | 15.000 | Redukuje Twojego knocka o 10%                 |
+| Walka III      | 30.000 | Redukuje Twojego knocka o 15%                 |
+| Obrona I       | 5.000  | Zmniejsza Twoje obrażenia o 2%                |
+| Obrona II      | 15.000 | Zmniejsza Twoje obrażenia o 4%                |
+| Obrona III     | 30.000 | Zmniejsza Twoje obrażenia o 6%                |
+| Użytkowe I     | 30.000 | Dodaje prędkość chodzenia o 0.01              |
+| Użytkowe II    | 30.000 | Dodaje prędkość chodzenia o 0.01              |
+| Użytkowe III   | 30.000 | Dodaje prędkość chodzenia o 0.01              |
+| Generatory I   | 5.000  | Dodaje 2% szczęścia na podwójny drop surowców |
+| Generatory II  | 15.000 | Dodaje 4% szczęścia na podwójny drop surowców |
+| Generatory III | 30.000 | Dodaje 6% szczęścia na podwójny drop surowców |
