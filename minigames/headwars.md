@@ -1,151 +1,220 @@
 # Head Wars
-Headwars to tryb gry w Minecraft, który polega na intensywnych walkach, w których celem jest zdobycie jak największej liczby głów przeciwników. To emocjonujący wariant rozgrywki, który łączy dynamiczne starcia z koniecznością strategicznego myślenia. W Headwars każda decyzja ma ogromne znaczenie, a gracze muszą być czujni przez cały czas, aby osiągnąć zwycięstwo. Mimo że rozgrywka może trwać długo, każda chwila przynosi nowe wyzwania, sprawiając, że rywalizacja jest niezwykle satysfakcjonująca.
-## Początek rozgrywki
-Na początku rozgrywki posiadasz 4 guziki które pomogą zdobyć żelazo dzięki któremu możesz kupić ulepszenia/generatory oraz itemy.
-![Przycisk startowy Head Wars](/assets/head-wars/Przycisk-HW.png)
+
+Headwars to tryb dostępny od [badge:1.8.9+:yellow], który skupia się na walkach i niszczeniem główek innych graczy.
+
+Głównym celem rozgrywki jest niszczenie głów przeciwników i jednoczesne eliminowanie innych graczy. 
+
+Ten tryb łączy szybkie, dynamiczne walki z potrzebą taktycznego rozwijania swojej główki.  
+
+## Jak zacząć?
+
+Na początku rozgrywki pojawiasz się na swojej główce, a na środku znajdują się 4 guziki, które generują żelazo. 
+
+Ten surowiec pozwala kupować początkowe ulepszenia, generatory i niezbędne przedmioty.
+
+Dzięki nim możesz szybko rozwijać swoją główkę i ekwipunek po to, żeby przygotować się do walki z innymi graczami.
+
+Otrzymujesz także drewnianą motykę, która pełni rolę narzędzia do ulepszania obudowy Twoich główek i generatorów.
+
 ## Generatory
-W trakcie rozgrywki gracz może zakupić trzy rodzaje generatorów: złota, żelaza i diamentów. Generatory szmaragdów nie są dostępne do zakupu, ale emeraldy można zdobyć, udając się na środek mapy. Tam znajdują się cztery generatory, które odradzają emeraldy co 45 sekund, przy czym na jednym generatorze może pojawić się maksymalnie jeden emerald.
 
-#### Uwaga! Generatory mają swój czas działania
+W trakcie rozgrywki możesz zakupić trzy rodzaje generatorów:
 
-| **Generator**                  | **Czas działania** |
-|--------------------------------|-------------------|
-| Generator żelaza (Poziom 1)    | 288 sekund        |
-| Generator żelaza (Poziom 2)    | 432 sekund        |
-| Generator żelaza (Poziom 3)    | 648 sekund        |
-| Generator złota (Poziom 1)     | 288 sekund        |
-| Generator złota (Poziom 1)     | 432 sekund        |
-| Generator złota (Poziom 1)     | 648 sekund        |
-| Generator diamentów (Poziom 1) | 768 sekund        |
-| Generator diamentów (Poziom 2) | 1152 sekund       |
-| Generator diamentów (Poziom 3) | 1080 sekund       |
+- Żelaza.
+- Złota. 
+- Diamentów. 
 
-![Generatory](/assets/head-wars/generatory1.png)
-![Generatory_emeraldow](/assets/head-wars/generatory2.png)
+Są jeszcze generatory emeraldów, ale nie są możliwe do zakupu. Znajdują się tylko na środku mapy.
+
+Na mapie znajdziesz cztery generatory, które co 45 sekund wytwarzają emeraldy. 
+
+Na każdym z nich może pojawić się tylko jeden emerald! Więc warto pilnować czasu i zbierać je regularnie przed innymi graczami. 
+
+> [!NOTE]
+> Na całej arence możesz postawić maksymalnie 40 generatorów.
+
+## Czas działania generatorów
+
+Na HeadWars musisz pamiętać, że generatory żelaza, złota i diamentów działają według określonego czasu generowania surowców.
+
+Jeżeli minie czas działania generatora, to zostaje on zniszczony, a wszystkie surowce, które wygenerował, pozostają na ziemi, które możesz zebrać i zakupić nowy!
+
+| Generator                      | Czas działania      |
+|--------------------------------|---------------------|
+| Generator Żelaza (Poziom 1)    | 4 minut, 48 sekund  |
+| Generator Żelaza (Poziom 2)    | 7 minut, 12 sekund  |
+| Generator Żelaza (Poziom 3)    | 10 minut, 48 sekund |
+| Generator Złota (Poziom 1)     | 4 minut, 48 sekund  |
+| Generator Złota (Poziom 1)     | 7 minut, 12 sekund  |
+| Generator Złota (Poziom 1)     | 10 minut, 48 sekund |
+| Generator Diamentów (Poziom 1) | 12 minut, 48 sekund |
+| Generator Diamentów (Poziom 2) | 19 minut, 12 sekund |
+| Generator Diamentów (Poziom 3) | 18 minut            |
+
 ### Ulepszator
-Ulepszator jest to drewniana motyka, która pojawia się na 9 slocie, dzięki której możesz ulepszyć posiadane generatory (kliknąć ppm w stronę generatora) za niewielką opłatą, która jest zależna od rodzaju generatora i jego poziomu.
 
-| **Poziom Generatora**    | **Koszt Ulepszenia żelaznego** | **Koszt Ulepszenia Złotego** | **Koszt Ulepszenia Diamnetowego** |
-|--------------------------|--------------------------------|------------------------------|-----------------------------------|
-| 1 > 2                    | 16x żelaza                     | 12x złota                    | 12x Diamentów                     |
-| 2 > 3                    | 8x złota                       | 4x Diamentów                 | 3x Emeraldów                      |
+Ulepszator jest to drewniana motyka, która pojawia się na 9 slocie, dzięki której możesz ulepszyć posiadane generatory.
 
-#### Uwaga! Ulepszator ma również możliwość ulepszania blocków.
+Kliknąć prawym przyciskiem myszy (ppm) w stronę generatora lub bloku wełny za niewielką opłatą, która jest zależna od rodzaju generatora oraz bloku.
 
-| **Blok**  | **Cena**      |
-|-----------|---------------|
-| Glina     | 8x żelazo     |
-| End stone | 12x złota     |
-| Obsydian  | 12x diamentów |
+| Generator               | Ulepszenie 1 → 2 | Ulepszenie 2 → 3 |
+|:------------------------|:-----------------|:-----------------|
+| **Generator Żelaza**    | 16 Żelaza        | 8 Złota          |
+| **Generator Złota**     | 12 Złota         | 4 Diamenty       |
+| **Generator Diamentów** | 6 Diamentów      | 4 Szmaragdy      |
+
+
+| Blok      | Cena           |
+|-----------|----------------|
+| Glina     | 8 Żelaza       |
+| End stone | 12 Złota       |
+| Obsydian  | 12 Diamentów   |
+
 ## Sklep
-W sklepie u villagera gracze mogą zakupić różnorodne przedmioty, bloki oraz ulepszenia, które pomogą im w zdobyciu przewagi nad przeciwnikami i wzmocnieniu swojej pozycji w grze.
 
-| **Rodzaj bloku/itemu** | **Cena**     |
-|------------------------|--------------|
-| Wełna                  | 6 żelaza     |
-| Kamienny miecz         | 16 żelaza    |
-| Żelazny miecz          | 16 złota     |
-| Diamentowy miecz       | 16 diamentów |
-| Skórzana klata         | 48 żelaza    |
-| Kolczugowa klata       | 64 złota     | 
-| Żelazna klata          | 64 Diamenów  |
-| Diamentowa klata       | 12 Emeraldów |
-| Skórzane spodnie       | 48 żelaza    |
-| Kolczugowe sponie      | 64 złota     | 
-| Żelazne spodnie        | 64 Diamenów  |
-| Diamentowe spodnie     | 6 Emeraldów  |
-| Skórzane buty          | 48 żelaza    |
-| Kolczugowe buty        | 64 złota     | 
-| Żelazne buty           | 64 Diamenów  |
-| Diamentowe buty        | 6 Szmaragdów |
-| Łuk                    | 12 złota     |
-| Strzały                | 8 diamentów  |
-| Wiadro                 | 10 złota     |
-| TNT                    | 16 złota     |
-| Skrzynia               | 32 żelaza    |
-| Kula ognia             | 8 diamentów  |
-| Nożyce                 | 32 żelaza    |
-| Kilof drewniany        | 10 żelaza    |
-| Kilof żelazny          | 10 złota     |
-| Kilof Diamentowy       | 10 diamentów |
+W sklepie możesz zakupić różnorodne przedmioty, bloki oraz ulepszenia, które pomogą Tobie w zdobyciu przewagi nad przeciwnikami i wzmocnieniu swojej pozycji w grze.
 
-![sklep](/assets/head-wars/sklep.png)
+![sklep.png](/assets/head-wars/sklep.png)
 
-| **Ulepszenia**       | **Cena**      |
-|----------------------|---------------|
-| Ochrona 1            | 8 Diamentów   |
-| Ochrona 2            | 4 Szmaragdy   |
-| Ochrona 3            | 8 Szmaragdów  |
-| Ochrona 4            | 12 Szmaragdów |
-| +5 Limit generatorów | 8 Diamentów   |
-| +5 Limit generatorów | 16 Diamentów  |
-| +5 Limit generatorów | 4 Szmaragdy   |
-| Ostrość 1            | 4 Szmaragdy   |
-| Ostrość 2            | 8 Szmaragdy   |
-| Szybkie Kopanie      | 8 Diamentów   |
-| Szybkie Kopanie 2    | 16 Diamentów  |
-| Powolne Opadanie     | 8 Diamentów   |
-| Powolne Opadanie 2   | 2 Diamenty    |
-| Efekt życia          | 10 Szmaragdów |
-| Efekt Siły           | 10 Szmaragdów |
-| Zaklęty ogień        | 10 Szmaragdów |
+| Itemy                            | Cena         |
+|----------------------------------|--------------|
+| Jajko                            | 2 Emeraldy   |
+| Pajęczyna                        | 10 Złota     |
+| Złote Jabłko                     | 10 Złota     |
+| Wędka                            | 5 Diamentów  |
+| Drabina 5x                       | 12 Żelaza    |
+| Generator Żelaza                 | 6 Żelaza     | 
+| Wełna                            | 6 Żelaza     |
+| Kamienny Miecz                   | 16 Żelaza    |
+| Skurzana Klata, Spodnie i Buty   | 64 Żelaza    |
+| Kolczugowa Klata, Spodnie i Buty | 64 złota     | 
+| Żelazna Klata, Spodnie i Buty    | 64 Diamenów  |
+| Diamentowa Klata, Spodnie i Buty | 12 Emeraldów |
+| Łuk                              | 12 Złota     |
+| Łuk Z Moc 1                      | 24 Złota     |
+| Łuk Z Moc 2                      | 6 Emeraldów  |
+| Wiadro Wody                      | 10 Złota     | 
+| Generator Złota                  | 24 Żelaza    |
+| Drewniany Kilof                  | 10 Żelaza    |
+| Żelazny Kilof                    | 10 Złota     |
+| Diamentowy Kilof                 | 10 Diamentów |
+| Żelazny Miecz                    | 16 Złota     |
+| Strzału 8x                       | 8 Diamentów  |
+| TNT                              | 16 Złota     |
+| Generator Diamentów              | 12 Złota     |
+| Nożyce                           | 32 Żelaza    |
+| Diamentowy Miecz                 | 16 Diamentów |
+| Skrzynia                         | 32 Żelaza    |
+| Kula Ognia                       | 8 Diamentów  |
 
-![ulepszenia](/assets/head-wars/ulepszenia.png)
+> [!TIP]
+> Jeżeli zakupisz np. żelazny kilof i zginiesz, po śmierci jego poziom spadnie do drewnianego kilofa, a jak będziesz posiadał diamentowy, to spadnie na żelazny.
 
-### Działanie itemków (np. bridge egg)
-- **Jajko** - Rzucony przedmiot buduje automatyczny most, ułatwiając szybkie przemieszczanie się po mapie. Dodatkowo pajęczyna, która pojawia się w jego trakcie, utrudnia grę przeciwnikom, ponieważ mogą się w nią zaplątać, co spowalnia ich ruchy i daje przewagę strategiczną.
-- **Złote jabłko** - Przyznaje nam dodatkowe dwa serduszka.
-- **Wędka** - Pomaga nam zepchnąć naszych przeciwników do otchłani
-- **Kula ognia** - Która pomaga nam zrzucić przeciwników, jest świetnym narzędziem do eliminowania rywali i zyskania przewagi na arenie.
+Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą znajdziesz po prawej stronie.
+
+![ulepszenia.png](/assets/head-wars/ulepszenia.png)
+
+| Ulepszenia          | Czas wydarzenia  |
+|---------------------|------------------|
+| Ochrona 1           | 8 Diamentów      |
+| Ochrona 2           | 4 Szmaragdy      |
+| Ochrona 3           | 8 Szmaragdów     |
+| Ochrona 4           | 12 Szmaragdów    |
+| Limit Generatorów 1 | 8 Diamentów      |
+| Limit Generatorów 2 | 4 Szmaragdy      |
+| Ostrość 1           | 4 Szmaragdy      |
+| Ostrość 2           | 8 Szmaragdów     |
+| Szybkie Kopanie 1   | 8 Diamentów      |
+| Szybkie Kopanie 2   | 16 Diamentów     |
+| Powolne Opadanie 1  | 8 Diamentów      |
+| Powolne Opadanie 2  | 2 Diamenty       |
+| Efekt Życia         | 10 Szmaragdów    |
+| Efekt Siły          | 10 Szmaragdów    |
+| Zaklęty Ogień       | 10 Szmaragdów    |
+
+> [!TIP]
+> Efekty życia, siły oraz zaklętego ognia możesz zakupić dopiero wtedy, gdy posiadasz wszystkie pozostałe ulepszenia.
+> Efekt Siły daje 27 minut stałej siły. Efekt Życia dodaje 2 dodatkowe serca, które zachowujesz nawet po śmierci. Zaklęty Ogień działa na każdym zakupionym mieczu i jest efektem stałym.
 
 ## Wydarzenia w grze
-Na trybie jest kilka rodzajów wydarzeń.
 
-| **Wydarzenie**           | **Minuta w której odbywa się wydarzenie** |
-|--------------------------|-------------------------------------------|
-| +5 do limitu generatorów | 5 Minuta                                  |
-| Emerald 2                | 8 Minuta                                  |
-| +5 do limitu generatorów | 10 Minuta                                 |
-| +5 do limitu generatorów | 15 Minuta                                 |
-| Utrata główki            | 20 Minuta                                 |
-| Utrata główki            | 30 Minuta                                 |
-| Utrata główki            | 35 Minuta                                 |
-| Utrata główki            | 40 Minuta                                 |
+Podczas rozgrywki będą się pojawiały wydarzenia:
 
-#### Uwaga! Most zaczyna się budować po 10 minutach rozgrywki.
+| Wydarzenie                                      | Czas od startu rozgrywki | Czas od ostatniego wydarzenia |
+|-------------------------------------------------|--------------------------|-------------------------------|
+| +5 do limitu generatorów                        | 5 min                    | 5 min                         |
+| Emerald 2                                       | 8 min                    | 3 min                         |
+| +5 do limitu generatorów, początek budowy mostu | 13 min                   | 5 min                         |
+| +5 do limitu generatorów                        | 18 min                   | 5 min                         |
+| Utrata główki                                   | 23 min                   | 10 min                        |
+| Utrata główki                                   | 33 min                   | 5 min                         |
+| Utrata główki                                   | 38 min                   | 5 min                         |
+| Utrata główki                                   | 43 min                   | 5 min                         |
+| Utrata głównej główki                           | 48 min                   | 4 min 30 s                    |
 
-## Co się dzieje po zniszczeniu główki?
-Po udanym zniszczeniu główki zostajesz wyrzucony w powietrze dostając efekt Mining Fatigue na 10 sekund i otrzymując przy tym główkę, która pozwala ci na pozyskanie jednego z poniższych efektów.
+> [!NOTE]
+> Po utracie wszystkich główek na swojej wyspie masz 4 minuty i 30 sekund na zbieranie itemów. Po tym czasie Twoja główna główka zostaje zniszczona.
 
-| **Efekty po zniszczeniu główki** |
-|----------------------------------|
-| Regeneracja (20 sekund)          |
-| Siła (15 sekund)                 |
-| Niewidzialność (20 sekund)       |
-| Szybkość (45 sekund)             |
-| Wysoki skok IV (45 sekund)       |
-| Absorbcja                        |
+## Co się stanie po zniszczeniu główki?
 
-![Efekty](/assets/head-wars/efekty.png)
+Jeśli jesteś na główce przeciwnika i razem z sojusznikami ją zniszczycie, wszyscy z was zostaną natychmiast wybici w górę na około 60 kratek.
 
-#### Uwaga! Glówke można zniszczyć poprzez rozwalenie jej przeciwnikowi.
+Po chwili spadacie, więc bez szybkiej reakcji można zginąć od upadku.
 
-## Często zadawane pytania przez graczy.
-- Do czego jest motyka?
+> [!TIP]
+> Aby uniknąć śmierci, to są trzy sposoby, żebyś nie zginął od upadku:
+> - Postawienie cobweba pod sobą (jeśli staniesz zbyt blisko główki, ten sposób nie zadziała, ponieważ go usunie).
+> - Postawienie wody przed upadkiem.
+> - Zbudować platformę oraz ścianę, a następnie umieścić na niej drabinki.
 
-Odp. Motyka jest to ulepszator dzięki któremu można ulepszyć generatory/bloki.
-- Czemu nie mogę postawić generatora ?
+Po zniszczeniu główki otrzymasz Magiczną Główkę, gdzie możesz wybrać jeden efekt.
 
-Odp. Mógł zostać przekroczony limit generatorów możliwych do posiadania na wyspie.
-- Po jakim czasie mogę wyjść z bazy ?
+Możesz odebrać ją w sklepie na swojej główce.
 
-Odp. Wyjście z bazy jest możliwe od razu po rozpoczęciu rozgrywki.
-- Ile trwa gra?
+![efekty.png](/assets/head-wars/efekty.png)
 
-Odp. Czas gry jest zależny jak szybko gracze się wyliminują z areny.
-- Gdzie mogę kupić sobie efekt zniszczenia główki?
+| Efekt          | Czas trwania |
+|----------------|--------------|
+| Regeneracja 1  | 20 sekund    |
+| Siła 1         | 15 sekund    |
+| Niewidzialność | 20 sekund    |
+| Wysokość 4     | 20 sekund    |
+| Absorpcja 2    | 2 minuty     |
 
-Odp. Efekt jest jedynie możliwy do zdobycie po przez użycie główki przeciwinika.
-- Ile trwa spawn protection?
+## StatTrack
 
-Odp. Spawn protection trwa 5 sekund od momentu odrodzenia się, nie uwzględnia on problemów z internetem bądź problemów sprzętowych
+Pozwala Tobie na liczenie statystyk takich jak:
+
+1. Zniszczone Główki
+2. Final Kille
+
+Owe statystyki będą wyświetlać się na czacie!
+
+Koszt zakupu wynosi 1000 KoksCoinów.
+
+> [!TIP]
+> Stattrack można aktywować oraz dezaktywować w zależności od potrzeb. Posiada dwa różne tryby wyświetlania statystyk ogólnych oraz z obecnego sezonu.
+> Aby włączyć/wyłączyć wyświetlanie na lobby HeadWars po lewej stronie znajdziesz NPC'ta odpowiedzialnego za tę funkcje.
+
+## Ulepszenia za Coiny
+
+Na lobby HeadWars w slocie 7 znajduje się żelazny miecz. 
+
+Po kliknięciu otwiera się GUI, w którym masz dostęp do kategorii dostępnych ulepszeń:
+
+![wybor_kategorii_ulepszen.png](/assets/head-wars/wybor_kategorii_ulepszen.png)
+
+| Rodzaj         | Poziom | Co robi?                                  |
+|----------------|--------|-------------------------------------------|
+| Walka I        | 5.000  | Redukuje Twój odrzut o 5%                 |
+| Walka II       | 15.000 | Redukuje Twój odrzut o 10%                |
+| Walka III      | 30.000 | Redukuje Twój odrzut o 15%                |
+| Obrona I       | 5.000  | Zmniejsza otrzymywane obrażenia o 2%      |
+| Obrona II      | 15.000 | Zmniejsza otrzymywane obrażenia o 4%      |
+| Obrona III     | 30.000 | Zmniejsza otrzymywane obrażenia o 6%      |
+| Użytkowe I     | 30.000 | Dodaje prędkość chodzenia o 0.01          |
+| Użytkowe II    | 30.000 | Dodaje prędkość chodzenia o 0.01          |
+| Użytkowe III   | 30.000 | Dodaje prędkość chodzenia o 0.01          |
+| Generatory I   | 5.000  | Dodaje 2% szans na podwójny drop surowców |
+| Generatory II  | 15.000 | Dodaje 4% szans na podwójny drop surowców |
+| Generatory III | 30.000 | Dodaje 6% szans na podwójny drop surowców |
