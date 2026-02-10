@@ -24,13 +24,13 @@ Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 |      Zajączek      |           0,45%           |             45%             |             0,35%              |               35%                |
 |       Slime        |           0,5%            |             50%             |              0,4%              |               40%                |
 |  Wakacyjny Goryl   |           0,75%           |             75%             |             0,65%              |               65%                |
-| Prezent Swiateczny |           0,45%           |             45%             |             0,35%              |               35%                |
+| Prezent Świąteczny |           0,45%           |             45%             |             0,35%              |               35%                |
 |      Dziobak       |           0,45%           |             45%             |             0,35%              |               35%                |
 |  Wyluzowany Slime  |           0,6%            |             60%             |              0,5%              |               50%                |
 |      Kokosek       |           0,6%            |             60%             |              0,5%              |               50%                |
 |       Dyniek       |           0,75%           |             75%             |             0,65%              |               65%                |
-|   Swiety Mikolaj   |           0,8%            |             80%             |              0,7%              |               70%                |
-|  Zlosliwy Grinch   |           0,3%            |             30%             |             0,25%              |               25%                |
+|   Święty Mikolaj   |           0,8%            |             80%             |              0,7%              |               70%                |
+|  Złośliwy Grinch   |           0,3%            |             30%             |             0,25%              |               25%                |
 |    Mis Polarny     |           0,80%           |             80%             |             0,70%              |               70%                |
 
 ### Kapibara
