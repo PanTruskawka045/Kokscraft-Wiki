@@ -20,11 +20,11 @@ Otrzymujesz także drewnianą motykę, która pełni rolę narzędzia do ulepsza
 
 W trakcie rozgrywki możesz zakupić trzy rodzaje generatorów:
 
-1. Złota. 
-2. Żelaza.
-3. Diamentów. 
+- Żelaza.
+- Złota. 
+- Diamentów. 
 
-Są jeszcze generatory emeraldów, ale nie są dostępne do zakupu. Możesz je zdobyć, udając się na środek mapy.
+Są jeszcze generatory emeraldów, ale nie są możliwe do zakupu. Znajdują się tylko na środku mapy.
 
 Na mapie znajdziesz cztery generatory, które co 45 sekund wytwarzają emeraldy. 
 
@@ -140,32 +140,32 @@ Jeśli chcesz przejść do GUI ulepszeń, kliknij netherową gwiazdę, którą z
 
 Podczas rozgrywki będą się pojawiały wydarzenia:
 
-| Wydarzenie                                      | Czas od startu rozgrywki | Czas trwania |
-|-------------------------------------------------|--------------------------|--------------|
-| +5 do limitu generatorów                        | 5 min                    | 5 min        |
-| Emerald 2                                       | 8 min                    | 3 min        |
-| +5 do limitu generatorów, początek budowy mostu | 13 min                   | 5 min        |
-| +5 do limitu generatorów                        | 18 min                   | 5 min        |
-| Utrata główki                                   | 23 min                   | 10 min       |
-| Utrata główki                                   | 33 min                   | 5 min        |
-| Utrata główki                                   | 38 min                   | 5 min        |
-| Utrata główki                                   | 43 min                   | 5 min        |
-| Utrata głównej główki                           | 48 min                   | 4 min 30 s   |
+| Wydarzenie                                      | Czas od startu rozgrywki | Czas od ostatniego wydarzenia |
+|-------------------------------------------------|--------------------------|-------------------------------|
+| +5 do limitu generatorów                        | 5 min                    | 5 min                         |
+| Emerald 2                                       | 8 min                    | 3 min                         |
+| +5 do limitu generatorów, początek budowy mostu | 13 min                   | 5 min                         |
+| +5 do limitu generatorów                        | 18 min                   | 5 min                         |
+| Utrata główki                                   | 23 min                   | 10 min                        |
+| Utrata główki                                   | 33 min                   | 5 min                         |
+| Utrata główki                                   | 38 min                   | 5 min                         |
+| Utrata główki                                   | 43 min                   | 5 min                         |
+| Utrata głównej główki                           | 48 min                   | 4 min 30 s                    |
 
 > [!NOTE]
-> Po utracie wszystkich główek na swojej wyspie masz 4 minuty i 30 sekund na zbieranie itemów, ponieważ po tym czasie Twoja główna główka zostaje zniszczona.
+> Po utracie wszystkich główek na swojej wyspie masz 4 minuty i 30 sekund na zbieranie itemów. Po tym czasie Twoja główna główka zostaje zniszczona.
 
 ## Co się stanie po zniszczeniu główki?
 
-Jeśli jesteś na główce przeciwnika i razem z sojusznikami ją zniszczycie, wszyscy z was zostaną natychmiast wybici w górę o 60 kratek.
+Jeśli jesteś na główce przeciwnika i razem z sojusznikami ją zniszczycie, wszyscy z was zostaną natychmiast wybici w górę na około 60 kratek.
 
 Po chwili spadacie, więc bez szybkiej reakcji można zginąć od upadku.
 
-Aby uniknąć śmierci, to są trzy sposoby, żebyś nie zginął od upadku:
-
-1. Postawienie cobweba pod sobą (jeśli staniesz zbyt blisko główki, ten sposób nie zadziała, ponieważ go usunie).
-2. Postawienie wody przed upadkiem.
-3. Zbudować platformę oraz ścianę, a następnie umieścić na niej drabinki.
+> [!TIP]
+> Aby uniknąć śmierci, to są trzy sposoby, żebyś nie zginął od upadku:
+> - Postawienie cobweba pod sobą (jeśli staniesz zbyt blisko główki, ten sposób nie zadziała, ponieważ go usunie).
+> - Postawienie wody przed upadkiem.
+> - Zbudować platformę oraz ścianę, a następnie umieścić na niej drabinki.
 
 Po zniszczeniu główki otrzymasz Magiczną Główkę, gdzie możesz wybrać jeden efekt.
 
@@ -173,13 +173,13 @@ Możesz odebrać ją w sklepie na swojej główce.
 
 ![efekty.png](/assets/head-wars/efekty.png)
 
-| Efekt          | Czas      |
-|----------------|-----------|
-| Regeneracja 1  | 20 sekund |
-| Siła 1         | 15 sekund |
-| Niewidzialność | 20 sekund |
-| Wysokość 4     | 20 sekund |
-| Absorpcja 2    | 2 minuty  |
+| Efekt          | Czas trwania |
+|----------------|--------------|
+| Regeneracja 1  | 20 sekund    |
+| Siła 1         | 15 sekund    |
+| Niewidzialność | 20 sekund    |
+| Wysokość 4     | 20 sekund    |
+| Absorpcja 2    | 2 minuty     |
 
 ## StatTrack
 
