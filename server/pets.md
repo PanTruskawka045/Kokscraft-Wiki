@@ -89,7 +89,7 @@ Dostępny w karnecie **[Bedwars](/article/minigames/bedwars) Sezon Wakacyjnym**.
 
 ### Kokosek
 
-Niemożliwy aktualnie do zdobycia.
+Możliwy do zakupu w **Pakiecie Wakacyjnym** podczas **Eventu Wakacyjnego 2025**. Aktualnie jest niemożliwy do zdobycia.
 ![Kokosek](/assets/pets/pet-11.png)
 
 ### Dyniek
