@@ -204,17 +204,17 @@ Po kliknięciu otwiera się GUI, w którym masz dostęp do kategorii dostępnych
 
 ![wybor_kategorii_ulepszen.png](/assets/head-wars/wybor_kategorii_ulepszen.png)
 
-| Rodzaj         | Poziom | Co robi?                                      |
-|----------------|--------|-----------------------------------------------|
-| Walka I        | 5.000  | Redukuje Twojego knocka o 5%                  |
-| Walka II       | 15.000 | Redukuje Twojego knocka o 10%                 |
-| Walka III      | 30.000 | Redukuje Twojego knocka o 15%                 |
-| Obrona I       | 5.000  | Zmniejsza Twoje obrażenia o 2%                |
-| Obrona II      | 15.000 | Zmniejsza Twoje obrażenia o 4%                |
-| Obrona III     | 30.000 | Zmniejsza Twoje obrażenia o 6%                |
-| Użytkowe I     | 30.000 | Dodaje prędkość chodzenia o 0.01              |
-| Użytkowe II    | 30.000 | Dodaje prędkość chodzenia o 0.01              |
-| Użytkowe III   | 30.000 | Dodaje prędkość chodzenia o 0.01              |
-| Generatory I   | 5.000  | Dodaje 2% szczęścia na podwójny drop surowców |
-| Generatory II  | 15.000 | Dodaje 4% szczęścia na podwójny drop surowców |
-| Generatory III | 30.000 | Dodaje 6% szczęścia na podwójny drop surowców |
+| Rodzaj         | Poziom | Co robi?                                  |
+|----------------|--------|-------------------------------------------|
+| Walka I        | 5.000  | Redukuje Twój odrzut o 5%                 |
+| Walka II       | 15.000 | Redukuje Twój odrzut o 10%                |
+| Walka III      | 30.000 | Redukuje Twój odrzut o 15%                |
+| Obrona I       | 5.000  | Zmniejsza otrzymywane obrażenia o 2%      |
+| Obrona II      | 15.000 | Zmniejsza otrzymywane obrażenia o 4%      |
+| Obrona III     | 30.000 | Zmniejsza otrzymywane obrażenia o 6%      |
+| Użytkowe I     | 30.000 | Dodaje prędkość chodzenia o 0.01          |
+| Użytkowe II    | 30.000 | Dodaje prędkość chodzenia o 0.01          |
+| Użytkowe III   | 30.000 | Dodaje prędkość chodzenia o 0.01          |
+| Generatory I   | 5.000  | Dodaje 2% szans na podwójny drop surowców |
+| Generatory II  | 15.000 | Dodaje 4% szans na podwójny drop surowców |
+| Generatory III | 30.000 | Dodaje 6% szans na podwójny drop surowców |

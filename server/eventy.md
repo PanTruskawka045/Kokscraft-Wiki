@@ -6,7 +6,8 @@ W ich trakcie możesz zdobywać unikalne, customowe przedmioty!
 
 ## Jak działa dany event?
 
-Podczas trwania danego eventu to graj na trybach minigames lub spędzaj czas na serwerze i zbieraj eventową walutę, a potem wykorzystasz ją do otwierania skrzynek z nagrodami.
+Podczas trwania danego eventu, grając oraz spędzając czas na serwerze, otrzymuje się eventową walutę, którą można wymienić na nagrody (wymienione poniżej).
+Często wraz z początkiem eventu, możliwy do kupienia jest specjalny [karnet](/article/ogolne/karnety). Z takiego karnetu można otrzymać między innymi walutę eventową, oraz inne przedmioty.
 
 ## Waluta za questy
 
@@ -23,10 +24,19 @@ Dzięki nim zdobędziesz eventową walutę i szybciej uzbierasz na skrzynki z na
 
 ## Jak sprawdzić stan eventowej waluty?
 
-Jeśli chcesz sprawdzić, ile masz eventowej waluty, zajrzyj do ogłoszeń na naszym Discordzie ([ogłoszenia](https://discord.com/channels/773691439598141502/921111120977211412)).
+Ilość waluty eventowej można sprawdzić u NPC'ta na głównym lobby (na samym środku), który jest specjalnie przygotowany na eventy.
+Informacje o walucie są widoczne w prawym dolnym rogu
+![npc.png](/assets/eventy/npc.png)
+Możesz też użyć komendy podanej w [ogłoszeniach](https://discord.com/channels/773691439598141502/921111120977211412), żeby sprawdzić ilość eventowej waluty.
 
 ## Co można zrobić z eventową walutą?
 
-Możesz użyć komendy podanej w ogłoszeniach, żeby sprawdzić możliwość zakupu eventowej skrzynki. 
+W zależności od eventu, za walutę można kupić: 
+- Skrzynki eventowe
+- Klucze
+- Unikalne [addony](/article/ogolne/addony)
 
-Alternatywnie możesz też kliknąć specjalnego NPC na głównym lobby KoksCrafta i tam otworzyć sklep ze skrzynkami.
+## Topka
+
+Podczas trwania eventu, naliczane jest zdobyta waluta eventowa. 
+W zależności od eventu, może być prowadzona jeszcze inna [topka](/article/ogolne/topki).
