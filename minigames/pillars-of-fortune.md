@@ -28,6 +28,9 @@ Gracze mają do wyboru **dwa tryby rozgrywki**. Pierwszym z nich jest **klasyczn
 | Kruche bloki        | Gdy stoisz za długo na bloku, ten się niszczy          |
 | Przyśpieszona gra   | Dostajesz przedmioty dwa razy szybciej                 |
 
+> [!TIP]
+> Jeżeli lawa Cię dosięgnie i będziesz zmuszony w niej pływać, nadal masz szansę na przeżycie - możesz postawić w jakimś miejscu np. drzwi lub płotek, aby lawa Cię nie dotykała lub użyć mikstury z efektem odporności na ogień
+
 ## Perki
 
 **Perki w trybie Pillars of Fortune** to ulepszenia, które gracze mogą odblokować, kupując je za monety zdobywane za **wygrane rundy, eliminacje przeciwników oraz wykonywanie zadań**.
@@ -54,6 +57,10 @@ Gracze mają do wyboru **dwa tryby rozgrywki**. Pierwszym z nich jest **klasyczn
 |:--------------------:|:------------------:|
 | Zmniejszenie borderu | 4 minuty 30 sekund |
 |     Nagła śmierć     |      8 minuta      |
+
+> [!NOTE]
+> Wydarzenie nagła śmierć działa w ten sposób, że gracze zaczynają szybko tracić punkty życia. Aby przetrwać dłużej niż przeciwnicy, możesz założyć na siebie jak najlepszą zbroję lub zaopatrzyć się w złote jabłka i mikstury z efektem regeneracji/natychmiastowego leczenia
+
 
 ## Dodatki
 
