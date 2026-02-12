@@ -20,13 +20,13 @@ Gracze mają do wyboru **dwa tryby rozgrywki**. Pierwszym z nich jest **klasyczn
 
 ### Modyfikacje rozgrywki
 
-| Rodzaj              | Opis modyfikacji                                      |
-|---------------------|-------------------------------------------------------|
-| Klasyczna gra       | Zwykła gra, bez modyfikacji                            |
-| Lava Rising         | Lava podnosi się coraz wyżej, aż wypełni całą mapę     |
-| Apokalipsa bloków   | W losowych miejscach na mapie pojawiają się bloki      |
-| Kruche bloki        | Gdy stoisz za długo na bloku, ten się niszczy          |
-| Przyśpieszona gra   | Dostajesz przedmioty dwa razy szybciej                 |
+| Rodzaj            | Opis modyfikacji                                                 |
+|-------------------|------------------------------------------------------------------|
+| Klasyczna gra     | Zwykła gra, bez modyfikacji                                      |
+| Lava Rising       | Lava podnosi się coraz wyżej, aż wypełni całą mapę               |
+| Apokalipsa bloków | W losowych miejscach na mapie pojawiają się bloki                |
+| Kruche bloki      | Gdy stoisz za długo na bloku, ten się niszczy                    |
+| Przyśpieszona gra | Czas leci x2 szybciej, oraz przedmioty otrzymuje się x2 częściej |
 
 > [!TIP]
 > Jeżeli lawa Cię dosięgnie i będziesz zmuszony w niej pływać, nadal masz szansę na przeżycie - możesz postawić w jakimś miejscu np. drzwi lub płotek, aby lawa Cię nie dotykała lub użyć mikstury z efektem odporności na ogień
@@ -37,19 +37,19 @@ Gracze mają do wyboru **dwa tryby rozgrywki**. Pierwszym z nich jest **klasyczn
 
 ### Lista perków
 
-| Perk                     | Opis                                                                                            | Maksymalny tier |
-|--------------------------|-------------------------------------------------------------------------------------------------|-----------------|
-| Bonusowy drop            | Daje x % szans na otrzymanie dodatkowego przedmiotu                                             | 3               |
-| Podwójny drop            | Daje x % szans na otrzymanie podwójnej ilości przedmiotów                                       | 3               |
-| Siłacz                   | Otrzymujesz efekt siły 1 po zabójstwie na x sekund                                              | 3               |
-| Regeneracja              | Otrzymujesz efekt regeneracji 1 po zabójstwie na x sekund                                       | 3               |
-| Bonusowe monety          | Otrzymujesz x dodatkowych monet po zabójstwie                                                   | 3               |
-| Zwrot bloków             | Masz x % szans na zwrot postawionego bloku                                                      | 3               |
-| Przewidywanie dropu      | Sekundę przed otrzymaniem przedmiotu dostajesz wiadomość z informacją, jaki to będzie przedmiot | 1               |
-| Robin Hood               | Masz x % szans na zwrot strzały, gdy trafisz przeciwnika                                        | 3               |
-| Płomienny pancerz        | Gdy zostaniesz podpalony otrzymujesz efekt odporności na ogień na x sekund                      | 3               |
-| Łagodny upadek           | Zmniejszone obrażenia od upadku o x %                                                           | 3               |
-| Taktyczny reset          | Co x sekund po wyrzuceniu przedmiotu na ziemie otrzymasz inny w zamian                          | 3               |
+| Perk                | Rzadkość                       | Opis                                                                                              |
+|---------------------|--------------------------------|---------------------------------------------------------------------------------------------------|
+| Bonusowy drop       | [green/]Częsty[/green]         | Daje 5%/10%/15% szans na otrzymanie dodatkowego przedmiotu                                        |
+| Podwójny drop       | [fuchsia/]Mityczny[/fuchsia]   | Daje 5%/10%/15% szans na otrzymanie podwójnej ilości przedmiotów                                  |
+| Siłacz              | [orange/]Legendarny[/orange]   | Otrzymujesz efekt siły 1 po zabójstwie na 1/2/3 sekund                                            |
+| Regeneracja         | [orange/]Legendarny[/orange]   | Otrzymujesz efekt regeneracji 1 po zabójstwie na 1.5/3/4.5 sekund                                 |
+| Bonusowe monety     | [orange/]Legendarny[/orange]   | Otrzymujesz 5-10/5-15/5-20 dodatkowych monet po zabójstwie                                        |
+| Zwrot bloków        | [fuchsia/]Mityczny[/fuchsia]   | Masz 3%/6%/9% szans na zwrot postawionego bloku                                                   |
+| Przewidywanie dropu | [orange/]Legendarny[/orange]   | Sekundę przed otrzymaniem przedmiotu dostajesz wiadomość z informacją, jaki to będzie przedmiot   |
+| Robin Hood          | [fuchsia/]Mityczny[/fuchsia]   | Masz 10%/15%/20% szans na zwrot strzały, gdy trafisz przeciwnika                                  |
+| Płomienny pancerz   | [fuchsia/]Mityczny[/fuchsia]   | Gdy zostaniesz podpalony otrzymujesz efekt odporności na ogień na 0.5/0.75/1 sekund               |
+| Łagodny upadek      | [blue/]Rzadki[/blue]           | Zmniejszone obrażenia od upadku o 15%/20%/25%                                                     |
+| Taktyczny reset     | [blue/]Rzadki[/blue]           | Co 60/45/30 sekund po wyrzuceniu przedmiotu na ziemie otrzymasz inny w zamian                     |
 
 ## Harmonogram gry
 

@@ -1,6 +1,6 @@
-## PARTY >
+# Party
 To  funkcja, która pozwala graczom na tworzenie grup z innymi graczami. Gracze w party mogą razem uczestniczyć w grach i  trybach na serwerze. Dzięki temu mogą być pewni, że trafią do tej samej rozgrywki.
-## JAK STWORZYĆ PARTY?
+## Jak stworzyć party?
 
 Aby zaprosić innego gracza do party należy użyć komendy > **/p zapros [nick]**
 
@@ -10,7 +10,7 @@ Natomiast aby zaakceptować zaproszenie od innego gracza, wystarczy wpisać kome
 
 ![zaproszenie](/assets/parties/zaproszenie.png)
 
-## POTRZEBNE KOMENDY >
+## Komendy
 
 **/p chat** <wiadomosc> - Wiadomość do wszystkich w party,
 
@@ -30,11 +30,11 @@ Natomiast aby zaakceptować zaproszenie od innego gracza, wystarczy wpisać kome
 
 **/p chat-toggle** - Wylacz/Wlacz mozliwosc pisania na czacie party,
 
-## PARTY OTWARTE >
+## Party publiczne
 
 Po stworzeniu party z min. 1 graczem, możemy je otworzyć aby każdy gracz mógł do niego dołączyć, bez wcześniejszego zaproszenia od lidera party.
 
-Aby otworzyć party należy wpisać komendę > **/p otworz** - tej samej komendy używamy do zamknięcia party.
+Aby otworzyć party należy wpisać komendę **/p otworz** - tej samej komendy używamy do zamknięcia party.
 
 ![open](/assets/parties/open.png)
 
