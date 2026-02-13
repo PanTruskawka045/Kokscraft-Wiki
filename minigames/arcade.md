@@ -1,3 +1,5 @@
+# Arcade
+
 ## Party games
 
 Party games to zbiór różnorodnych minigier, które zapewniają szybką i dynamiczną rozrywkę dla wielu graczy. Każda gra posiada unikalne zasady i cele, sprawdzając zręczność, refleks oraz umiejętność współpracy graczy. Celem jest zdobycie jak największej liczby punktów w serii minigier, aby wyłonić ostatecznego zwycięzcę.
@@ -81,3 +83,28 @@ Gracze rzucają śnieżkami, zmieniając kolory trafionych bloków, na barwę ic
 ### Inwazja zombie
 Gracze stają na stanowiskach strzeleckich i otrzymują łuki. Ich zadaniem jest strzelanie do przebiegających w oddali zombie i szkieletów. Za każdego trafionego moba otrzymuje się punkty, zależnie od jego rodzaju i szybkości.
 ![zombie-run.png](/assets/arcade/party-games/zombie-run.png)
+
+## Parkour
+Parkour to jeden z zręcznościowych trybów na serwerze. Polega on na pokonywaniu zróżnicowanych torów przeszkód, składających się z bloków zawieszonych w powietrzu.
+### Parkour 1vs1 
+Parkour 1vs1 to dynamiczny tryb rywalizacji bezpośredniej, w którym dwóch graczy mierzy się ze sobą na identycznych torach przeszkód w tym samym czasie. W przeciwieństwie do klasycznego przechodzenia map, tutaj liczy się nie tylko bezbłędność, ale przede wszystkim presja czasu i opanowanie nerwów pod okiem przeciwnika.
+![Parkour1v1](/assets/arcade/Parkour/Parkour_1v1.png)
+### Parkour solo 
+Parkour Solo to tryb dający graczom możliwość grania samemu i szlifowania w ten sposób swoich umiejętności.
+![Parkoursolo](/assets/arcade/Parkour/Parkoursolo.png)
+
+> [!NOTE]
+> Gracze przed rozpoczęciem rozgrywki na jeden z pięciu poziomów trudności parkoura. Do wyboru są następujące poziomy:
+
+![Parkourlvl](/assets/arcade/Parkour/lvl.png)
+
+
+| Poziom |                                Mapa                                |
+|--------|:------------------------------------------------------------------:|
+| Easy   |         ![Parkourlvleasy](/assets/arcade/Parkour/easy.png)         |
+| Medium |       ![Parkourlvlmedium](/assets/arcade/Parkour/Medium.png)       |
+| Hard   |         ![ParkourlvlHard](/assets/arcade/Parkour/Hard.png)         |
+| Expert |       ![ParkourlvlExpert](/assets/arcade/Parkour/Expert.png)       |
+| Insane |       ![ParkourlvlInsine](/assets/arcade/Parkour/Insine.png)       |
+
+Czas na głosowanie to 10 sekund, po tym czasie gra się rozpoczyna.
