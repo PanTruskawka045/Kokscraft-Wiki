@@ -88,12 +88,14 @@ Gracze stają na stanowiskach strzeleckich i otrzymują łuki. Ich zadaniem jest
 Parkour to jeden z zręcznościowych trybów na serwerze. Polega on na pokonywaniu zróżnicowanych torów przeszkód, składających się z bloków zawieszonych w powietrzu.
 ### Parkour 1vs1 
 Parkour 1vs1 to dynamiczny tryb rywalizacji bezpośredniej, w którym dwóch graczy mierzy się ze sobą na identycznych torach przeszkód w tym samym czasie. W przeciwieństwie do klasycznego przechodzenia map, tutaj liczy się nie tylko bezbłędność, ale przede wszystkim presja czasu i opanowanie nerwów pod okiem przeciwnika.
+
 ![Parkour1v1](/assets/arcade/Parkour/Parkour_1v1.png)
 ### Parkour solo 
 Parkour Solo to tryb dający graczom możliwość grania samemu i szlifowania w ten sposób swoich umiejętności.
-![Parkoursolo](/assets/arcade/Parkour/Parkoursolo.png)
 
-> [!NOTE]
+![Parkoursolo](/assets/arcade/Parkour/parkoursolo.png)
+
+> [!Informacja]
 > Gracze przed rozpoczęciem rozgrywki na jeden z pięciu poziomów trudności parkoura. Do wyboru są następujące poziomy:
 
 ![Parkourlvl](/assets/arcade/Parkour/lvl.png)
