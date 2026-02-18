@@ -101,12 +101,12 @@ Parkour Solo to tryb dający graczom możliwość grania samemu i szlifowania w 
 ![Parkourlvl](/assets/arcade/Parkour/lvl.png)
 
 
-| Poziom |                                Mapa                                |
-|--------|:------------------------------------------------------------------:|
-| Easy   |         ![Parkourlvleasy](/assets/arcade/Parkour/easy.png)         |
-| Medium |       ![Parkourlvlmedium](/assets/arcade/Parkour/Medium.png)       |
-| Hard   |         ![ParkourlvlHard](/assets/arcade/Parkour/Hard.png)         |
-| Expert |       ![ParkourlvlExpert](/assets/arcade/Parkour/Expert.png)       |
-| Insane |       ![ParkourlvlInsine](/assets/arcade/Parkour/Insine.png)       |
+| Poziom                |                                Mapa                                |
+|-----------------------|:------------------------------------------------------------------:|
+| [badge:Easy:GREEN]    |         ![Parkourlvleasy](/assets/arcade/Parkour/easy.png)         |
+| [badge:Medium:YELLOW] |       ![Parkourlvlmedium](/assets/arcade/Parkour/Medium.png)       |
+| [badge:Hard:ORANGE]   |         ![ParkourlvlHard](/assets/arcade/Parkour/Hard.png)         |
+| [badge:Expert:RED]    |       ![ParkourlvlExpert](/assets/arcade/Parkour/Expert.png)       |
+| [badge:Insane:RED]    |       ![ParkourlvlInsine](/assets/arcade/Parkour/Insine.png)       |
 
 Czas na głosowanie to 10 sekund, po tym czasie gra się rozpoczyna.
