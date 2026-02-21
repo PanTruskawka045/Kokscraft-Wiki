@@ -23,7 +23,15 @@ Na naszym serwerze istnieją 4 różne rodzaje topek, które możesz wbić:
 
 ## Topki Rankingowe
 
-Pod (`/topki`), znajdziesz zakładkę "Topki Rankingowe" trybów duo i czwórek, gdzie możesz zobaczyć Top 10 graczy z najwyższym rankingiem, największą ilością killi, wygranych gier i zniszczonych łóżek. 
+W `/topki`, w zakładce "Topki Rankingowe", znajdziesz rankingi trybów duo oraz czwórek. Możesz tam zobaczyć Top 10 graczy z:
+
+- Najwyższym rankingiem.
+- Największą liczbą zabójstw.
+- Największą liczbą wygranych gier.
+- Największą liczbą zniszczonych łóżek.
+
+> [!IMPORTANT]
+> Topki aktualizują się automatycznie co około 20 minut.
 
 ## Topki Ogólne
 
@@ -51,6 +59,14 @@ Topki te resetują się w cyklu siedmiodniowym, który przesuwa się codziennie 
 ## Topki Dzienne
 
 Topki dzienne naliczane są w godzinach 09:00 - 24:00.
+
+## Topki HeadWas
+
+W `/topki`, w zakładce Sezon HeadWars, znajdziesz Top 10 graczy oraz klanów z największą liczbą:
+
+- Wygranych gier
+- Zniszczonych główek
+- Final killi
 
 ## Nagrody
 
@@ -82,18 +98,24 @@ Klany nagradzane są za miejsca w rankingach zwycięstw. Otrzymują kokscoiny or
 
 Na serwerze występują również topki klanowe, które możesz wbijać wraz z grupką znajomych: 
 
-1. Ogólne 
-2. Sezonowe 
-3. Tygodniowe 
+1. Ogólne
+2. Sezonowe
+3. Tygodniowe
 4. Dzienne
+
+Topki klanowe ogólne znajdują się na głównym hubie i obejmują:
+
+- Największą liczbę Rubinów w klanie.
+- Największą liczbę KoksCoinów w klanie.
+- Największą ilość zdobytego XP klanowego.
 
 ## Topki Ogólne Klanowe
 
 Topki ogólne klanowe znajdują się na głównym hubie i obejmują:
 
-1. Topka Rubinów w klanie
-2. Topka KoksCoinów w klanie
-3. Ilość wbitego XP do klanu
+1. Topka Rubinów w klanie.
+2. Topka KoksCoinów w klanie.
+3. Ilość wbitego XP do klanu.
 
 ![Topki klanowe](/assets/leaderboard/topkaklanhub.png)
 
