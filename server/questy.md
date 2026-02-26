@@ -1,11 +1,11 @@
 # Questy
 
-Questy to zadania, za których wykonanie możesz uzyskać dodatkowy XP, rubiny, punkty trybowe (tylko BuildGames) oraz czasami specjalne eventowe waluty. 
+Questy to zadania, za których wykonanie możesz uzyskać dodatkowy XP, rubiny, punkty trybowe (tylko BuildGames), Dusze (tylko SkyGames), Monety SkyGames oraz czasami specjalne eventowe waluty. 
 Istnieją zadania dzienne, tygodniowe, miesięczne oraz specjalne (podczas wybranych eventów).
 
 ## Informacje o zadaniach
 
-Zadania można aktywować wszystkie naraz. Jeśli wykonasz zadanie, możesz je zresetować za daną liczbę kokscoinów, a następnie zrobić je ponownie. Jeśli nie wykonasz zadania w podanym czasie, pozostanie ono aktywne dopóki go nie ukończysz w całości. Aktualnie zadania istnieją tylko na trybach BedWars oraz BuildGames.
+Zadania można aktywować wszystkie naraz. Jeśli wykonasz zadanie, możesz je zresetować za daną liczbę kokscoinów, a następnie zrobić je ponownie. Jeśli nie wykonasz zadania w podanym czasie, pozostanie ono aktywne dopóki go nie ukończysz w całości. Aktualnie zadania istnieją tylko na trybach BedWars, BuildGames oraz SkyGames.
 
 | Typ zadania |  Koszt resetu   |
 |-------------|-----------------|
