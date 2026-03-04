@@ -3,7 +3,7 @@
 **SkyWars** to **dynamiczny tryb gry**, w którym gracze walczą na **unoszących się w powietrzu wyspach**, starając się przetrwać i pokonać przeciwników, korzystając z dostępnych zasobów i sprzętu. Celem jest bycie **ostatnim żyjącym graczem lub drużyną** poprzez strategiczne planowanie, budowanie i szybką walkę w **zmieniającym się środowisku pełnym niebezpieczeństw i niespodzianek.**
 
 ![Zdjęcie 3](/assets/skywars/skywars-mapa-3.png)
-## Zestawy SkywWars
+## Zestawy SkyWars
 
 **Zestawy SkyWars** to specjalne pakiety wyposażenia, które gracze mogą kupić za monety zdobyte za **zabicie przeciwników i wygrane mecze**, wybierając je podczas **ładowania gry** i otrzymując **natychmiast po jej rozpoczęciu**.
 
@@ -34,7 +34,7 @@
 
 ## Ranked 1v1v1v1
 
-Graj **rankedy 1v1v1v1** i zdobywaj wyższy ranking, który odpowiada Twoim umiejętnością. 
+Graj **rankedy 1v1v1v1** i zdobywaj wyższy ranking, który odpowiada Twoim umiejętnościom. 
 
 ### Jakie są rangi rankingowe?
 

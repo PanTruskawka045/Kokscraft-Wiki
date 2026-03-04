@@ -107,7 +107,7 @@ Możesz sprawdzić swoje statystyki trybowe.
 
 ## Gry rankingowe  
 
-Graj na BedWars i zdobywaj wyższy ranking, który odpowiada Twoim umiejętnością. Ranking obowiązuje na cały sezon i zostaje redukowany wraz z nowym sezonem. 
+Graj na BedWars i zdobywaj wyższy ranking, który odpowiada Twoim umiejętnościom. Ranking obowiązuje na cały sezon i zostaje redukowany wraz z nowym sezonem. 
 
 > [!NOTE]
 > Na BedWars jest osobny ranking dla gier duo, jak i na czwórkach.
