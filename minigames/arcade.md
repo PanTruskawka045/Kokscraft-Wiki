@@ -96,7 +96,7 @@ Parkour Solo to tryb dający graczom możliwość grania samemu i szlifowania w 
 ![Parkoursolo](/assets/arcade/Parkour/parkoursolo.png)
 
 > [!NOTE]
-> Gracze przed rozpoczęciem rozgrywki na jeden z pięciu poziomów trudności parkoura. Do wyboru są następujące poziomy:
+> Gracze przed rozpoczęciem rozgrywki głosują na jeden z pięciu poziomów trudności parkoura. Do wyboru są następujące poziomy:
 
 ![Parkourlvl](/assets/arcade/Parkour/lvl.png)
 
