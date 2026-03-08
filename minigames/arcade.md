@@ -95,18 +95,19 @@ Parkour Solo to tryb dający graczom możliwość grania samemu i szlifowania w 
 
 ![Parkoursolo](/assets/arcade/Parkour/parkoursolo.png)
 
-> [!Informacja]
+> [!NOTE]
 > Gracze przed rozpoczęciem rozgrywki na jeden z pięciu poziomów trudności parkoura. Do wyboru są następujące poziomy:
 
 ![Parkourlvl](/assets/arcade/Parkour/lvl.png)
 
 
-| Poziom |                                Mapa                                |
-|--------|:------------------------------------------------------------------:|
-| Easy   |         ![Parkourlvleasy](/assets/arcade/Parkour/easy.png)         |
-| Medium |       ![Parkourlvlmedium](/assets/arcade/Parkour/Medium.png)       |
-| Hard   |         ![ParkourlvlHard](/assets/arcade/Parkour/Hard.png)         |
-| Expert |       ![ParkourlvlExpert](/assets/arcade/Parkour/Expert.png)       |
-| Insane |       ![ParkourlvlInsine](/assets/arcade/Parkour/Insine.png)       |
+| Poziom                |                Możliwe etapy trudności na mapie                 |
+|-----------------------|:---------------------------------------------------------------:|
+| [badge:Easy:GREEN]    |                       [badge:Easy:GREEN]                        |
+| [badge:Medium:YELLOW] |          [badge:Easy:GREEN] oraz [badge:Medium:YELLOW]          |
+| [badge:Hard:ORANGE]   |         [badge:Medium:YELLOW] oraz [badge:Hard:ORANGE]          |
+| [badge:Expert:RED]    |           [badge:Hard:ORANGE] oraz [badge:Expert:RED]           |
+| [badge:Insane:RED]    | [badge:Expert:RED], [badge:Insane:RED] oraz [badge:KOKS:ORANGE] |
 
-Czas na głosowanie to 10 sekund, po tym czasie gra się rozpoczyna.
+Czas na głosowanie to 10 sekund, po tym czasie gra się rozpoczyna. 
+Gdy dwie osoby zagłosują za jakimkolwiek poziomem trudności, odliczanie skraca się do 3 sekund.
