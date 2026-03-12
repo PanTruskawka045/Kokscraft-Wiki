@@ -1,10 +1,13 @@
 # Regulamin Minecraft
 
 > [!NOTE]
-> Ostatnia aktualizacja: 10.01.2026.
+> Ostatnia aktualizacja: 12.03.2026.
 
 > [!WARNING]
 > Regulamin nie obowiązuje na trybie RUST.
+
+> [!WARNING]
+> Zasady czatu tekstowego nie dotyczą trybu KOKS SMP.
 
 ## 1. Postanowienia ogólne
 
@@ -12,6 +15,7 @@
 **1.2 -** Działania niezgodne z Konstytucją Rzeczypospolitej Polski, rozporządzaniem o ochronie danych osobowych RODO, Kodeksem Karnym, lub Cywilnym będą skutkowały nadaniem natychmiastowego bana na konto.
 **1.3 -** CEO, Zarząd serwerowy oraz minecraftowy zastrzegają sobie prawo do podjęcia decyzji o sposobie działania w przypadkach, których regulamin nie przewiduje; tak, aby doprowadzić do rozwiązania problemu za porozumieniem stron.
 **1.4 -** Administracja zastrzega sobie prawo do możliwości aktualizacji regulaminu bez wcześniejszego informowania.
+**1.5 -** Nieznajomość regulaminu nie zwalnia z jego przestrzegania.
 
 ## 2. Zasady ogólne
 
@@ -47,9 +51,9 @@
 **3.9 -** Zabrania się jakichkolwiek prób prowokacji użytkowników.
 **3.10 -** Wprowadzanie graczy w błąd, nawet niecelowe może skutkować karą.
 **3.11 -** Zabrania się wysyłania na chat jakichkolwiek linków. Nie zaliczają się pod to strony kokscrafta.
-**3.12 -** Na całym serwerze dozwolone jest tylko używanie języka polskiego i Angielskiego.
-**3.13.1 -** Zabrania się reklamowania innych serwerów minecraft i discord oraz jakichkolwiek serwerów ts.
-**3.13.2 -** Zabrania się reklamowania jakichkolwiek profili z mediów społecznościowych. (wyjątki: zasada 5.1.1/5.1.2/6.1)
+**3.12 -** Na całym serwerze dozwolone jest tylko używanie języka polskiego i angielskiego.
+**3.13.1 -** Zabrania się reklamowania oraz zachęcania/zapraszania do wejścia na inne serwery minecraft, oraz platform społecznościowych (np. discord, ts).
+**3.13.2 -** Zabrania się reklamowania oraz zachęcania/zapraszania na jakiekolwiek profile z mediów społecznościowych. (wyjątki: zasada 5.1.1/5.1.2/6.1)
 **3.14 -** Cytowanie wiadomości łamiących regulamin (nawet w formie pytania) podlega karze.
 
 ## 4. Zasady ogólne rozgrywki
@@ -68,7 +72,7 @@
 **5.4 -** Zabrania się trolowania/utrudniania gry lub sabotowania swojej drużyny.
 **5.5 -** Zabrania się teamowania z graczami będących w innej drużynie.
 **5.6 -** Zabrania się używania jakichkolwiek wspomagaczy klikania, makr (nawet wbudowanych w myszkę) czy innych programów zewnętrznych (wyjątek: tryb UHC).
-**5.7 -** Nabijanie statystyk/xpa lub rubinów na afk skutkuje całkowitym resetem konta.
+**5.7 -** Nabijanie statystyk/xpa lub rubinów na afk, lub przy pomocy multikont skutkuje całkowitym resetem konta.
 
 ## 6. Zasady czatu tekstowego i rozgrywki - tryby survival
 
