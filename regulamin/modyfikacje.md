@@ -1,7 +1,7 @@
 # Modyfikacje
 
 > [!NOTE]
-> Ostatnia aktualizacja: 22.02.2026.
+> Ostatnia aktualizacja: 12.03.2026.
 
 > [!WARNING]
 > Poniższe wszystkie informacje nie dotyczą trybu RUST.
