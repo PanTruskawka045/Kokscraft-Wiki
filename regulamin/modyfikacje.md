@@ -1,7 +1,7 @@
 # Modyfikacje
 
 > [!NOTE]
-> Ostatnia aktualizacja: 10.01.2026.
+> Ostatnia aktualizacja: 12.03.2026.
 
 > [!WARNING]
 > Poniższe wszystkie informacje nie dotyczą trybu RUST.
@@ -38,6 +38,7 @@
 - pokazują zawartość całego ekwipunku`*`,
 - ukrywają widoczność posiadanego clienta, 
 - oszukują aktualną wersję gry,
+- ingerują w pakiety clienta, powodując ich modyfikację w sposób niewystępujący dla czystej niemodyfikowanej wersji Vanilla,
 - dają jakąkolwiek przewagę w rozgrywce.
 
 Pomocna lista [red/]niedozwolonych[/red] modyfikacji, po nazwie:

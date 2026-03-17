@@ -1,3 +1,5 @@
+# Arcade
+
 ## Party games
 
 Party games to zbiór różnorodnych minigier, które zapewniają szybką i dynamiczną rozrywkę dla wielu graczy. Każda gra posiada unikalne zasady i cele, sprawdzając zręczność, refleks oraz umiejętność współpracy graczy. Celem jest zdobycie jak największej liczby punktów w serii minigier, aby wyłonić ostatecznego zwycięzcę.
@@ -81,3 +83,31 @@ Gracze rzucają śnieżkami, zmieniając kolory trafionych bloków, na barwę ic
 ### Inwazja zombie
 Gracze stają na stanowiskach strzeleckich i otrzymują łuki. Ich zadaniem jest strzelanie do przebiegających w oddali zombie i szkieletów. Za każdego trafionego moba otrzymuje się punkty, zależnie od jego rodzaju i szybkości.
 ![zombie-run.png](/assets/arcade/party-games/zombie-run.png)
+
+## Parkour
+Parkour to jeden z zręcznościowych trybów na serwerze. Polega on na pokonywaniu zróżnicowanych torów przeszkód, składających się z bloków zawieszonych w powietrzu.
+### Parkour 1vs1 
+Parkour 1vs1 to dynamiczny tryb rywalizacji bezpośredniej, w którym dwóch graczy mierzy się ze sobą na identycznych torach przeszkód w tym samym czasie. W przeciwieństwie do klasycznego przechodzenia map, tutaj liczy się nie tylko bezbłędność, ale przede wszystkim presja czasu i opanowanie nerwów pod okiem przeciwnika.
+
+![Parkour1v1](/assets/arcade/Parkour/Parkour_1v1.png)
+### Parkour solo 
+Parkour Solo to tryb dający graczom możliwość grania samemu i szlifowania w ten sposób swoich umiejętności.
+
+![Parkoursolo](/assets/arcade/Parkour/parkoursolo.png)
+
+> [!NOTE]
+> Gracze przed rozpoczęciem rozgrywki głosują na jeden z pięciu poziomów trudności parkoura. Do wyboru są następujące poziomy w GUI:
+
+![Parkourlvl](/assets/arcade/Parkour/lvl.png)
+
+
+| Poziom                |                Możliwe etapy trudności na mapie                 |
+|-----------------------|:---------------------------------------------------------------:|
+| [badge:Easy:GREEN]    |                       [badge:Easy:GREEN]                        |
+| [badge:Medium:YELLOW] |          [badge:Easy:GREEN] oraz [badge:Medium:YELLOW]          |
+| [badge:Hard:ORANGE]   |         [badge:Medium:YELLOW] oraz [badge:Hard:ORANGE]          |
+| [badge:Expert:RED]    |           [badge:Hard:ORANGE] oraz [badge:Expert:RED]           |
+| [badge:Insane:RED]    | [badge:Expert:RED], [badge:Insane:RED] oraz [badge:KOKS:ORANGE] |
+
+Czas na głosowanie to 10 sekund, po tym czasie gra się rozpoczyna. 
+Gdy dwie osoby zagłosują za jakimkolwiek poziomem trudności, odliczanie skraca się do 3 sekund.
