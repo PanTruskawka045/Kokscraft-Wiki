@@ -129,7 +129,7 @@ Jeżeli wyświetla się Tobie ten komunikat:
 1. Jeżeli jest to jednorazowy przypadek, to nie musisz się niczym przejmować, po prostu wbij ponownie na serwer.
 2. Jeżeli ten komunikat pojawia się za każdym razem, kiedy próbujesz wbić na konkretny tryb, to stwórz ticketa na support.kokscraft.pl.
 
-## Gracz o takim NICKU jest już na serwerze"
+## Gracz o takim NICKU jest już na serwerze
 Jeżeli wyświetla się Tobie ten komunikat:
 
 ![gracz-o-podanym-nicku.png](/assets/bledy-dolaczania/gracz-o-podanym-nicku.png)

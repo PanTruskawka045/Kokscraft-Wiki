@@ -1,7 +1,7 @@
 # Regulamin Discord
 
 > [!NOTE]
-> Ostatnia aktualizacja: 10.01.2026.
+> Ostatnia aktualizacja: 12.03.2026.
 
 ## 1. Postanowienia Ogólne
 
@@ -51,6 +51,7 @@
 **3.7 -** Podczas pisania należy starać się przestrzegać zasad gramatyki oraz ortografii.
 **3.8 -** Zabrania się nadmiernego oznaczania oraz bezpodstawnego pingowania osób, w tym administracji.
 **3.9 -** Zabrania się wysyłania jumpscare'ów.
+**3.10 -** Zabrania się nadużywania reakcji pod wiadomościami.
 
 ## 4. Zasady kanałów głosowych
 

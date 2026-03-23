@@ -120,7 +120,6 @@ Topki ogólne klanowe znajdują się na głównym hubie i obejmują:
 ![Topki klanowe](/assets/leaderboard/topkaklanhub.png)
 
 ## Topki Klanowe Minigier
+Są topki klanowe na trybach Bedwars i Skywars. 
 
-Masz topki klanowe na trybach Bedwars i Skywars. 
-
-Klan, który znajdzie się w topce na koniec sezonu, otrzyma specjalne nagrody!
+Klan, który znajdzie się w topce na koniec sezonu, otrzymuje specjalne nagrody.
