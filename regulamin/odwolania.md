@@ -40,4 +40,7 @@ Aby zrobić odpowiedni screenshot, użyj:
 - Jeżeli nie masz tego przycisku, użyj skrótu `Shift + Win + S`
 - Jako alternatywy możesz użyj narzędzia wycinania. Wpisz w menu start `Narzędzie Wycinania` (ang. `Snipping Tool`). Następnie wybierz `Nowy`/`New` (lewy górny róg) i zaznacz cały ekran.
 
+> [!NOTE]
+> Pamiętaj, żeby wyłączyć fullscreen'a (F11).
+
 Wszystkie powyższe sposoby powinny skopiować zrzut ekranu do schowka. W momencie tworzenia ticket'a wklej zrzut ekranu używając skrótu `Ctrl + V`.
