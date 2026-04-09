@@ -1,7 +1,7 @@
 # Modyfikacje
 
 > [!NOTE]
-> Ostatnia aktualizacja: 12.03.2026.
+> Ostatnia aktualizacja: 8.04.2026.
 
 > [!WARNING]
 > Poniższe wszystkie informacje nie dotyczą trybu RUST.
@@ -47,6 +47,7 @@ Pomocna lista [red/]niedozwolonych[/red] modyfikacji, po nazwie:
 - Inventory Move
 - Elytra Swapper
 - Freecam
+- Playerautoma
 - Fabric Hider
 - Skin Toggle
 - No Hit Delay / Hit Delay Fix
