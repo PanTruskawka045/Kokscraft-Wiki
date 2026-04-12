@@ -203,7 +203,7 @@ NPC'ta znajdziesz po lewej stronie od spawna.
 |     Talizman siły 2      |     200.000 Dolarów + Talizman siły 1 x2      |
 |     Talizman siły 3      |       3.000 Orbów + Talizman siły 2 x2        |
 
-![talizmany.png](../assets/survival-dzialki/talizmany.png)
+![talizmany.png](/assets/survival-dzialki/talizmany.png)
 
 ## Plecaki
 
