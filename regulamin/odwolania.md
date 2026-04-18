@@ -1,7 +1,7 @@
 # Odwołania
 
 > [!NOTE]
-> Ostatnia aktualizacja: 9.04.2026.
+> Ostatnia aktualizacja: 18.04.2026.
 
 ## Odwołania minecraft - ogólne
 
@@ -44,3 +44,14 @@ Aby zrobić odpowiedni screenshot, użyj:
 > Pamiętaj, żeby wyłączyć fullscreen'a (F11).
 
 Wszystkie powyższe sposoby powinny skopiować zrzut ekranu do schowka. W momencie tworzenia ticket'a wklej zrzut ekranu używając skrótu `Ctrl + V`.
+
+### Przykładowe screenshoty
+- Odpowiedni screenshot, spełniający nasze wymagania zrobiony z ekranu bana:
+![Screenshot obraz bana](/assets/odwolania/screenshot-obraz-bana.png)
+- Odpowiedni screenshot, spełniający wymagania zrobiony na trybie anarchia:
+- ![Screenshot anarchia](/assets/odwolania/screenshot-anarchia.png)
+
+Screenshoty niezawierające powyżej zaznaczonych elementów będą odrzucane, a gracz będzie poproszony o ponowne zrobienie takiego screenshotu.
+
+> [!NOTE]
+> Gracz nie ma obowiązku zrobienia screenshota od razu po otrzymaniu kary.
