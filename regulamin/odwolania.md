@@ -13,6 +13,8 @@
 - Każdy przypadek jest rozpatrywany indywidualnie.
 - W przypadku kar za cheaty/niedozwolone oprogramowanie nie są podawane moduły/naruszenia które zostały wykryte.
 
+⚠️ Odwołać można się tylko za kary na swoim koncie. Odwołania napisane w imieniu innej osoby będą automatycznie odrzucane! ⚠️
+
 ## Odwołania minecraft - skrócenia kar
 
 - O skrócenie kary można ubiegać się **raz**, najwcześniej **6 miesięcy** od daty otrzymania kary - nie musi zostać to pozytywnie rozpatrzone.
@@ -24,6 +26,8 @@
 - Administracja ma 5 dni na odpowiedź na odwołanie.
 - Gracz ma 16 godzin na zapoznanie się z werdyktem.
 - Administracja nie ma obowiązku ukazywania dowodów graczom.
+
+⚠️ Odwołać można się tylko za kary na swoim koncie. Odwołania napisane w imieniu innej osoby będą automatycznie odrzucane! ⚠️
 
 ## Odwołania discord po dłuższym czasie
 
