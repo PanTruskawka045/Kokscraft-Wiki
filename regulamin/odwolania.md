@@ -49,7 +49,7 @@ Wszystkie powyższe sposoby powinny skopiować zrzut ekranu do schowka. W momenc
 - Odpowiedni screenshot, spełniający nasze wymagania zrobiony z ekranu bana:
 ![Screenshot obraz bana](/assets/odwolania/screenshot-obraz-bana.png)
 - Odpowiedni screenshot, spełniający wymagania zrobiony na trybie anarchia:
-- ![Screenshot anarchia](/assets/odwolania/screenshot-anarchia.png)
+![Screenshot anarchia](/assets/odwolania/screenshot-anarchia.png)
 
 Screenshoty niezawierające powyżej zaznaczonych elementów będą odrzucane, a gracz będzie poproszony o ponowne zrobienie takiego screenshotu.
 
