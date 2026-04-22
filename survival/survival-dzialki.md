@@ -83,6 +83,9 @@ Panel pozwala na szczegółowe zarządzanie twoim terenem:
 - `/rangi` - wyświetla GUI z opisem rang premium.
 - `/prestiz` - wyświetla GUI systemu prestiżu.
 - `/kosz` - bezpieczne usuwanie niepotrzebnych przedmiotów.
+- `/kokscoiny` - sklep za kokscoiny.
+- `/recipes` - wyświetla GUI z castomowymi craftingami.
+- `/zlecenia` - możliwość wystawienia zlecenia na dane przedmioty.
 
 ## Handel i Ekonomia
 
@@ -92,6 +95,14 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 > [!WARNING]
 > Na serwerze obowiązuje podatek [red/]5%[/red]!
 > [orange/]Podatek obejmuje płatności poprzez /pay![/orange]
+
+## CoinFlip
+
+CoinFlip działa na prostych zasadach - możesz rzucić monetą z innym graczem i zaryzykować określoną ilość waluty. Wszystko zależy od szczęścia: wygrywający zgarnia całą pulę.
+GUI otworzysz komendą `/coinflip`.
+
+> [!NOTE]
+> Aby móc korzystać z coinflipa, musisz posiadać 10 level prac.
 
 ### Komendy ekonomiczne
 
@@ -120,7 +131,7 @@ uprawnienia.
 - `/slub list` - wyświetla listę aktywnych małżeństw.
 
 > [!IMPORTANT]
-> Po wzięciu rozwodu musisz odczekać **24h** zanim ponownie weźmiesz ślub!
+> Po wzięciu rozwodu musisz odczekać **24h**, zanim ponownie weźmiesz ślub!
 
 ![Rozwód](/assets/survival-dzialki/slub_rozwod.png)
 
@@ -157,14 +168,13 @@ Każda ranga posiada unikalne przywileje (sprawdź pod `/rangi`) oraz zestawy pr
 
 ### Zestawy (Kity)
 
-|                      |                        ZESTAWY                         |
-|----------------------|:------------------------------------------------------:|
-| [badge:GRACZ:gray]   | ![Kit Player](/assets/survival-dzialki/kit-player.png) |
-| [badge:VIP:green]    |  ![Kit Player](/assets/survival-dzialki/kit-vip.png)   |
-| [badge:SVIP:indigo]  |  ![Kit Player](/assets/survival-dzialki/kit-svip.png)  |
-| [badge:MVIP:emerald] |  ![Kit Player](/assets/survival-dzialki/kit-mvip.png)  |
-| [badge:KOKS:primary] |  ![Kit Player](/assets/survival-dzialki/kit-koks.png)  |
-
+|                      |                       ZESTAWY                        |
+|----------------------|:----------------------------------------------------:|
+| [badge:GRACZ:gray]   | ![Kit Player](/assets/survival-dzialki/kit-gracz.png)  |
+| [badge:VIP:green]    | ![Kit Player](/assets/survival-dzialki/kit-vip.png)  |
+| [badge:SVIP:indigo]  | ![Kit Player](/assets/survival-dzialki/kit-svip.png) |
+| [badge:MVIP:emerald] | ![Kit Player](/assets/survival-dzialki/kit-mvip.png) |
+| [badge:KOKS:primary] | ![Kit Player](/assets/survival-dzialki/kit-koks.png) |
 
 ### Skrzynie (Crates)
 
