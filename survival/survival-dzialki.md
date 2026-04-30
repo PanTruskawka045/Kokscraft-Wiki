@@ -84,7 +84,7 @@ Panel pozwala na szczegółowe zarządzanie twoim terenem:
 - `/prestiz` - wyświetla GUI systemu prestiżu.
 - `/kosz` - bezpieczne usuwanie niepotrzebnych przedmiotów.
 - `/kokscoiny` - sklep za kokscoiny.
-- `/recipes` - wyświetla GUI z castomowymi craftingami.
+- `/recipes` lub `/craftingi` - wyświetla GUI z castomowymi craftingami.
 - `/zlecenia` - możliwość wystawienia zlecenia na dane przedmioty.
 
 ## Handel i Ekonomia
@@ -95,6 +95,22 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 > [!WARNING]
 > Na serwerze obowiązuje podatek [red/]5%[/red]!
 > [orange/]Podatek obejmuje płatności poprzez /pay![/orange]
+
+## PokeBalle
+
+Na naszym serwerze masz do wyboru trzy rodzaje PokeBalli do łapania mobów.
+
+1. PokeBall - ma 30% szans na złapanie moba. Możesz go zdobyć z kitu KOKS lub go scraftować (crafting znajdziesz pod `/craftingi`).
+
+![pokeball.png](/assets/survival-dzialki/pokeball.png)
+
+2. GreatBall - ma 65% szans na złapanie moba. Możesz go zdobyć, otwierając skrzynie KOKS.
+
+![greatball.png](/assets/survival-dzialki/greatball.png)
+
+3. UltraBall - ma 100% szans na złapanie moba. Możesz go zdobyć, otwierając skrzynie szczęśliwe.
+
+![ultraball.png](/assets/survival-dzialki/ultraball.png)
 
 ## CoinFlip
 
