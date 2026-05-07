@@ -1,7 +1,7 @@
 # Taryfikator Minecraft
 
 > [!NOTE]
-> Ostatnia aktualizacja: 10.01.2026.
+> Ostatnia aktualizacja: 7.05.2026.
 
 > [!WARNING]
 > Taryfikator nie obowiązuje na trybie RUST.
@@ -23,8 +23,8 @@
 |                  **Upublicznianie danych osobowych** (m. in. imie, nazwisko, nr. tel, dane wrażliwe)                  |             [red/]ban 7d[/red] - [red/]14d[/red]             |            [red/]ban 28d[/red] - [red/]60d[/red]             |                     [red/]ban 180d[/red]                      |
 |                                          **Nieodpowiedni TAG klanu/gildii**                                           |    [yellow/]ban 1d[/yellow] dla lidera + usunięcie klanu     |    [yellow/]ban 3d[/yellow] dla lidera + usunięcie klanu     |    [yellow/]ban 14d[/yellow] dla lidera + usunięcie klanu     |
 |                                           **Nieodpowiednia nazwa działki**                                            | [yellow/]ban 1d[/yellow] dla własciciela + usunięcie działki | [yellow/]ban 3d[/yellow] dla właściciela + usunięcie działki | [yellow/]ban 14d[/yellow] dla właściciela + usunięcie działki |
+|                                **Ustawianie nieodpowiednich tytułów/balonów na lobby**                                |                   [yellow/]ban 3d[/yellow]                   |                     [red/]ban 14d[/red]                      |                      [red/]ban 60d[/red]                      |
 | **Niedopełnienie obowiązków i/lub Przekroczenie uprawnień związanych z rangą testera lub inną rangą administracyjną** |            [red/]ban 14d[/red] - [red/]perm[/red]            |                                                              |                                                               |
-|                                    **Ustawianie nieodpowiednich tytułów na lobby**                                    |                   [yellow/]ban 3d[/yellow]                   |                     [red/]ban 14d[/red]                      |                      [red/]ban 60d[/red]                      |
 
 ## Czat tekstowy
 
@@ -73,6 +73,7 @@
 |       **Nabijanie statystyk lub rankingu** (tryby survival)       |   [red/]ban 14d[/red]    |    [red/]ban 60d[/red]    |            [red/]ban 180d[/red]            |
 |                  **Celowy grief** (tryb działki)                  | [yellow/]ban 1d[/yellow] |    [red/]ban 7d[/red]     |            [red/]ban 14d[/red]             |
 |                  **Niecenzuralne nazwy itemów**                   | [yellow/]ban 6h[/yellow] | [yellow/]ban 1d[/yellow]  |          [yellow/]ban 3d[/yellow]          |
+|                       **Trapowanie graczy**                       | [yellow/]ban 1d[/yellow] | [yellow/]ban 3d[/yellow]  |             [red/]ban 7d[/red]             |
 
 ## Legenda
 `*` - Jeżeli nieuzupełnione, wtedy stosowana jest kara z kolumny poprzedniej.
