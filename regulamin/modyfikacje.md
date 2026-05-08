@@ -1,7 +1,7 @@
 # Modyfikacje
 
 > [!NOTE]
-> Ostatnia aktualizacja: 8.04.2026.
+> Ostatnia aktualizacja: 7.05.2026.
 
 > [!WARNING]
 > Poniższe wszystkie informacje nie dotyczą trybu RUST.
@@ -16,7 +16,7 @@
 ## 2. Pozostałe rzeczy ingerujące w grę.
 
 **2.1 -** Kategorycznie zabrania się altowania, niezależnie od sposobu jego wykonania. Nie dotyczy to lobby serwerowego.
-**2.2 -** Na wszystkich trybach z wyjątkiem SV+DZIAŁKI, dozwolone są skrypty/tinytaski lub inne programy (nie mody!), które służą tylko i wyłącznie do odtwarzania nagranych ruchów/czynności.
+**2.2 -** Na wszystkich trybach z wyjątkiem [badge:SkyGen:primary], [badge:BoxPvP:primary], [badge:SV+Działki:primary] i [badge:OneBlock:primary], dozwolone są skrypty/tinytaski lub inne programy (nie mody!), które służą tylko i wyłącznie do odtwarzania nagranych ruchów/czynności.
 
 ## 3. Launchery i Clienty.
 

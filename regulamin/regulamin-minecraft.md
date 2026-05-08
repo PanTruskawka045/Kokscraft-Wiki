@@ -1,7 +1,7 @@
 # Regulamin Minecraft
 
 > [!NOTE]
-> Ostatnia aktualizacja: 12.03.2026.
+> Ostatnia aktualizacja: 7.05.2026.
 
 > [!WARNING]
 > Regulamin nie obowiązuje na trybie RUST.
@@ -27,15 +27,17 @@
 **2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administracji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta. Szczegółowe pozostałe zasady dotyczące multikont znajdują się w punkcie 6.2. 
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
-**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu.
+**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu. Szczegółowe informacje znajdują się [tutaj](/article/administracyjne/nicki).
 **2.8 -** Użytkownik zobowiązany jest do posiadania pelerynki i skina, który(a) nie zawiera treści: historycznych, przeznaczonych dla osób powyżej 18 roku życia oraz wzbudzających kontrowersje.
 **2.9.1 -** Przewinienia graczy na chacie należy zgłaszać w czasie maksymalnie 24h.
 **2.9.2 -** Przewinienia graczy w rozgrywce na serwerze należy zgłaszać w czasie maksymalnie tygodnia. Wyjątkiem są rzeczy, za które przypada kara w postaci bana na minimum 28 dni.
 **2.10 -** Zasad czatu tekstowego nie obejmują wiadomości wysyłane na: wiadomości prywatnej, chacie party, chacie gildyjnym oraz chacie ślubu. Wyjątkiem mogą być wiadomości bezpośrednio działające na szkodę serwera.
 **2.11 -** Zabrania się nawiązywania stosunków handlowych, które tyczą się realnych walut. Administracja nie ponosi odpowiedzialności za wszelkie oszustwa, których dopuszczą się użytkownicy. Wszelkie "zakłady 1v1 o 100 kokscoinow" i inne tego typu działalności są przeprowadzane na wyłączną odpowiedzialność użytkowników.
 **2.12 -** Zabrania się tworzenia gildii, których nazwa lub tag w jakikolwiek sposób łamie regulamin. Złamanie tej zasady skutkuje usunięciem klanu bez zwrotów kosztów za założenie!
-**2.13 -** Zabrania się ustawiania słów w personalizowanych tytułach, które łamią w jakimkolwiek stopniu regulamin.
+**2.13.1 -** Zabrania się ustawiania słów w personalizowanych tytułach, które łamią w jakimkolwiek stopniu regulamin.
+**2.13.2 -** Zabrania się ustawiania skinów w personalizowanych balonach, które łamią w jakimkolwiek stopniu regulamin.
 **2.14 -** Blacklista na rekrutacje jest nieodwołalna, nie podlega apelacji i wyjaśnieniom.
+**2.15 -** Byli członkowie personelu (obejmującego administrację minecraft/discord oraz zespół testerów) dalej reprezentują administrację i są zobowiązani do dbania o dobry wizerunek serwera przez określony czas po ustąpieniu z funkcji. Okres ten wynosi połowę czasu pełnienia przez nich funkcji administracyjnej, jednak nie dłużej niż 6 miesięcy od momentu odejścia. Kategorycznie zabrania się podejmowania jakichkolwiek celowych działań, których zamiarem lub skutkiem jest naruszenie dobrego imienia bądź wizerunku serwera, administracji lub Zarządu. Wyłączne prawo do weryfikacji i wiążącej oceny stopnia szkodliwości zachowania danej osoby przysługuje Zarządowi.
 
 ## 3. Zasady ogólne czatu tekstowego
 
@@ -91,8 +93,12 @@
 
 **6.5 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
 **6.6 -** Zabrania się griefowania terenu.
+
+## ONEBLOCK + SV+DZIAŁKI
+
 **6.7 -** Zabrania się korzystania z programów wykonujących czynności w grze podczas nieobecności gracza.
 **6.8 -** Zabrania się używania multikont do automatycznych czynności w celu pozyskania itemów (np. łowienia).
+**6.9 -** Zabrania się trapowania graczy na działkach/wyspach.
 
 ## Terminologia
 **Wulgaryzmy oraz przekleństwa:**
