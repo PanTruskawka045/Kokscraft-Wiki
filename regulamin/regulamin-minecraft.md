@@ -27,7 +27,7 @@
 **2.5.2 -** Użytkownik na trybach survival może posiadać więcej niż jedno konto i nie ma obowiązku informować o wszystkich administracji. Zakazuje się natomiast używania ich w celu omijania blokady bana lub muta. Szczegółowe pozostałe zasady dotyczące multikont znajdują się w punkcie 6.2. 
 **2.5.3 -** Rajdowanie serwera przy użyciu multikont może skutkować permanentną blokadą na wszystkie konta.
 **2.6 -** Zabrania się wykorzystywania błędów serwera. Każdy znaleziony błąd należy zgłosić administracji.
-**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu. Szczegółowe informacje znajdują się [tutaj](/article/administracyjne/nicki).
+**2.7 -** Użytkownik zobowiązany jest do posiadania nicku (również incognito), który nie narusza regulaminu. Szczegółowe informacje znajdują się [tutaj](/article/pomoc/nicki).
 **2.8 -** Użytkownik zobowiązany jest do posiadania pelerynki i skina, który(a) nie zawiera treści: historycznych, przeznaczonych dla osób powyżej 18 roku życia oraz wzbudzających kontrowersje.
 **2.9.1 -** Przewinienia graczy na chacie należy zgłaszać w czasie maksymalnie 24h.
 **2.9.2 -** Przewinienia graczy w rozgrywce na serwerze należy zgłaszać w czasie maksymalnie tygodnia. Wyjątkiem są rzeczy, za które przypada kara w postaci bana na minimum 28 dni.
@@ -94,7 +94,7 @@
 **6.5 -** Zabrania się ustawiania nazw działek, których nazwa w jakikolwiek sposób łamie regulamin. Złamanie tej zasady może skutkować usunięciem działki!
 **6.6 -** Zabrania się griefowania terenu.
 
-## ONEBLOCK + SV+DZIAŁKI
+### ONEBLOCK + SV+DZIAŁKI
 
 **6.7 -** Zabrania się korzystania z programów wykonujących czynności w grze podczas nieobecności gracza.
 **6.8 -** Zabrania się używania multikont do automatycznych czynności w celu pozyskania itemów (np. łowienia).
