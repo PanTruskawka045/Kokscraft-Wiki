@@ -1,7 +1,7 @@
 # Modyfikacje
 
 > [!NOTE]
-> Ostatnia aktualizacja: 13.05.2026.
+> Ostatnia aktualizacja: 24.05.2026.
 
 > [!WARNING]
 > Poniższe wszystkie informacje nie dotyczą trybu RUST.
@@ -45,19 +45,20 @@
 Pomocna lista [red/]niedozwolonych[/red] modyfikacji, po nazwie:
 - Accurate Block Placement
 - Auto Totem
+- Debugify
 - Inventory Move
 - Elytra Swapper
-- Freecam
-- Playerautoma
 - Fabric Hider
+- Freecam
+- Inventory Hud+`*`
 - Skin Toggle
 - No Hit Delay / Hit Delay Fix
 - No Jump Delay
 - No Break Delay / No Mining Cooldown
+- Playerautoma
 - ViaForge
 - ViaFabric
 - XRay
-- Inventory Hud+`*`
 
 `*` - Nie dotyczy trybów: skygen/skybox/boxpvp/kokssmp/sv+działki.
 
