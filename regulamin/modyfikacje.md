@@ -45,16 +45,16 @@
 Pomocna lista [red/]niedozwolonych[/red] modyfikacji, po nazwie:
 - Accurate Block Placement
 - Auto Totem
-- Debugify
-- Inventory Move
+- Debugify (MC-199467, od 1.18.2 do 1.21.10)
 - Elytra Swapper
 - Fabric Hider
 - Freecam
 - Inventory Hud+`*`
-- Skin Toggle
+- Inventory Move
 - No Hit Delay / Hit Delay Fix
 - No Jump Delay
 - No Break Delay / No Mining Cooldown
+- Skin Toggle
 - Playerautoma
 - ViaForge
 - ViaFabric
