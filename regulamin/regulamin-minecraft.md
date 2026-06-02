@@ -1,7 +1,7 @@
 # Regulamin Minecraft
 
 > [!NOTE]
-> Ostatnia aktualizacja: 7.05.2026.
+> Ostatnia aktualizacja: 2.06.2026.
 
 > [!WARNING]
 > Regulamin nie obowiązuje na trybie RUST.
@@ -75,6 +75,7 @@
 **5.5 -** Zabrania się teamowania z graczami będących w innej drużynie.
 **5.6 -** Zabrania się używania jakichkolwiek wspomagaczy klikania, makr (nawet wbudowanych w myszkę) czy innych programów zewnętrznych (wyjątek: tryb UHC).
 **5.7 -** Nabijanie statystyk/xpa lub rubinów na afk, lub przy pomocy multikont skutkuje całkowitym resetem konta.
+**5.8 -** Backupy nie są nadawane niezależnie od sytuacji.
 
 ## 6. Zasady czatu tekstowego i rozgrywki - tryby survival
 
