@@ -9,6 +9,11 @@ Poziom globalny pokazany jest na chacie (w miejscu zaznaczonym czerwonym prostok
 Jego kolor jest zależyny od aktualnego poziomu.
 
 ![Poziom kolor](/assets/levels/kolory.png)
+![Poziom kolor](/assets/levels/kolorylvl.png)
+
+Od wersji 1.19+ kolory wyglądają tak:
+
+![Poziom kolor](/assets/levels/kolory-nowe.png)
 
 ## Kolory oraz nazwy odznak (poziomy trybowe)
 
