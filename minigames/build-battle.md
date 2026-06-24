@@ -11,11 +11,11 @@ Build Battle to minigra, która polega na budowaniu wybranego tematu przez gracz
 
 ## Wybór Tematu
 
- Graczowi wyskakuje gui, z tematami zawsze jest ich 5, każdy temat jest inny, żeby wybrać temat, trzeba kliknąć książkę.
+ Graczowi wyskakuje gui, z tematami zawsze jest ich 5, każdy temat jest inny, żeby wybrać temat, trzeba kliknąć tabliczkę.
 
 ![Wybór Tematu](/assets/buildbattle/build-battle-wybierz-temat.png)
 
- Gdy temat zostanie wybrany puste wiaderko zmienia się na wiaderko z wodą.
+ Gdy temat zostanie wybrany czerwone szkiełko zmienia się na zielone.
 
 ![Wybór Tematu 2](/assets/buildbattle/build-battle-wybierz-temat-2.png)
 
@@ -30,61 +30,65 @@ Temat i czas są wyświetlane na scoreboardzie.
 
 ![Scoreboard](/assets/buildbattle/build-battle-temat-i-czas.png)
 
-Czas na Budowle Gra Solo - 5 minut
+Czas na Budowle Gra Solo - 6 minut
 
 Czas na Budowle Gra Duo - 8 minut
 
 ## Wymiary Działki
-Gra solo - 31x31x30
+Gra solo - 31x31x42
 
-Gra duo - 43x43x30
+Gra duo - 44x44x42
 
 
 ## Opcje działki
 W opcjach działki możesz:
-- Zmienić pogodę
 - Zmienić podłogę
-- Postawic NPC
-- Dodać kolorowe głowki
-- Zmienić czas na arenie
-- Zmienic biom
+- Zmienić skin pomieszczenia
+- Wybrać biom 
+- Zmienić czas i pogodę 
+- Ustawić domyślne bloki, które pojawiają się na start gry na pasku ekwipunku
+- Dodać cząsteczki 
 
 ![Opcje dzialki](/assets/buildbattle/build-battle-opcje-dzialki.png)
 
 ## Pogoda
 Istnieją 3 rodzaje pogody
-- Słoneczna
+- Ładna
 - Deszczowa
 - Burzowa
 
-![Pogoda](/assets/buildbattle/build-battle-pogoda.png)
+## Godzina 
+Do wyboru są 4 rodzaje czasu 
+- Rano
+- Południe
+- Wieczór
+- Noc
+
+![Pogoda](/assets/buildbattle/build-battle-pogoda.gif)
 
 ## Podłoga
-Możliwośc dodania 5 wariantów podłogi z wybranych przez gracza bloków. Bloki dodaje się w cegle, a środkowy kamień ustawia podłogę
+Istnieje możliwość zmiany podłogi poprzez przeciągnięcie wybranego bloku na białą terakotę.
 
-![Podłoga](/assets/buildbattle/build-battle-podloga.png)
+![Podłoga](/assets/buildbattle/build-battle-podloga.gif)
 
 ## NPC
-Gracz dostaje jajko wybranego NPC do ekwipunku.
+Gracz może przywołać moby za pomocą jajek spawnujących, w tym villagerów, zwierzęta itp.
 
-Interakcje z NPC: możemy je ożywic, zmienić ich wzrost, a niektóre możemy posadzić (kot, wilk) oraz zmienić ich kolor umaszczenia (kot, koń, wilk oraz villager)
+Interakcje z NPC: możemy je ożywic, zmienić ich wzrost, a niektóre możemy posadzić (kot, wilk)
 
 ## Biomy
-- Łąka
-- Las
-- Pustynia
-- Ocean
 - Dżungla
-- Bagna
-- Nether
 - Tajga
-- Plaża
-- Zarośniety las
-- Sawanna
-- Messa
-- Kwiecist las
+- Pustynia 
+- Mroczny dębowy las
+- Blady ogród 
+- Śnieżne równiny
+- Ciepły ocean
+- Bagno
+- Las
+- Netherowe pustkowia 
 
-![Biomy](/assets/buildbattle/build-battle-biomy.png)
+![Biomy](/assets/buildbattle/build-battle-biomy.gif)
 
 ## Faza Oceniania
 Faza Oceniania, ostatnie momenty rozgrywki polegają na ocenianiu budowli wybudowanych przez graczy. 
@@ -103,18 +107,27 @@ Dobre (Zielona Glina)
 
 Kozak (Fioletowa Glina)
 
-KOOKS! (Żółta Glina)
+KOOOKS! (Żółta Glina)
 
 ![Ocenianie](/assets/buildbattle/build-battle-ocena.png)
 
 ## KOKS Budowla
 
-Dzieje się tak gdy przynajmniej 5-ciu graczy zagłosuje oceną "KOKS"
+Dzieje się tak gdy przynajmniej 60% graczy zagłosuje oceną "KOKS"
 
 ![KOKS Budowla](/assets/buildbattle/build-battle-KOKS-budowla.png)
 
+## SUPER GŁOS
+
+Super głos to możliwość wybrania przez siebie tematu niezależnie od głosowania innych graczy.
+Gracz ma 20% szans na zdobycie go po wygraniu gry.
+
+![Super Głos](/assets/buildbattle/super-vote.png)
+![Super Głos](/assets/buildbattle/super-vote2.png)
+
 ## Czerwona Pochodnia (Zgłoszenie!)
-Każdy gracz otrzymuje do ekwipunku czerwoną pochodnię, która służy do zgłaszania nieodpowiednich budowli innych graczy. Wystarczy na nią kliknąć, aby zgłoszenie budowli trafiło do weryfikacji przez administrację. Jeśli budowla zostanie uznana za nieodpowiednią, gracz zostanie ukarany!
+> [!NOTE]
+> Każdy gracz otrzymuje do ekwipunku czerwoną pochodnię, która służy do zgłaszania nieodpowiednich budowli innych graczy. Wystarczy na nią kliknąć, aby zgłoszenie budowli trafiło do weryfikacji przez administrację. Jeśli budowla zostanie uznana za nieodpowiednią, gracz zostanie ukarany!
 
 ![Pochodnia](/assets/buildbattle/pochodnia.png)
 
@@ -128,35 +141,37 @@ Po całym ocenianiu, na czacie pokazują się osoby na podium, które zajęły p
 
 ### Build Battle
 
- Wygrana - 20
+ Pierwsze miejsce - 15pkt
 
- Oddanie głosu - 1
+ Drugie miejsce - 9pkt
 
- KOKS Budowla - 5
+ Trzecie miejsce - 6pkt 
 
-### Kalambury
-
-Wygrana - 10
-
-Zgadnięcie tematu - 2
-
-### Speed Builders
-
-Wygrana - 10
-
-Perfect Match - 1 
+ KOKS Budowla - 9pkt
 
 ## Poziomy Build Games
 
 | **Nazwa**                                         |  **Poziom**  | **Punkty**   |
 |---------------------------------------------------|--------------|--------------|
-| ![Speed Builders](/assets/buildbattle/ranga0.png) | 0-19         | 500          |
-| ![Speed Builders](/assets/buildbattle/ranga1.png) | 20-39        | 600          |
-| ![Speed Builders](/assets/buildbattle/ranga2.png) | 40-59        | 650          |
-| ![Speed Builders](/assets/buildbattle/ranga3.png) | 60-79        | 700          |
-| ![Speed Builders](/assets/buildbattle/ranga4.png) | 80-99        | 750          |
-| ![Speed Builders](/assets/buildbattle/ranga5.png) | 100-119      | 800          |
-| ![Speed Builders](/assets/buildbattle/ranga6.png) | 120-139      | 850          |
-| ![Speed Builders](/assets/buildbattle/ranga7.png) | 140-159      | 900          |
-| ![Speed Builders](/assets/buildbattle/ranga8.png) | 160-179      | 950          |
-| ![Speed Builders](/assets/buildbattle/ranga9.png) | 180+         | 1000         |
+| ![Speed Builders](/assets/buildbattle/ranga0.png) | 1-9          | 100          |
+| ![Speed Builders](/assets/buildbattle/ranga1.png) | 10-19        | 200          |
+| ![Speed Builders](/assets/buildbattle/ranga2.png) | 20-29        | 300          |
+| ![Speed Builders](/assets/buildbattle/ranga3.png) | 30-39        | 400          |
+| ![Speed Builders](/assets/buildbattle/ranga4.png) | 40-49        | 500          |
+| ![Speed Builders](/assets/buildbattle/ranga5.png) | 50-59        | 600          |
+| ![Speed Builders](/assets/buildbattle/ranga6.png) | 60-69        | 700          |
+| ![Speed Builders](/assets/buildbattle/ranga7.png) | 70-79        | 800          |
+| ![Speed Builders](/assets/buildbattle/ranga8.png) | 80-89        | 900          |
+| ![Speed Builders](/assets/buildbattle/ranga9.png) | 90-99        | 1000         |
+| ![Speed Builders](/assets/buildbattle/ranga10.png)| 100-149      | 1250         |
+| ![Speed Builders](/assets/buildbattle/ranga11.png)| 150-199      | 1500         |
+| ![Speed Builders](/assets/buildbattle/ranga12.png)| 200-249      | 1750         |
+| ![Speed Builders](/assets/buildbattle/ranga13.png)| 250-299      | 2000         |
+| ![Speed Builders](/assets/buildbattle/ranga14.png)| 300-399      | 2500         |
+| ![Speed Builders](/assets/buildbattle/ranga15.png)| 400-499      | 3000         |
+| ![Speed Builders](/assets/buildbattle/ranga16.png)| 500-599      | 3500         |
+| ![Speed Builders](/assets/buildbattle/ranga17.png)| 600-699      | 4000         |
+| ![Speed Builders](/assets/buildbattle/ranga18.png)| 700-799      | 4500         |
+| ![Speed Builders](/assets/buildbattle/ranga19.png)| 800-899      | 5000         |
+| ![Speed Builders](/assets/buildbattle/ranga20.png)| 900-999      | 5500         |
+| ![Speed Builders](/assets/buildbattle/ranga21.png)| 1000+        | 6000         |
