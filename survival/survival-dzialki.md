@@ -1,13 +1,10 @@
-# Survival + Działki 1.21.8
+# Survival + Działki
 
 Survival + Działki to unikalne połączenie klasycznej rozgrywki z systemem własnych terenów na najnowszej wersji gry.
-Tryb ten oferuje wersję [badge:1.21.8:yellow], zapewniając dostęp do najnowszych bloków i mechanik. Gracze mogą rozwijać swoje
+Tryb ten oferuje wersję [badge:1.21.11:yellow], zapewniając dostęp do najnowszych bloków i mechanik. Gracze mogą rozwijać swoje
 działki, zdobywać bogactwo poprzez handel i piąć się w rankingach, tworząc potężne sojusze.
 
-- **Wersja gry:** [badge:1.21.8:yellow]
-- **Data startu 6 edycji:** 14 listopada 2025
-
-![Jak zacząć](/assets/survival-dzialki/jak-zaczac.png)
+![spawndzialki.png](/assets/survival-dzialki/spawndzialki.png)
 
 ## Jak zacząć?
 
@@ -33,9 +30,9 @@ Granice światów (bordery) są zwiększane co jakiś czas wraz z rozwojem edycj
 
 | **ŚWIAT** |  **BORDER**   |
 |:---------:|:-------------:|
-| OVERWORLD | 45000 x 45000 |
-|  NETHER   |  6000 x 6000  |
-|    END    |  7000 x 7000  |
+| OVERWORLD | 15000 x 15000 |
+|  NETHER   |  2000 x 2000  |
+|    END    |  4000 x 4000  |
 
 ## Działka i zarządzanie nią
 
@@ -86,6 +83,9 @@ Panel pozwala na szczegółowe zarządzanie twoim terenem:
 - `/rangi` - wyświetla GUI z opisem rang premium.
 - `/prestiz` - wyświetla GUI systemu prestiżu.
 - `/kosz` - bezpieczne usuwanie niepotrzebnych przedmiotów.
+- `/kokscoiny` - sklep za kokscoiny.
+- `/recipes` lub `/craftingi` - wyświetla GUI z castomowymi craftingami.
+- `/zlecenia` - możliwość wystawienia zlecenia na dane przedmioty.
 
 ## Handel i Ekonomia
 
@@ -94,9 +94,31 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 
 > [!WARNING]
 > Na serwerze obowiązuje podatek [red/]5%[/red]!
-> [orange/]Podatek obejmuje płatności poprzez /pay oraz czeki![/orange]
+> [orange/]Podatek obejmuje płatności poprzez /pay![/orange]
 
-![Czek](/assets/survival-dzialki/czek.png)
+## PokeBalle
+
+Na naszym serwerze masz do wyboru trzy rodzaje PokeBalli do łapania mobów.
+
+1. PokeBall - ma 30% szans na złapanie moba. Możesz go zdobyć z kitu KOKS lub go scraftować (crafting znajdziesz pod `/craftingi`).
+
+![pokeball.png](/assets/survival-dzialki/pokeball.png)
+
+2. GreatBall - ma 65% szans na złapanie moba. Możesz go zdobyć, otwierając skrzynie KOKS.
+
+![greatball.png](/assets/survival-dzialki/greatball.png)
+
+3. UltraBall - ma 100% szans na złapanie moba. Możesz go zdobyć, otwierając skrzynie szczęśliwe.
+
+![ultraball.png](/assets/survival-dzialki/ultraball.png)
+
+## CoinFlip
+
+CoinFlip działa na prostych zasadach - możesz rzucić monetą z innym graczem i zaryzykować określoną ilość waluty. Wszystko zależy od szczęścia: wygrywający zgarnia całą pulę.
+GUI otworzysz komendą `/coinflip`.
+
+> [!NOTE]
+> Aby móc korzystać z coinflipa, musisz posiadać 10 level prac.
 
 ### Komendy ekonomiczne
 
@@ -104,7 +126,6 @@ sposobów: wewnętrzny sklep, market, wymiany bezpośrednie oraz przelewanie wal
 - `/market wystaw <cena>` - wystaw przedmiot na rynek za określoną cenę na 24h.
 - `/market dostawy` - schowek kupionych, wylicytowanych oraz wygaśniętych ofert.
 - `/wymiana <nick>` - bezpieczna wymiana "coś za coś" (zapobiega oszustwom).
-- `/czek <kwota>` - tworzy fizyczny czek pieniężny.
 - `/aukcja wystaw <kwota>` - tworzy licytację na czacie (szybka sprzedaż).
 - `/aukcja licytuj <kwota>` - podbija cenę licytowanego przedmiotu.
 
@@ -126,7 +147,7 @@ uprawnienia.
 - `/slub list` - wyświetla listę aktywnych małżeństw.
 
 > [!IMPORTANT]
-> Po wzięciu rozwodu musisz odczekać **24h** zanim ponownie weźmiesz ślub!
+> Po wzięciu rozwodu musisz odczekać **24h**, zanim ponownie weźmiesz ślub!
 
 ![Rozwód](/assets/survival-dzialki/slub_rozwod.png)
 
@@ -163,31 +184,73 @@ Każda ranga posiada unikalne przywileje (sprawdź pod `/rangi`) oraz zestawy pr
 
 ### Zestawy (Kity)
 
-|                      |                        ZESTAWY                         |
-|----------------------|:------------------------------------------------------:|
-| [badge:GRACZ:gray]   | ![Kit Player](/assets/survival-dzialki/kit-player.png) |
-| [badge:VIP:green]    |  ![Kit Player](/assets/survival-dzialki/kit-vip.png)   |
-| [badge:SVIP:indigo]  |  ![Kit Player](/assets/survival-dzialki/kit-svip.png)  |
-| [badge:MVIP:emerald] |  ![Kit Player](/assets/survival-dzialki/kit-mvip.png)  |
-| [badge:KOKS:primary] |  ![Kit Player](/assets/survival-dzialki/kit-koks.png)  |
-
+|                      |                       ZESTAWY                        |
+|----------------------|:----------------------------------------------------:|
+| [badge:GRACZ:gray]   | ![Kit Player](/assets/survival-dzialki/kit-gracz.png)  |
+| [badge:VIP:green]    | ![Kit Player](/assets/survival-dzialki/kit-vip.png)  |
+| [badge:SVIP:indigo]  | ![Kit Player](/assets/survival-dzialki/kit-svip.png) |
+| [badge:MVIP:emerald] | ![Kit Player](/assets/survival-dzialki/kit-mvip.png) |
+| [badge:KOKS:primary] | ![Kit Player](/assets/survival-dzialki/kit-koks.png) |
 
 ### Skrzynie (Crates)
 
 W sklepie dostępne są klucze do specjalnych skrzyń:
 
-|                         CO DROPIĄ?                          |
-|:-----------------------------------------------------------:|
-|   **[lime/]MAGICZNA SKRZYNIA[/lime]** - dostępna od 15.11   |
-|   **[yellow/]KOKS SKRZYNIA[/yellow]** - dostępna od 15.11   |
-| **[amber/]SZCZĘŚLIWA SKRZYNIA[/amber]** - dostępna od 15.11 |
-|   **[red/]SKRZYNIA SPAWNERÓW[/red]** - dostępna od 15.11    |
+|               CO DROPIĄ?                |
+|:---------------------------------------:|
+|  **[lime/]MAGICZNA SKRZYNIA[/lime]**    |
+|   **[yellow/]KOKS SKRZYNIA[/yellow]**   |
+| **[amber/]SZCZĘŚLIWA SKRZYNIA[/amber]** |
+
+## Talizmany
+
+Na Działkach jest 6 różnych talizmanów do trzeciego poziomu, które pomogą Tobie podczas gry. Jeśli chcesz otworzyć menu talizmanów, aby założyć zakupione talizmany, wpisz komendę /talizmany. 
+
+NPC'ta znajdziesz po lewej stronie od spawna.
+
+|        **RODZAJ**        |                   **CENA**                    |
+|:------------------------:|:---------------------------------------------:|
+|   Talizman szybkości 1   |          500 Orbów + 50.000 Dolarów           |
+|   Talizman szybkości 2   |   100.000 Dolarów + Talizman szybkości 1 x2   |
+|   Talizman szybkości 3   |     1.000 Orbów + Talizman szybkości 2 x2     |
+|    Taliznman skoku 1     |          300 Orbów + 50.000 Dolarów           |
+|    Taliznman skoku 2     |     100.000 Dolarów + Talizman skoku 1 x2     |
+|    Taliznman skoku 3     |       1.500 Orbów + Talizman skoku 2 x2       |
+|   Talizman pośpiechu 1   |         1.000 Orbów + 100.000 Dolarów         |
+|   Talizman pośpiechu 2   |   250.000 Dolarów + Talizman pośpiechu 1 x3   |
+|   Talizman pośpiechu 3   |     5.000 Orbów + Talizman pośpiechu 2 x3     |
+| Talizman doświadczenia 1 |          400 Orbów + 50.000 Dolarów           |
+| Talizman doświadczenia 2 | 100.000 Dolarów + Talizman doświadczenia 1 x2 |
+| Talizman doświadczenia 3 |   1.500 Orbów + Talizman doświadczenia 2 x2   |
+|     Talizman życia 1     |          750 Orbów + 100.000 Dolarów          |
+|     Talizman życia 2     |     250.000 Dolarów + Talizman życia 1 x3     |
+|     Talizman życia 3     |       5.000 Orbów + Talizman życia 2 x3       |
+|     Talizman siły 1      |          500 Orbów + 50.000 Dolarów           |
+|     Talizman siły 2      |     200.000 Dolarów + Talizman siły 1 x2      |
+|     Talizman siły 3      |       3.000 Orbów + Talizman siły 2 x2        |
+
+![talizmany.png](/assets/survival-dzialki/talizmany.png)
+
+## Plecaki
+
+Dostępne są trzy rodzaje plecaków, które są alternatywą dla shulkerów, które możesz kupić u NPC.
+
+|           **RODZAJ**            |           **CENA**            |
+|:-------------------------------:|:-----------------------------:|
+| Plecak 1 (limit 9 przedmiotów)  | 50 Orbów oraz 10.000 Dolarów  |
+| Plecak 2 (limit 18 przedmiotów) | 100 Orbów oraz 25.000 Dolarów |
+| Plecak 3 (limit 27 przedmiotów) | 200 Orbów oraz 50.000 Dolarów |
+
+![plecaki.png](/assets/survival-dzialki/plecaki.png)
 
 ## Topki
 
 Na serwerze panuje zacięta rywalizacja! Najlepsi gracze otrzymują nagrody na starcie nowej edycji. Możecie rywalizować w
 wielu kategoriach.
 [MINECRAFT:&eTo co? Umówieni na wspólne wbijanie topek?]
+
+> [!NOTE]
+> Topki możesz sprawdzić, wpisując komendę /topki.
 
 ## Eventy
 
@@ -196,6 +259,10 @@ Aby zapewnić rozrywkę i rywalizację, **co 2 godziny** uruchamiają się autom
 * **Warunek startu:** Minimum **30 graczy** na serwerze.
 * **Nagrody:** Pierwsze trzy osoby otrzymują cenne upominki.
 
+## Głosowanie 
+
+Gdy zacznie padać np. deszcz, na czacie pojawi się powiadomienie. Po jego kliknięciu będziesz mógł zagłosować za wyłączeniem go.
+
 ## Spawn
 
 Spawn to serce serwera, gdzie zaczynasz swoją przygodę. Znajdziesz tu wszystkie niezbędne elementy:
@@ -203,9 +270,14 @@ Spawn to serce serwera, gdzie zaczynasz swoją przygodę. Znajdziesz tu wszystki
 * Losowy teleport (RTP).
 * Informacje o borderach map.
 * Portal do Endu.
-* Tablice z Topkami najlepszych graczy.
 * Strefe AFK.
 
 > [!CAUTION]
 > Spawn jest bezpieczną strefą (Non-PvP), ale tuż za linią PVP gracze mogą ze sobą walczyć! Uważaj, gdzie stawiasz
 > kroki.
+
+## Arena PVP 
+
+Arena PVP to miejsce, w którym możesz walczyć z innymi graczami, nie tracąc swoich przedmiotów. Znajduje się ona na wprost od miejsca spawnu, za czerwoną linią.
+
+![arenapvp.png](/assets/survival-dzialki/arenapvp.png)

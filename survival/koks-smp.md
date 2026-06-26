@@ -1,22 +1,14 @@
 # KOKS SMP
 
-KOKS SMP jest to tryb PvP w otwartym świecie Minecraft, który nie jest ograniczony barierą. Na tym trybie szybko się 
-nie znudzisz. Gra jest urozmaicona różnymi mechanikami. Zabijaj graczy, aby zdobywać serca, główki i ranking. 
-
-Regulamin jest taki sam jak na pozostałych trybach survival.
-
-Aby wejść na tryb KOKS SMP musisz użyć wersji **1.17+**.
+KOKS SMP [badge:21.8:yellow] jest to tryb PvP w otwartym świecie Minecraft, który nie jest ograniczony barierą. Gra jest urozmaicona różnymi mechanikami. Zabijaj graczy, aby zdobywać serca, główki i ranking.
 
 ![KOKS-SMP](/assets/koks-smp/KOKS-SMP.png)
 
 ## Rozgrywka
 
-Po wejściu na tryb pojawiasz się w losowym miejscu na mapie. Najlepiej zacząć od zebrania podstawowych przedmiotów. 
-Możesz sobie to ułatwić z pomocą komendy **/kit** i odebrać zestaw gracza. Podczas swojej podróży uważaj na graczy. 
-Będą chcieli ukraść jedno z twoich serc. Ulepszaj swój ekwipunek i rozwijaj swoją kryjówkę. Gdy poczujesz się na siłach, 
-zapoluj na gracza w celu uzyskania dodatkowego serca i zdobycia jego głowy!
-Jeśli znudzi Ci się odkrywanie świata bądź chcesz zdobyć lepsze wyposażenie, aby zawładnąć topką, udaj się na spawn za 
-pomocą komendy **/spawn**. 
+Po wejściu na tryb pojawiasz się losowo na mapie. Na start zbierz podstawowe rzeczy lub użyj **/kit**. 
+
+Uważaj na innych graczy, bo mogą ukraść twoje serce. Rozwijaj ekwipunek i kryjówkę, a gdy będziesz gotowy, poluj na innych, żeby zdobyć ich serca i głowy. Jeśli chcesz ulepszać swój ekwipunek lub przerwę od eksploracji, użyj **/spawn**.
 
 ## Spawn
 ![Spawn](/assets/koks-smp/spawn.png)
