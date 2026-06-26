@@ -64,4 +64,4 @@ Perfect Match - 3pkt
 
 ## Poziomy Build Games
 
-Informacje o poziomach build games są dostępne [tutaj](article/minigames/build-battle#poziomy-build-games)!
+Informacje o poziomach build games są dostępne [tutaj](/article/minigames/build-battle#poziomy-build-games)!

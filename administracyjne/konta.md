@@ -77,7 +77,7 @@ Musisz grać na Oficjalnym Launcherze Minecraft do momentu, aż nie zacznie dzia
 
 - **Mniejszy niż 20 poziom globalny**
 - **Ostatnie logowanie więcej niż 31 dni temu**
-- **Brak aktywnej [rangi PREMIUM](article/ogolne/rangi#rangi-kupne)**
+- **Brak aktywnej [rangi PREMIUM](/article/ogolne/rangi#rangi-kupne)**
 - **Brak zakupów na serwerze na podany nick**
 - **Nick zgodny z regulaminem**
 
